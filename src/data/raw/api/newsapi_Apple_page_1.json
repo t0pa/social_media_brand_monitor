@@ -1,111 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 35228,
+  "totalResults": 35220,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Everyeye.it"
-      },
-      "author": "Salvo Privitera",
-      "title": "Hubble immortala una cometa che si disintegra: un evento rarissimo",
-      "description": "Osservata mentre si spezzava in più frammenti: una scoperta nata per puro caso che ha stupito gli scienziati di tutto il mondo!A volte, le scoperte più straordinarie arrivano quando meno te lo aspetti. È esattamente ciò che è accaduto a un gruppo di astronomi…",
-      "url": "https://tech.everyeye.it/notizie/hubble-immortala-cometa-disintegra-evento-rarissimo-867180.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/hubble-immortala-cometa-disintegra-evento-rarissimo-v3-867180.jpg",
-      "publishedAt": "2026-03-24T11:37:00Z",
-      "content": "A volte, le scoperte più straordinarie arrivano quando meno te lo aspetti. È esattamente ciò che è accaduto a un gruppo di astronomi che, puntando il telescopio spaziale Hubble verso una cometa, si s… [+1565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Darryl Linington",
-      "title": "Apple says older iPhones need to be updated to stay protected",
-      "description": "Apple says malicious web content has been used against out-of-date iPhones, and users on older iOS versions should install recent updates to stay protected.",
-      "url": "https://www.notebookcheck.net/Apple-says-older-iPhones-need-to-be-updated-to-stay-protected.1257693.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple-warning.jpg",
-      "publishedAt": "2026-03-24T11:36:00Z",
-      "content": "Apple has revealed that web-based attacks have targeted out-of-date versions of iOS through malicious web content. The company says users running the latest updated versions of iOS 15 through iOS 26 … [+2034 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Unwire.hk"
-      },
-      "author": "Vincent Ng",
-      "title": "教學：唔怕遺失 iPhone 外洩資料 十次密碼錯誤自動洗機 內文講清詳細運作",
-      "description": "大家有沒有試過在街頭不小心遺下 iPhone，或是下車後才發現手機失蹤？那一刻除了心痛失去昂貴電話，更令人擔憂是裡面的私人相片、對話紀錄，甚至是 PayMe、八達通等電子錢包財產。當手機落在陌生人手中，私隱外洩往往是使用者最深層恐懼。",
-      "url": "https://unwire.hk/2026/03/24/iphone-10-failed-passcode-attempts-explained/mobile-phone/",
-      "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2026/03/unwire-1774343832-scaled.jpg",
-      "publishedAt": "2026-03-24T11:35:45Z",
-      "content": "iPhone PayMe\r\niPhone \r\nFace ID 10 \r\n10 \r\n10 \r\n iOS 10 \r\n8 \r\nApple ID \r\n Apple ID Apple ID Apple Email 2FA 6 \r\niCloud \r\n iCloud \r\niPhone Secure Enclave iPhone 10 Secure Enclave Crypto-shredding Apple … [+51 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DIE WELT"
-      },
-      "author": "Anja Ettel,Michael Höfling",
-      "title": "„Wir beobachten ein Bargeld-Paradoxon“",
-      "description": "In unsicheren Zeiten richtet sich der Blick auf die Notenbanken: Im Interview spricht Bundesbank-Vorstand Balz über das „Kernprodukt“ Bargeld und seinen „digitalen Zwilling“. Balz ist sich sicher: „Der digitale Euro wird kommen.“",
-      "url": "https://www.welt.de/finanzen/article69bead29e2b1286a2c52512f/wir-beobachten-ein-bargeld-paradoxon-sagt-bundesbank-vorstand-burkhard-balz.html",
-      "urlToImage": "https://images.welt.de/69bead29e2b1286a2c52512f/bd98c84c617b127134996a8e3ffc217b/ci16x9-w1200/dpa-com-20090101-251222-935-1035683-jpg",
-      "publishedAt": "2026-03-24T11:35:19Z",
-      "content": "In unsicheren Zeiten richtet sich der Blick auf die Notenbanken: Im Interview spricht Bundesbank-Vorstand Balz über das Kernprodukt Bargeld und seinen digitalen Zwilling. Balz ist sich sicher: Der di… [+8421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "author": "Justin Kahn",
-      "title": "Selling out quick: 15-inch 16GB M4 MacBook Air down at $949 in early Amazon spring sale ($300+ under least pricey M5)",
-      "description": "Amazon’s M4 MacBook Air clearance deals roll on but the options are getting tight and several colors have already sold out. One of the more notable of the bunch is the least expensive 15-inch model that landed in its early Big Spring Sale down at $949, or $25…",
-      "url": "http://9to5toys.com/2026/03/24/15-inch-16gb-m4-macbook-air-early-amazon-spring-sale/",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/06/M4-MacBook-Air-16GB.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-03-24T11:35:08Z",
-      "content": "Amazons M4 MacBook Air clearance deals roll on but the options are getting tight and several colors have already sold out. One of the more notable of the bunch is the least expensive 15-inch model th… [+1301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Donanimhaber.com"
-      },
-      "author": "",
-      "title": "Apple Haritalar'da reklam dönemi: İlk tarih paylaşıldı",
-      "description": "Apple'ın reklamlı Haritalar uygulaması planı netlemeye başladı. Yeni raporlara göre, duyuru tarihi yaklaşırken, reklamların yaz aylarında kullanıcılara sunulacağı ortay çıktı.",
-      "url": "https://www.donanimhaber.com/apple-haritalar-da-reklam-donemi-ilk-tarih-paylasildi--203562",
-      "urlToImage": "https://www.donanimhaber.com/images/images/haber/203562/src_340x1912xapple-haritalar-da-reklam-donemi-ilk-tarih-paylasildi.jpg",
-      "publishedAt": "2026-03-24T11:35:00Z",
-      "content": "a').click(); event.preventDefault();\"&gt;Tam Boyutta GörApple'n uzun süredir gündemde olan Haritalar uygulamasna reklam ekleme plan, artk daha somut bir aamaya geçmeye balad. Daha önce ortaya çkan id… [+1489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Everyeye.it"
-      },
-      "author": "Alessio Marino",
-      "title": "Passo indietro di Samsung per Galaxy S27 Ultra: cosa dicono gli ultimi rumor",
-      "description": "Secondo rumor, Galaxy S27 Ultra manterrà la S-Pen tradizionale e potrebbe avere un sensore da 200 MP, niente nuovo display più sottile.Il Galaxy S26 Ultra è da poco approdato sul mercato me nel frattempo sono emersi i primi rumor sul Galaxy S27 Ultra, lo smar…",
-      "url": "https://tech.everyeye.it/notizie/passo-samsung-galaxy-s27-ultra-cosa-dicono-rumor-867331.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/passo-samsung-galaxy-s27-ultra-cosa-dicono-rumor-v3-867331.jpg",
-      "publishedAt": "2026-03-24T11:35:00Z",
-      "content": "Il Galaxy S26 Ultra è da poco approdato sul mercato me nel frattempo sono emersi i primi rumor sul Galaxy S27 Ultra, lo smartphone top di gamma 2027 che Samsung dovrebbe lanciare il prossimo anno sul… [+1491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Journal du geek"
-      },
-      "author": "Julie Hay",
-      "title": "Pourquoi ce petit bouton sur votre télécommande agace Canal+, Warner Bros et TF1 ?",
-      "description": "Derrière les recommandations de votre téléviseur, une bataille discrète se joue. TF1, Canal+ ou encore Warner Bros accusent les géants de la tech d’influencer ce que vous regardez — et demandent à Bruxelles de reprendre la main.",
-      "url": "https://www.journaldugeek.com/2026/03/24/pourquoi-ce-petit-bouton-sur-votre-telecommande-agace-canal-warner-bros-et-tf1/",
-      "urlToImage": "https://www.journaldugeek.com/app/uploads/2026/03/telecommande-union-europeenne--1600x900.jpg",
-      "publishedAt": "2026-03-24T11:34:39Z",
-      "content": "TF1, Canal+, Paramount et Warner Bros ne voient pas les Smart TV et les assistants vocaux d’un très bon il. Selon Reuters, l’Association des services de télévision commerciale et de vidéo à la demand… [+3572 chars]"
-    },
     {
       "source": {
         "id": null,
@@ -261,6 +157,110 @@
       "urlToImage": "https://fotografias-2.larazon.es/assets/tecnologia-consumo/2025/04/app-midni-interfaz-principal.jpg?width=1200",
       "publishedAt": "2026-03-24T11:26:50Z",
       "content": "El momento que muchos españoles llevan esperando desde hace años, por fin está a punto de hacerse realidad. Tras varios años de desarrollo y fases de pruebas controladas, la Dirección General de la P… [+2619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Antoine Roche",
+      "title": "Actualité : Pour ses téléviseurs, Philips embrasse officiellement Titan OS et délaisse Google TV",
+      "description": "Avant d'acheter un téléviseur Philips en 2026, il va falloir faire attention à l'OS embarqué, car Titan OS sera désormais la norme à la place de Google TV.",
+      "url": "https://www.lesnumeriques.com/tv-televiseur/pour-ses-televiseurs-philips-embrasse-officiellement-titan-os-et-delaisse-google-tv-n253440.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/25/253440/f1ea8dd6-pour-ses-televisteurs-philips-embrasse-officiellement-titan-os-et-delaisse-google-tv__1200_678__214-148-1933-1050.jpg",
+      "publishedAt": "2026-03-24T11:26:00Z",
+      "content": "En bref<ul><li>Les TV Philips de 2026 embarqueront Titan OS à la place de Google TV.</li><li>Philips promet un système d'exploitation plus léger et fluide.</li><li>Des applications et des fonctionnal… [+2197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CHIP Online Deutschland"
+      },
+      "author": "Fabian von Thun",
+      "title": "Apple AirPods Pro 2 vs. Pro 3: Lohnt sich das Upgrade?",
+      "description": "Mit der dritten Generation der AirPods Pro verspricht Apple besseren Klang und mehr Qualität. Wir prüfen im Test, ob die In-Ears diese Erwartungen erfüllen und für wen sich der Umstieg tatsächlich lohnt.",
+      "url": "https://www.chip.de/test-kaufberatung/tv-audio/apple-airpods-pro-2-vs-pro-3-lohnt-sich-das-upgrade_5dac3973-5bac-4376-9c77-2c3ed656f0bf.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/df8082b3-6578-4256-a699-be966e197db5.2ef86d67-8617-47c7-a4fb-0a3d67ba523d.jpg?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(1390,782)&hash=8a5bfa3be9e73f2cb551c30e2ae8a83f7171714feef5ac71b910612f49152c86",
+      "publishedAt": "2026-03-24T11:25:00Z",
+      "content": "Hinweis: Einstufung als Preistipp oder nach Preisgrenzen basiert auf dem günstigsten Shop-Angebot in unserem Preisvergleich, der Preis im verlinkten Shop kann hiervon abweichen.\r\nApple hat im Septemb… [+6378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "MacBook Pro (16-inch, 2019)からMacBook Proのディスプレイに搭載されている角度センサーの値を表示してくれる「Lid Angle Sensor」アプリがデザインを刷新しメニューバー表示にも対応。",
+      "description": "MacBook Pro (16-inch, 2019)からMacBook Proの液晶に搭載されているディスプレイ角度センサーの値を表示してくれる「Lid Angle Sensor」アプリがデザインを刷新しメニューバー […]\nThe post MacBook Pro (16-inch, 2019)からMacBook Proのディスプレイに搭載されている角度センサーの値を表示してくれる「Lid Angle Sensor」アプリがデザインを刷新しメニューバー表示にも対応。 first appeared on AAP…",
+      "url": "https://applech2.com/archives/20260324-macbook-pro-lid-angle-sensor.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2026/03/Lid-Angle-Sensor-SwiftUI-update-Hero.webp",
+      "publishedAt": "2026-03-24T11:24:57Z",
+      "content": "MacBook Pro (16-inch, 2019)MacBook ProLid Angle Sensor\r\nApple2016MacBook ProLEDFlexgate2019MacBook Pro (16-inch, 2019)(Lid Angle)MacBook Pro\r\nMacBook Pro Late 2016Flexgate\r\nLid Angle SensorSwiftUI\r\nL… [+216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Giga"
+      },
+      "author": "Sven Kaulfuss",
+      "title": "iPhone Air überrascht: Neue Zahlen zeigen, warum Apple richtig lag",
+      "description": "Viele haben daran gezweifelt – doch neue Zahlen stellen Apples Entscheidung plötzlich in ein anderes Licht.",
+      "url": "https://www.giga.de/tech/iphone-air-ueberrascht-neue-zahlen-zeigen-warum-apple-richtig-lag--01KMFSBPPKP5SNE7P8V9S8KJZA",
+      "urlToImage": "https://static.giga.de/11/fe/e9/e6a5ae1827dab3a888c4189824_cmUgMTkyMCAxMDgwAzFlZTUxN2I4Yzgy.png",
+      "publishedAt": "2026-03-24T11:23:27Z",
+      "content": "Viele haben daran gezweifelt doch neue Zahlen stellen Apples Entscheidung plötzlich in ein anderes Licht.\r\nApple scheint mit dem iPhone Air doch noch einen Nerv getroffen zu haben: Laut einer Analyse… [+2317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Diariobitcoin.com"
+      },
+      "author": "Canuto",
+      "title": "OKX lanza trading 24/7 de acciones Mag Seven con colateral en criptomonedas",
+      "description": "OKX presentó una nueva oferta de contratos perpetuos sobre más de 20 acciones, incluidas las siete gigantes tecnológicas de Wall Street, permitiendo a usuarios de varias regiones operar las 24 horas con criptomonedas como colateral. El movimiento refuerza la …",
+      "url": "https://www.diariobitcoin.com/exchanges/okx-lanza-trading-24-7-de-acciones-mag-seven-con-colateral-en-criptomonedas/",
+      "urlToImage": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/03/canuto-imagine-1774351349.jpg",
+      "publishedAt": "2026-03-24T11:22:52Z",
+      "content": "Por Canuto   OKX presentó una nueva oferta de contratos perpetuos sobre más de 20 acciones, incluidas las siete gigantes tecnológicas de Wall Street, permitiendo a usuarios de varias regiones operar … [+9329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Appgefahren.de"
+      },
+      "author": "Mel",
+      "title": "iRacing startet auf Apple Vision Pro: Neue Maßstäbe für Sim-Racing-Immersion",
+      "description": "Ab dieser Woche unterstützt die Rennsimulation iRacing Apples Headset Vision Pro und will damit neue Maßstäbe für Immersion und Realitätsnähe im Sim-Racing setzen. Ermöglicht wird dies durch das kommende visionOS 26.4-Update, das unter anderem die „Foveated S…",
+      "url": "https://www.appgefahren.de/iracing-startet-auf-apple-vision-pro-neue-massstaebe-fuer-sim-racing-immersion-396731.html",
+      "urlToImage": "https://www.appgefahren.de/wp-content/uploads/2024/02/Apple-Vision-Pro-1.jpg",
+      "publishedAt": "2026-03-24T11:22:07Z",
+      "content": "Ab dieser Woche unterstützt die Rennsimulation iRacing Apples Headset Vision Pro und will damit neue Maßstäbe für Immersion und Realitätsnähe im Sim-Racing setzen. Ermöglicht wird dies durch das komm… [+2644 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Andrew Grush",
+      "title": "T-Mobile’s free MLB.TV returns today, but you have a short time to redeem this offer",
+      "description": "T-Mobile's free MLB promotion has returned, though you only have until the month's end to redeem the offer.",
+      "url": "https://www.androidauthority.com/t-mobile-mlb-tv-return-3650458/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/05/t-mobile-t-life-app-home-screen-scaled.jpg",
+      "publishedAt": "2026-03-24T11:21:30Z",
+      "content": "<ul><li>T-Mobile is giving away a free season of MLB.TV access for subscribers starting today, though youll only have until March 30 to claim it.</li><li>Youll be able to watch games from the MLB.TV … [+1371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Visions.de"
+      },
+      "author": "Julia Grasmik",
+      "title": "Nach Boykott: Musikkatalog von Failure wieder vollständig auf Spotify verfügbar",
+      "description": "Failure haben ihren Musikkatalog nach mehreren Jahren wieder vollständig auf Spotify verfügbar gemacht. Das Alternative-Rock-Trio hatte einen Teil seiner Diskografie 2022 aus Protest von dem Streamingdienst abgezogen.\nDer Beitrag Musikkatalog wieder auf Spoti…",
+      "url": "https://www.visions.de/news/failure-musikkatalog-rueckkehr-zu-spotify/",
+      "urlToImage": "https://www.visions.de/wp-content/uploads/Failure-2.5.20264116_LindseyByrnes_edit-2_final5-scaled-e1773999640720.jpg",
+      "publishedAt": "2026-03-24T11:18:20Z",
+      "content": "Im Februar 2022 kündigten Failure an, ihre Musik von Spotify zu entfernen und nannten dafür zwei wesentliche Gründe: die niedrige Streaming-Vergütung sowie Spotifys damalige Partnerschaft mit dem ums… [+2484 chars]"
     }
   ]
 }

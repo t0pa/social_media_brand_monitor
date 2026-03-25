@@ -83,3 +83,112 @@
 2026-03-25 11:15:29,687 INFO Object: pdf/document_1.pdf, Size: 4651 bytes
 2026-03-25 11:15:29,687 INFO Object: pdf/document_2_columns.pdf, Size: 2079 bytes
 2026-03-25 11:15:29,687 INFO Object: xml/sample.xml, Size: 485 bytes
+2026-03-25 12:30:18,053 INFO Pipeline started for brand: Apple
+2026-03-25 12:30:18,054 INFO Fetching data from API...
+2026-03-25 12:32:01,010 INFO Pipeline started for brand: Apple
+2026-03-25 12:32:01,010 INFO Fetching data from API...
+2026-03-25 12:32:02,851 INFO API data fetched and saved as JSON files.
+2026-03-25 12:32:02,852 INFO Starting parsing of all local files...
+2026-03-25 12:32:02,852 INFO Parsing JSON files from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\src\data\raw\api
+2026-03-25 12:32:02,875 INFO Saved 20 articles from newsapi_Apple_page_1.json
+2026-03-25 12:32:02,889 INFO Saved 20 articles from newsapi_Apple_page_2.json
+2026-03-25 12:32:02,903 INFO Saved 20 articles from newsapi_Apple_page_3.json
+2026-03-25 12:32:02,904 INFO All data parsed and saved to MongoDB.
+2026-03-25 12:32:02,907 INFO Starting upload of all raw data to S3...
+2026-03-25 12:32:05,305 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:32:05,305 INFO Started uploading api/newsapi_Apple_page_1.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:32:05,325 INFO Successfully uploaded api/newsapi_Apple_page_1.json to social-media-brand-monitor
+2026-03-25 12:32:07,382 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:32:07,382 INFO Started uploading api/newsapi_Apple_page_2.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:32:07,394 INFO Successfully uploaded api/newsapi_Apple_page_2.json to social-media-brand-monitor
+2026-03-25 12:32:09,468 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:32:09,468 INFO Started uploading api/newsapi_Apple_page_3.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:32:09,477 INFO Successfully uploaded api/newsapi_Apple_page_3.json to social-media-brand-monitor
+2026-03-25 12:32:09,478 INFO S3 upload complete.
+2026-03-25 12:32:09,479 INFO Pipeline finished successfully.
+2026-03-25 12:35:20,895 INFO Successfully connected to MongoDB.
+2026-03-25 12:36:33,051 INFO Pipeline started for brand: Apple
+2026-03-25 12:36:33,051 INFO Fetching data from API...
+2026-03-25 12:36:35,342 INFO API data fetched and saved as JSON files.
+2026-03-25 12:36:35,344 INFO Starting parsing of all local files...
+2026-03-25 12:36:35,345 INFO Parsing JSON files from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\src\data\raw\api
+2026-03-25 12:36:35,386 INFO Saved 20 articles from newsapi_Apple_page_1.json
+2026-03-25 12:36:35,399 INFO Saved 20 articles from newsapi_Apple_page_2.json
+2026-03-25 12:36:35,416 INFO Saved 20 articles from newsapi_Apple_page_3.json
+2026-03-25 12:36:35,417 INFO All data parsed and saved to MongoDB.
+2026-03-25 12:36:35,417 INFO Starting upload of all raw data to S3...
+2026-03-25 12:36:37,697 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:36:37,697 INFO Started uploading api/newsapi_Apple_page_1.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:36:37,720 INFO Successfully uploaded api/newsapi_Apple_page_1.json to social-media-brand-monitor
+2026-03-25 12:36:39,810 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:36:39,810 INFO Started uploading api/newsapi_Apple_page_2.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:36:39,819 INFO Successfully uploaded api/newsapi_Apple_page_2.json to social-media-brand-monitor
+2026-03-25 12:36:41,870 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:36:41,871 INFO Started uploading api/newsapi_Apple_page_3.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:36:41,881 INFO Successfully uploaded api/newsapi_Apple_page_3.json to social-media-brand-monitor
+2026-03-25 12:36:41,883 INFO S3 upload complete.
+2026-03-25 12:36:41,883 INFO Pipeline finished successfully.
+2026-03-25 12:36:50,816 INFO Successfully connected to MongoDB.
+2026-03-25 12:37:43,755 INFO Pipeline started for brand: Apple
+2026-03-25 12:37:43,755 INFO Fetching data from API...
+2026-03-25 12:37:45,272 INFO API data fetched and saved as JSON files.
+2026-03-25 12:37:45,273 INFO Starting parsing of all local files...
+2026-03-25 12:37:45,274 INFO Parsing JSON files from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\api
+2026-03-25 12:37:45,294 INFO Saved 20 articles from newsapi_Apple_page_1.json
+2026-03-25 12:37:45,309 INFO Saved 20 articles from newsapi_Apple_page_2.json
+2026-03-25 12:37:45,328 INFO Saved 20 articles from newsapi_Apple_page_3.json
+2026-03-25 12:37:45,328 INFO Parsing CSV file: sample.csv
+2026-03-25 12:37:45,332 INFO Saved 4 rows from sample.csv
+2026-03-25 12:37:45,333 INFO Parsing XML file: sample.xml
+2026-03-25 12:37:45,334 INFO Saved 3 elements from sample.xml
+2026-03-25 12:37:45,336 INFO Parsing PDF files from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\pdf
+2026-03-25 12:37:45,336 INFO Processing PDF: document_1.pdf
+2026-03-25 12:37:45,384 INFO Processing PDF: document_2_columns.pdf
+2026-03-25 12:37:45,625 INFO All data parsed and saved to MongoDB.
+2026-03-25 12:37:45,625 INFO Starting upload of all raw data to S3...
+2026-03-25 12:37:47,902 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:37:47,904 INFO Started uploading api/newsapi_Apple_page_1.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:37:47,914 INFO Successfully uploaded api/newsapi_Apple_page_1.json to social-media-brand-monitor
+2026-03-25 12:37:49,963 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:37:49,963 INFO Started uploading api/newsapi_Apple_page_2.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:37:49,973 INFO Successfully uploaded api/newsapi_Apple_page_2.json to social-media-brand-monitor
+2026-03-25 12:37:52,034 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:37:52,034 INFO Started uploading api/newsapi_Apple_page_3.json to S3 bucket social-media-brand-monitor
+2026-03-25 12:37:52,043 INFO Successfully uploaded api/newsapi_Apple_page_3.json to social-media-brand-monitor
+2026-03-25 12:37:54,122 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:37:54,122 INFO Started uploading csv/sample.csv to S3 bucket social-media-brand-monitor
+2026-03-25 12:37:54,131 INFO Successfully uploaded csv/sample.csv to social-media-brand-monitor
+2026-03-25 12:37:56,193 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:37:56,193 INFO Started uploading xml/sample.xml to S3 bucket social-media-brand-monitor
+2026-03-25 12:37:56,201 INFO Successfully uploaded xml/sample.xml to social-media-brand-monitor
+2026-03-25 12:37:58,302 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:37:58,302 INFO Started uploading pdf/document_1.pdf to S3 bucket social-media-brand-monitor
+2026-03-25 12:37:58,312 INFO Successfully uploaded pdf/document_1.pdf to social-media-brand-monitor
+2026-03-25 12:38:00,355 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 12:38:00,356 INFO Started uploading pdf/document_2_columns.pdf to S3 bucket social-media-brand-monitor
+2026-03-25 12:38:00,365 INFO Successfully uploaded pdf/document_2_columns.pdf to social-media-brand-monitor
+2026-03-25 12:38:00,366 INFO S3 upload complete.
+2026-03-25 12:38:00,366 INFO Pipeline finished successfully.
+2026-03-25 12:38:04,084 INFO Successfully connected to MongoDB.
+2026-03-25 12:40:35,814 INFO Pipeline started for brand: Apple
+2026-03-25 12:40:35,815 INFO Fetching data from API...
+2026-03-25 12:40:37,314 INFO API data fetched and saved as JSON files.
+2026-03-25 12:40:37,315 INFO Starting parsing of all local files...
+2026-03-25 12:40:37,316 INFO Parsing JSON files from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\api
+2026-03-25 12:40:37,351 INFO Saved 20 articles from newsapi_Apple_page_1.json
+2026-03-25 12:40:37,365 INFO Saved 20 articles from newsapi_Apple_page_2.json
+2026-03-25 12:40:37,380 INFO Saved 20 articles from newsapi_Apple_page_3.json
+2026-03-25 12:40:37,380 INFO Parsing CSV file: sample.csv
+2026-03-25 12:40:37,382 INFO Saved 4 rows from sample.csv
+2026-03-25 12:40:37,382 INFO Parsing XML file: sample.xml
+2026-03-25 12:40:37,384 INFO Saved 3 elements from sample.xml
+2026-03-25 12:40:37,384 INFO Parsing PDF files from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\pdf
+2026-03-25 12:40:37,385 INFO Processing PDF: document_1.pdf
+2026-03-25 12:40:37,427 INFO Processing PDF: document_2_columns.pdf
+2026-03-25 12:40:37,646 INFO Parsing DOCX files from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\docx
+2026-03-25 12:40:37,647 INFO Processing DOCX: document_1.docx
+2026-03-25 12:40:37,658 INFO Processing DOCX: document_2_columns.docx
+2026-03-25 12:40:37,671 INFO Parsing Excel files from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\excel
+2026-03-25 12:40:37,671 INFO Processing Excel: social_media_brand_monitoring.xlsx
+2026-03-25 12:40:37,695 INFO All data parsed and saved to MongoDB.
+2026-03-25 12:40:37,695 INFO Starting upload of all raw data to S3...
