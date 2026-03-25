@@ -12,3 +12,74 @@
 2026-03-23 23:40:30,992 INFO Successfully uploaded newsapi_Apple_page_1.json to social-media-brand-monitor
 2026-03-23 23:40:30,992 INFO S3 upload complete.
 2026-03-23 23:40:30,992 INFO Pipeline finished successfully.
+2026-03-25 11:00:27,905 INFO Pipeline started for brand: Apple
+2026-03-25 11:00:27,906 INFO Fetching data from API...
+2026-03-25 11:00:29,055 INFO API data fetched and saved as JSON files.
+2026-03-25 11:00:29,056 INFO Parsing JSON files and saving to MongoDB...
+2026-03-25 11:00:29,158 INFO Parsing CSV file and saving to MongoDB...
+2026-03-25 11:00:29,161 INFO Parsing XML file and saving to MongoDB...
+2026-03-25 11:00:29,163 INFO All data parsed and saved to MongoDB.
+2026-03-25 11:00:29,163 INFO Uploading newsapi_Apple_page_1.json to S3...
+2026-03-25 11:00:29,340 INFO Started uploading newsapi_Apple_page_1.json to S3 bucket social-media-brand-monitor
+2026-03-25 11:01:48,478 INFO Pipeline started for brand: Apple
+2026-03-25 11:01:48,479 INFO Fetching data from API...
+2026-03-25 11:01:49,445 INFO API data fetched and saved as JSON files.
+2026-03-25 11:01:49,445 INFO Parsing JSON files and saving to MongoDB...
+2026-03-25 11:01:49,496 INFO Parsing CSV file and saving to MongoDB...
+2026-03-25 11:01:49,497 INFO Parsing XML file and saving to MongoDB...
+2026-03-25 11:01:49,501 INFO All data parsed and saved to MongoDB.
+2026-03-25 11:01:49,501 INFO Uploading newsapi_Apple_page_1.json to S3...
+2026-03-25 11:01:51,760 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:01:51,760 INFO Started uploading newsapi_Apple_page_1.json to S3 bucket social-media-brand-monitor
+2026-03-25 11:01:51,771 INFO Successfully uploaded newsapi_Apple_page_1.json to social-media-brand-monitor
+2026-03-25 11:01:51,771 INFO S3 upload complete.
+2026-03-25 11:01:51,772 INFO Pipeline finished successfully.
+2026-03-25 11:02:06,111 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:02:06,132 INFO Object: newsapi_Apple_page_1.json, Size: 20044 bytes
+2026-03-25 11:14:58,443 INFO Pipeline started for brand: Apple
+2026-03-25 11:14:58,443 INFO Fetching data from API...
+2026-03-25 11:14:59,853 INFO API data fetched and saved as JSON files.
+2026-03-25 11:14:59,853 INFO Parsing JSON files and saving to MongoDB...
+2026-03-25 11:14:59,913 INFO Parsing CSV file and saving to MongoDB...
+2026-03-25 11:14:59,916 INFO Parsing XML file and saving to MongoDB...
+2026-03-25 11:14:59,917 INFO All data parsed and saved to MongoDB.
+2026-03-25 11:14:59,917 INFO Starting upload of all raw data to S3...
+2026-03-25 11:14:59,918 INFO Uploading newsapi_Apple_page_1.json to S3...
+2026-03-25 11:15:02,198 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:15:02,198 INFO Started uploading api/newsapi_Apple_page_1.json to S3 bucket social-media-brand-monitor
+2026-03-25 11:15:02,210 INFO Successfully uploaded api/newsapi_Apple_page_1.json to social-media-brand-monitor
+2026-03-25 11:15:02,211 INFO Uploading newsapi_Apple_page_2.json to S3...
+2026-03-25 11:15:04,261 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:15:04,261 INFO Started uploading api/newsapi_Apple_page_2.json to S3 bucket social-media-brand-monitor
+2026-03-25 11:15:04,270 INFO Successfully uploaded api/newsapi_Apple_page_2.json to social-media-brand-monitor
+2026-03-25 11:15:04,270 INFO Uploading newsapi_Apple_page_3.json to S3...
+2026-03-25 11:15:06,345 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:15:06,346 INFO Started uploading api/newsapi_Apple_page_3.json to S3 bucket social-media-brand-monitor
+2026-03-25 11:15:06,356 INFO Successfully uploaded api/newsapi_Apple_page_3.json to social-media-brand-monitor
+2026-03-25 11:15:06,364 INFO Uploading sample.csv to S3...
+2026-03-25 11:15:08,441 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:15:08,442 INFO Started uploading csv/sample.csv to S3 bucket social-media-brand-monitor
+2026-03-25 11:15:08,452 INFO Successfully uploaded csv/sample.csv to social-media-brand-monitor
+2026-03-25 11:15:08,453 INFO Uploading sample.xml to S3...
+2026-03-25 11:15:10,522 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:15:10,523 INFO Started uploading xml/sample.xml to S3 bucket social-media-brand-monitor
+2026-03-25 11:15:10,530 INFO Successfully uploaded xml/sample.xml to social-media-brand-monitor
+2026-03-25 11:15:10,531 INFO Uploading document_1.pdf to S3...
+2026-03-25 11:15:12,603 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:15:12,603 INFO Started uploading pdf/document_1.pdf to S3 bucket social-media-brand-monitor
+2026-03-25 11:15:12,611 INFO Successfully uploaded pdf/document_1.pdf to social-media-brand-monitor
+2026-03-25 11:15:12,611 INFO Uploading document_2_columns.pdf to S3...
+2026-03-25 11:15:14,684 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:15:14,685 INFO Started uploading pdf/document_2_columns.pdf to S3 bucket social-media-brand-monitor
+2026-03-25 11:15:14,695 INFO Successfully uploaded pdf/document_2_columns.pdf to social-media-brand-monitor
+2026-03-25 11:15:14,696 INFO S3 upload complete.
+2026-03-25 11:15:14,697 INFO Pipeline finished successfully.
+2026-03-25 11:15:29,675 INFO Bucket 'social-media-brand-monitor' already exists.
+2026-03-25 11:15:29,684 INFO Object: api/newsapi_Apple_page_1.json, Size: 20699 bytes
+2026-03-25 11:15:29,684 INFO Object: api/newsapi_Apple_page_2.json, Size: 19997 bytes
+2026-03-25 11:15:29,685 INFO Object: api/newsapi_Apple_page_3.json, Size: 19782 bytes
+2026-03-25 11:15:29,685 INFO Object: csv/sample.csv, Size: 192 bytes
+2026-03-25 11:15:29,686 INFO Object: newsapi_Apple_page_1.json, Size: 20044 bytes
+2026-03-25 11:15:29,687 INFO Object: pdf/document_1.pdf, Size: 4651 bytes
+2026-03-25 11:15:29,687 INFO Object: pdf/document_2_columns.pdf, Size: 2079 bytes
+2026-03-25 11:15:29,687 INFO Object: xml/sample.xml, Size: 485 bytes

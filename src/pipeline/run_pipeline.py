@@ -25,11 +25,25 @@ def run_pipeline():
     parse_xml_file(os.path.join("data", "raw", "xml", "sample.xml"))
     logging.info("All data parsed and saved to MongoDB.")
 
-    # Step 3: Upload a sample file to S3 (you can loop or upload more as needed)
-    file_path = os.path.join("data", "raw", "api", f"newsapi_{brand}_page_1.json")
-    file_name = f"newsapi_{brand}_page_1.json"
-    logging.info(f"Uploading {file_name} to S3...")
-    upload_file_to_s3(file_path, file_name)
+    # Step 3: Upload all raw data files to S3
+    logging.info("Starting upload of all raw data to S3...")
+    raw_data_dirs = [
+        os.path.join("data", "raw", "api"),
+        os.path.join("data", "raw", "csv"),
+        os.path.join("data", "raw", "xml"),
+        os.path.join("data", "raw", "pdf")
+    ]
+
+    for data_dir in raw_data_dirs:
+        if os.path.exists(data_dir):
+            for filename in os.listdir(data_dir):
+                file_path = os.path.join(data_dir, filename)
+                if os.path.isfile(file_path):
+                    logging.info(f"Uploading {filename} to S3...")
+                    # The object name in S3 will be the directory and the filename
+                    s3_object_name = f"{os.path.basename(data_dir)}/{filename}"
+                    upload_file_to_s3(file_path, s3_object_name)
+
     logging.info("S3 upload complete.")
 
     logging.info("Pipeline finished successfully.")
