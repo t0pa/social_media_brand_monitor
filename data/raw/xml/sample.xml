@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<articles>
+    <article>
+        <title>Apple launches new iPhone</title>
+        <author>John Doe</author>
+        <date>2026-03-01</date>
+    </article>
+    <article>
+        <title>Apple stock rises</title>
+        <author>Jane Smith</author>
+        <date>2026-03-02</date>
+    </article>
+    <article>
+        <title>Apple faces lawsuit</title>
+        <author>Alex Brown</author>
+        <date>2026-03-03</date>
+    </article>
+</articles>
