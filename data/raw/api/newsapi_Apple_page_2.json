@@ -1,227 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 35228,
+  "totalResults": 39971,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Pypi.org"
+      },
+      "author": "support@lorislab.fr",
+      "title": "apple-device-specs 1.0.0",
+      "description": "Python client for the Apple Device Specs API by LorisLabs",
+      "url": "https://pypi.org/project/apple-device-specs/1.0.0/",
+      "urlToImage": null,
+      "publishedAt": "2026-04-01T16:34:59Z",
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Greg Evans",
+      "title": "Sara Bareilles Signs With CAA",
+      "description": "EXCLUSIVE: CAA has signed Sara Bareilles, the Grammy winning and Tony- and Emmy-nominated composer, performer, producer, activist and author. Bareilles composed music and lyrics for the smash Broadway and West End musical Waitress, stepping into the lead role…",
+      "url": "http://deadline.com/2026/04/sara-bareilles-caa-1236770952/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/Sara-Bareilles.jpg?w=1024",
+      "publishedAt": "2026-04-01T16:34:55Z",
+      "content": "EXCLUSIVE: CAA has signed Sara Bareilles, the Grammy winning and Tony- and Emmy-nominated composer, performer, producer, activist and author.\r\nBareilles composed music and lyrics for the smash Broadw… [+1521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Consequence.net"
+      },
+      "author": "Liz Shannon Miller",
+      "title": "Fight Club Finally Gets 4K Ultra HD Release, One-Night Return to Movie Theaters",
+      "description": "Rediscover the classic that changed the culture in theaters this April and at home this May. \nFight Club Finally Gets 4K Ultra HD Release, One-Night Return to Movie Theaters\nLiz Shannon Miller",
+      "url": "https://consequence.net/2026/04/fight-club-4k-ultra-hd-steelbook-theaters/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2026/02/fight-club-edward-norton-brad-pitt-4k-ultra-hd-steelbook-release.jpg",
+      "publishedAt": "2026-04-01T16:32:38Z",
+      "content": "The first rule of Fight Club is that you do not talk about Fight Club. But Tyler Durden (Brad Pitt) didn’t say anything about posting about it! Or finally giving it the 4K Ultra HD Steelbook release … [+1077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Benjamin Barois",
+      "title": "Hip hip hip Oura : la bague connectée Ring 3 Horizon qui mesure vos données de santé est en promo à -62%",
+      "description": "La marque finlandaise Oura propose la Ring 3 Horizon, une bague connectée équipée de capteurs de santé que vous retrouvez à 149,99 euros au lieu de 399 euros au lancement.",
+      "url": "https://www.frandroid.com/bons-plans/3049057_hip-hip-hip-oura-la-bague-connectee-ring-3-horizon-qui-mesure-vos-donnees-de-sante-est-en-promo-a-62",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/oura-ring-3.jpg?resize=1600,900&key=03a533f9&watermark",
+      "publishedAt": "2026-04-01T16:32:00Z",
+      "content": "La marque finlandaise Oura propose la Ring 3 Horizon, une bague connectée équipée de capteurs de santé que vous retrouvez à 149,99 euros au lieu de 399 euros au lancement.\r\nLa bague Oura Ring 3 pour … [+3803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dou.ua"
+      },
+      "author": "Andrii Ryzhenko",
+      "title": "Розроблокування Upwork - fresh update, квітень 2026",
+      "description": "Добрий день!\n\nОстаннім часом кількість блокувань помітно зросла. На думку нашої команди, основна причина полягає в тому, що Upwork посилив боротьбу з орендою акаунтів і так званими «фермами» програмістів, які працюють під виглядом фрілансерів.Ми отримали дета…",
+      "url": "https://dou.ua/forums/topic/58718/",
+      "urlToImage": "https://s.dou.ua/img/announces/1775056573685.png",
+      "publishedAt": "2026-04-01T16:30:05Z",
+      "content": "!\r\n .   ,  ,  Upwork     «» , .Upwork.      ,    .   ,   .\r\nYour Upwork Account is on Hold\r\n<ol><li>  «»  .  ,  .    ,  .       .  ,   .</li><li>   [email protected]   :   ,     . , https://support.u… [+1485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abertoatedemadrugada.com"
+      },
+      "author": "Carlos Martins",
+      "title": "MacBook Neo com watercooling duplica o desempenho",
+      "description": "O MacBook Neo pode ser bastante mais rápido, se tiver um sistema de arrefecimento melhorado.",
+      "url": "https://abertoatedemadrugada.com/2026/04/macbook-neo-com-watercooling-duplica-o.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1SoRf0XcU1NYkN2QDgIQ4eQMUn13lJPEzpfxY3CwZg9mLcGCcVgYgPuRUCoYUxVNSYgfGrZBz0fBjUVwAmGHrRggDD8lOa5sDiVZpCcJUSu-ant9mLyUwepB44Tr_gDQA_rkfD2rpwk5rJfNWMmj2RF1LR7AsO3Kw7GiUHWuuBL1vX_cPpelnS8hLA_W7/w1200-h630-p-k-no-nu/waterneo.jpg",
+      "publishedAt": "2026-04-01T16:30:00Z",
+      "content": "O MacBook Neo pode ser bastante mais rápido, se tiver um sistema de arrefecimento melhorado.\n\n\nO recém lançado MacBook Neo da Apple tem reacendido a discussão sobre o que é suficiente ou não em termo… [+1422 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Les Numériques"
       },
-      "author": "Antoine Roche",
-      "title": "Actualité : Pour ses téléviseurs, Philips embrasse officiellement Titan OS et délaisse Google TV",
-      "description": "Avant d'acheter un téléviseur Philips en 2026, il va falloir faire attention à l'OS embarqué, car Titan OS sera désormais la norme à la place de Google TV.",
-      "url": "https://www.lesnumeriques.com/tv-televiseur/pour-ses-televiseurs-philips-embrasse-officiellement-titan-os-et-delaisse-google-tv-n253440.html",
-      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/25/253440/f1ea8dd6-pour-ses-televisteurs-philips-embrasse-officiellement-titan-os-et-delaisse-google-tv__1200_678__214-148-1933-1050.jpg",
-      "publishedAt": "2026-03-24T11:26:00Z",
-      "content": "En bref<ul><li>Les TV Philips de 2026 embarqueront Titan OS à la place de Google TV.</li><li>Philips promet un système d'exploitation plus léger et fluide.</li><li>Des applications et des fonctionnal… [+2197 chars]"
+      "author": "Thibaud Gomès-Léal",
+      "title": "Actualité : Nouveautés Canal+ : les films et séries à ne pas manquer en avril 2026",
+      "description": "La chaîne Canal+ complète sa grille et le catalogue de son service de streaming au mois d'avril 2026 avec de nouveaux films, séries et documentaires de qualité. Voici la liste des nouveautés.",
+      "url": "https://www.lesnumeriques.com/cine-svod/nouveautes-canal-les-films-et-series-a-ne-pas-manquer-en-avril-2026-n253685.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/25/253685/36853a3e-nouveautes-canal-les-films-et-series-a-ne-pas-manquer-en-avril-2026_png__1200_678__0-43-1999-1092.jpg",
+      "publishedAt": "2026-04-01T16:30:00Z",
+      "content": "La série du mois sur Canal+\r\nParis Police 1910\r\nMarguerite Steinheil est retrouvée ligotée dans son lit, son mari et sa propre mère sont morts, assassinés dans la pièce dà côté. Cette affaire qui imp… [+5547 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CHIP Online Deutschland"
+        "name": "Frandroid"
       },
-      "author": "Fabian von Thun",
-      "title": "Apple AirPods Pro 2 vs. Pro 3: Lohnt sich das Upgrade?",
-      "description": "Mit der dritten Generation der AirPods Pro verspricht Apple besseren Klang und mehr Qualität. Wir prüfen im Test, ob die In-Ears diese Erwartungen erfüllen und für wen sich der Umstieg tatsächlich lohnt.",
-      "url": "https://www.chip.de/test-kaufberatung/tv-audio/apple-airpods-pro-2-vs-pro-3-lohnt-sich-das-upgrade_5dac3973-5bac-4376-9c77-2c3ed656f0bf.html",
-      "urlToImage": "https://quadro.burda-forward.de/ctf/df8082b3-6578-4256-a699-be966e197db5.2ef86d67-8617-47c7-a4fb-0a3d67ba523d.jpg?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(1390,782)&hash=8a5bfa3be9e73f2cb551c30e2ae8a83f7171714feef5ac71b910612f49152c86",
-      "publishedAt": "2026-03-24T11:25:00Z",
-      "content": "Hinweis: Einstufung als Preistipp oder nach Preisgrenzen basiert auf dem günstigsten Shop-Angebot in unserem Preisvergleich, der Preis im verlinkten Shop kann hiervon abweichen.\r\nApple hat im Septemb… [+6378 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Applech2.com"
-      },
-      "author": "applech2",
-      "title": "MacBook Pro (16-inch, 2019)からMacBook Proのディスプレイに搭載されている角度センサーの値を表示してくれる「Lid Angle Sensor」アプリがデザインを刷新しメニューバー表示にも対応。",
-      "description": "MacBook Pro (16-inch, 2019)からMacBook Proの液晶に搭載されているディスプレイ角度センサーの値を表示してくれる「Lid Angle Sensor」アプリがデザインを刷新しメニューバー […]\nThe post MacBook Pro (16-inch, 2019)からMacBook Proのディスプレイに搭載されている角度センサーの値を表示してくれる「Lid Angle Sensor」アプリがデザインを刷新しメニューバー表示にも対応。 first appeared on AAP…",
-      "url": "https://applech2.com/archives/20260324-macbook-pro-lid-angle-sensor.html",
-      "urlToImage": "https://applech2.com/wp-content/uploads/2026/03/Lid-Angle-Sensor-SwiftUI-update-Hero.webp",
-      "publishedAt": "2026-03-24T11:24:57Z",
-      "content": "MacBook Pro (16-inch, 2019)MacBook ProLid Angle Sensor\r\nApple2016MacBook ProLEDFlexgate2019MacBook Pro (16-inch, 2019)(Lid Angle)MacBook Pro\r\nMacBook Pro Late 2016Flexgate\r\nLid Angle SensorSwiftUI\r\nL… [+216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Giga"
-      },
-      "author": "Sven Kaulfuss",
-      "title": "iPhone Air überrascht: Neue Zahlen zeigen, warum Apple richtig lag",
-      "description": "Viele haben daran gezweifelt – doch neue Zahlen stellen Apples Entscheidung plötzlich in ein anderes Licht.",
-      "url": "https://www.giga.de/tech/iphone-air-ueberrascht-neue-zahlen-zeigen-warum-apple-richtig-lag--01KMFSBPPKP5SNE7P8V9S8KJZA",
-      "urlToImage": "https://static.giga.de/11/fe/e9/e6a5ae1827dab3a888c4189824_cmUgMTkyMCAxMDgwAzFlZTUxN2I4Yzgy.png",
-      "publishedAt": "2026-03-24T11:23:27Z",
-      "content": "Viele haben daran gezweifelt doch neue Zahlen stellen Apples Entscheidung plötzlich in ein anderes Licht.\r\nApple scheint mit dem iPhone Air doch noch einen Nerv getroffen zu haben: Laut einer Analyse… [+2317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Diariobitcoin.com"
-      },
-      "author": "Canuto",
-      "title": "OKX lanza trading 24/7 de acciones Mag Seven con colateral en criptomonedas",
-      "description": "OKX presentó una nueva oferta de contratos perpetuos sobre más de 20 acciones, incluidas las siete gigantes tecnológicas de Wall Street, permitiendo a usuarios de varias regiones operar las 24 horas con criptomonedas como colateral. El movimiento refuerza la …",
-      "url": "https://www.diariobitcoin.com/exchanges/okx-lanza-trading-24-7-de-acciones-mag-seven-con-colateral-en-criptomonedas/",
-      "urlToImage": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/03/canuto-imagine-1774351349.jpg",
-      "publishedAt": "2026-03-24T11:22:52Z",
-      "content": "Por Canuto   OKX presentó una nueva oferta de contratos perpetuos sobre más de 20 acciones, incluidas las siete gigantes tecnológicas de Wall Street, permitiendo a usuarios de varias regiones operar … [+9329 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Appgefahren.de"
-      },
-      "author": "Mel",
-      "title": "iRacing startet auf Apple Vision Pro: Neue Maßstäbe für Sim-Racing-Immersion",
-      "description": "Ab dieser Woche unterstützt die Rennsimulation iRacing Apples Headset Vision Pro und will damit neue Maßstäbe für Immersion und Realitätsnähe im Sim-Racing setzen. Ermöglicht wird dies durch das kommende visionOS 26.4-Update, das unter anderem die „Foveated S…",
-      "url": "https://www.appgefahren.de/iracing-startet-auf-apple-vision-pro-neue-massstaebe-fuer-sim-racing-immersion-396731.html",
-      "urlToImage": "https://www.appgefahren.de/wp-content/uploads/2024/02/Apple-Vision-Pro-1.jpg",
-      "publishedAt": "2026-03-24T11:22:07Z",
-      "content": "Ab dieser Woche unterstützt die Rennsimulation iRacing Apples Headset Vision Pro und will damit neue Maßstäbe für Immersion und Realitätsnähe im Sim-Racing setzen. Ermöglicht wird dies durch das komm… [+2644 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": "Andrew Grush",
-      "title": "T-Mobile’s free MLB.TV returns today, but you have a short time to redeem this offer",
-      "description": "T-Mobile's free MLB promotion has returned, though you only have until the month's end to redeem the offer.",
-      "url": "https://www.androidauthority.com/t-mobile-mlb-tv-return-3650458/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/05/t-mobile-t-life-app-home-screen-scaled.jpg",
-      "publishedAt": "2026-03-24T11:21:30Z",
-      "content": "<ul><li>T-Mobile is giving away a free season of MLB.TV access for subscribers starting today, though youll only have until March 30 to claim it.</li><li>Youll be able to watch games from the MLB.TV … [+1371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Visions.de"
-      },
-      "author": "Julia Grasmik",
-      "title": "Nach Boykott: Musikkatalog von Failure wieder vollständig auf Spotify verfügbar",
-      "description": "Failure haben ihren Musikkatalog nach mehreren Jahren wieder vollständig auf Spotify verfügbar gemacht. Das Alternative-Rock-Trio hatte einen Teil seiner Diskografie 2022 aus Protest von dem Streamingdienst abgezogen.\nDer Beitrag Musikkatalog wieder auf Spoti…",
-      "url": "https://www.visions.de/news/failure-musikkatalog-rueckkehr-zu-spotify/",
-      "urlToImage": "https://www.visions.de/wp-content/uploads/Failure-2.5.20264116_LindseyByrnes_edit-2_final5-scaled-e1773999640720.jpg",
-      "publishedAt": "2026-03-24T11:18:20Z",
-      "content": "Im Februar 2022 kündigten Failure an, ihre Musik von Spotify zu entfernen und nannten dafür zwei wesentliche Gründe: die niedrige Streaming-Vergütung sowie Spotifys damalige Partnerschaft mit dem ums… [+2484 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ispazio.net"
-      },
-      "author": "Francesco Santagati",
-      "title": "Pubblicità in Mappe di Apple, ecco quando arriverà",
-      "description": "Pubblicità in Mappe di Apple, ecco quando arriverà\n\nMappe di Apple si prepara a cambiare l’esperienza di navigazione degli utenti introducendo inserzioni pubblicitarie. Secondo quanto riportato da Bloomberg, la società di Cupertino ha in programma di integrar…",
-      "url": "https://www.ispazio.net/2206937/mappe-apple-pubblicita-annunci-risultati-ricerca-estate",
-      "urlToImage": "https://www.ispazio.net/wp-content/uploads/2025/10/pubblicita-mappe-di-apple-ispazio.jpg",
-      "publishedAt": "2026-03-24T11:18:15Z",
-      "content": "L'esperienza maturata su iSpazio ci ha portati, con il tempo, a realizzare altri progetti ed aprire nuovi siti con tematiche strettamente correlate al nostro Blog principale.\r\nOggi, siamo i fieri pro… [+86 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hipertextual"
-      },
-      "author": "Quelian Sanz",
-      "title": "Olvídate de Xiaomi y Samsung: este nuevo móvil barato tiene 9.000 mAh de batería para varios días",
-      "description": "Durante muchos años, la batería y autonomía de los móviles ha sido un dolor de cabeza. En el último año esto ha empezado a cambiar gracias a las celdas de silicio-carbono. Xiaomi, Oppo o vivo ya las incluyen en sus móviles, y Samsung ha comenzado a probarlas …",
-      "url": "https://hipertextual.com/tecnologia/olvidate-de-xiaomi-y-samsung-este-nuevo-movil-barato-tiene-9-000-mah-de-bateria-para-varios-dias/",
-      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2026/03/oneplus-nord-6.jpg",
-      "publishedAt": "2026-03-24T11:16:30Z",
-      "content": "Durante muchos años, la batería y autonomía de los móviles ha sido un dolor de cabeza. En el último año esto ha empezado a cambiar gracias a las celdas de silicio-carbono. Xiaomi, Oppo o vivo ya las … [+3335 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jeffbullas.com"
-      },
-      "author": "Jeff Bullas",
-      "title": "Stop Using Just One AI: The 10 That Matter (and What Each Does Best)",
-      "description": "It took the telephone 75 years to reach 100 million users, the internet 7 years, and Facebook 4.5 years. ChatGPT did it in 61 days. So to put AI’s growth into perspective lets look back a few years to the tech trends that led to where we are today with AI.  T…",
-      "url": "https://www.jeffbullas.com/stop-using-just-one-ai/",
-      "urlToImage": "https://www.jeffbullas.com/wp-content/uploads/2026/03/top-10-ai-platforms.jpg",
-      "publishedAt": "2026-03-24T11:16:10Z",
-      "content": "It took the telephone 75 years to reach 100 million users, the internet 7 years, and Facebook 4.5 years. ChatGPT did it in 61 days.\r\nSo to put AIs growth into perspective lets look back a few years t… [+32472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Adweek"
-      },
-      "author": "Mark Stenberg",
-      "title": "Apple Maps Is Getting Ads—and a Whole New Business Platform",
-      "description": "The sponsored listings will arrive this summer as Apple looks to grow an ads business on pace to bring in $8.5 billion this year.",
-      "url": "https://www.adweek.com/brand-marketing/apple-maps-getting-ads/",
-      "urlToImage": "https://static-www.adweek.com/wp-content/uploads/2026/03/Apple-Business-ads-on-Apple-Maps.jpg?w=600&h=315&crop=1",
-      "publishedAt": "2026-03-24T11:15:59Z",
-      "content": "Fourteen years after its launch, Apple Maps is finally getting ads. \r\nOn Tuesday, the company announced the forthcoming launch of Apple Business, a new platform that consolidates all of its tools for… [+3733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Golem.de"
-      },
-      "author": null,
-      "title": "Exploit-Kit veröffentlicht: Leak auf Github gefährdet Millionen von iPhones",
-      "description": "Eine neue Version des Exploit-Kits Darksword ist auf Github aufgetaucht. Zahlreiche iPhones lassen sich dadurch mit nur einem Klick infiltrieren. (Sicherheitslücke, Apple)",
-      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fexploit-kit-veroeffentlicht-leak-auf-github-gefaehrdet-millionen-von-iphones-2603-206852.html&referer=https%3A%2F%2Ft.co%2F7e074a4aeb",
-      "urlToImage": null,
-      "publishedAt": "2026-03-24T11:15:02Z",
-      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mobilarena.hu"
-      },
-      "author": "viragdani01",
-      "title": "AirDrop támogatást kap a Galaxy S26 széria",
-      "description": "Dél-Koreában már tegnap aktiválták, a későbbiekben érkezik majd Európába is.",
-      "url": "https://mobilarena.hu/hir/airdrop_tamogatast_kap_a_galaxy_s26_szeria.html",
-      "urlToImage": "https://cdn.rios.hu/dl/cnt/2026-03/360141i1280x720.jpg",
-      "publishedAt": "2026-03-24T11:15:00Z",
-      "content": "Rövid sajtóközleményben jelezte a Samsung, hogy bizonyos Google Pixel telefonok után a Galaxy S26 sorozat okostelefonjaiba épített Quick Share funkció is támogatni fogja az Apple eszközökkel történ f… [+977 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Macworld"
-      },
-      "author": "Jason Cross",
-      "title": "Ookla’s C1X report’s most shocking result? People are buying iPhone Air",
-      "description": "Macworld\n\n\n\r\n\n\n\n\nCellular research and analysis company Ookla, owners of the very popular Speedtest app and site, has issued a fascinating report gleaned from Speedtest user data in the fourth quarter of 2025.\r\n\n\n\n\nThere are two key takeaways: The iPhone Air …",
-      "url": "https://www.macworld.com/article/3096487/ooklas-c1x-reports-most-shocking-result-people-are-buying-iphone-air.html",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/03/iPhone-Air-hero.jpg?quality=50&strip=all&w=1024",
-      "publishedAt": "2026-03-24T11:15:00Z",
-      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nCellular research an… [+4695 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Turbo.fr"
-      },
-      "author": "Julien Maron",
-      "title": "PHOTOS - GP du Japon de F1 : livrée spéciale pour Haas en hommage à Godzilla, le roi des monstres",
-      "description": "Haas débarque à Suzuka ce week-end avec une livrée spéciale en hommage à l'un des personnages les plus populaires de la pop culture nippone : Godzilla. Retrouvez dans cet article toutes les photos et les détails de cette déco.\nL'écurie américaine possède plus…",
-      "url": "https://www.turbo.fr/photos/photos-gp-du-japon-de-f1-livree-speciale-pour-haas-en-hommage-godzilla-le-roi-des-monstres",
-      "urlToImage": "https://www.turbo.fr/sites/default/files/slideshow/slides/2026-03/69c2703c55dfe.jpg",
-      "publishedAt": "2026-03-24T11:14:42Z",
-      "content": "Haas débarque à Suzuka ce week-end avec une livrée spéciale en hommage à l'un des personnages les plus populaires de la pop culture nippone : Godzilla. Retrouvez dans cet article toutes les photos et… [+1031 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autobild.de"
-      },
-      "author": "Kim-Sarah Biehl",
-      "title": "Kleines SUV zu attraktivem Preis im Leasing",
-      "description": "Privatkunden können den praktischen Skoda Kamiq zurzeit für nur 137 Euro im Leasing ergattern. Die Ausstattung ist dabei noch frei konfigurierbar.",
-      "url": "https://www.autobild.de/artikel/skoda-kamiq-selection-im-privaten-leasing-angebote-deals-2026-28585067.html",
-      "urlToImage": "https://i.auto-bild.de/ir_img/4/0/5/1/9/5/3/Skoda-Kamiq-2869-2400x1349-741639d435f74408.jpg?impolicy=og_images",
-      "publishedAt": "2026-03-24T11:14:00Z",
-      "content": "Kompakt, komfortabel, stadttauglich: Kleine SUV überzeugen mit guter Übersicht und unkomplizierter Parkplatzsuche. Der Skoda Kamiq gehört ebenfalls zu diesem Segment und kostet normalerweise mindeste… [+1108 chars]"
+      "author": "Omar Belkaab",
+      "title": "Louer son smartphone au lieu de l’acheter ? « C’est particulièrement intéressant sur des produits qui coûtent cher »",
+      "description": "On a discuté avec le patron de Mobile Club, un service qui permet de louer son smartphone au lieu de l'acheter. Quels sont ses arguments ? Louer un iPhone",
+      "url": "https://www.frandroid.com/produits-android/smartphone/3047793_louer-son-smartphone-au-lieu-de-lacheter-cest-particulierement-interessant-sur-des-produits-qui-coutent-cher",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/04/louer-ou-acheter-son-iphone.jpg?resize=1600,900&key=8f6075e1&watermark",
+      "publishedAt": "2026-04-01T16:30:00Z",
+      "content": "On a discuté avec le patron de Mobile Club, un service qui permet de louer son smartphone au lieu de l’acheter. Quels sont ses arguments ?\r\nLouer un iPhone est-il plus intéressant que de l’acheter ? … [+6953 chars]"
     },
     {
       "source": {
@@ -229,38 +112,142 @@
         "name": "Pypi.org"
       },
       "author": null,
-      "title": "mlx-qwen3-asr 0.3.2",
-      "description": "Qwen3-ASR speech recognition on Apple Silicon via MLX",
-      "url": "https://pypi.org/project/mlx-qwen3-asr/0.3.2/",
+      "title": "mlx-tune 0.4.15",
+      "description": "MLX-powered LLM/VLM/TTS/STT/Embedding fine-tuning for Apple Silicon - Unsloth-compatible API for Mac",
+      "url": "https://pypi.org/project/mlx-tune/0.4.15/",
       "urlToImage": null,
-      "publishedAt": "2026-03-24T11:13:37Z",
+      "publishedAt": "2026-04-01T16:28:44Z",
       "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "mobiFlip.de"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Oliver Schwuchow",
-      "title": "Apple: Das iPhone steht vor „der größten Überarbeitung aller Zeiten“",
-      "description": "Das iPhone-Lineup war in den letzten Jahren durchaus durchschaubar und ohne große Überraschungen, nur beim Standard-iPhone tat sich Apple etwas schwer und suchte das richtige Konzept (Mini, Plus, Air). Doch …",
-      "url": "https://www.mobiflip.de/apple-das-iphone-steht-vor-der-groessten-ueberarbeitung-aller-zeiten/",
-      "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2025/11/apple-iphone-20-2027-header.jpg",
-      "publishedAt": "2026-03-24T11:12:47Z",
-      "content": "Das iPhone-Lineup war in den letzten Jahren durchaus durchschaubar und ohne große Überraschungen, nur beim Standard-iPhone tat sich Apple etwas schwer und suchte das richtige Konzept (Mini, Plus, Air… [+897 chars]"
+      "author": "Daniel Howley",
+      "title": "Intel stock climbs more than 9% on chip plant buyout news",
+      "description": "Intel stock climbed Wednesday, as the company moved to repurchase an equity stake it previously sold in one of its chip plants.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/intel-stock-climbs-more-than-9-on-chip-plant-buyout-news-162839014.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R0TqsV3lCVIrd7n10E0VlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/900a4548-fa25-4259-b558-abafefd42b26",
+      "publishedAt": "2026-04-01T16:28:39Z",
+      "content": "Intel (INTC) stock jumped more than 9% on Wednesday after the company said it is repurchasing an equity stake in one of its chip plants in Ireland from Apollo (APO).\r\nThe news is a welcome sign that … [+2574 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Actualidadgadget.com"
+        "name": "Teltarif.de"
       },
-      "author": "Actualidad Gadget",
-      "title": "Samsung acerca Android y Apple con Quick Share y AirDrop en los Galaxy S26",
-      "description": "Los Galaxy S26 estrenan Quick Share compatible con AirDrop para enviar archivos entre Android y Apple. Así funciona y así llega a España y Europa.",
-      "url": "https://www.actualidadgadget.com/samsung-acerca-android-y-apple-con-quick-share-y-airdrop-en-los-galaxy-s26/",
-      "urlToImage": "https://www.actualidadgadget.com/wp-content/uploads/2026/03/Samsung-acerca-Android-y-Apple-con-Quick-Share-los-Galaxy-S26-ya-permiten-compartir-archivos-con-AirDrop.jpg",
-      "publishedAt": "2026-03-24T11:09:18Z",
-      "content": "La nueva generación Galaxy S26 da un paso inédito en la conexión entre Android y Apple. Samsung ha empezado a activar una función que permite enviar archivos desde sus últimos buques insignia directa… [+10227 chars]"
+      "author": "Patrick Schwarz",
+      "title": "400 Euro Rabatt: Leistungsstarker Mini-PC bei Amazon",
+      "description": "Acemagic bietet den M5 Mini-PC mit dem Intel Core i7-14650HX an. Das System verfügt über 32 GB DDR4-RAM, eine 1 TB große PCIe-4.0-SSD und Wi-Fi 6E. Das Gerät unterstützt bis zu drei 4K-Monitore.",
+      "url": "https://www.teltarif.de/minipc-acemagic-intelcorei7/news/102806.html",
+      "urlToImage": "https://www.teltarif.de/img/arch/2026/kw14/minipc-acemagic-intelcorei7-1og.jpg",
+      "publishedAt": "2026-04-01T16:28:00Z",
+      "content": "Mini-PCs haben sich vom einfa­chen Office-Rechner zur voll­wertigen Desktop-Alter­native entwi­ckelt. Auch bei wenig Platz auf dem Schreib­tisch sind heute kaum noch Leis­tungs­kompro­misse notwendig… [+3232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "冬冬子",
+      "title": "OPPO 高層辟謠，Find X10 Ultra 今年絕不上市",
+      "description": "<ol><li>Yahoo新聞</li><li>新聞總覽</li><li>OPPO 高層辟謠，Find X10 Ultra 今年絕不上市</li></ol>\r\n文章來源：Qooah.com\r\n從 OPPO 官方獲悉，針對網絡上流傳的 Find X10 Ultra 上市傳聞，OPPO Find 系列產品負責人卓世傑作出明確回應，確認該機型 2026 年全年不會上市，同時提醒消費者切勿輕信不實消息。此消息也讓不少網友直言，可放心選擇其他品牌的 Ultra 機型，也有網友期待該機型能延續往年節奏，於明年四五月份推出。\r…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_adac12c2-4883-4b3f-86b4-d42b2738023c",
+      "urlToImage": null,
+      "publishedAt": "2026-04-01T16:27:40Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+1045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Everyeye.it"
+      },
+      "author": "Andrea Zanettin",
+      "title": "3 Xiaomi POCO potentissimi a prezzi stracciati: ecco quali comprare oggi",
+      "description": "Xiaomi POCO offre smartphone potenti ed economici, con modelli da 139,90 a 309,90 euro e ottime caratteristiche per gaming e uso quotidiano.In questo periodo siete alla ricerca di uno smartphone potente ma dal prezzo contenuto? Se è così che stanno le cose, i…",
+      "url": "https://tech.everyeye.it/notizie/3-potentissimi-prezzi-stracciati-comprare-oggi-869101.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/3-xiaomi-potentissimi-prezzi-stracciati-comprare-oggi-v3-869101.jpg",
+      "publishedAt": "2026-04-01T16:27:00Z",
+      "content": "In questo periodo siete alla ricerca di uno smartphone potente ma dal prezzo contenuto? Se è così che stanno le cose, il portfolio di Xiaomi POCO può fare al caso vostro con questi selezionatissimi d… [+2270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "CarPlay’s latest upgrades offer exciting glimpse of what’s coming in iOS 27",
+      "description": "CarPlay in iOS 26.4 unlocked access to a new category of apps: third-party AI assistants like ChatGPT, which just shipped its new CarPlay app yesterday. Here’s why these new apps offer a glimpse at what to expect from iOS 27 and the new Siri.\n\n\n\n more…",
+      "url": "https://9to5mac.com/2026/04/01/carplays-latest-upgrades-offer-exciting-glimpse-of-whats-coming-in-ios-27/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/carplay-ultra-ios-26-aston.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-04-01T16:26:23Z",
+      "content": "CarPlay in iOS 26.4 unlocked access to a new category of apps: third-party AI assistants like ChatGPT, which just shipped its new CarPlay app yesterday. Heres why these new apps offer a glimpse at wh… [+2419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elchapuzasinformatico.com"
+      },
+      "author": "Borja Rodríguez",
+      "title": "Lenovo Yoga Mini i: un Mac mini cilíndrico con CPU Intel Panther Lake, 32 GB RAM y Windows 11",
+      "description": "Lenovo anunció el lanzamiento de un nuevo Mini-PC que ha debutado en China, hablamos del Yoga Mini i. Y sí, su diseño parece completamente un calco del Mac mini de Apple, con la diferencia que la compañía ha recurrido a un diseño cilíndrico, en vez de rectang…",
+      "url": "https://elchapuzasinformatico.com/?p=645714",
+      "urlToImage": "https://elchapuzasinformatico.com/wp-content/uploads/2026/04/Mini-PC-Lenovo-Yoga-Mini-i.jpg",
+      "publishedAt": "2026-04-01T16:25:33Z",
+      "content": "Lenovo anunció el lanzamiento de\r\nun nuevo Mini-PC que ha debutado en China, hablamos del\r\nYoga Mini i. Y sí, su diseño parece completamente\r\nun calco del Mac mini de Apple, con la diferencia\r\nque la… [+3389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Libertaddigital.com"
+      },
+      "author": "Esmeralda Ruiz",
+      "title": "Estrenos: \"Super Mario Galaxy\" y lo nuevo de Paolo Sorrentino llegan a los cines",
+      "description": "Esmeralda Ruiz analiza con Juanma González y Dani Palacios los estrenos de la semana.",
+      "url": "https://esradio.libertaddigital.com/en-casa-de-herrero/estrenos-de-cine/2026-04-01/estrenos-super-mario-galaxy-y-lo-nuevo-de-paolo-sorrentino-llegan-a-los-cines-7383229/",
+      "urlToImage": "https://s1.staticld.com/2026/04/01/1200/675/super-mario-galaxy.jpg",
+      "publishedAt": "2026-04-01T16:24:50Z",
+      "content": "Escucha este programa en cualquier momento y lugar a través de los podcasts de Libertad Digital y esRadio. Descarga nuestra aplicación para iOs o Android, visita nuestra página web en esradio.fm, o e… [+315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Kim Key",
+      "title": "Spam Calls Are Out of Control. Here's How I Silenced Them for Good",
+      "description": "If you never answer your phone anymore, I don't blame you. Thanks to robocalls, scammers, and unknown callers, who would want to pick up? You don't have to put up with it, though. I have tips to stem the tide.\nYour phone rings and you don't recognize the numb…",
+      "url": "https://uk.pcmag.com/mobile-phones/164192/spam-calls-are-out-of-control-heres-how-i-silenced-them-for-good",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/help/s/spam-calls/spam-calls-are-out-of-control-heres-how-i-silenced-them-for_8uc2.1200.jpg",
+      "publishedAt": "2026-04-01T16:24:47Z",
+      "content": "Your phone rings and you don't recognize the number. Do you pick up? Of course not; you let it go to voicemail, and if it's important, they'll leave a message. Sound familiar? According to a YouGov s… [+10083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Libertaddigital.com"
+      },
+      "author": "Esmeralda Ruiz",
+      "title": "Prensa rosa: Aitana Sánchez-Gijón y Maxi Iglesias, pillados besándose en plena calle",
+      "description": "Esmeralda Ruiz analiza con Ana Mateu y Esther Nieto la prensa rosa.",
+      "url": "https://esradio.libertaddigital.com/en-casa-de-herrero/prensa-rosa/2026-04-01/aitana-sanchez-gijon-y-maxi-iglesias-pillados-besandose-en-plena-calle-7383228/",
+      "urlToImage": "https://s1.staticld.com/2026/03/31/1200/675/portada-lecturas-aitanasanchezgijon-maxi-iglesias.jpg",
+      "publishedAt": "2026-04-01T16:23:42Z",
+      "content": "Escucha este programa en cualquier momento y lugar a través de los podcasts de Libertad Digital y esRadio. Descarga nuestra aplicación para iOs o Android, visita nuestra página web en esradio.fm, o e… [+315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LancasterOnline"
+      },
+      "author": "LANCASTERONLINE | Staff",
+      "title": "Lancaster Catholic High School teacher receives Diocese of Harrisburg's Golden Apple award",
+      "description": "Lancaster Catholic High School again has a teacher receiving the highest recognition given by the Diocese of Harrisburg to teachers and principals in its schools.",
+      "url": "https://lancasteronline.com/news/local/lancaster-catholic-high-school-teacher-receives-diocese-of-harrisburgs-golden-apple-award/article_1c7a593b-716a-4f8b-8743-7afdae762e14.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/cb/3cbcd501-6111-4cb9-9f17-74aa1f40c347/69cd491a11131.image.jpg?crop=640%2C336%2C0%2C232",
+      "publishedAt": "2026-04-01T16:21:00Z",
+      "content": "Lancaster Catholic High School again has a teacher receiving the highest recognition given by the Diocese of Harrisburg to teachers and principals in its schools.\r\nTeresa Swisher, a computer teacher … [+1191 chars]"
     }
   ]
 }

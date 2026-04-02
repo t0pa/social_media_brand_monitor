@@ -1,71 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 35228,
+  "totalResults": 39971,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Everyeye.it"
+        "name": "heise online"
       },
-      "author": "Salvo Privitera",
-      "title": "Hubble immortala una cometa che si disintegra: un evento rarissimo",
-      "description": "Osservata mentre si spezzava in più frammenti: una scoperta nata per puro caso che ha stupito gli scienziati di tutto il mondo!A volte, le scoperte più straordinarie arrivano quando meno te lo aspetti. È esattamente ciò che è accaduto a un gruppo di astronomi…",
-      "url": "https://tech.everyeye.it/notizie/hubble-immortala-cometa-disintegra-evento-rarissimo-867180.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/hubble-immortala-cometa-disintegra-evento-rarissimo-v3-867180.jpg",
-      "publishedAt": "2026-03-24T11:37:00Z",
-      "content": "A volte, le scoperte più straordinarie arrivano quando meno te lo aspetti. È esattamente ciò che è accaduto a un gruppo di astronomi che, puntando il telescopio spaziale Hubble verso una cometa, si s… [+1565 chars]"
+      "author": "Ben Schwan",
+      "title": "Studio Display XDR: Apple reduziert Preis mit VESA-Mount deutlich",
+      "description": "Die Preise für den komplexen neigungs- und höhenverstellbaren Standfuß bei Apples neuem Screen waren genauso hoch wie beim simplen VESA-Mount. Das ändert sich.",
+      "url": "https://www.heise.de/news/Studio-Display-XDR-Apple-reduziert-Preis-mit-VESA-Mount-deutlich-11243501.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/5/6/6/1/9/vesaxdr-e619c477caac197b.png",
+      "publishedAt": "2026-04-01T16:47:00Z",
+      "content": "Apple hat ohne weitere Ankündigung eine Ungerechtigkeit beim Studio Display XDR beseitigt. Zahlte man bislang sowohl für die VESA- als auch für die Standfußvariante gleich viel, sinkt der Preis für e… [+2058 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "Bleeding Cool News"
       },
-      "author": "Darryl Linington",
-      "title": "Apple says older iPhones need to be updated to stay protected",
-      "description": "Apple says malicious web content has been used against out-of-date iPhones, and users on older iOS versions should install recent updates to stay protected.",
-      "url": "https://www.notebookcheck.net/Apple-says-older-iPhones-need-to-be-updated-to-stay-protected.1257693.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple-warning.jpg",
-      "publishedAt": "2026-03-24T11:36:00Z",
-      "content": "Apple has revealed that web-based attacks have targeted out-of-date versions of iOS through malicious web content. The company says users running the latest updated versions of iOS 15 through iOS 26 … [+2034 chars]"
+      "author": "Gavin Sheehan",
+      "title": "Karl-Anthony Towns Headlines Season 6 of NBA 2K26",
+      "description": "2K Games dropped new info about the next season of NBA 2K26, as New York Knicks star Karl-Anthony Towns takes center stage for Season 6. This season has been given an anime theme, but there isn't a lot here that's actually anime-themed, and no crossovers with…",
+      "url": "https://bleedingcool.com/games/karl-anthony-towns-headlines-season-6-of-nba-2k26/",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2026/04/NBA-2K26-Season-6-Key-Art-2000x1125.jpg",
+      "publishedAt": "2026-04-01T16:46:08Z",
+      "content": "Posted in: 2K Games, Games, NBA 2K, Video Games | Tagged: anime, Karl-Anthony Towns, nba, NBA 2K26\r\nKarl-Anthony Towns is the headline player for Season 6 of NBA 2K26, set to launch later this week w… [+3215 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Unwire.hk"
+        "name": "Bringatrailer.com"
       },
-      "author": "Vincent Ng",
-      "title": "教學：唔怕遺失 iPhone 外洩資料 十次密碼錯誤自動洗機 內文講清詳細運作",
-      "description": "大家有沒有試過在街頭不小心遺下 iPhone，或是下車後才發現手機失蹤？那一刻除了心痛失去昂貴電話，更令人擔憂是裡面的私人相片、對話紀錄，甚至是 PayMe、八達通等電子錢包財產。當手機落在陌生人手中，私隱外洩往往是使用者最深層恐懼。",
-      "url": "https://unwire.hk/2026/03/24/iphone-10-failed-passcode-attempts-explained/mobile-phone/",
-      "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2026/03/unwire-1774343832-scaled.jpg",
-      "publishedAt": "2026-03-24T11:35:45Z",
-      "content": "iPhone PayMe\r\niPhone \r\nFace ID 10 \r\n10 \r\n10 \r\n iOS 10 \r\n8 \r\nApple ID \r\n Apple ID Apple ID Apple Email 2FA 6 \r\niCloud \r\n iCloud \r\niPhone Secure Enclave iPhone 10 Secure Enclave Crypto-shredding Apple … [+51 chars]"
+      "author": "bringatrailer",
+      "title": "2021 Porsche 718 Cayman GT4 at No Reserve",
+      "description": "This 2021 Porsche 718 Cayman GT4 is powered by a 4.0-liter flat-six linked to a seven-speed PDK dual-clutch automatic transaxle and features an Akrapovič exhaust system. The exterior is finished in Chalk, and the cabin is appointed with black leather and Race…",
+      "url": "https://bringatrailer.com/listing/2021-porsche-718-cayman-gt4-33/",
+      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/03/2021_porsche_718-cayman-gt4_RollerGT4-1-33403-scaled.jpg",
+      "publishedAt": "2026-04-01T16:45:50Z",
+      "content": "This 2021 Porsche 718 Cayman GT4 is powered by a 4.0-liter flat-six linked to a seven-speed PDK dual-clutch automatic transaxle and features an Akrapovi exhaust system. The exterior is finished in Ch… [+2572 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "DIE WELT"
+        "name": "tomandlorenzo.com"
       },
-      "author": "Anja Ettel,Michael Höfling",
-      "title": "„Wir beobachten ein Bargeld-Paradoxon“",
-      "description": "In unsicheren Zeiten richtet sich der Blick auf die Notenbanken: Im Interview spricht Bundesbank-Vorstand Balz über das „Kernprodukt“ Bargeld und seinen „digitalen Zwilling“. Balz ist sich sicher: „Der digitale Euro wird kommen.“",
-      "url": "https://www.welt.de/finanzen/article69bead29e2b1286a2c52512f/wir-beobachten-ein-bargeld-paradoxon-sagt-bundesbank-vorstand-burkhard-balz.html",
-      "urlToImage": "https://images.welt.de/69bead29e2b1286a2c52512f/bd98c84c617b127134996a8e3ffc217b/ci16x9-w1200/dpa-com-20090101-251222-935-1035683-jpg",
-      "publishedAt": "2026-03-24T11:35:19Z",
-      "content": "In unsicheren Zeiten richtet sich der Blick auf die Notenbanken: Im Interview spricht Bundesbank-Vorstand Balz über das Kernprodukt Bargeld und seinen digitalen Zwilling. Balz ist sich sicher: Der di… [+8421 chars]"
+      "author": "Lorenzo Marquez",
+      "title": "THE DRAMA Star Zendaya in Erdem at the GOOD MORNING AMERICA Studios",
+      "description": "Apparently, Zendaya and her stylist Law Roach threw out the “Something old, something new, something borrowed and something blue” style directive for her promo tour for The Drama. Going by her outfit at Good Morning America this morning, they’ve moved on to “…",
+      "url": "https://tomandlorenzo.com/2026/04/the-drama-star-zendaya-in-erdem-at-the-good-morning-america-studios/",
+      "urlToImage": "https://tomandlorenzo.com/wp-content/uploads/2026/04/Zendaya-The-Drama-Good-Morning-America-TV-Style-Fashion-Erdem-Tom-Lorenzo-Site-1.jpg",
+      "publishedAt": "2026-04-01T16:45:17Z",
+      "content": "Archives: \r\nSelect\r\n April 2026 \r\n March 2026 \r\n February 2026 \r\n January 2026 \r\n December 2025 \r\n November 2025 \r\n October 2025 \r\n September 2025 \r\n August 2025 \r\n July 2025 \r\n June 2025 \r\n May 2025… [+4010 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Toys"
+        "name": "The Atlantic"
       },
-      "author": "Justin Kahn",
-      "title": "Selling out quick: 15-inch 16GB M4 MacBook Air down at $949 in early Amazon spring sale ($300+ under least pricey M5)",
-      "description": "Amazon’s M4 MacBook Air clearance deals roll on but the options are getting tight and several colors have already sold out. One of the more notable of the bunch is the least expensive 15-inch model that landed in its early Big Spring Sale down at $949, or $25…",
-      "url": "http://9to5toys.com/2026/03/24/15-inch-16gb-m4-macbook-air-early-amazon-spring-sale/",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/06/M4-MacBook-Air-16GB.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-03-24T11:35:08Z",
-      "content": "Amazons M4 MacBook Air clearance deals roll on but the options are getting tight and several colors have already sold out. One of the more notable of the bunch is the least expensive 15-inch model th… [+1301 chars]"
+      "author": "Laura Secor",
+      "title": "Someday in Tehran",
+      "description": "The heartbreak of hoping for a democratic Iran",
+      "url": "https://www.theatlantic.com/magazine/2026/05/iran-us-israel-war-democracy-women/686583/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/WQ7Ugt15JBCfH1YgCei79zG00kA=/0x0:5700x2969/1200x625/media/img/2026/04/ABA2006014W00069_06_1/original.jpg",
+      "publishedAt": "2026-04-01T16:45:00Z",
+      "content": "This article was featured in the One Story to Read Today newsletter. Sign up for it here.Like Donald Trump, I, too, once underestimated the Islamic Republic of Iran. In the fall of 2004, as an undere… [+23961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Zac Hall",
+      "title": "Apple at 50: How the company’s shift into health changed my life at 25",
+      "description": "This story is part of 9to5mac’s series celebrating Apple’s 50th anniversary.\n\n\n\nApril 1, 1976: 50 years ago, Apple was founded. 40 years later, to the date, I was a 25-year-old embarking on a health and fitness journey, and Apple was right at the core.\n\n\n\nApr…",
+      "url": "https://9to5mac.com/2026/04/01/apple-at-50-how-the-companys-shift-into-health-changed-my-life-at-25/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-watch-decade-running.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-04-01T16:45:00Z",
+      "content": "This story is part of 9to5macs series celebrating Apples 50th anniversary.\r\nApril 1, 1976: 50 years ago, Apple was founded. 40 years later, to the date, I was a 25-year-old embarking on a health and … [+2875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zive.cz"
+      },
+      "author": "Jan Spěšný",
+      "title": "Apple slaví 50 let. Připomeňte si klíčové okamžiky, které vedly z garáže až k největší firmě světa",
+      "description": "Macintosh, iPad nebo iPhone zná téměř každý. V padesátileté historii společnosti Apple ale nešlo jen o slavné produkty. Firmu formovaly také návraty zakladatelů, nečekaná partnerství, marketingové tahy i strategická rozhodnutí. V přehledné časové ose proto př…",
+      "url": "https://www.zive.cz/clanky/apple-slavi-50-let-pripomente-si-klicove-okamziky-ktere-vedly-z-garaze-az-k-nejvetsi-firme-sveta/sc-3-a-240190/default.aspx",
+      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=714883516",
+      "publishedAt": "2026-04-01T16:45:00Z",
+      "content": "Macintosh, iPad nebo iPhone zná tém kadý. V padesátileté historii spolenosti Apple ale nelo jen o slavné produkty. Firmu formovaly také návraty zakladatel, neekaná partnerství, marketingové tahy i st… [+4854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Omar Gallaga",
+      "title": "Iran Threatens to Strike US Tech Companies in the Middle East",
+      "description": "US tech companies, including Apple, Google, Microsoft and Tesla, are being warned that they are being considered \"legitimate targets.\"",
+      "url": "https://www.cnet.com/news/politics/us-tech-companies-are-being-targeted-by-irans-revolutionary-guard/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ead920dd5702807670449ddbb88f44c106eec034/hub/2026/04/01/00afbd46-2b7c-4252-9f11-ed19221bb9f6/gettyimages-2265951161.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-04-01T16:43:40Z",
+      "content": "Iran threatened on Tuesday to strike facilities in the Middle East owned by US technology companies as part of the escalating war that began with US and Israeli strikes at the end of February.\r\nIn a … [+1192 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "David Nield",
+      "title": "Your iPhone could be getting a Grammarly-style upgrade for its keyboard when iOS 27 launches",
+      "description": "There are rumors of alternative word suggestions for the iOS keyboard, but nothing is certain yet.",
+      "url": "https://www.techradar.com/phones/iphone/your-iphone-could-be-getting-a-grammarly-style-upgrade-for-its-keyboard-when-ios-27-launches",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5Gb782wc3afsZS55DNk4SB-1920-80.jpg",
+      "publishedAt": "2026-04-01T16:41:16Z",
+      "content": "<ul><li>Apple may enhance autocorrect with iOS 27, according to new rumors</li><li>The upgrade is said to be similar to the Grammarly tool</li><li>A final decision has still to be taken on the featur… [+2554 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "Roman Loyola",
+      "title": "Apple already slashed the Display XDR price by $400",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nLess than a month ago, Apple started selling its new Studio Display XDR for $3,299/£2,999, with either a VESA mount or a stand. However, on Wednesday, Apple changed the price of the VESA mount model, reducing it by $400/£400 to $2,899/£2,599.…",
+      "url": "https://www.macworld.com/article/3104724/apple-already-slashed-the-display-xdr-price-by-400.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/04/applestudiodisplayxdr-1.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2026-04-01T16:39:03Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nLess than a month ag… [+1540 chars]"
     },
     {
       "source": {
@@ -73,194 +138,129 @@
         "name": "Donanimhaber.com"
       },
       "author": "",
-      "title": "Apple Haritalar'da reklam dönemi: İlk tarih paylaşıldı",
-      "description": "Apple'ın reklamlı Haritalar uygulaması planı netlemeye başladı. Yeni raporlara göre, duyuru tarihi yaklaşırken, reklamların yaz aylarında kullanıcılara sunulacağı ortay çıktı.",
-      "url": "https://www.donanimhaber.com/apple-haritalar-da-reklam-donemi-ilk-tarih-paylasildi--203562",
-      "urlToImage": "https://www.donanimhaber.com/images/images/haber/203562/src_340x1912xapple-haritalar-da-reklam-donemi-ilk-tarih-paylasildi.jpg",
-      "publishedAt": "2026-03-24T11:35:00Z",
-      "content": "a').click(); event.preventDefault();\"&gt;Tam Boyutta GörApple'n uzun süredir gündemde olan Haritalar uygulamasna reklam ekleme plan, artk daha somut bir aamaya geçmeye balad. Daha önce ortaya çkan id… [+1489 chars]"
+      "title": "iPhone 17e vs Galaxy S26: Ucuz iPhone mu, güçlü Android mi?",
+      "description": "Akıllı telefon pazarında rekabet artık sadece en güçlü modeli seçmekten ibaret değil. Peki Galaxy S26, iPhone 17e karşısında neler sunuyor? İşte Galaxy S26 vs iPhone 17e.",
+      "url": "https://www.donanimhaber.com/iphone-17e-vs-galaxy-s26-ucuz-iphone-mu-guclu-android-mi--203915",
+      "urlToImage": "https://www.donanimhaber.com/images/images/haber/203915/src_340x1912xiphone-17e-vs-galaxy-s26-ucuz-iphone-mu-guclu-android-mi.jpg",
+      "publishedAt": "2026-04-01T16:39:00Z",
+      "content": "a').click(); event.preventDefault();\"&gt;Tam Boyutta GörSamsung, geçtiimiz ubat aynda imdiye kadarki en güçlü telefonlar Galaxy S26 serisini duyurdu. Peki Galaxy S26, iPhone 17 serisinin uygun fiyatl… [+5694 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Everyeye.it"
+        "name": "ifun.de › Apple-News seit 2001"
       },
-      "author": "Alessio Marino",
-      "title": "Passo indietro di Samsung per Galaxy S27 Ultra: cosa dicono gli ultimi rumor",
-      "description": "Secondo rumor, Galaxy S27 Ultra manterrà la S-Pen tradizionale e potrebbe avere un sensore da 200 MP, niente nuovo display più sottile.Il Galaxy S26 Ultra è da poco approdato sul mercato me nel frattempo sono emersi i primi rumor sul Galaxy S27 Ultra, lo smar…",
-      "url": "https://tech.everyeye.it/notizie/passo-samsung-galaxy-s27-ultra-cosa-dicono-rumor-867331.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/passo-samsung-galaxy-s27-ultra-cosa-dicono-rumor-v3-867331.jpg",
-      "publishedAt": "2026-03-24T11:35:00Z",
-      "content": "Il Galaxy S26 Ultra è da poco approdato sul mercato me nel frattempo sono emersi i primi rumor sul Galaxy S27 Ultra, lo smartphone top di gamma 2027 che Samsung dovrebbe lanciare il prossimo anno sul… [+1491 chars]"
+      "author": "Nicolas",
+      "title": "macshot: Open-Source-Alternative für Screenshots auf dem Mac",
+      "description": "Mit macOS liefert Apple seit Jahren ein integriertes Werkzeug für Bildschirmaufnahmen. Für einfache Screenshots reicht das aus, bei erweiterten Anforderungen stoßen Nutzer jedoch schnell an Grenzen. Genau hier setzt die noch relativ junge Mac-Applikation macs…",
+      "url": "https://www.ifun.de/macshot-open-source-alternative-fuer-screenshots-auf-dem-mac-277317/",
+      "urlToImage": "https://images.ifun.de/wp-content/uploads/2026/04/macshot-feature.jpg",
+      "publishedAt": "2026-04-01T16:38:33Z",
+      "content": "Mit macOS liefert Apple seit Jahren ein integriertes Werkzeug für Bildschirmaufnahmen. Für einfache Screenshots reicht das aus, bei erweiterten Anforderungen stoßen Nutzer jedoch schnell an Grenzen. … [+2022 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "alexblake.techradar@gmail.com (Alex Blake) , Alex Blake",
+      "title": "‘A computer should be yours’: Framework CEO blasts the MacBook Neo over a core difference between the laptops",
+      "description": "Framework’s founder says Apple’s MacBook Neo isn’t repairable enough and is made with a different philosophy in mind.",
+      "url": "https://www.techradar.com/computing/a-computer-should-be-yours-framework-ceo-blasts-the-macbook-neo-over-a-core-difference-between-the-laptops",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BvvtntWxUZZ4vwtwPfZoUW-2000-80.jpg",
+      "publishedAt": "2026-04-01T16:37:55Z",
+      "content": "<ul><li>Framework’s CEO says the MacBook Neo isn’t repairable enough</li><li>The founder says Apple’s laptop is made to entice you into the walled garden</li><li>But the reality might not be as simpl… [+4536 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Journal du geek"
+        "name": "Pypi.org"
       },
-      "author": "Julie Hay",
-      "title": "Pourquoi ce petit bouton sur votre télécommande agace Canal+, Warner Bros et TF1 ?",
-      "description": "Derrière les recommandations de votre téléviseur, une bataille discrète se joue. TF1, Canal+ ou encore Warner Bros accusent les géants de la tech d’influencer ce que vous regardez — et demandent à Bruxelles de reprendre la main.",
-      "url": "https://www.journaldugeek.com/2026/03/24/pourquoi-ce-petit-bouton-sur-votre-telecommande-agace-canal-warner-bros-et-tf1/",
-      "urlToImage": "https://www.journaldugeek.com/app/uploads/2026/03/telecommande-union-europeenne--1600x900.jpg",
-      "publishedAt": "2026-03-24T11:34:39Z",
-      "content": "TF1, Canal+, Paramount et Warner Bros ne voient pas les Smart TV et les assistants vocaux d’un très bon il. Selon Reuters, l’Association des services de télévision commerciale et de vidéo à la demand… [+3572 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Paul Tan's Automotive News"
-      },
-      "author": "Mick Chan",
-      "title": "GWM Ora 5 Hybrid – 1.5L turbo petrol and e-motor, 223 PS and 476 Nm combined; from RM88k in Thailand",
-      "description": "The GWM Ora 5 has now been shown in Thailand at the 2026 Bangkok International Motor Show (BIMS 2026), and the Chinese manufacturer’s electric crossover has been displayed in Ora 5 HEV form with a […]\nThe post GWM Ora 5 Hybrid – 1.5L turbo petrol and e-motor,…",
-      "url": "https://paultan.org/2026/03/24/gwm-ora-5-hybrid-1-5l-turbo-petrol-and-e-motor-223-ps-and-476-nm-combined-from-rm88k-in-thailand/",
-      "urlToImage": "https://paultan.org/image/2026/03/2026-BIMS-GWM-Ora-5-1-1200x801.jpg",
-      "publishedAt": "2026-03-24T11:31:11Z",
-      "content": "The GWM Ora 5 has now been shown in Thailand at the 2026 Bangkok International Motor Show (BIMS 2026), and the Chinese manufacturer’s electric crossover has been displayed in Ora 5 HEV form with a hy… [+3830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Paul Tan's Automotive News"
-      },
-      "author": "Durrani Sharom",
-      "title": "Toyota Land Cruiser FJ di Thailand – satu varian 4WD, enjin NA 2.7L 166 PS/245 Nm, 6AT, harga dari RM152k",
-      "description": "Meskipun ramai yang masih bercuti sempena Hari Raya, beberapa orang rakan sekerja kami berada di Thailand untuk liputan langsung acara Bangkok International Motor Show 2026. Antara model yang mencuri tumpuan pada pembukaan liputan kali ini ialah Toyota Land C…",
-      "url": "https://paultan.org/2026/03/24/toyota-land-cruiser-fj-di-thailand-satu-varian-4wd-enjin-na-2-7l-166-ps-245-nm-6at-harga-dari-rm152k/",
-      "urlToImage": "https://paultan.org/image/2026/03/2026-BIMS-Toyota-Land-Cruise-FJ-1-BM-1200x801.jpg",
-      "publishedAt": "2026-03-24T11:30:59Z",
-      "content": "Meskipun ramai yang masih bercuti sempena Hari Raya, beberapa orang rakan sekerja kami berada di Thailand untuk liputan langsung acara Bangkok International Motor Show 2026. Antara model yang mencuri… [+3518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Applesfera.com"
-      },
-      "author": "Alberto García",
-      "title": "El iPhone Air vuelve a bajar de precio, y lo mejor es que no ha sido en su configuración mínima",
-      "description": "El iPhone Air es de los pocos móviles de Apple que se han lanzado de oferta en estos últimos años y poco a poco lo vamos encontrando con precios mucho más competitivos. La última que ha recibido ha caído en una buena configuración de almacenamiento, ya que lo…",
-      "url": "https://www.applesfera.com/seleccion/iphone-air-vuelve-a-bajar-precio-mejor-que-no-ha-sido-su-configuracion-minima",
-      "urlToImage": "https://i.blogs.es/f637d7/iphone-air/840_560.jpeg",
-      "publishedAt": "2026-03-24T11:30:54Z",
-      "content": "El iPhone Air es de los pocos móviles de Apple que se han lanzado de oferta en estos últimos años y poco a poco lo vamos encontrando con precios mucho más competitivos. La última que ha recibido ha c… [+2486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pleated-jeans.com"
-      },
-      "author": "Mike",
-      "title": "50 Bad Designs So Dangerous These Designers Should Be Out Of A Career",
-      "description": "The post 50 Bad Designs So Dangerous These Designers Should Be Out Of A Career appeared first on Pleated Jeans.",
-      "url": "https://pleated-jeans.com/2026/03/24/dangerous-design-fails/",
-      "urlToImage": "https://pleated-jeans.com/wp-content/uploads/2024/10/dangerous-design-fails.jpg",
-      "publishedAt": "2026-03-24T11:30:02Z",
-      "content": "When design goes wrong, its usually funnybut sometimes, its straight-up dangerous. These design fails are the perfect example of what happens when someone gets way too focused on making things look c… [+3264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Golem.de"
-      },
-      "author": "Tobias Költzsch",
-      "title": "Apple: WWDC 2026 startet am 8. Juni",
-      "description": "Apple veranstaltet zwischen dem 8. und 12. Juni 2026 seine Entwicklerkonferenz WWDC. Erwartet werden neue Versionen der Apple-Betriebssysteme. (Apple, Betriebssysteme)",
-      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fapple-wwdc-2026-startet-am-8-juni-2603-206857.html&referer=https%3A%2F%2Ft.co%2F744aa07d78",
+      "author": null,
+      "title": "mlx-stack 0.1.0",
+      "description": "CLI control plane for local LLM infrastructure on Apple Silicon",
+      "url": "https://pypi.org/project/mlx-stack/0.1.0/",
       "urlToImage": null,
-      "publishedAt": "2026-03-24T11:30:01Z",
-      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+      "publishedAt": "2026-04-01T16:37:13Z",
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "heise online"
+        "name": "Pypi.org"
       },
-      "author": "Johannes Schuster",
-      "title": "heise+ | MacBook Pro M5 Pro im Test: Das Pro im Pro",
-      "description": "Wie reiht sich das MacBook Pro mit M5 Pro zwischen den anderen  Varianten mit einfachem M5 und M5 Max ein? Performance, SSD, Lüfter und mehr im Test.",
-      "url": "https://www.heise.de/tests/MacBook-Pro-M5-Pro-im-Test-Das-Pro-im-Pro-11222433.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/5/1/1/0/8/mi_06_macbookprom5_aufmacher_digital-ad8651f2bfa2f4da.png",
-      "publishedAt": "2026-03-24T11:30:00Z",
-      "content": "Inhaltsverzeichnis\r\nIm März hat Apple seine MacBook-Pro-Reihe mit den Prozessoren M5 Pro und M5 Max aktualisiert. Das MacBook Pro mit dem einfachen M5 war schon im Oktober 2025 auf den Markt gekommen… [+809 chars]"
+      "author": null,
+      "title": "mlx-stack added to PyPI",
+      "description": "CLI control plane for local LLM infrastructure on Apple Silicon",
+      "url": "https://pypi.org/project/mlx-stack/",
+      "urlToImage": null,
+      "publishedAt": "2026-04-01T16:37:09Z",
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.jp"
+        "name": "9to5Toys"
       },
-      "author": "はらいさん",
-      "title": "Quick ShareとAirDrop間のデータ共有機能。Galaxy S26シリーズでも使えるように",
-      "description": "Image:SamsungNewsroomまずは韓国で提供スタート。Android（QuickShare）とiPhone（AirDrop）間でスムーズなデータのやり取りが可能になったとGoogle（グーグル）から発表されたのは、昨年11月末のこと。Android側の対応機種はまだまだ少ない状況ですが、なんとSamsung（サムスン）GalaxyS26シリーズのQuickShareが、AppleのA",
-      "url": "https://www.gizmodo.jp/2026/03/quick-share-airdrop.html",
-      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2026/03/24/260324quickshare.jpg?w=1280&h=630&f=jpg",
-      "publishedAt": "2026-03-24T11:30:00Z",
-      "content": "AndroidQuick ShareiPhoneAirDropGoogle11\r\nAndroidSamsungGalaxy S26Quick ShareAppleAirDrop\r\nImage: Samsung Newsroom\r\nSamsung NewsroomQuick ShareAirDrop323()\r\nGalaxy S26GalaxyGalaxy Z Fold7Galaxy Z Flip… [+42 chars]"
+      "author": "Simon Walsh",
+      "title": "Keep tabs on your luggage with this Apple Find My tag, now $21.50 (Reg. $30)",
+      "description": "ExtreLife Apple Find My Luggage Tag\n\n\n\nBuy for $21.50 (Reg. $30)\n\n\n\n\n\n\n\n\r\n\n\r\n\n\n\n\nWhat we love\r\n\n\n\n\nIt doesn’t matter if you have a trip around the corner or simply want to get ahead while the price is right, here’s a chance to affordably add Apple Find My cap…",
+      "url": "http://9to5toys.com/2026/04/01/extrelife-apple-find-my-luggage-tag-2/",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/04/ExtreLife-Apple-Find-My-Luggage-Tag.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-04-01T16:36:00Z",
+      "content": "What we love\r\nIt doesn’t matter if you have a trip around the corner or simply want to get ahead while the price is right, here’s a chance to affordably add Apple Find My capabilites to your luggage.… [+95 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lorenzo Franceschi-bicchierai",
+      "title": "WhatsApp notifies hundreds of users who installed a fake app that was actually government spyware | TechCrunch",
+      "description": "The Meta-owned company said it identified around 200 users who were tricked into installing a fake version of WhatsApp that was actually Italian-made spyware.",
+      "url": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/whatsapp-logo-notification-badge.jpg?resize=1200,800",
+      "publishedAt": "2026-04-01T16:35:28Z",
+      "content": "WhatsApp says it has notified around 200 users who were tricked into installing a malicious fake version of the chat app that contained government spyware. \r\nWhatsApp accused Italian spyware maker SI… [+2529 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "heise online"
+        "name": "9to5Mac"
       },
-      "author": "Johannes Schuster",
-      "title": "heise+ | MacBook Pro M5 Pro im Test: Pro im Pro",
-      "description": "Wie reiht sich das MacBook Pro mit M5 Pro zwischen den anderen  Varianten mit einfachem M5 und M5 Max ein? Performance, SSD, Lüfter und mehr im Test.",
-      "url": "https://www.heise.de/tests/MacBook-Pro-M5-Pro-im-Test-Pro-im-Pro-11222433.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/5/1/1/0/8/mi_06_macbookprom5_aufmacher_digital-ad8651f2bfa2f4da.png",
-      "publishedAt": "2026-03-24T11:30:00Z",
-      "content": "Inhaltsverzeichnis\r\nIm März hat Apple seine MacBook-Pro-Reihe mit den Prozessoren M5 Pro und M5 Max aktualisiert. Das MacBook Pro mit dem einfachen M5 war schon im Oktober 2025 auf den Markt gekommen… [+805 chars]"
+      "author": "Zac Hall",
+      "title": "Eddy Cue to appear on TBPN to discuss Apple’s 50th anniversary today",
+      "description": "Eddy Cue, Apple’s senior vice president of Services and Health, will make a video podcast appearance this afternoon as part of Apple’s 50th anniversary.\n\n\n\n more…",
+      "url": "https://9to5mac.com/2026/04/01/eddy-cue-to-appear-on-tbpn-to-discuss-apples-50th-anniversary-today/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/eddy-cue.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-04-01T16:35:03Z",
+      "content": "Eddy Cue, Apples senior vice president of Services and Health, will make a video podcast appearance this afternoon as part of Apple’s 50th anniversary.\r\nCue will join Jordi Hays and John Coogan on TB… [+388 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Macitynet.it"
+        "name": "MacGeneration"
       },
-      "author": "Mauro Notarianni",
-      "title": "LG ha avviato la produzione di pannelli LCD con refresh rate da 1 a 120 Hz",
-      "description": "LG Display ha avviato la produzione di pannelli LCD destinati ai portatili che sfruttano la tecnologia Oxide a 1Hz, in grado di di regolare automaticamente il refresh rate tra 1Hz e 120Hz in base all’attività sullo schermo.\n- su macitynet.it LG ha avviato la …",
-      "url": "https://www.macitynet.it/tecnologia-oxide-1hz-di-lg/",
-      "urlToImage": "https://www.macitynet.it/wp-content/uploads/2026/03/lgoxide.jpg",
-      "publishedAt": "2026-03-24T11:29:53Z",
-      "content": "Conosciamo orami i display con refresh rate adattivo da 1 Hz fino a 120 Hz degli iPhone Pro ma questa tecnologia non è ancora arrivata su Mac: i display dei MacBook Pro offrono refresh rate che posso… [+2296 chars]"
+      "author": "Pierre Dandumont",
+      "title": "JetStream, le logiciel de test pour les navigateurs d'Apple, passe en version 3.0",
+      "description": "Plus de six ans après la version 2.0, le banc de test JetStream passe en version 3.0. Si JetStream était à l'origine développé par Apple, ce n'est pas totalement le cas pour cette nouvelle version : le communiqué de présentation est très clair et explique qu'…",
+      "url": "https://www.macg.co/logiciels/2026/04/jetstream-le-logiciel-de-test-pour-les-navigateurs-dapple-passe-en-version-30-307801",
+      "urlToImage": "https://cdn.mgig.fr/2026/04/mga-abffd4d4-w375-w1500-w750_accroche.jpg",
+      "publishedAt": "2026-04-01T16:35:00Z",
+      "content": "Plus de six ans après la version 2.0, le banc de test JetStream passe en version 3.0. Si JetStream était à l'origine développé par Apple, ce n'est pas totalement le cas pour cette nouvelle version : … [+1511 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Actualidadiphone.com"
+        "name": "Pypi.org"
       },
-      "author": "Cristian Garcia",
-      "title": "Las mejores apps para crear tus propios juegos en iPhone",
-      "description": "Descubre las mejores apps para crear tus propios juegos en iPhone, sin saber programar, y cómo publicarlos con éxito en la App Store.",
-      "url": "https://www.actualidadiphone.com/apps-para-crear-tus-propios-juegos-en-iphone/",
-      "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2026/03/iPhone-17-Air-con-pantalla-de-cristal-liquido.jpg",
-      "publishedAt": "2026-03-24T11:29:09Z",
-      "content": "Si alguna vez has pensado eso de ojalá pudiera programar y probar mis propios juegos directamente en el iPhone mientras voy en el metro o estoy tirado en el sofá, que sepas que no eres el único. Cada… [+24250 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Imagazine.pl"
-      },
-      "author": "Wojtek Pietrusiewicz",
-      "title": "579: Testujemy Sony A7R V i 50-150 F2 w Japonii | Nadgryzieni",
-      "description": "W tym odcinku prowadzący rozpoczynają od serii domowo-technologicznych follow-upów (m.in. na temat smart home i czujników czadu), by płynnie przejść do bogatej sekcji newsowej, w której dyskutują o wycofaniu Dolby Vision przez Disney+ w Europie, o Nvidia DLSS…",
-      "url": "https://imagazine.pl/2026/03/24/579-testujemy-sony-a7r-v-i-50-150-f2-w-japonii-nadgryzieni/",
-      "urlToImage": "https://imagazine.pl/wp-content/uploads/2026/03/Nadgryzieni-YouTube-Thumbnail-2026-579-v01.jpg",
-      "publishedAt": "2026-03-24T11:28:58Z",
-      "content": "W tym odcinku prowadzcy rozpoczynaj od serii domowo-technologicznych follow-upów (m.in. na temat smart home i czujników czadu), by pynnie przej do bogatej sekcji newsowej, w której dyskutuj o wycofan… [+3395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Larazon.es"
-      },
-      "author": "Christian, Collado",
-      "title": "Oficial: este es el día en que podrás comenzar a llevar el DNI en el móvil",
-      "description": "La Policía Nacional confirma el lanzamiento de la app MiDNI para el próximo 2 de abril",
-      "url": "https://www.larazon.es/tecnologia-consumo/internet/oficial-este-es-el-dia-en-que-podras-comenzar-a-llevar-el-dni-en-el-movil_2026032469c274c39020e74cfbe01429.html",
-      "urlToImage": "https://fotografias-2.larazon.es/assets/tecnologia-consumo/2025/04/app-midni-interfaz-principal.jpg?width=1200",
-      "publishedAt": "2026-03-24T11:26:50Z",
-      "content": "El momento que muchos españoles llevan esperando desde hace años, por fin está a punto de hacerse realidad. Tras varios años de desarrollo y fases de pruebas controladas, la Dirección General de la P… [+2619 chars]"
+      "author": "support@lorislab.fr",
+      "title": "apple-device-specs added to PyPI",
+      "description": "Python client for the Apple Device Specs API by LorisLabs",
+      "url": "https://pypi.org/project/apple-device-specs/",
+      "urlToImage": null,
+      "publishedAt": "2026-04-01T16:34:59Z",
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
     }
   ]
 }

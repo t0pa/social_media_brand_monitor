@@ -1,266 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 35228,
+  "totalResults": 39971,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "STERN.de"
+        "name": "Android Headlines"
       },
-      "author": "STERN.de",
-      "title": "Extremismus: Verfassungsschutz startet Offensive im Netz",
-      "description": "Neue Strategie gegen digitale Radikalisierung: NRW schlägt Alarm vor \"Active Clubs\", russischen Agenten und linksextremen Netzwerken – und setzt dabei auf Reichweite im Netz.",
-      "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/extremismus--verfassungsschutz-startet-offensive-im-netz-37250124.html",
-      "urlToImage": "https://image.stern.de/37250126/t/yg/v1/w1440/r1.7778/-/24--ooqbwfovudv9axs2048jpeg---ad0c444fa3b9ea9b.jpg",
-      "publishedAt": "2026-03-24T11:08:31Z",
-      "content": "Kopiere den aktuellen Link\r\nZur Merkliste hinzufügen\r\nNeue Strategie gegen digitale Radikalisierung: NRW schlägt Alarm vor \"Active Clubs\", russischen Agenten und linksextremen Netzwerken und setzt da… [+1982 chars]"
+      "author": "Alexander Maxham",
+      "title": "Iran Threatens To Attack Apple, Google, NVIDIA, and Microsoft as US Tech Giants Become War Targets",
+      "description": "Iran is reportedly threatening to attack some of America's largest tech companies. These include NVIDIA, Apple, Microsoft, and Google. As the supposed war",
+      "url": "https://www.androidheadlines.com/2026/04/iran-threatens-to-attack-apple-google-nvidia-and-microsoft-as-us-tech-giants-become-war-targets.html",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/07/Google-Logo-AM-AH-7.jpg",
+      "publishedAt": "2026-04-01T16:20:48Z",
+      "content": "Iran is reportedly threatening to attack some of Americas largest tech companies. These include NVIDIA, Apple, Microsoft, and Google. As the supposed war with Iran continues. \r\nIrans Islamic Revoluti… [+1616 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Everyeye.it"
+        "name": "MacRumors"
       },
-      "author": "Aurelio Sanguinetti",
-      "title": "Questo sottomarino sovietico sta perdendo materiale radioattivo in pieno oceano",
-      "description": "Il relitto del Komsomolets, affondato nel 1989, continua a rilasciare materiale radioattivo, minacciando l'ambiente marino.Il sottomarino sovietico K-278 Komsomolets affondò nelle fredde acque del Mar di Norvegia poco prima del crollo dell'Unione sovietica, a…",
-      "url": "https://tech.everyeye.it/notizie/sottomarino-sovietico-perdendo-materiale-radioattivo-oceano-867323.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/questo-sottomarino-sovietico-perdendo-materiale-radioattivo-oceano-v3-867323.jpg",
-      "publishedAt": "2026-03-24T11:07:00Z",
-      "content": "Il sottomarino sovietico K-278 Komsomolets affondò nelle fredde acque del Mar di Norvegia poco prima del crollo dell'Unione sovietica, a seguito di un incendio che si propagò nell'aprile del 1989. \r\n… [+2999 chars]"
+      "author": "Joe Rossignol",
+      "title": "Apple CEO Tim Cook Explains His Relationship With Trump",
+      "description": "Apple's CEO Tim Cook has maintained a working relationship with U.S. President Donald Trump, and he touched on that in a recent interview.\n\n\n\n\n\nCook sat down with Esquire's Ryan D'Agostino to discuss Apple's 50th anniversary, but he was also asked about how h…",
+      "url": "https://www.macrumors.com/2026/04/01/tim-cook-discusses-trump/",
+      "urlToImage": "https://images.macrumors.com/t/OJGkkqovkynTxND8f8MjuDBHWx4=/1920x/article-new/2026/04/Tim-Cook-and-Donald-Trump.jpg",
+      "publishedAt": "2026-04-01T16:20:07Z",
+      "content": "Apple's CEO Tim Cook has maintained a working relationship with U.S. President Donald Trump, and he touched on that in a recent interview.\r\nCook sat down with Esquire's Ryan D'Agostino to discuss App… [+1958 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Numerama"
       },
-      "author": null,
-      "title": "Nvidia Stock Could Become the Next Apple. Here's What It Means for Investors.",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9177ee1e-181a-4bf3-a166-d0fdd7d7aeb8",
-      "urlToImage": null,
-      "publishedAt": "2026-03-24T11:05:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+      "author": "Camille Allard",
+      "title": "Les Nerfs à vif : le remake Apple TV du film culte de 1991 dévoile ses premières images",
+      "description": "35 ans après la version culte de Scorsese, Les Nerfs à vif s’apprête à faire son grand retour, cette fois sur le petit écran. Apple TV vient de mettre en ligne les premières images de sa série Cape Fear, portée par un face-à-face qui s'annonce déjà historique…",
+      "url": "https://www.numerama.com/pop-culture/2224061-les-nerfs-a-vif-le-remake-apple-tv-du-film-culte-de-1991-devoile-ses-premieres-images.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/capture-decran-2026-04-01-a-163651.jpg?resize=1600,900&key=b89bdf99&watermark",
+      "publishedAt": "2026-04-01T16:19:34Z",
+      "content": "35 ans après la version culte de Scorsese, Les Nerfs à vif s’apprête à faire son grand retour, cette fois sur le petit écran. Apple TV vient de mettre en ligne les premières images de sa série Cape F… [+3687 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Letemsvetemapplem.eu"
+        "name": "Consequence.net"
       },
-      "author": "Jiří Filip",
-      "title": "Apple Maps zaplaví reklamy a to už letos v létě!",
-      "description": "Zdá se, že Apple opět hledá nové cesty, jak vytěžit maximum ze svých služeb. Podle informací Bloombergu totiž plánuje už letos v létě začít zobrazovat reklamy přímo ve výsledcích vyhledávání v Apple Maps. Oznámení přitom podle zdrojů může dorazit klidně už bě…",
-      "url": "https://www.letemsvetemapplem.eu/2026/03/24/apple-maps-zaplavi-reklamy-a-to-uz-letos-v-lete/",
-      "urlToImage": "https://www.letemsvetemapplem.eu/wp-content/uploads/2025/03/Apple-Maps-chyba-2.jpg",
-      "publishedAt": "2026-03-24T11:04:16Z",
-      "content": "Zdá se, e Apple opt hledá nové cesty, jak vytit maximum ze svých slueb. Podle informací Bloombergu toti plánuje u letos v lét zaít zobrazovat reklamy pímo ve výsledcích vyhledávání v Apple Maps. Ozná… [+2254 chars]"
+      "author": "Kyle Meredith",
+      "title": "Steve Zahn and Audrey Zahn on She Dances, Family Filmmaking, and Small Town Life: Podcast",
+      "description": "The father and daughter actors discuss their new indie film, which was shot in their hometown.\nSteve Zahn and Audrey Zahn on She Dances, Family Filmmaking, and Small Town Life: Podcast\nKyle Meredith",
+      "url": "https://consequence.net/2026/04/steve-zahn-audrey-zahn-she-dances-interview/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2026/04/steve-zahn-audrey-zahn-she-dances-movie-interview-father-daughter-kyle-meredith-with-podcast.jpg",
+      "publishedAt": "2026-04-01T16:18:14Z",
+      "content": "Listen via: Apple Podcasts | Spotify | Amazon Podcasts | More Platforms \r\nThere’s something fitting about Steve Zahn making a movie about family alongside his daughter Audrey Zahn, especially when th… [+2276 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Moneycontrol"
+        "name": "9to5Mac"
       },
-      "author": "Moneycontrol Hindi",
-      "title": "टेस्टिंग के दौरान देखी गई 2027 Honda City Facelift, कई फीचर्स आए सामने",
-      "description": "2027 Honda City Facelift: भारत के एग्जीक्यूटिव सेडान सेगमेंट में 2026 में एक नया लाइनअप देखने को मिलेगा। Hyundai पहले ही Verna फेसलिफ्ट लॉन्च कर चुकी है, जबकि Skoda Slavia, VW Virtus और Honda City के फेसलिफ्ट तैयार किए जा रहे हैं। हाल ही में ब्राजील में टेस्ट…",
-      "url": "https://hindi.moneycontrol.com/auto/2027-honda-city-facelift-spied-testing-several-features-revealed-article-2385792.html",
-      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2026/03/honda-city-2.jpg",
-      "publishedAt": "2026-03-24T11:04:11Z",
-      "content": "2027 Honda City Facelift: 2026 Hyundai Verna , Skoda Slavia, VW Virtus Honda City \r\n spy Honda City facelift , - \r\n2026 Honda City facelift - ?\r\nHonda City facelift \r\n , , , \r\n , 2026 Honda City face… [+378 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Jim Edwards",
-      "title": "Trump searches for an exit strategy in Iran as $100 oil looms over the midterms",
-      "description": "Everything you need to know before you reach the office this morning.",
-      "url": "https://fortune.com/2026/03/24/trump-exit-strategy-iran-oil-price-midterms/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1228246303.jpg?resize=1200,600",
-      "publishedAt": "2026-03-24T11:03:41Z",
-      "content": "Oil was at $102 per barrel this morning. S&amp;P 500 futures were flat before the opening bell in New York. The index rose 1.15% on Monday. Asia had a good day: South Koreas KOSPI rose 2.74%. Japans … [+7072 chars]"
+      "author": "Zac Hall",
+      "title": "Apple TV 4K might break a record no one wants to see happen",
+      "description": "It makes sense that Apple TV 4K customers are vocal about the lack of new hardware. The current set-top box, introduced in 2022, runs the risk of breaking a record no one wants to see happen.\n\n\n\n more…",
+      "url": "https://9to5mac.com/2026/04/01/apple-tv-4k-might-break-a-record-no-one-wants-to-see-happen/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-04-01T16:17:44Z",
+      "content": "It makes sense that Apple TV 4K customers are vocal about the lack of new hardware. The current set-top box, introduced in 2022, runs the risk of breaking a record no one wants to see happen.\r\nThe go… [+1615 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Les Numériques"
+        "name": "Jablickar.cz"
       },
-      "author": "Alexandre Scotti",
-      "title": "Actualité : “La plus importante refonte de la gamme d’iPhone de l’histoire” : les projets d’Apple jusqu’en 2027 font rêver",
-      "description": "Oubliez les iPhone 18, Apple aurait deux modèles qui redessineraient sa gamme de smartphones d’ici la rentrée 2027.",
-      "url": "https://www.lesnumeriques.com/telephone-portable/la-plus-importante-refonte-de-la-gamme-d-iphone-de-l-histoire-les-projets-d-apple-jusqu-en-2027-font-rever-n253439.html",
-      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/25/253439/9c2f9788-la-plus-importante-refonte-de-la-gamme-d-iphone-de-l-histoire-les-projets-d-apple-jusqu-en-2027-font-rever__1200_678__0-542-6000-3692.jpg",
-      "publishedAt": "2026-03-24T11:03:00Z",
-      "content": "En bref<ul><li>Apple préparerait une refonte historique de sa gamme diPhone d'ici 2027, avec l'aide de John Ternus.</li><li>LiPhone Fold, premier smartphone pliant, et le modèle des 20 ans tout-en-ve… [+2434 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Larazon.es"
-      },
-      "author": "Manu, Contreras",
-      "title": "Tras 5 años en España, a Laurance Li no le vale que HONOR sea una marca sólo de móviles, quiere ser un gigante tecnológico en el Top 3 de España",
-      "description": "Entrevistamos a Laurance Li, el nuevo Country Manager de HONOR en España sobre las novedades presentadas en el Mobile World Congress y cómo la empresa crecerá en los próximos 3 años",
-      "url": "https://www.larazon.es/tecnologia-consumo/honor/entrevista-laurence-li-country-manager-honor-espana-mwc-crecimiento-plegables_2026032469a7e241e1ff634075d6f4a1.html",
-      "urlToImage": "https://fotografias-2.larazon.es/assets/2026/03/composicion-del-honor-robot-phone-y-laurence-li-honor-espana.jpg?width=1200",
-      "publishedAt": "2026-03-24T11:03:00Z",
-      "content": "Vender móviles ya no es suficiente. Pocas marcas tecnológicas quedan en el mundo que solo se dediquen a fabricar y vender móviles al haberse convertido en un producto que todo el mundo tiene y donde … [+5056 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Maclife.de"
-      },
-      "author": "Laura Bergmann",
-      "title": "Apple Maps bekommt Werbung – Start schon im Sommer",
-      "description": "Apple will noch in diesem Sommer Werbung in Apple Maps einführen. Unternehmen können dann auf Suchbegriffe bieten und prominent in den Ergebnissen erscheinen. (Weiterlesen)",
-      "url": "https://www.maclife.de/news/apple-maps-werbung-kommt-sommer-2026-mac-life-100126808.html",
-      "urlToImage": "https://www.maclife.de/media/maclife/styles/tec_frontend_opengraph/public/images/editors/2026_13/image-126808--4619016.jpg?itok=wvFOQVq9",
-      "publishedAt": "2026-03-24T11:02:15Z",
-      "content": "Apple plant, bereits im Sommer dieses Jahres Werbung in Apple Maps einzuführen. Wie Bloomberg berichtet, könnte das Unternehmen die Pläne noch in diesem Monat ankündigen. Die Maßnahme ist Teil der St… [+2579 chars]"
+      "author": "Amaya Tomanová",
+      "title": "Jak zrychlit odezvu Haptic Touch na iPhonu",
+      "description": "Dlouhý stisk na iPhonu používáme dnes prakticky všude. Otevírání nabídek, rychlé akce, práce s ikonami. Jenže ne každému vyhovuje, jak rychle (nebo spíš pomalu) reaguje. Dobrá zpráva je, že si odezvu můžete upravit a celý systém pak působí výrazně svižněji. A…",
+      "url": "https://jablickar.cz/jak-zrychlit-odezvu-haptic-touch-na-iphonu/",
+      "urlToImage": "https://jablickar.cz/wp-content/uploads/2025/09/iPhone-17-Pro-kryt2-LsA9.jpg",
+      "publishedAt": "2026-04-01T16:15:40Z",
+      "content": "Dlouhý stisk na iPhonu pouíváme dnes prakticky vude. Otevírání nabídek, rychlé akce, práce s ikonami. Jene ne kadému vyhovuje, jak rychle (nebo spí pomalu) reaguje. Dobrá zpráva je, e si odezvu mete … [+1165 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Libertaddigital.com"
       },
-      "author": "Federico Jiménez Losantos",
-      "title": "Entrevista a Perla Della Nave",
-      "description": "Federico e Isabel González hablan con Perla Della Nave, directora de la clínica Vericat.",
-      "url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/hablemos-con/2026-03-24/entrevista-a-perla-della-nave-7379373/",
-      "urlToImage": "https://s1.staticld.com//2021/09/07/1200/675/federico-podcast-2021.jpg",
-      "publishedAt": "2026-03-24T11:02:00Z",
+      "author": "Sergio Valentín",
+      "title": "Futbol es Radio /01/04/2026); Empate de España en medio de cánticos racistas",
+      "description": "Dani Blanco modera la tertulia con Luis Colom, Guillermo Domínguez y David Vinuesa",
+      "url": "https://esradio.libertaddigital.com/futbol-es-radio/2026-04-01/01-04-2026-empate-de-espana-en-medio-de-canticos-racistas-7383225/",
+      "urlToImage": "https://s1.staticld.com//2023/06/07/1200/675/futbol-2022b.jpeg",
+      "publishedAt": "2026-04-01T16:15:21Z",
       "content": "Escucha este programa en cualquier momento y lugar a través de los podcasts de Libertad Digital y esRadio. Descarga nuestra aplicación para iOs o Android, visita nuestra página web en esradio.fm, o e… [+315 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Isenacode.com"
+        "name": "Macerkopf.de"
       },
-      "author": "Isazul Site",
-      "title": "Apple y su habilidad para crear nombres cada vez más confusos",
-      "description": "No hace mucho tiempo, entender los productos de Apple era sencillo. Tenías un iPhone, un iPad y un Mac. Fin. No hacía falta un máster, ni un árbol genealógico, ni consultar a un experto tecnológico para saber qué estabas comprando. Pero algo cambió. En algún …",
-      "url": "https://isenacode.com/apple-y-su-habilidad-para-crear-nombres-cada-vez-mas-confusos/",
-      "urlToImage": "https://isenacode.com/wp-content/uploads/2026/03/IMG_2026-03-24-093720.png",
-      "publishedAt": "2026-03-24T11:01:38Z",
-      "content": "No hace mucho tiempo, entender los productos de Apple era sencillo. Tenías un iPhone, un iPad y un Mac. Fin. \r\nNo hacía falta un máster, ni un árbol genealógico, ni consultar a un experto tecnológico… [+2558 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "alexblake.techradar@gmail.com (Alex Blake) , Alex Blake",
-      "title": "What is the macOS Dock? Here’s how to master Apple’s taskbar rival on your brand-new MacBook Neo",
-      "description": "Learn how the macOS Dock works with our complete guide for new Mac users.",
-      "url": "https://www.techradar.com/computing/mac-os/what-is-the-macos-dock-heres-how-to-master-apples-taskbar-rival-on-your-brand-new-macbook-neo",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AzbXEriHnChcFK9AqCe3GZ-1129-80.jpg",
-      "publishedAt": "2026-03-24T11:01:02Z",
-      "content": "If you’ve just switched from Windows to macOS (possibly because the affordable MacBook Neo has won you over), there’s a lot to learn. While the two operating systems have plenty of similarities, ther… [+8797 chars]"
+      "author": "Volker",
+      "title": "Apple reduziert Studio Display XDR um 400 Euro",
+      "description": "Keine sechs Wochen nach dem Marktstart kostet das Studio Display XDR mit VESA-Adapter bei Apple und Amazon nur noch 3.099 Euro, statt der ursprünglichen 3.499 Euro. Die Version mit einem höhenverstellbaren Standfuß kostet bei Amazon jetzt 3.299 Euro. Apple bl…",
+      "url": "https://www.macerkopf.de/2026/04/01/apple-studio-display-xdr-reduziert/",
+      "urlToImage": "https://www.macerkopf.de/wp-content/uploads/2026/03/apple_studio_display_xdr-1.jpeg",
+      "publishedAt": "2026-04-01T16:15:10Z",
+      "content": "Keine sechs Wochen nach dem Marktstart kostet das Studio Display XDR mit VESA-Adapter bei Apple und Amazon nur noch 3.099 Euro, statt der ursprünglichen 3.499 Euro. Die Version mit einem höhenverstel… [+986 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hwupgrade.it"
+        "name": "Bavarian Football Works"
       },
-      "author": null,
-      "title": "Philips abbandona Google TV: arriva Titan OS nei modelli del 2026",
-      "description": "Philips abbandona Google TV nei modelli 2026 per adottare Titan OS, un sistema basato su web app e contenuti pubblicitari. La scelta offre maggiore controllo e ricavi, ma comporta limiti come meno app e niente Google Cast",
-      "url": "https://www.hwupgrade.it/news/web/philips-abbandona-google-tv-arriva-titan-os-nei-modelli-del-2026_151676.html",
-      "urlToImage": "https://www.hwupgrade.it/i/n/titan_os_preview_720.jpg",
-      "publishedAt": "2026-03-24T11:01:01Z",
-      "content": "Una svolta significativa nel mercato delle smart TV arriva da Philips, che ha deciso di abbandonare Google TV per l'intera gamma di televisori prevista nel 2026. Al suo posto, l'azienda adotterà Tita… [+1882 chars]"
+      "author": "zippy",
+      "title": "LIVE — Bayern Munich vs. Manchester United: Women’s Champions League 2nd leg",
+      "description": "FC Bayern’s ready to rock at the Allianz and advance in the UWCL.",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-gamethreads-discussion/181570/live-bayern-munich-vs-manchester-united-womens-champions-league-2nd-leg",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/llwitOXzPzE0eIigaVDwfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/1e12ddf3dec888b743aa2181daebf3e5",
+      "publishedAt": "2026-04-01T16:15:00Z",
+      "content": "Were back in UEFA Womens Champions League action today! Bayern Munich takes on Manchester United at the Allianz today after a 3-2 win last week at Old Trafford.\r\nThe usual suspects of late are still … [+2495 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Appleinsider.ru"
+        "name": "netzwelt"
       },
-      "author": "Кирилл Пироженко",
-      "title": "6 новых устройств Apple, которые могут представить в любой момент",
-      "description": "Apple готовит ещё шесть новинок — от HomePod и Apple TV до Mac mini, Mac Studio и нового iPad. Разбираем, что могут показать в ближайшее время.",
-      "url": "https://appleinsider.ru/eto-interesno/6-novyh-ustrojstv-apple-kotorye-mogut-predstavit-v-lyuboj-moment.html",
-      "urlToImage": "https://appleinsider.ru/wp-content/uploads/2026/03/6-novyh-ustrojstv-apple-kotorye-mogut-pr-1-1000x526.jpg",
-      "publishedAt": "2026-03-24T11:00:57Z",
-      "content": "Apple 2026 , , , . iPad , , . HomePod, Apple TV Mac. , .\r\n6 Apple, . : 9to5mac.com\r\nHomePod mini 2 HomePod 3 Apple\r\n Bloomberg , HomePod mini HomePod Apple Store . .\r\nHomePod mini 2 HomePod 3 Apple. … [+1106 chars]"
+      "author": "Nicolas Reinhardt",
+      "title": "Bayern vs. ManU: Hier seht ihr die Women's Champions League im TV und Live-Stream",
+      "description": "In der Women's Champions League steht das Viertelfinalrückspiel zwischen dem FC Bayern München und Manchester United an. So empfangt ihr das Match im TV und Live-Stream.\nDieser Artikel wurde einsortiert unter \nApple TV,Bundesliga-Live-Stream: Fußball im Inter…",
+      "url": "https://www.netzwelt.de/news/252509-bayern-vs-manu-seht-womens-champions-league-tv-live-stream.html",
+      "urlToImage": "https://img.netzwelt.de/dw1600_dh900_sw1600_sh900_sx0_sy150_sr16x9_nu2/picture/original/2026/03/fc-bayern-muenchen-gegen-manchester-united-459992.png",
+      "publishedAt": "2026-04-01T16:15:00Z",
+      "content": "BUNDESLIGA-LIVE-STREAM: FUSSBALL IM INTERNET SCHAUEN\r\nIm Viertelfinale der Women's Champions League empfängt der FC Bayern München Manchester United im Rückspiel. Diese Sender strahlt die Partie im T… [+1931 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Durva More",
+      "title": "Where Steve Jobs’ children are now and why they didn’t inherit his fortun",
+      "description": "Apple turns 50 and attention shifts to Steve Jobs’ family. The story looks at where his four children are today and what careers they chose. From writing and investing to modeling and private lives, each followed a different path. It also highlights Jobs’ dec…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/where-steve-jobs-children-are-now-and-why-they-didnt-inherit-his-fortun/articleshow/129957176.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129957176,width-1200,height-630,imgsize-38848,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-04-01T16:14:58Z",
+      "content": "Apple is now 50 years old. The company started on April 1, 1976. It was created by Steve Jobs, Steve Wozniak, and Ronald Wayne in a small garage in California. They wanted to make personal computers.… [+2666 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Mit.edu"
+        "name": "Slashdot.org"
       },
-      "author": "Sam Ransbotham. Me, Myself, and AI is a podcast produced by MIT Sloan Management Review and hosted by Sam Ransbotham. It is engineered by David Lishansky and produced by Allison Ryder.\nSam Ransbotham is a professor in the information systems department at the Carroll School of Management at Boston College, as well as guest editor for MIT Sloan Management Review’s Artificial Intelligence and Business Strategy Big Ideas initiative.",
-      "title": "Shifting AI From Fear to Optimism: U.S. Department of Labor’s Taylor Stockton",
-      "description": "In this episode of the Me, Myself, and AI podcast, host Sam Ransbotham speaks with Taylor Stockton, chief innovation officer at the U.S. Department of Labor, about how artificial intelligence is reshaping the workforce. Taylor emphasizes that AI is having an …",
-      "url": "https://sloanreview.mit.edu/audio/shifting-ai-from-fear-to-optimism-u-s-department-of-labors-taylor-stockton/",
-      "urlToImage": "https://sloanreview.mit.edu/wp-content/uploads/2026/02/MMAI-S13-E2-Stockton-US-DOL-headshot-2400x1260-1-1200x630.jpg",
-      "publishedAt": "2026-03-24T11:00:52Z",
-      "content": "In this episode of the Me, Myself, and AI podcast, host Sam Ransbotham speaks with Taylor Stockton, chief innovation officer at the U.S. Department of Labor, about how artificial intelligence is resh… [+29668 chars]"
+      "author": "feedfeeder",
+      "title": "Iran threatens Big Tech companies in the Middle East by April 1 - Euronews.com",
+      "description": "Iran threatens Big Tech companies in the Middle East by April 1Euronews.com Iran threatens Nvidia, Apple and other tech giants with attacksCNBC Iran’s Revolutionary Guard Threatens to Strike U.S. Companies in MideastWSJ N.Y.U. Closes Its Abu Dhabi Campus as I…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181201358",
+      "urlToImage": null,
+      "publishedAt": "2026-04-01T16:12:54Z",
+      "content": "You know you've been spending too much time on the computer when your\r\nfriend misdates a check, and you suggest adding a \"++\" to fix it."
     },
     {
       "source": {
         "id": null,
-        "name": "Imagazine.pl"
+        "name": "Char.com"
       },
-      "author": "Agnieszka Serafinowicz",
-      "title": "Claude łapie za myszkę. Sztuczna inteligencja od Anthropic potrafi już samodzielnie obsługiwać komputery Mac",
-      "description": "Sztuczna inteligencja przestaje być tylko zaawansowanym czatbotem. Firma Anthropic ogłosiła właśnie, że jej flagowy model – Claude – zyskał możliwość samodzielnego operowania w systemie macOS. Pora przyzwyczaić się do widoku kursora myszy, który porusza się p…",
-      "url": "https://imagazine.pl/2026/03/24/claude-lapie-za-myszke-ai-anthropic-obsluguje-macos/",
-      "urlToImage": "https://imagazine.pl/wp-content/uploads/2026/02/Claude-AI.jpg",
-      "publishedAt": "2026-03-24T11:00:16Z",
-      "content": "Sztuczna inteligencja przestaje by tylko zaawansowanym czatbotem. Firma Anthropic ogosia wanie, e jej flagowy model Claude zyska moliwo samodzielnego operowania w systemie macOS.\r\nPora przyzwyczai si… [+2423 chars]"
+      "author": "yujonglee",
+      "title": "Show HN: Composable CLI for your meeting workflow",
+      "description": "Hi, this is Yujong from Char (https://github.com/fastrepl/char).This CLI is a repackaging of the audio/transcription pipeline that powers our desktop app. We noticed that some people build lightweight CLIs to record conversations and send them to tools like O…",
+      "url": "https://cli.char.com/",
+      "urlToImage": "https://cli.char.com/og.png",
+      "publishedAt": "2026-04-01T16:10:53Z",
+      "content": "Hack your own way, or pair it with\r\nClaude CodeCodexOpenClaw.Installation\r\nAvailable for macOS (x86 and arm).\r\nWant other platforms? PRs welcome at apps/cli .\r\n$npm i -g char@latest\r\ncopy\r\nOr `npx ch… [+3552 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Geeky Gadgets"
+        "name": "Tabletowo.pl"
       },
-      "author": "Roland Hutchinson",
-      "title": "iPhone 17e vs. iPhone 17 Pro Max: Full Specs, Price & Camera Comparison",
-      "description": "Apple’s iPhone 17 lineup introduces two distinct models designed to cater to a wide range of users: the iPhone 17e and the iPhone 17 Pro Max. While the Pro Max represents Apple’s most advanced technology, the 17e offers a more affordable alternative without s…",
-      "url": "https://www.geeky-gadgets.com/iphone-17e-vs-iphone-17-pro-max/",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/iphone-17e-vs-17-pro-max-side-by-side.jpg",
-      "publishedAt": "2026-03-24T11:00:11Z",
-      "content": "Apples iPhone 17 lineup introduces two distinct models designed to cater to a wide range of users: the iPhone 17e and the iPhone 17 Pro Max. While the Pro Max represents Apples most advanced technolo… [+5907 chars]"
+      "author": "Natalia Kania-Kuc",
+      "title": "iPhone może wykryć poważny problem. Boryka się z nim ponad połowa dorosłych Polaków",
+      "description": "Nowy patent Apple ujawnia, że iPhone'y przyszłości mogą otrzymać kolejne funkcje ukierunkowane na zdrowie. Z tym schorzeniem boryka się wielu Polaków.Przeczytaj pełny artykuł tutaj: iPhone może wykryć poważny problem. Boryka się z nim ponad połowa dorosłych P…",
+      "url": "https://www.tabletowo.pl/apple-iphone-patent-cholesterol-cukrzyca/",
+      "urlToImage": "https://www.tabletowo.pl/wp-content/uploads/2025/12/smartfon-apple-iphone-fot-zana-latif-pexels.jpg",
+      "publishedAt": "2026-04-01T16:09:00Z",
+      "content": "Przysze smartfony mog by znacznie potniejsze ni obecne. Apple ujawnio swój kolejny pomys na to, aby iPhone sta si prawdziwym monitorem zdrowia. Wyglda na to, e bdzie móg wykrywa problem, z którym bor… [+2331 chars]"
+    },
+    {
+      "source": {
+        "id": "der-tagesspiegel",
+        "name": "Der Tagesspiegel"
+      },
+      "author": "Der Tagesspiegel",
+      "title": "Exklusives Konzert: Paul McCartney spielt bei Apple zum 50. Firmenjubiläum",
+      "description": "Apple und die Beatles waren einst in einen jahrzehntelangen Streit um Markenrechte verwickelt. Jetzt ist Paul McCartney der Ehrengast beim 50. Jubiläum des iPhone-Konzerns.",
+      "url": "https://www.tagesspiegel.de/gesellschaft/exklusives-konzert-paul-mccartney-spielt-bei-apple-zum-50-firmenjubilaum-15427147.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15427146/alternates/BASE_16_9_W1400/1775059735000/apple.jpeg",
+      "publishedAt": "2026-04-01T16:08:55Z",
+      "content": "Apple-Mitarbeiter im Hauptquartier im kalifornischen Cupertino haben zum 50. Jubiläum der Firma ein Konzert von Paul McCartney bekommen. Der 83-jährige Ex-Beatle wurde auf der Bühne im Innengelände d… [+1229 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Cut"
+        "name": "C-sharpcorner.com"
       },
-      "author": "Cat Zhang",
-      "title": "The New ‘Musician to Actor’ Pipeline",
-      "description": "It isn’t just Teyana Taylor or Charli XCX: Everyone from music’s biggest names to indie darlings is crossing over to film and TV. Inside Hollywood’s new ‘musician to actor’ pipeline.",
-      "url": "http://www.thecut.com/article/hollywood-musician-to-actor-pipeline-charli-xcx-teyana-taylor-bad-bunny.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/c3b/ff3/1bc8474b54227f63f3df09716379c91981-Musician-Actor-01.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-03-24T11:00:08Z",
-      "content": "This year, the belle of the Sundance Film Festival was not a hermitic art-house filmmaker or Oscar-winning actor. It was Charli XCX, club-pop diva who features in not one, not two, but three of thefe… [+8318 chars]"
+      "author": "noreply@c-sharpcorner.com (Kethareeswaran N)",
+      "title": "A .NET Developer's Complete Guide to Choose Right Authentication: From Basic Auth to OAuth2 and OIDC",
+      "description": "Most security breaches don't happen because of broken encryption. They happen because the wrong person was trusted.",
+      "url": "https://www.c-sharpcorner.com/article/a-net-developers-complete-guide-to-choose-right-authentication-from-basic-aut/",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "publishedAt": "2026-04-01T16:08:53Z",
+      "content": "1. The Authentication Problem\r\nEvery system that holds data worth protecting must answer one question before anything else: Who is this person, and can I trust them?\r\nThat question authentication is … [+26264 chars]"
+    },
+    {
+      "source": {
+        "id": "die-zeit",
+        "name": "Die Zeit"
+      },
+      "author": "DIE ZEIT: News -",
+      "title": "Exklusives Konzert: Paul McCartney spielt bei Apple zum 50. Firmenjubiläum",
+      "description": "Hier finden Sie Informationen zu dem Thema „Exklusives Konzert“. Lesen Sie jetzt „Paul McCartney spielt bei Apple zum 50. Firmenjubiläum“.",
+      "url": "https://www.zeit.de/news/2026-04/01/paul-mccartney-spielt-bei-apple-zum-50-firmenjubilaeum",
+      "urlToImage": "https://img.zeit.de/news/2026-04/01/paul-mccartney-spielt-bei-apple-zum-50-firmenjubilaeum-image-group/wide__1300x731",
+      "publishedAt": "2026-04-01T16:07:49Z",
+      "content": "Apple-Mitarbeiter im Hauptquartier im kalifornischen Cupertino haben zum 50. Jubiläum der Firma ein Konzert von Paul McCartney bekommen. Der 83-jährige Ex-Beatle wurde auf der Bühne im Innengelände d… [+1177 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "STERN.de"
       },
-      "author": "Cesar Cadenas",
-      "title": "Why I pick this $200 Motorola phone over cheap Google and Samsung models",
-      "description": "The 2026 Moto G sticks to a proven formula, offering great performance at an affordable price.",
-      "url": "https://www.zdnet.com/article/motorola-moto-g-review/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7e597b605a637e7c7dc8fa10bca7e1752b19a983/2025/12/23/5036165b-9f2c-4144-951c-6ab08e3ac261/moto-g-2026-image-2.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2026-03-24T11:00:04Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\n\"If it ain't broke, don't fix it\" -- that simple phrase seems to have been Motorola's mantra with the 2026 Moto G, a midrange smartphone that cl… [+5088 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "heise online"
-      },
-      "author": "Johannes Schuster",
-      "title": "heise+ | MacBook Pro M5 Pro im Test: Das Pro im Pro",
-      "description": "Wie reiht sich das MacBook Pro mit M5 Pro zwischen den anderen  Varianten mit einfachem M5 und M5 Max ein? Performance, SSD, Lüfter und mehr im Test.",
-      "url": "https://www.heise.de/tests/MacBook-Pro-M5-Pro-im-Test-Das-Pro-im-Pro-11222433.html",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/5/1/1/0/8/mi_06_macbookprom5_aufmacher_digital-ad8651f2bfa2f4da.png",
-      "publishedAt": "2026-03-24T11:00:00Z",
-      "content": "Inhaltsverzeichnis\r\nIm März hat Apple seine MacBook-Pro-Reihe mit den Prozessoren M5 Pro und M5 Max aktualisiert. Das MacBook Pro mit dem einfachen M5 war schon im Oktober 2025 auf den Markt gekommen… [+809 chars]"
+      "author": "STERN.de",
+      "title": "Exklusives Konzert: Paul McCartney spielt bei Apple zum 50. Firmenjubiläum",
+      "description": "Apple und die Beatles waren einst in einen jahrzehntelangen Streit um Markenrechte verwickelt. Jetzt ist Paul McCartney der Ehrengast beim 50. Jubiläum des iPhone-Konzerns.",
+      "url": "https://www.stern.de/lifestyle/exklusives-konzert--paul-mccartney-spielt-bei-apple-zum-50--firmenjubilaeum-37276186.html",
+      "urlToImage": "https://image.stern.de/37276188/t/uy/v1/w1440/r1.7778/-/01--qbgrv77xoyv13axs2048jpeg---dc3667a5573812da.jpg",
+      "publishedAt": "2026-04-01T16:07:49Z",
+      "content": "Kopiere den aktuellen Link\r\nZur Merkliste hinzufügen\r\nApple und die Beatles waren einst in einen jahrzehntelangen Streit um Markenrechte verwickelt. Jetzt ist Paul McCartney der Ehrengast beim 50. Ju… [+1365 chars]"
     }
   ]
 }

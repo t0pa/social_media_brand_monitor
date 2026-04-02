@@ -192,3 +192,521 @@
 2026-03-25 12:40:37,671 INFO Processing Excel: social_media_brand_monitoring.xlsx
 2026-03-25 12:40:37,695 INFO All data parsed and saved to MongoDB.
 2026-03-25 12:40:37,695 INFO Starting upload of all raw data to S3...
+2026-04-02 14:11:55,130 - __main__ - WARNING - Scraping not allowed for https://en.wikipedia.org/wiki/List_of_World_Series_champions by robots.txt.
+2026-04-02 14:12:36,729 - __main__ - WARNING - Scraping not allowed for https://www.scrapethissite.com/pages/forms/ by robots.txt.
+2026-04-02 14:12:36,730 - __main__ - INFO - No data was scraped. This could be due to scraping restrictions or incorrect selectors.
+2026-04-02 14:13:26,309 - __main__ - INFO - Scraping https://books.toscrape.com/...
+2026-04-02 14:13:28,583 - __main__ - INFO - No data was scraped. This could be due to scraping restrictions or incorrect selectors.
+2026-04-02 15:29:56,822 - __main__ - INFO - Scraping https://books.toscrape.com/...
+2026-04-02 15:29:59,077 - __main__ - INFO - No data was scraped. This could be due to scraping restrictions or incorrect selectors.
+2026-04-02 15:30:09,845 - __main__ - INFO - Scraping https://books.toscrape.com/...
+2026-04-02 15:30:12,123 - __main__ - INFO - No data was scraped. This could be due to scraping restrictions or incorrect selectors.
+2026-04-02 15:32:46,693 - __main__ - INFO - Scraping https://books.toscrape.com/...
+2026-04-02 15:32:48,942 - __main__ - INFO - No data was scraped. This could be due to scraping restrictions or incorrect selectors.
+2026-04-02 15:37:04,449 - __main__ - INFO - Scraping https://books.toscrape.com/...
+2026-04-02 16:57:33,252 - __main__ - INFO - Scraping page 1: https://books.toscrape.com/index.html
+2026-04-02 16:57:33,770 - __main__ - INFO - Scraping https://books.toscrape.com/index.html...
+2026-04-02 16:57:36,060 - __main__ - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-04-02 16:57:36,510 - __main__ - INFO - Scraping https://books.toscrape.com/catalogue/page-2.html...
+2026-04-02 16:57:38,791 - __main__ - INFO - Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-04-02 16:57:39,232 - __main__ - INFO - Scraping https://books.toscrape.com/catalogue/page-3.html...
+2026-04-02 16:58:49,561 - __main__ - INFO - Scraping page 1: https://books.toscrape.com/index.html
+2026-04-02 16:58:50,029 - __main__ - INFO - Scraping https://books.toscrape.com/index.html...
+2026-04-02 16:58:52,412 - __main__ - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-04-02 16:58:52,887 - __main__ - INFO - Scraping https://books.toscrape.com/catalogue/page-2.html...
+2026-04-02 16:58:55,164 - __main__ - INFO - Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-04-02 16:58:55,605 - __main__ - INFO - Scraping https://books.toscrape.com/catalogue/page-3.html...
+2026-04-02 17:01:24,091 - __main__ - INFO - Requesting data from AJAX endpoint: https://www.scrapethissite.com/pages/ajax-javascript/ with params: {'ajax': 'true', 'year': 2015}
+2026-04-02 17:03:35,632 - __main__ - INFO - Requesting data from AJAX endpoint: https://www.scrapethissite.com/pages/ajax-javascript/ with params: {'ajax': 'true', 'year': 2015}
+2026-04-02 17:16:58,145 - __main__ - ERROR - Tesseract is not installed or not in your PATH.
+2026-04-02 17:16:58,145 - __main__ - ERROR - Please install Tesseract and/or set the `tesseract_cmd` path.
+2026-04-02 17:16:58,145 - __main__ - INFO - No text was extracted from the image.
+2026-04-02 17:31:18,212 - __main__ - ERROR - Tesseract is not installed or not in your PATH.
+2026-04-02 17:31:18,212 - __main__ - ERROR - Please install Tesseract and/or set the `tesseract_cmd` path.
+2026-04-02 17:31:18,213 - __main__ - INFO - No text was extracted from the image.
+2026-04-02 17:34:53,593 - __main__ - INFO - No text extracted with pdfplumber. Assuming a scanned PDF and using OCR.
+2026-04-02 17:34:53,617 - __main__ - ERROR - An error occurred while processing the PDF: Unable to get page count. Is poppler installed and in PATH?
+2026-04-02 17:34:53,618 - __main__ - ERROR - Please ensure Poppler is installed and in your system's PATH.
+2026-04-02 17:34:53,618 - __main__ - INFO - No text was extracted from the PDF.
+2026-04-02 17:46:19,405 - __main__ - ERROR - Test image not found at C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\images\tekst.png
+2026-04-02 17:46:23,326 - __main__ - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-02 17:46:23,344 - __main__ - ERROR - Error converting PDF to images for C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf: Unable to get page count. Is poppler installed and in PATH?
+2026-04-02 17:46:23,344 - __main__ - INFO - Extracted text from scanned PDF:
+---
+2026-04-02 17:46:23,344 - __main__ - INFO - ---
+2026-04-02 17:47:59,083 - __main__ - INFO - Extracted text from image:
+---
+Part 7 - OCR on a Scanned Image
+
+Create src/ocr/ocr_utils.py and start with a single scanned image OCR is needed when text is
+trapped inside pixels, for example in scans, photographed forms, or image-only files.
+
+Download a test image from the internet or create your own (e.g., a screenshot of some text, a
+scanned document, etc.). Save it as data/raw/images/test_scan.png. You can also use images we
+took from api in week2 if they contain text. To apply OCR to images pytesseract should be
+used. Preprocessing significantly improves OCR accuracy compared to raw extraction.
+---
+2026-04-02 17:48:03,123 - __main__ - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-02 17:48:03,139 - __main__ - ERROR - Error converting PDF to images for C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf: Unable to get page count. Is poppler installed and in PATH?
+2026-04-02 17:48:03,139 - __main__ - INFO - Extracted text from scanned PDF:
+---
+2026-04-02 17:48:03,139 - __main__ - INFO - ---
+2026-04-02 17:53:55,172 - __main__ - INFO - Extracted text from image:
+---
+Part 7 - OCR on a Scanned Image
+
+Create src/ocr/ocr_utils.py and start with a single scanned image OCR is needed when text is
+trapped inside pixels, for example in scans, photographed forms, or image-only files.
+
+Download a test image from the internet or create your own (e.g., a screenshot of some text, a
+scanned document, etc.). Save it as data/raw/images/test_scan.png. You can also use images we
+took from api in week2 if they contain text. To apply OCR to images pytesseract should be
+used. Preprocessing significantly improves OCR accuracy compared to raw extraction.
+---
+2026-04-02 17:53:58,978 - __main__ - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-02 17:53:58,995 - __main__ - ERROR - Error converting PDF to images for C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf: Unable to get page count. Is poppler installed and in PATH?
+2026-04-02 17:53:58,995 - __main__ - INFO - Extracted text from scanned PDF:
+---
+2026-04-02 17:53:58,995 - __main__ - INFO - ---
+2026-04-02 17:55:33,397 - __main__ - INFO - Extracted text from image:
+---
+Part 7 - OCR on a Scanned Image
+
+Create src/ocr/ocr_utils.py and start with a single scanned image OCR is needed when text is
+trapped inside pixels, for example in scans, photographed forms, or image-only files.
+
+Download a test image from the internet or create your own (e.g., a screenshot of some text, a
+scanned document, etc.). Save it as data/raw/images/test_scan.png. You can also use images we
+took from api in week2 if they contain text. To apply OCR to images pytesseract should be
+used. Preprocessing significantly improves OCR accuracy compared to raw extraction.
+---
+2026-04-02 17:55:37,223 - __main__ - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-02 17:55:39,597 - __main__ - INFO - Extracted text from scanned PDF:
+---
+2026-04-02 17:55:39,597 - __main__ - INFO - Page 1:
+Two-Column PDF
+Document
+
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+2026-04-02 17:55:39,598 - __main__ - INFO - ---
+2026-04-02 17:55:56,087 - __main__ - INFO - Extracted text from image:
+---
+Part 7 - OCR on a Scanned Image
+
+Create src/ocr/ocr_utils.py and start with a single scanned image OCR is needed when text is
+trapped inside pixels, for example in scans, photographed forms, or image-only files.
+
+Download a test image from the internet or create your own (e.g., a screenshot of some text, a
+scanned document, etc.). Save it as data/raw/images/test_scan.png. You can also use images we
+took from api in week2 if they contain text. To apply OCR to images pytesseract should be
+used. Preprocessing significantly improves OCR accuracy compared to raw extraction.
+---
+2026-04-02 17:55:59,860 - __main__ - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-02 17:56:01,883 - __main__ - INFO - Extracted text from scanned PDF:
+---
+2026-04-02 17:56:01,883 - __main__ - INFO - Page 1:
+Two-Column PDF
+Document
+
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+2026-04-02 17:56:01,884 - __main__ - INFO - ---
+2026-04-02 17:59:33,537 - __main__ - INFO - Extracted text from image:
+---
+Part 7 - OCR on a Scanned Image
+
+Create src/ocr/ocr_utils.py and start with a single scanned image OCR is needed when text is
+trapped inside pixels, for example in scans, photographed forms, or image-only files.
+
+Download a test image from the internet or create your own (e.g., a screenshot of some text, a
+scanned document, etc.). Save it as data/raw/images/test_scan.png. You can also use images we
+took from api in week2 if they contain text. To apply OCR to images pytesseract should be
+used. Preprocessing significantly improves OCR accuracy compared to raw extraction.
+---
+2026-04-02 17:59:33,641 - __main__ - INFO - Successfully extracted text from C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\pdf\document_2_columns.pdf using pdfplumber.
+2026-04-02 17:59:33,641 - __main__ - INFO - Extracted text from scanned PDF:
+---
+2026-04-02 17:59:33,642 - __main__ - INFO - Page 1:
+Two-Column PDF adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+Document enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+Lorem ipsum dolor sit amet, consectetur
+dolore eu fugiat nulla pariatur. Excepteur sint
+adipiscing elit. Sed do eiusmod tempor
+occaecat cupidatat non proident, sunt in culpa
+incididunt ut labore et dolore magna aliqua. Ut
+qui officia deserunt mollit anim id est laborum.
+enim ad minim veniam, quis nostrud
+Lorem ipsum dolor sit amet, consectetur
+exercitation ullamco laboris nisi ut aliquip ex ea
+adipiscing elit. Sed do eiusmod tempor
+commodo consequat. Duis aute irure dolor in
+incididunt ut labore et dolore magna aliqua. Ut
+reprehenderit in voluptate velit esse cillum
+enim ad minim veniam, quis nostrud
+dolore eu fugiat nulla pariatur. Excepteur sint
+exercitation ullamco laboris nisi ut aliquip ex ea
+occaecat cupidatat non proident, sunt in culpa
+commodo consequat. Duis aute irure dolor in
+qui officia deserunt mollit anim id est laborum.
+reprehenderit in voluptate velit esse cillum
+Lorem ipsum dolor sit amet, consectetur
+dolore eu fugiat nulla pariatur. Excepteur sint
+adipiscing elit. Sed do eiusmod tempor
+occaecat cupidatat non proident, sunt in culpa
+incididunt ut labore et dolore magna aliqua. Ut
+qui officia deserunt mollit anim id est laborum.
+enim ad minim veniam, quis nostrud
+Lorem ipsum dolor sit amet, consectetur
+exercitation ullamco laboris nisi ut aliquip ex ea
+adipiscing elit. Sed do eiusmod tempor
+commodo consequat. Duis aute irure dolor in
+incididunt ut labore et dolore magna aliqua. Ut
+reprehenderit in voluptate velit esse cillum
+enim ad minim veniam, quis nostrud
+dolore eu fugiat nulla pariatur. Excepteur sint
+exercitation ullamco laboris nisi ut aliquip ex ea
+occaecat cupidatat non proident, sunt in culpa
+commodo consequat. Duis aute irure dolor in
+qui officia deserunt mollit anim id est laborum.
+reprehenderit in voluptate velit esse cillum
+Lorem ipsum dolor sit amet, consectetur
+dolore eu fugiat nulla pariatur. Excepteur sint
+adipiscing elit. Sed do eiusmod tempor
+occaecat cupidatat non proident, sunt in culpa
+incididunt ut labore et dolore magna aliqua. Ut
+qui officia deserunt mollit anim id est laborum.
+enim ad minim veniam, quis nostrud
+Lorem ipsum dolor sit amet, consectetur
+exercitation ullamco laboris nisi ut aliquip ex ea
+adipiscing elit. Sed do eiusmod tempor
+commodo consequat. Duis aute irure dolor in
+incididunt ut labore et dolore magna aliqua. Ut
+reprehenderit in voluptate velit esse cillum
+enim ad minim veniam, quis nostrud
+dolore eu fugiat nulla pariatur. Excepteur sint
+exercitation ullamco laboris nisi ut aliquip ex ea
+occaecat cupidatat non proident, sunt in culpa
+commodo consequat. Duis aute irure dolor in
+qui officia deserunt mollit anim id est laborum.
+reprehenderit in voluptate velit esse cillum
+Lorem ipsum dolor sit amet, consectetur
+dolore eu fugiat nulla pariatur. Excepteur sint
+adipiscing elit. Sed do eiusmod tempor
+occaecat cupidatat non proident, sunt in culpa
+incididunt ut labore et dolore magna aliqua. Ut
+qui officia deserunt mollit anim id est laborum.
+enim ad minim veniam, quis nostrud
+Lorem ipsum dolor sit amet, consectetur
+exercitation ullamco laboris nisi ut aliquip ex ea
+adipiscing elit. Sed do eiusmod tempor
+commodo consequat. Duis aute irure dolor in
+incididunt ut labore et dolore magna aliqua. Ut
+reprehenderit in voluptate velit esse cillum
+enim ad minim veniam, quis nostrud
+dolore eu fugiat nulla pariatur. Excepteur sint
+exercitation ullamco laboris nisi ut aliquip ex ea
+occaecat cupidatat non proident, sunt in culpa
+commodo consequat. Duis aute irure dolor in
+qui officia deserunt mollit anim id est laborum.
+reprehenderit in voluptate velit esse cillum
+Lorem ipsum dolor sit amet, consectetur
+dolore eu fugiat nulla pariatur. Excepteur sint
+adipiscing elit. Sed do eiusmod tempor
+occaecat cupidatat non proident, sunt in culpa
+incididunt ut labore et dolore magna aliqua. Ut
+qui officia deserunt mollit anim id est laborum.
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+2026-04-02 17:59:33,642 - __main__ - INFO - ---
+2026-04-02 18:38:31,148 - __main__ - INFO - Pipeline started for brand: Apple
+2026-04-02 18:38:31,149 - __main__ - INFO - --- Starting Data Ingestion and Parsing ---
+2026-04-02 18:38:31,149 - __main__ - INFO - Fetching data from NewsAPI...
+2026-04-02 18:38:31,982 - __main__ - INFO - API data fetched. Parsing JSON files...
+2026-04-02 18:38:32,012 - src.storage.mongo - INFO - Successfully inserted 20 documents into 'brand_mentions'.
+2026-04-02 18:38:32,027 - src.storage.mongo - INFO - Successfully inserted 19 documents into 'brand_mentions'.
+2026-04-02 18:38:32,043 - src.storage.mongo - INFO - Successfully inserted 18 documents into 'brand_mentions'.
+2026-04-02 18:38:32,043 - __main__ - INFO - Parsing CSV files...
+2026-04-02 18:38:32,052 - src.storage.mongo - INFO - Successfully inserted 4 documents into 'brand_mentions'.
+2026-04-02 18:38:32,052 - __main__ - INFO - Parsing XML files...
+2026-04-02 18:38:32,065 - src.storage.mongo - INFO - Successfully inserted 3 documents into 'brand_mentions'.
+2026-04-02 18:38:32,065 - __main__ - INFO - Parsing PDF files...
+2026-04-02 18:38:32,066 - __main__ - ERROR - Error parsing pdf files: [WinError 267] The directory name is invalid: 'C:\\Users\\topic\\OneDrive\\Desktop\\PROJECTS\\Projekat za unstructured data\\social_media_brand_monitor\\data\\raw\\pdf\\document_1.pdf'
+2026-04-02 18:38:32,067 - __main__ - INFO - Parsing DOCX files...
+2026-04-02 18:38:32,068 - __main__ - ERROR - Error parsing docx files: [WinError 267] The directory name is invalid: 'C:\\Users\\topic\\OneDrive\\Desktop\\PROJECTS\\Projekat za unstructured data\\social_media_brand_monitor\\data\\raw\\docx\\document_1.docx'
+2026-04-02 18:38:32,068 - __main__ - INFO - Parsing EXCEL files...
+2026-04-02 18:38:32,069 - __main__ - INFO - --- Starting OCR Processing ---
+2026-04-02 18:38:32,069 - __main__ - INFO - Performing OCR on images...
+2026-04-02 18:38:32,290 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:38:32,400 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:38:32,667 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:38:32,667 - __main__ - INFO - Performing OCR on scanned PDFs...
+2026-04-02 18:38:36,547 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-02 18:38:38,550 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:38:38,551 - __main__ - INFO - --- Pipeline finished successfully. ---
+2026-04-02 18:42:24,702 - __main__ - INFO - Pipeline started for brand: Apple
+2026-04-02 18:42:24,702 - __main__ - INFO - --- Starting Data Ingestion and Parsing ---
+2026-04-02 18:42:24,702 - __main__ - INFO - Fetching data from NewsAPI...
+2026-04-02 18:42:25,377 - __main__ - INFO - API data fetched. Parsing JSON files...
+2026-04-02 18:42:25,392 - src.storage.mongo - INFO - Successfully inserted 20 documents into 'brand_mentions'.
+2026-04-02 18:42:25,406 - src.storage.mongo - INFO - Successfully inserted 19 documents into 'brand_mentions'.
+2026-04-02 18:42:25,420 - src.storage.mongo - INFO - Successfully inserted 18 documents into 'brand_mentions'.
+2026-04-02 18:42:25,420 - __main__ - INFO - Parsing CSV files...
+2026-04-02 18:42:25,424 - src.storage.mongo - INFO - Successfully inserted 4 documents into 'brand_mentions'.
+2026-04-02 18:42:25,424 - __main__ - INFO - Parsing XML files...
+2026-04-02 18:42:25,426 - src.storage.mongo - INFO - Successfully inserted 3 documents into 'brand_mentions'.
+2026-04-02 18:42:25,426 - __main__ - INFO - Parsing PDF files...
+2026-04-02 18:42:25,472 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:25,494 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:25,789 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:25,790 - __main__ - INFO - Parsing DOCX files...
+2026-04-02 18:42:25,809 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:25,813 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:25,828 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:25,830 - __main__ - INFO - Parsing EXCEL files...
+2026-04-02 18:42:25,830 - __main__ - INFO - --- Starting OCR Processing ---
+2026-04-02 18:42:25,830 - __main__ - INFO - Performing OCR on images...
+2026-04-02 18:42:25,967 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:26,077 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:26,369 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:26,370 - __main__ - INFO - Performing OCR on scanned PDFs...
+2026-04-02 18:42:30,226 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-02 18:42:32,210 - src.storage.mongo - INFO - Successfully inserted 1 documents into 'brand_mentions'.
+2026-04-02 18:42:32,210 - __main__ - INFO - --- Pipeline finished successfully. ---
+2026-04-02 18:47:18,672 - __main__ - INFO - Pipeline started for brand: Apple
+2026-04-02 18:47:18,672 - __main__ - INFO - --- Starting Data Ingestion and Parsing ---
+2026-04-02 18:47:18,674 - __main__ - INFO - Fetching data from NewsAPI...
+2026-04-02 18:47:19,670 - __main__ - INFO - API data fetched. Parsing JSON files...
+2026-04-02 18:47:19,701 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 19.
+2026-04-02 18:47:19,719 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 18.
+2026-04-02 18:47:19,734 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 17.
+2026-04-02 18:47:19,734 - __main__ - INFO - Parsing CSV files...
+2026-04-02 18:47:19,737 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 3.
+2026-04-02 18:47:19,738 - __main__ - INFO - Parsing XML files...
+2026-04-02 18:47:19,740 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 2.
+2026-04-02 18:47:19,741 - __main__ - INFO - Parsing PDF files...
+2026-04-02 18:47:19,781 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-02 18:47:19,783 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-02 18:47:20,019 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-02 18:47:20,019 - __main__ - INFO - Parsing DOCX files...
+2026-04-02 18:47:20,026 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-02 18:47:20,031 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-02 18:47:20,041 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-02 18:47:20,043 - __main__ - INFO - Parsing EXCEL files...
+2026-04-02 18:47:20,044 - __main__ - INFO - --- Starting OCR Processing ---
+2026-04-02 18:47:20,044 - __main__ - INFO - Performing OCR on images...
+2026-04-02 18:47:20,176 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-02 18:47:20,285 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-02 18:47:20,558 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-02 18:47:20,559 - __main__ - INFO - Performing OCR on scanned PDFs...
+2026-04-02 18:47:24,559 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-02 18:47:26,541 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-02 18:47:26,542 - __main__ - INFO - --- Pipeline finished successfully. ---
