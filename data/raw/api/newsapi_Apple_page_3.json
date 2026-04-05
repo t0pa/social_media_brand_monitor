@@ -1,266 +1,253 @@
 {
   "status": "ok",
-  "totalResults": 35228,
+  "totalResults": 37810,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "STERN.de"
+        "name": "Ferra.ru"
       },
-      "author": "STERN.de",
-      "title": "Extremismus: Verfassungsschutz startet Offensive im Netz",
-      "description": "Neue Strategie gegen digitale Radikalisierung: NRW schlägt Alarm vor \"Active Clubs\", russischen Agenten und linksextremen Netzwerken – und setzt dabei auf Reichweite im Netz.",
-      "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/extremismus--verfassungsschutz-startet-offensive-im-netz-37250124.html",
-      "urlToImage": "https://image.stern.de/37250126/t/yg/v1/w1440/r1.7778/-/24--ooqbwfovudv9axs2048jpeg---ad0c444fa3b9ea9b.jpg",
-      "publishedAt": "2026-03-24T11:08:31Z",
-      "content": "Kopiere den aktuellen Link\r\nZur Merkliste hinzufügen\r\nNeue Strategie gegen digitale Radikalisierung: NRW schlägt Alarm vor \"Active Clubs\", russischen Agenten und linksextremen Netzwerken und setzt da… [+1982 chars]"
+      "author": "Максим Многословный",
+      "title": "Иран продолжил бомбить дата-центры. Теперь досталось Oracle в ОАЭ",
+      "description": "Корпус стражей исламской революции (КСИР) сообщил, что атаковал дата-центр Oracle в ОАЭ. Информацию передало иранское государственное телевидение.",
+      "url": "https://www.ferra.ru/news/techlife/iran-prodolzhil-bombit-data-centry-teper-dostalos-oracle-v-oae-03-04-2026.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2026/04/03/14/6962382/52a8a07e4863696696c239d467bfdc72bf9cfad9.png",
+      "publishedAt": "2026-04-04T19:48:24Z",
+      "content": "Apple, Google, Microsoft  .\r\n    , ,   ,  .   Amazon  . Oracle.\r\nOracle       .   ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsmonkey.be"
+      },
+      "author": "Redactie",
+      "title": "Taylor Swift eert Elizabeth Taylor in nieuwe single en videoclip",
+      "description": "In het kort Taylor Swift, 36 jaar, heeft opvallende promotiefoto’s gedeeld voor haar nieuwe single Elizabeth Taylor. Hoewel Swift zelf niet in de videoclip te zien is, is het een boeiende montage van iconische beelden waarin de legendarische actrice te zien i…",
+      "url": "https://newsmonkey.be/taylor-swift-eert-elizabeth-taylor-in-nieuwe-single-en-videoclip/",
+      "urlToImage": "https://media.newsmonkey.be/Taylor-Swift-zij-1701872768.jpg",
+      "publishedAt": "2026-04-04T19:44:00Z",
+      "content": "In het kort\r\n<ul><li>Taylor Swift brengt een eerbetoon aan actrice Elizabeth Taylor met een nieuw nummer.</li><li>Swift verwijst naar de kenmerkende stijl en geliefde films van de actrice.</li></ul>\r… [+1853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Edivaldobrito.com.br"
+      },
+      "author": "Edivaldo Brito",
+      "title": "Guia Completo dos Formatos de Câmera do iPhone: HEIF, JPEG e opões Pro",
+      "description": "iPhone: descubra os diferentes formatos de câmera, HEIF, JPEG e ProRAW que transformam suas fotos e vídeos!\nO post Guia Completo dos Formatos de Câmera do iPhone: HEIF, JPEG e opões Pro apareceu primeiro em Blog do Edivaldo - Informações e Notícias sobre Linu…",
+      "url": "https://www.edivaldobrito.com.br/guia-completo-dos-formatos-de-camera-do-iphone-heif-jpeg-e-opoes-pro/",
+      "urlToImage": "https://www.edivaldobrito.com.br/wp-content/uploads/2026/04/guia-completo-dos-formatos-de-camera-do-iphone-heif-jpeg-e-opoes-pro.webp",
+      "publishedAt": "2026-04-04T19:35:38Z",
+      "content": "Quando se trata de escolher o formato de foto no iPhone, as opções mais comuns são HEIF e JPEG. O HEIF é ideal para economizar espaço e manter qualidade, sendo perfeito para quem tira muitas fotos. P… [+5875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "Indie App Spotlight: ‘VariAlarm’ brings proper schedules to your alarm clock",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\n\n\n\n\n\n\n\nJuggling loads of alarms in the Clock app can be annoying.…",
+      "url": "https://9to5mac.com/2026/04/04/indie-app-spotlight-varialarm-brings-proper-schedules-to-your-alarm-clock/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/VariAlarm.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-04-04T19:30:47Z",
+      "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If youre a developer and would like your app featured, get in contact.\r\nJuggl… [+1547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Screen Rant"
+      },
+      "author": "Sean Morrison",
+      "title": "Dark Winds Is Officially The King Of Cliffhangers",
+      "description": "Discover why AMC's Dark Winds, with its perfect Rotten Tomatoes score, reigns as the king of cliffhangers in the realm of mystery thrillers, expertly crafting suspenseful endings for each episode.",
+      "url": "https://screenrant.com/dark-winds-amc-western-cliffhanger-king/",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/isabel-deroy-olson-in-dark-winds.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-04-04T19:30:19Z",
+      "content": "Warning! This article contains SPOILERS for Dark Winds season 4.One of AMC's best shows, a blend between Western and crime thriller, is also demonstrating how to do episodic cliffhangers perfectly. T… [+5195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Sarfraz Khan",
+      "title": "Intel Panther Lake Ultra X Series Laptops See A Significant Price Increase In China While Apple MacBooks Remain Unaffected",
+      "description": "Panther Lake high-end laptops are seeing significant price hikes in the Chinese market, making them less affordable than the Apple MacBook M5 series. Panther Lake X Series Laptops See a Price Hike of $145-$870 in China, While MacBook M5 Series Laptop Prices S…",
+      "url": "https://wccftech.com/intel-panther-lake-ultra-x-series-laptops-see-a-massive-increase-in-prices-in-china-while/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/DSC_0587-Custom-1920x1280.jpg",
+      "publishedAt": "2026-04-04T19:24:30Z",
+      "content": "Panther Lake high-end laptops are seeing significant price hikes in the Chinese market, making them less affordable than the Apple MacBook M5 series.\r\nThe DRAM and SSD shortages have affected a wide … [+2003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Bob Cronin with Newser.AI",
+      "title": "McCartney Makes Peace With Apple, Plays Anniversary Bash",
+      "description": "Paul McCartney put a long-running legal feud behind him with a performance at Apple's 50th anniversary celebration this week in California. The 83-year-old played Beatles songs including \"Hey Jude,\" \"Help!\" and \"Love Me Do\" on Tuesday night for employees at A…",
+      "url": "https://www.newser.com/story/386721/mccartney-makes-peace-with-apple-plays-anniversary-bash.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1675974-12-20260404142823.jpeg",
+      "publishedAt": "2026-04-04T19:23:00Z",
+      "content": "Apple Corps was founded in 1968 as a multimedia venture. The conflict began when Apple Inc., co-founded by Steve Jobs, launched its brand around the same name and a related logo. Apple Corps brought … [+967 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "Hands-on: HyperDrive Next enclosure for Mac offers 80Gbps speeds for SSDs, more",
+      "description": "Internal Mac storage upgrades are expensive, often causing users to resort to external media when possible. That also has its own problems of sometimes compromising on speed or reliability. HyperDrive Next aims to bridge that gap, by bringing incredible perfo…",
+      "url": "https://9to5mac.com/2026/04/04/hyperdrive-next-for-mac-80gbps-thunderbolt-ai-enclosures-networking/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/HyperDrive-Next.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-04-04T19:20:29Z",
+      "content": "Internal Mac storage upgrades are expensive, often causing users to resort to external media when possible. That also has its own problems of sometimes compromising on speed or reliability. HyperDriv… [+1854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iphon.fr"
+      },
+      "author": "Sami Trabcha",
+      "title": "Apple Store : jusqu’à 5 mois de délais pour ce Mac",
+      "description": "Les configurations les plus musclées sont presque introuvables.",
+      "url": "https://www.iphon.fr/post/delais-livraison-mac-studio-mini-apple-store",
+      "urlToImage": "https://www.iphon.fr/app/uploads/2026/03/apple-mac-mini-rumeurs-1600x900.jpg",
+      "publishedAt": "2026-04-04T19:16:19Z",
+      "content": "Faire tourner une intelligence artificielle directement chez soi, sans dépendre d’un service en ligne comme ChatGPT, séduit de plus en plus d’acheteurs de Mac depuis le début de l’année. Cette demand… [+2420 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Milwaukee Journal Sentinel"
+      },
+      "author": "Todd Rosiak, Milwaukee Journal Sentinel",
+      "title": "Brewers manager Pat Murphy pulls a pet from his pocket – a tortoise",
+      "description": "Brewers manager Pat Murphy got some more laughs after pulling a live tortoise out during Apple TV's broadcast from Friday's rainout.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/04/04/milwaukee-brewers-manager-pat-murphy-hands-tortise-to-apple-tv-reporter-tricia-whitaker/89467598007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/k9HRFpZvnriNtYbEau17lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjM7Y2Y9d2VicA--/https://media.zenfs.com/en/milwaukee_journal_sentinel_natl_articles_362/1041370da873ab1f5682f401056c46af",
+      "publishedAt": "2026-04-04T19:12:53Z",
+      "content": "KANSAS CITY Last year, it was pocket pancakes.\r\nThis year?\r\nPocket ... tortoises?\r\nIndeed, that's the gambit by Milwaukee Brewers manager Pat Murphy, who prior to his team's rained-out game against t… [+5333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iphon.fr"
+      },
+      "author": "Sami Trabcha",
+      "title": "iPhone 18 Pro : les 12 nouveautés qui vous attendent en septembre",
+      "description": "Apple prépare une rentrée chargée pour son prochain haut de gamme.",
+      "url": "https://www.iphon.fr/post/iphone-18-pro-les-12-nouveautes-qui-vous-attendent-en-septembre",
+      "urlToImage": "https://www.iphon.fr/app/uploads/2025/11/iphone-18-pro-concept-rumeurs-dynamic-island-plus-petit-1600x900.jpg",
+      "publishedAt": "2026-04-04T19:09:39Z",
+      "content": "Les rumeurs autour de l’iPhone 18 Pro se sont accumulées depuis septembre 2025, entre production d’essai confirmée en février et premières fuites sur le Dynamic Island. Apple devrait présenter ses pr… [+2485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Glenn Garner",
+      "title": "Seth Rogen On How ‘The Studio’ Season 2 Is “Acknowledging” Catherine O’Hara’s Death: “We Are Not Ignoring It”",
+      "description": "As The Studio prepares its return to Hollywood for Season 2, the cast will be missing one bright star following Catherine O’Hara’s death at age 71. Seth Rogen recently confirmed that the upcoming second season of the Apple TV+ satire series is “acknowledging”…",
+      "url": "http://deadline.com/2026/04/seth-rogen-the-studio-season-2-catherine-ohara-death-1236779788/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/TCDSTUD_G2053.jpg?w=1024",
+      "publishedAt": "2026-04-04T19:08:13Z",
+      "content": "As The Studio prepares its return to Hollywood for Season 2, the cast will be missing one bright star following Catherine O’Hara’s death at age 71.\r\nSeth Rogen recently confirmed that the upcoming se… [+1623 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Everyeye.it"
       },
-      "author": "Aurelio Sanguinetti",
-      "title": "Questo sottomarino sovietico sta perdendo materiale radioattivo in pieno oceano",
-      "description": "Il relitto del Komsomolets, affondato nel 1989, continua a rilasciare materiale radioattivo, minacciando l'ambiente marino.Il sottomarino sovietico K-278 Komsomolets affondò nelle fredde acque del Mar di Norvegia poco prima del crollo dell'Unione sovietica, a…",
-      "url": "https://tech.everyeye.it/notizie/sottomarino-sovietico-perdendo-materiale-radioattivo-oceano-867323.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/questo-sottomarino-sovietico-perdendo-materiale-radioattivo-oceano-v3-867323.jpg",
-      "publishedAt": "2026-03-24T11:07:00Z",
-      "content": "Il sottomarino sovietico K-278 Komsomolets affondò nelle fredde acque del Mar di Norvegia poco prima del crollo dell'Unione sovietica, a seguito di un incendio che si propagò nell'aprile del 1989. \r\n… [+2999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Nvidia Stock Could Become the Next Apple. Here's What It Means for Investors.",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9177ee1e-181a-4bf3-a166-d0fdd7d7aeb8",
-      "urlToImage": null,
-      "publishedAt": "2026-03-24T11:05:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Letemsvetemapplem.eu"
-      },
-      "author": "Jiří Filip",
-      "title": "Apple Maps zaplaví reklamy a to už letos v létě!",
-      "description": "Zdá se, že Apple opět hledá nové cesty, jak vytěžit maximum ze svých služeb. Podle informací Bloombergu totiž plánuje už letos v létě začít zobrazovat reklamy přímo ve výsledcích vyhledávání v Apple Maps. Oznámení přitom podle zdrojů může dorazit klidně už bě…",
-      "url": "https://www.letemsvetemapplem.eu/2026/03/24/apple-maps-zaplavi-reklamy-a-to-uz-letos-v-lete/",
-      "urlToImage": "https://www.letemsvetemapplem.eu/wp-content/uploads/2025/03/Apple-Maps-chyba-2.jpg",
-      "publishedAt": "2026-03-24T11:04:16Z",
-      "content": "Zdá se, e Apple opt hledá nové cesty, jak vytit maximum ze svých slueb. Podle informací Bloombergu toti plánuje u letos v lét zaít zobrazovat reklamy pímo ve výsledcích vyhledávání v Apple Maps. Ozná… [+2254 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol Hindi",
-      "title": "टेस्टिंग के दौरान देखी गई 2027 Honda City Facelift, कई फीचर्स आए सामने",
-      "description": "2027 Honda City Facelift: भारत के एग्जीक्यूटिव सेडान सेगमेंट में 2026 में एक नया लाइनअप देखने को मिलेगा। Hyundai पहले ही Verna फेसलिफ्ट लॉन्च कर चुकी है, जबकि Skoda Slavia, VW Virtus और Honda City के फेसलिफ्ट तैयार किए जा रहे हैं। हाल ही में ब्राजील में टेस्ट…",
-      "url": "https://hindi.moneycontrol.com/auto/2027-honda-city-facelift-spied-testing-several-features-revealed-article-2385792.html",
-      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2026/03/honda-city-2.jpg",
-      "publishedAt": "2026-03-24T11:04:11Z",
-      "content": "2027 Honda City Facelift: 2026 Hyundai Verna , Skoda Slavia, VW Virtus Honda City \r\n spy Honda City facelift , - \r\n2026 Honda City facelift - ?\r\nHonda City facelift \r\n , , , \r\n , 2026 Honda City face… [+378 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Jim Edwards",
-      "title": "Trump searches for an exit strategy in Iran as $100 oil looms over the midterms",
-      "description": "Everything you need to know before you reach the office this morning.",
-      "url": "https://fortune.com/2026/03/24/trump-exit-strategy-iran-oil-price-midterms/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1228246303.jpg?resize=1200,600",
-      "publishedAt": "2026-03-24T11:03:41Z",
-      "content": "Oil was at $102 per barrel this morning. S&amp;P 500 futures were flat before the opening bell in New York. The index rose 1.15% on Monday. Asia had a good day: South Koreas KOSPI rose 2.74%. Japans … [+7072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Les Numériques"
-      },
-      "author": "Alexandre Scotti",
-      "title": "Actualité : “La plus importante refonte de la gamme d’iPhone de l’histoire” : les projets d’Apple jusqu’en 2027 font rêver",
-      "description": "Oubliez les iPhone 18, Apple aurait deux modèles qui redessineraient sa gamme de smartphones d’ici la rentrée 2027.",
-      "url": "https://www.lesnumeriques.com/telephone-portable/la-plus-importante-refonte-de-la-gamme-d-iphone-de-l-histoire-les-projets-d-apple-jusqu-en-2027-font-rever-n253439.html",
-      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/25/253439/9c2f9788-la-plus-importante-refonte-de-la-gamme-d-iphone-de-l-histoire-les-projets-d-apple-jusqu-en-2027-font-rever__1200_678__0-542-6000-3692.jpg",
-      "publishedAt": "2026-03-24T11:03:00Z",
-      "content": "En bref<ul><li>Apple préparerait une refonte historique de sa gamme diPhone d'ici 2027, avec l'aide de John Ternus.</li><li>LiPhone Fold, premier smartphone pliant, et le modèle des 20 ans tout-en-ve… [+2434 chars]"
+      "author": "Alessio Marino",
+      "title": "Il Mac Pro va in pensione: motivi e ripercussioni della scelta di Apple",
+      "description": "Apple ha dismesso il Mac Pro e il Pro Display XDR: ora Mac Studio e nuovi display guidano la linea desktop verso utenti prosumer.Mentre i nuovi MacBook Pro con M5 Pro e Max sbaragliano la concorrenza e nei benchmark sembrano superare anche le performance dell…",
+      "url": "https://tech.everyeye.it/notizie/mac-pro-pensione-motivi-ripercussioni-scelta-apple-868032.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/il-mac-pro-pensione-motivi-ripercussioni-scelta-apple-v4-868032.jpg",
+      "publishedAt": "2026-04-04T19:02:00Z",
+      "content": "Mentre i nuovi MacBook Pro con M5 Pro e Max sbaragliano la concorrenza e nei benchmark sembrano superare anche le performance delle schede grafiche più potenti in ambito Windows, Apple ha ufficialmen… [+1470 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Larazon.es"
       },
-      "author": "Manu, Contreras",
-      "title": "Tras 5 años en España, a Laurance Li no le vale que HONOR sea una marca sólo de móviles, quiere ser un gigante tecnológico en el Top 3 de España",
-      "description": "Entrevistamos a Laurance Li, el nuevo Country Manager de HONOR en España sobre las novedades presentadas en el Mobile World Congress y cómo la empresa crecerá en los próximos 3 años",
-      "url": "https://www.larazon.es/tecnologia-consumo/honor/entrevista-laurence-li-country-manager-honor-espana-mwc-crecimiento-plegables_2026032469a7e241e1ff634075d6f4a1.html",
-      "urlToImage": "https://fotografias-2.larazon.es/assets/2026/03/composicion-del-honor-robot-phone-y-laurence-li-honor-espana.jpg?width=1200",
-      "publishedAt": "2026-03-24T11:03:00Z",
-      "content": "Vender móviles ya no es suficiente. Pocas marcas tecnológicas quedan en el mundo que solo se dediquen a fabricar y vender móviles al haberse convertido en un producto que todo el mundo tiene y donde … [+5056 chars]"
+      "author": "Damián, García",
+      "title": "Google Pixel 10a vs Pixel 10 vs Pixel 10 Pro, ¿cuál es el móvil de Google más recomendable de 2026?",
+      "description": "Esta es la comparativa que esperabas ver entre los Pixel 10, Pixel 10 Pro y Pixel 10a: todos los detalles y diferencias en precio, pantalla, rendimiento y cámaras para que puedas elegir el modelo de Google que mejor se adapta a tus necesidades",
+      "url": "https://www.larazon.es/tecnologia-consumo/google-pixel/google-pixel-10a-vs-pixel-10-vs-pixel-10-pro-cual-es-movil-google-recomendable-2026_2026040469ce39d26b2f8835925f0170.html",
+      "urlToImage": "https://fotografias-2.larazon.es/assets/2026/04/todos-los-pixel-10-made-by-google.jpg?width=1200",
+      "publishedAt": "2026-04-04T19:01:02Z",
+      "content": "A veces tomamos a Samsung como la referencia del catálogo Android casi obviando que Google cuenta con una familia de smartphones Pixel precisamente destinada a convertirse en esa referencia, no sólo … [+6992 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Maclife.de"
+        "name": "CHIP Online Deutschland"
       },
-      "author": "Laura Bergmann",
-      "title": "Apple Maps bekommt Werbung – Start schon im Sommer",
-      "description": "Apple will noch in diesem Sommer Werbung in Apple Maps einführen. Unternehmen können dann auf Suchbegriffe bieten und prominent in den Ergebnissen erscheinen. (Weiterlesen)",
-      "url": "https://www.maclife.de/news/apple-maps-werbung-kommt-sommer-2026-mac-life-100126808.html",
-      "urlToImage": "https://www.maclife.de/media/maclife/styles/tec_frontend_opengraph/public/images/editors/2026_13/image-126808--4619016.jpg?itok=wvFOQVq9",
-      "publishedAt": "2026-03-24T11:02:15Z",
-      "content": "Apple plant, bereits im Sommer dieses Jahres Werbung in Apple Maps einzuführen. Wie Bloomberg berichtet, könnte das Unternehmen die Pläne noch in diesem Monat ankündigen. Die Maßnahme ist Teil der St… [+2579 chars]"
+      "author": "Luka Markovic",
+      "title": "Apple stuft 3 Produkte neu ein: Support für ältere Geräte eingeschränkt",
+      "description": "Apple hat nun ältere Geräte in neue Servicekategorien verschoben. Mehrere Modelle gelten inzwischen als \"Vintage\" oder \"obsolet\".",
+      "url": "https://www.chip.de/news/apple/apple-stuft-3-produkte-neu-ein-support-fuer-aeltere-geraete-eingeschraenkt_eacd0d04-009f-4f20-b1cd-d8cc0eb76080.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/2ccfd1ce-59d3-4039-8936-ec562cb7a19e.af08246a-720f-486e-b3dd-4e8e85da10da.jpg?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(965,709)&hash=b72c42fa21f2a85693b3386eaf8e63da40de5a8f035edd910ed86fc713a7ea6e",
+      "publishedAt": "2026-04-04T19:01:00Z",
+      "content": "Im aktuellen Update der Service-Übersicht erweitert Apple die Einstufung älterer Geräte. Neu aufgenommen wurde das MacBook Air (13 Zoll, 2017) in die Kategorie \"Vintage\".\r\nApple stuft MacBook Air 201… [+1009 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Libertaddigital.com"
+        "name": "Xataka.com.mx"
       },
-      "author": "Federico Jiménez Losantos",
-      "title": "Entrevista a Perla Della Nave",
-      "description": "Federico e Isabel González hablan con Perla Della Nave, directora de la clínica Vericat.",
-      "url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/hablemos-con/2026-03-24/entrevista-a-perla-della-nave-7379373/",
-      "urlToImage": "https://s1.staticld.com//2021/09/07/1200/675/federico-podcast-2021.jpg",
-      "publishedAt": "2026-03-24T11:02:00Z",
-      "content": "Escucha este programa en cualquier momento y lugar a través de los podcasts de Libertad Digital y esRadio. Descarga nuestra aplicación para iOs o Android, visita nuestra página web en esradio.fm, o e… [+315 chars]"
+      "author": "Valeria Romero",
+      "title": "México está dejando de usar efectivo más rápido de lo esperado: casi la mitad de pagos con tarjeta ya son sin contacto",
+      "description": "Pagar con efectivo en México sigue siendo lo más común, pero algo está cambiando. Cada vez más personas dejan las monedas y billetes para acercar su tarjeta o celular a una terminal y completar una compra en segundos.\n<!-- BREAK 1 -->\nEl fenómeno no es nuevo,…",
+      "url": "https://www.xataka.com.mx/banca-digital/mexico-esta-dejando-usar-efectivo-rapido-esperado-casi-mitad-pagos-tarjeta-contacto",
+      "urlToImage": "https://i.blogs.es/8621c3/pagos-sin-contacto-aumentan-mexico-dejan-usar-efectivo-xataka-latam/840_560.png",
+      "publishedAt": "2026-04-04T19:00:56Z",
+      "content": "Pagar con efectivo en México sigue siendo lo más común, pero algo está cambiando. Cada vez más personas dejan las monedas y billetes para acercar su tarjeta o celular a una terminal y completar una c… [+8001 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Adam Marshall)",
+      "title": "How to watch Illinois vs. UConn: Live stream the Final Four free from anywhere",
+      "description": "The Fighting Illini and the Huskies will square off in the Final Four. Here's how to watch Illinois vs. UConn from anywhere.",
+      "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-illinois-vs-uconn-march-madness-2026",
+      "urlToImage": "https://i.insider.com/69d018cdc02a678bd7e47e85?width=1200&format=jpeg",
+      "publishedAt": "2026-04-04T19:00:01Z",
+      "content": "In time-honored tradition, the first Saturday of April is dedicated to the Final Four of March Madness, and the first two teams shooting for a place in the 2026 National Championship game are the Fig… [+7914 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Isenacode.com"
+        "name": "Hipertextual"
       },
-      "author": "Isazul Site",
-      "title": "Apple y su habilidad para crear nombres cada vez más confusos",
-      "description": "No hace mucho tiempo, entender los productos de Apple era sencillo. Tenías un iPhone, un iPad y un Mac. Fin. No hacía falta un máster, ni un árbol genealógico, ni consultar a un experto tecnológico para saber qué estabas comprando. Pero algo cambió. En algún …",
-      "url": "https://isenacode.com/apple-y-su-habilidad-para-crear-nombres-cada-vez-mas-confusos/",
-      "urlToImage": "https://isenacode.com/wp-content/uploads/2026/03/IMG_2026-03-24-093720.png",
-      "publishedAt": "2026-03-24T11:01:38Z",
-      "content": "No hace mucho tiempo, entender los productos de Apple era sencillo. Tenías un iPhone, un iPad y un Mac. Fin. \r\nNo hacía falta un máster, ni un árbol genealógico, ni consultar a un experto tecnológico… [+2558 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "alexblake.techradar@gmail.com (Alex Blake) , Alex Blake",
-      "title": "What is the macOS Dock? Here’s how to master Apple’s taskbar rival on your brand-new MacBook Neo",
-      "description": "Learn how the macOS Dock works with our complete guide for new Mac users.",
-      "url": "https://www.techradar.com/computing/mac-os/what-is-the-macos-dock-heres-how-to-master-apples-taskbar-rival-on-your-brand-new-macbook-neo",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AzbXEriHnChcFK9AqCe3GZ-1129-80.jpg",
-      "publishedAt": "2026-03-24T11:01:02Z",
-      "content": "If you’ve just switched from Windows to macOS (possibly because the affordable MacBook Neo has won you over), there’s a lot to learn. While the two operating systems have plenty of similarities, ther… [+8797 chars]"
+      "author": "Aglaia Berlutti",
+      "title": "Terror religioso: 7 películas ‘herejes’ para ver en Semana Santa",
+      "description": "Semana Santa es una época ideal para profundizar en temas complejos. Como el que propone el cine de terror religioso. Cuando El exorcista se estrenó en 1973, causó sensación. Pero no solo por contar una historia siniestra y con datos verídicos sobre una poses…",
+      "url": "https://hipertextual.com/cine-television/terror-religioso-7-peliculas-herejes-para-ver-en-semana-santa/",
+      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Terror-religioso.jpg?fit=2000%2C1600&quality=70&strip=all&ssl=1",
+      "publishedAt": "2026-04-04T19:00:00Z",
+      "content": "Semana Santa es una época ideal para profundizar en temas complejos. Como el que propone el cine de terror religioso. Cuando El exorcistase estrenó en 1973, causó sensación. Pero no solo por contar u… [+8278 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hwupgrade.it"
+        "name": "Android.com.pl"
       },
-      "author": null,
-      "title": "Philips abbandona Google TV: arriva Titan OS nei modelli del 2026",
-      "description": "Philips abbandona Google TV nei modelli 2026 per adottare Titan OS, un sistema basato su web app e contenuti pubblicitari. La scelta offre maggiore controllo e ricavi, ma comporta limiti come meno app e niente Google Cast",
-      "url": "https://www.hwupgrade.it/news/web/philips-abbandona-google-tv-arriva-titan-os-nei-modelli-del-2026_151676.html",
-      "urlToImage": "https://www.hwupgrade.it/i/n/titan_os_preview_720.jpg",
-      "publishedAt": "2026-03-24T11:01:01Z",
-      "content": "Una svolta significativa nel mercato delle smart TV arriva da Philips, che ha deciso di abbandonare Google TV per l'intera gamma di televisori prevista nel 2026. Al suo posto, l'azienda adotterà Tita… [+1882 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Appleinsider.ru"
-      },
-      "author": "Кирилл Пироженко",
-      "title": "6 новых устройств Apple, которые могут представить в любой момент",
-      "description": "Apple готовит ещё шесть новинок — от HomePod и Apple TV до Mac mini, Mac Studio и нового iPad. Разбираем, что могут показать в ближайшее время.",
-      "url": "https://appleinsider.ru/eto-interesno/6-novyh-ustrojstv-apple-kotorye-mogut-predstavit-v-lyuboj-moment.html",
-      "urlToImage": "https://appleinsider.ru/wp-content/uploads/2026/03/6-novyh-ustrojstv-apple-kotorye-mogut-pr-1-1000x526.jpg",
-      "publishedAt": "2026-03-24T11:00:57Z",
-      "content": "Apple 2026 , , , . iPad , , . HomePod, Apple TV Mac. , .\r\n6 Apple, . : 9to5mac.com\r\nHomePod mini 2 HomePod 3 Apple\r\n Bloomberg , HomePod mini HomePod Apple Store . .\r\nHomePod mini 2 HomePod 3 Apple. … [+1106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mit.edu"
-      },
-      "author": "Sam Ransbotham. Me, Myself, and AI is a podcast produced by MIT Sloan Management Review and hosted by Sam Ransbotham. It is engineered by David Lishansky and produced by Allison Ryder.\nSam Ransbotham is a professor in the information systems department at the Carroll School of Management at Boston College, as well as guest editor for MIT Sloan Management Review’s Artificial Intelligence and Business Strategy Big Ideas initiative.",
-      "title": "Shifting AI From Fear to Optimism: U.S. Department of Labor’s Taylor Stockton",
-      "description": "In this episode of the Me, Myself, and AI podcast, host Sam Ransbotham speaks with Taylor Stockton, chief innovation officer at the U.S. Department of Labor, about how artificial intelligence is reshaping the workforce. Taylor emphasizes that AI is having an …",
-      "url": "https://sloanreview.mit.edu/audio/shifting-ai-from-fear-to-optimism-u-s-department-of-labors-taylor-stockton/",
-      "urlToImage": "https://sloanreview.mit.edu/wp-content/uploads/2026/02/MMAI-S13-E2-Stockton-US-DOL-headshot-2400x1260-1-1200x630.jpg",
-      "publishedAt": "2026-03-24T11:00:52Z",
-      "content": "In this episode of the Me, Myself, and AI podcast, host Sam Ransbotham speaks with Taylor Stockton, chief innovation officer at the U.S. Department of Labor, about how artificial intelligence is resh… [+29668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Imagazine.pl"
-      },
-      "author": "Agnieszka Serafinowicz",
-      "title": "Claude łapie za myszkę. Sztuczna inteligencja od Anthropic potrafi już samodzielnie obsługiwać komputery Mac",
-      "description": "Sztuczna inteligencja przestaje być tylko zaawansowanym czatbotem. Firma Anthropic ogłosiła właśnie, że jej flagowy model – Claude – zyskał możliwość samodzielnego operowania w systemie macOS. Pora przyzwyczaić się do widoku kursora myszy, który porusza się p…",
-      "url": "https://imagazine.pl/2026/03/24/claude-lapie-za-myszke-ai-anthropic-obsluguje-macos/",
-      "urlToImage": "https://imagazine.pl/wp-content/uploads/2026/02/Claude-AI.jpg",
-      "publishedAt": "2026-03-24T11:00:16Z",
-      "content": "Sztuczna inteligencja przestaje by tylko zaawansowanym czatbotem. Firma Anthropic ogosia wanie, e jej flagowy model Claude zyska moliwo samodzielnego operowania w systemie macOS.\r\nPora przyzwyczai si… [+2423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "author": "Roland Hutchinson",
-      "title": "iPhone 17e vs. iPhone 17 Pro Max: Full Specs, Price & Camera Comparison",
-      "description": "Apple’s iPhone 17 lineup introduces two distinct models designed to cater to a wide range of users: the iPhone 17e and the iPhone 17 Pro Max. While the Pro Max represents Apple’s most advanced technology, the 17e offers a more affordable alternative without s…",
-      "url": "https://www.geeky-gadgets.com/iphone-17e-vs-iphone-17-pro-max/",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/iphone-17e-vs-17-pro-max-side-by-side.jpg",
-      "publishedAt": "2026-03-24T11:00:11Z",
-      "content": "Apples iPhone 17 lineup introduces two distinct models designed to cater to a wide range of users: the iPhone 17e and the iPhone 17 Pro Max. While the Pro Max represents Apples most advanced technolo… [+5907 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Cut"
-      },
-      "author": "Cat Zhang",
-      "title": "The New ‘Musician to Actor’ Pipeline",
-      "description": "It isn’t just Teyana Taylor or Charli XCX: Everyone from music’s biggest names to indie darlings is crossing over to film and TV. Inside Hollywood’s new ‘musician to actor’ pipeline.",
-      "url": "http://www.thecut.com/article/hollywood-musician-to-actor-pipeline-charli-xcx-teyana-taylor-bad-bunny.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/c3b/ff3/1bc8474b54227f63f3df09716379c91981-Musician-Actor-01.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-03-24T11:00:08Z",
-      "content": "This year, the belle of the Sundance Film Festival was not a hermitic art-house filmmaker or Oscar-winning actor. It was Charli XCX, club-pop diva who features in not one, not two, but three of thefe… [+8318 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Why I pick this $200 Motorola phone over cheap Google and Samsung models",
-      "description": "The 2026 Moto G sticks to a proven formula, offering great performance at an affordable price.",
-      "url": "https://www.zdnet.com/article/motorola-moto-g-review/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7e597b605a637e7c7dc8fa10bca7e1752b19a983/2025/12/23/5036165b-9f2c-4144-951c-6ab08e3ac261/moto-g-2026-image-2.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2026-03-24T11:00:04Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\n\"If it ain't broke, don't fix it\" -- that simple phrase seems to have been Motorola's mantra with the 2026 Moto G, a midrange smartphone that cl… [+5088 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "heise online"
-      },
-      "author": "Johannes Schuster",
-      "title": "heise+ | MacBook Pro M5 Pro im Test: Das Pro im Pro",
-      "description": "Wie reiht sich das MacBook Pro mit M5 Pro zwischen den anderen  Varianten mit einfachem M5 und M5 Max ein? Performance, SSD, Lüfter und mehr im Test.",
-      "url": "https://www.heise.de/tests/MacBook-Pro-M5-Pro-im-Test-Das-Pro-im-Pro-11222433.html",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/5/1/1/0/8/mi_06_macbookprom5_aufmacher_digital-ad8651f2bfa2f4da.png",
-      "publishedAt": "2026-03-24T11:00:00Z",
-      "content": "Inhaltsverzeichnis\r\nIm März hat Apple seine MacBook-Pro-Reihe mit den Prozessoren M5 Pro und M5 Max aktualisiert. Das MacBook Pro mit dem einfachen M5 war schon im Oktober 2025 auf den Markt gekommen… [+809 chars]"
+      "author": "Łukasz Pająk",
+      "title": "Co to tempomat adaptacyjny i jak działa? Kompendium wiedzy",
+      "description": "Tempomat w samochodach to rozwiązanie, które w XXI wieku na dobre zadomowiło się praktycznie w każdym modelu, począwszy od luksusowych aut, a kończąc nawet na miejskich propozycjach. Zdecydowanie nie jest to innowacja z tego tysiąclecia, aczkolwiek w ostatnic…",
+      "url": "https://android.com.pl/moto/1034494-co-to-tempomat-adaptacyjny-jak-dziala/",
+      "urlToImage": "https://static.android.com.pl/uploads/2026/04/co-to-tempomat-i-jak-dziala-rodzaje-6-1280x853.jpg",
+      "publishedAt": "2026-04-04T18:58:00Z",
+      "content": "Tempomat w samochodach to rozwizanie, które w XXI wieku na dobre zadomowio si praktycznie w kadym modelu, poczwszy od luksusowych aut, a koczc nawet na miejskich propozycjach. Zdecydowanie nie jest t… [+11331 chars]"
     }
   ]
 }
