@@ -16,6 +16,8 @@ from src.parsing.parsers import (
 )
 from src.ocr.ocr_utils import extract_text_from_image, extract_text_from_pdf
 from src.storage.mongo import save_to_mongo
+from src.scraping.scraper import scrape_multiple_pages
+from src.scraping.dynamic_scraper import scrape_ajax_endpoint, scrape_dynamic_url
 
 logger = get_logger(__name__)
 
@@ -67,6 +69,71 @@ def run_pipeline():
                         parser_func(file_path)
         except Exception as e:
             logger.error(f"Error parsing {file_type} files: {e}")
+
+    # --- Web Scraping ---
+    logger.info("--- Starting Web Scraping ---")
+    try:
+        base_scrape_url = "https://books.toscrape.com/"
+        scraped_data = scrape_multiple_pages(base_scrape_url, num_pages=3) # Scrape 3 pages for demonstration
+        if scraped_data:
+            logger.info(f"Successfully scraped {len(scraped_data)} records from {base_scrape_url}.")
+            for record in scraped_data:
+                metadata = {
+                    "source": base_scrape_url,
+                    "type": "web_scrape",
+                    "file_name": None
+                }
+                save_to_mongo(record, metadata=metadata)
+        else:
+            logger.warning("No data was scraped. Check scraper configuration and website availability.")
+    except Exception as e:
+        logger.error(f"An error occurred during the web scraping process: {e}")
+
+    # --- Dynamic Content Handling ---
+    logger.info("--- Starting Dynamic Content Handling ---")
+    try:
+        # 1. Scrape a known AJAX endpoint
+        ajax_url = "https://www.scrapethissite.com/pages/ajax-javascript/"
+        year_to_scrape = 2015
+        params = {"ajax": "true", "year": year_to_scrape}
+        
+        logger.info(f"Scraping AJAX endpoint for year {year_to_scrape}...")
+        film_data = scrape_ajax_endpoint(ajax_url, params=params)
+        
+        if film_data:
+            logger.info(f"Successfully scraped {len(film_data)} films from AJAX endpoint.")
+            for film in film_data:
+                # The data is a list of dicts, each can be saved.
+                metadata = {
+                    "source": ajax_url,
+                    "type": "ajax_scrape",
+                    "query_params": params,
+                    "file_name": None
+                }
+                save_to_mongo(film, metadata=metadata)
+        else:
+            logger.warning("No data was scraped from the AJAX endpoint.")
+
+        # 2. Scrape a dynamic page with Selenium as a fallback/example
+        dynamic_page_url = "https://www.scrapethissite.com/pages/javascript/" # A page that requires JS
+        logger.info(f"Scraping dynamic page with Selenium: {dynamic_page_url}")
+        soup = scrape_dynamic_url(dynamic_page_url)
+        if soup:
+            # Example: Extract the text from the h3 tag
+            h3_text = soup.find('h3', class_='page-title')
+            if h3_text:
+                logger.info(f"Selenium successfully extracted title: {h3_text.text.strip()}")
+                # In a real scenario, you would parse the soup object and save the data
+                metadata = {"source": dynamic_page_url, "type": "selenium_scrape"}
+                save_to_mongo({"page_title": h3_text.text.strip()}, metadata=metadata)
+            else:
+                logger.warning("Could not find the expected element on the dynamic page.")
+        else:
+            logger.warning("Selenium scraper did not return any content.")
+
+    except Exception as e:
+        logger.error(f"An error occurred during dynamic content scraping: {e}")
+
 
     # --- OCR Processing ---
     logger.info("--- Starting OCR Processing ---")

@@ -710,3 +710,317 @@ Lorem ipsum dolor sit amet, consectetur
 2026-04-02 18:47:24,559 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
 2026-04-02 18:47:26,541 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
 2026-04-02 18:47:26,542 - __main__ - INFO - --- Pipeline finished successfully. ---
+2026-04-05 23:09:42,160 - __main__ - INFO - Pipeline started for brand: Apple
+2026-04-05 23:09:42,161 - __main__ - INFO - --- Starting Data Ingestion and Parsing ---
+2026-04-05 23:09:42,161 - __main__ - INFO - Fetching data from NewsAPI...
+2026-04-05 23:09:43,448 - __main__ - INFO - API data fetched. Parsing JSON files...
+2026-04-05 23:09:43,514 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 20.
+2026-04-05 23:09:43,530 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 20.
+2026-04-05 23:09:43,546 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 19.
+2026-04-05 23:09:43,547 - __main__ - INFO - Parsing CSV files...
+2026-04-05 23:09:43,558 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 4.
+2026-04-05 23:09:43,558 - __main__ - INFO - Parsing XML files...
+2026-04-05 23:09:43,572 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 3.
+2026-04-05 23:09:43,573 - __main__ - INFO - Parsing PDF files...
+2026-04-05 23:09:43,641 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:43,643 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:43,906 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:43,906 - __main__ - INFO - Parsing DOCX files...
+2026-04-05 23:09:43,928 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:43,934 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:43,961 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:43,963 - __main__ - INFO - Parsing EXCEL files...
+2026-04-05 23:09:43,963 - __main__ - INFO - --- Starting Web Scraping ---
+2026-04-05 23:09:43,963 - src.scraping.scraper - INFO - Scraping page 1: https://books.toscrape.com/index.html
+2026-04-05 23:09:44,413 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/index.html...
+2026-04-05 23:09:46,617 - src.scraping.scraper - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-04-05 23:09:47,054 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-2.html...
+2026-04-05 23:09:49,328 - src.scraping.scraper - INFO - Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-04-05 23:09:49,769 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-3.html...
+2026-04-05 23:09:52,020 - __main__ - INFO - Successfully scraped 60 records from https://books.toscrape.com/.
+2026-04-05 23:09:52,044 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-05 23:09:52,046 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,048 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,050 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,051 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,054 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,056 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,058 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,058 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,059 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,060 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,060 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,061 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,062 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,063 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,067 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,068 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,069 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,070 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,071 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,071 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,072 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,073 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,074 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,074 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,075 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,077 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,078 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,079 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,080 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,082 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,083 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,084 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,085 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,086 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,087 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,087 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,088 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,089 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,090 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,091 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,094 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,096 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,099 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,101 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,102 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,104 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,105 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,106 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,108 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,109 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,110 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,112 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,113 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,115 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,117 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,118 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,119 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,120 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,120 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,121 - __main__ - INFO - --- Starting OCR Processing ---
+2026-04-05 23:09:52,121 - __main__ - INFO - Performing OCR on images...
+2026-04-05 23:09:52,859 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:52,996 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:53,303 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:09:53,305 - __main__ - INFO - Performing OCR on scanned PDFs...
+2026-04-05 23:09:57,447 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-05 23:10:00,398 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:10:00,398 - __main__ - INFO - --- Pipeline finished successfully. ---
+2026-04-05 23:12:46,360 - __main__ - INFO - Pipeline started for brand: Apple
+2026-04-05 23:12:46,360 - __main__ - INFO - --- Starting Data Ingestion and Parsing ---
+2026-04-05 23:12:46,360 - __main__ - INFO - Fetching data from NewsAPI...
+2026-04-05 23:12:47,199 - __main__ - INFO - API data fetched. Parsing JSON files...
+2026-04-05 23:12:47,220 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 20.
+2026-04-05 23:12:47,234 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 20.
+2026-04-05 23:12:47,250 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 19.
+2026-04-05 23:12:47,252 - __main__ - INFO - Parsing CSV files...
+2026-04-05 23:12:47,255 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 4.
+2026-04-05 23:12:47,255 - __main__ - INFO - Parsing XML files...
+2026-04-05 23:12:47,257 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 3.
+2026-04-05 23:12:47,258 - __main__ - INFO - Parsing PDF files...
+2026-04-05 23:12:47,303 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:47,304 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:47,571 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:47,572 - __main__ - INFO - Parsing DOCX files...
+2026-04-05 23:12:47,580 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:47,585 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:47,595 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:47,598 - __main__ - INFO - Parsing EXCEL files...
+2026-04-05 23:12:47,598 - __main__ - INFO - --- Starting Web Scraping ---
+2026-04-05 23:12:47,598 - src.scraping.scraper - INFO - Scraping page 1: https://books.toscrape.com/index.html
+2026-04-05 23:12:48,049 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/index.html...
+2026-04-05 23:12:50,306 - src.scraping.scraper - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-04-05 23:12:50,745 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-2.html...
+2026-04-05 23:12:52,995 - src.scraping.scraper - INFO - Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-04-05 23:12:53,405 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-3.html...
+2026-04-05 23:12:55,609 - __main__ - INFO - Successfully scraped 60 records from https://books.toscrape.com/.
+2026-04-05 23:12:55,611 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,612 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,613 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,613 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,614 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,615 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,616 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,617 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,618 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,619 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,620 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,620 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,621 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,622 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,622 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,624 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,625 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,626 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,627 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,627 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,628 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,628 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,629 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,630 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,630 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,631 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,631 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,632 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,632 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,634 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,634 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,635 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,635 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,636 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,637 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,637 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,638 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,639 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,641 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,642 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,643 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,644 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,644 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,645 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,646 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,647 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,648 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,649 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,650 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,651 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,653 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,655 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,658 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,659 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,661 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,662 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,664 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,665 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,667 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,668 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,669 - __main__ - INFO - --- Starting OCR Processing ---
+2026-04-05 23:12:55,669 - __main__ - INFO - Performing OCR on images...
+2026-04-05 23:12:55,821 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:55,958 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:56,311 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:12:56,311 - __main__ - INFO - Performing OCR on scanned PDFs...
+2026-04-05 23:13:00,483 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-05 23:13:02,605 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:13:02,606 - __main__ - INFO - --- Pipeline finished successfully. ---
+2026-04-05 23:15:48,429 - __main__ - INFO - Pipeline started for brand: Apple
+2026-04-05 23:15:48,429 - __main__ - INFO - --- Starting Data Ingestion and Parsing ---
+2026-04-05 23:15:48,429 - __main__ - INFO - Fetching data from NewsAPI...
+2026-04-05 23:15:49,675 - __main__ - INFO - API data fetched. Parsing JSON files...
+2026-04-05 23:15:49,714 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 20.
+2026-04-05 23:15:49,730 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 20.
+2026-04-05 23:15:49,741 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 19.
+2026-04-05 23:15:49,742 - __main__ - INFO - Parsing CSV files...
+2026-04-05 23:15:49,745 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 4.
+2026-04-05 23:15:49,745 - __main__ - INFO - Parsing XML files...
+2026-04-05 23:15:49,747 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 3.
+2026-04-05 23:15:49,747 - __main__ - INFO - Parsing PDF files...
+2026-04-05 23:15:49,795 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:49,796 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:50,050 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:50,050 - __main__ - INFO - Parsing DOCX files...
+2026-04-05 23:15:50,058 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:50,063 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:50,073 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:50,075 - __main__ - INFO - Parsing EXCEL files...
+2026-04-05 23:15:50,075 - __main__ - INFO - --- Starting Web Scraping ---
+2026-04-05 23:15:50,076 - src.scraping.scraper - INFO - Scraping page 1: https://books.toscrape.com/index.html
+2026-04-05 23:15:50,629 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/index.html...
+2026-04-05 23:15:52,868 - src.scraping.scraper - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-04-05 23:15:53,305 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-2.html...
+2026-04-05 23:15:55,562 - src.scraping.scraper - INFO - Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-04-05 23:15:56,010 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-3.html...
+2026-04-05 23:15:58,218 - __main__ - INFO - Successfully scraped 60 records from https://books.toscrape.com/.
+2026-04-05 23:15:58,219 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,221 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,222 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,223 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,225 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,227 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,228 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,229 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,231 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,232 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,233 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,234 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,236 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,237 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,237 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,238 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,239 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,240 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,242 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,243 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,244 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,245 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,245 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,246 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,247 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,248 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,249 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,250 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,251 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,252 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,253 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,254 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,255 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,256 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,257 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,258 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,259 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,260 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,261 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,262 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,263 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,265 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,266 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,268 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,269 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,271 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,272 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,274 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,275 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,276 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,278 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,279 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,280 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,281 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,282 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,283 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,284 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,286 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,287 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,288 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:15:58,288 - __main__ - INFO - --- Starting Dynamic Content Handling ---
+2026-04-05 23:15:58,289 - __main__ - INFO - Scraping AJAX endpoint for year 2015...
+2026-04-05 23:15:58,289 - src.scraping.dynamic_scraper - INFO - Requesting data from AJAX endpoint: https://www.scrapethissite.com/pages/ajax-javascript/ with params: {'ajax': 'true', 'year': 2015}
+2026-04-05 23:16:00,225 - __main__ - INFO - Successfully scraped 16 films from AJAX endpoint.
+2026-04-05 23:16:00,226 - src.storage.mongo - INFO - MongoDB write complete. New documents: 1, Updated documents: 0.
+2026-04-05 23:16:00,227 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,228 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,230 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,232 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,234 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,235 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,236 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,237 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,238 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,239 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,240 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,241 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,243 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,244 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,245 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,245 - __main__ - INFO - Scraping dynamic page with Selenium: https://www.scrapethissite.com/pages/javascript/
+2026-04-05 23:16:00,359 - src.scraping.dynamic_scraper - WARNING - Scraping not allowed for https://www.scrapethissite.com/pages/javascript/ by robots.txt.
+2026-04-05 23:16:00,359 - __main__ - WARNING - Selenium scraper did not return any content.
+2026-04-05 23:16:00,359 - __main__ - INFO - --- Starting OCR Processing ---
+2026-04-05 23:16:00,360 - __main__ - INFO - Performing OCR on images...
+2026-04-05 23:16:00,504 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,627 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,972 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:00,972 - __main__ - INFO - Performing OCR on scanned PDFs...
+2026-04-05 23:16:05,247 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-04-05 23:16:07,438 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-04-05 23:16:07,438 - __main__ - INFO - --- Pipeline finished successfully. ---

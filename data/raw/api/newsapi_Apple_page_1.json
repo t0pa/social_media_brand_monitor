@@ -1,32 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 39971,
+  "totalResults": 37810,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "heise online"
+        "name": "Japan Today"
       },
-      "author": "Ben Schwan",
-      "title": "Studio Display XDR: Apple reduziert Preis mit VESA-Mount deutlich",
-      "description": "Die Preise für den komplexen neigungs- und höhenverstellbaren Standfuß bei Apples neuem Screen waren genauso hoch wie beim simplen VESA-Mount. Das ändert sich.",
-      "url": "https://www.heise.de/news/Studio-Display-XDR-Apple-reduziert-Preis-mit-VESA-Mount-deutlich-11243501.html",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/5/6/6/1/9/vesaxdr-e619c477caac197b.png",
-      "publishedAt": "2026-04-01T16:47:00Z",
-      "content": "Apple hat ohne weitere Ankündigung eine Ungerechtigkeit beim Studio Display XDR beseitigt. Zahlte man bislang sowohl für die VESA- als auch für die Standfußvariante gleich viel, sinkt der Preis für e… [+2058 chars]"
+      "author": null,
+      "title": "What to stream: Sydney Sweeney, 'Malcolm in the Middle,' Jonah Hill, 'Hacks' and Ella Langley",
+      "description": "Sydney Sweeney starring as real-life boxing legend Christy Martin in the movie “Christy” and “Hacks” launching its fifth and final season on HBO are some of the new television, films, music and games headed to a device near you. Also among the streaming offer…",
+      "url": "https://japantoday.com/category/entertainment/what-to-stream-sydney-sweeney-%27malcolm-in-the-middle-%27-jonah-hill-%27hacks%27-and-ella-langley",
+      "urlToImage": null,
+      "publishedAt": "2026-04-04T21:12:00Z",
+      "content": "Sydney Sweeney starring as real-life boxing legend Christy Martin in the movie Christy and Hacks launching its fifth and final season on HBO are some of the new television, films, music and games hea… [+6202 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Bleeding Cool News"
+        "name": "Just Jared"
       },
-      "author": "Gavin Sheehan",
-      "title": "Karl-Anthony Towns Headlines Season 6 of NBA 2K26",
-      "description": "2K Games dropped new info about the next season of NBA 2K26, as New York Knicks star Karl-Anthony Towns takes center stage for Season 6. This season has been given an anime theme, but there isn't a lot here that's actually anime-themed, and no crossovers with…",
-      "url": "https://bleedingcool.com/games/karl-anthony-towns-headlines-season-6-of-nba-2k26/",
-      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2026/04/NBA-2K26-Season-6-Key-Art-2000x1125.jpg",
-      "publishedAt": "2026-04-01T16:46:08Z",
-      "content": "Posted in: 2K Games, Games, NBA 2K, Video Games | Tagged: anime, Karl-Anthony Towns, nba, NBA 2K26\r\nKarl-Anthony Towns is the headline player for Season 6 of NBA 2K26, set to launch later this week w… [+3215 chars]"
+      "author": "Just Jared",
+      "title": "'Shrinking' Creator Teases Major Season 4 Changes: New Story, Same Cast",
+      "description": "The season three finale of Shrinking is airing this week and the episode will wrap up the show’s three-season story. Bill Lawrence, the creator of the Apple TV series, is opening up about what you can expect from the upcoming fourth season. While Harrison For…",
+      "url": "https://www.justjared.com/2026/04/04/shrinking-creator-teases-major-season-4-changes-new-story-same-cast/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/04/shrinking-new.jpg",
+      "publishedAt": "2026-04-04T21:10:46Z",
+      "content": "The season three finale of Shrinking is airing this week and the episode will wrap up the show’s three-season story.\r\nBill Lawrence, the creator of the Apple TV series, is opening up about what you c… [+1650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Finance.ua"
+      },
+      "author": "Finance.UA",
+      "title": "Apple снимает с производства Mac Pro и не планирует новых моделей",
+      "description": "Компания Apple официально прекратила продажи Mac Pro, завершив историю одного из самых мощных и дорогих компьютеров в своей линейке. Как сообщает 9to5Mac, устройство уже исчезло с сайта компании, а страница покупки перенаправляет пользователей на общий катало…",
+      "url": "https://news.finance.ua/ru/apple-snimaet-s-proizvodstva-mac-pro-i-ne-planiruet-novyh-modeley",
+      "urlToImage": "https://finance-news-media.fra1.cdn.digitaloceanspaces.com/prod/7/5/75dd56d83dba422be02f1596d4ca131a",
+      "publishedAt": "2026-04-04T21:10:00Z",
+      "content": "Apple , Mac Pro \r\nApple Mac Pro, . 9to5Mac, , Mac.\r\n , 2019 2023- M2 Ultra, , $6999.\r\n , M3 Ultra, 32- , 80- , 256 16 .\r\n Mac Pro Apple : iMac, Mac mini Mac Studio. , MacBook Air, MacBook Pro MacBook… [+70 chars]"
+    },
+    {
+      "source": {
+        "id": "bild",
+        "name": "Bild"
+      },
+      "author": "Charmaine Fischer",
+      "title": "Schnapsidee oder Versehen? - Handy-App benennt „El Arenal“ in „Betrunkene“ um",
+      "description": "El Arenal (Mallorca) – Apple-Apps zeigen El Arenal plötzlich als „Betrunkene“ – Nutzer rätseln über Panne.",
+      "url": "https://www.bild.de/news/ausland/betrunkene-ballermann-scherz-in-der-karten-app-69d14d3b8ba297d4b122f2f7",
+      "urlToImage": "https://images.bild.de/69d14d3b8ba297d4b122f2f7/62ba073736dfff3b428c9b6e70d8019e,24899d42?w=1280",
+      "publishedAt": "2026-04-04T20:57:32Z",
+      "content": "TTS-Player überspringenArtikel weiterlesenEl Arenal (Mallorca) Schnapsidee oder vielleicht sogar nur ein Versehen? Die Ballermann-Saison hat noch gar nicht richtig begonnen, da gibt es schon den erst… [+1296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Chuck Booth",
+      "title": "Inter Miami vs. Austin FC live stream: Lionel Messi and company open up new stadium in MLS clash",
+      "description": "A new era starts for Inter Miami on Saturday night",
+      "url": "https://www.cbssports.com/soccer/news/inter-miami-vs-austin-fc-live-stream-preview-lionel-messi/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/04/04/a21819a0-aa72-476d-86f0-b604f5604c2b/thumbnail/1200x675/92db10cde0e6d374e27f4669be941305/nu-stadium-inter-miami.jpg",
+      "publishedAt": "2026-04-04T20:51:00Z",
+      "content": "It's the beginning of a new era for Inter Miami as they play the first game ever at Nu Stadium with the Herons officially leaving their inaugural home of Fort Lauderdale for the glitz of Miami. While… [+2020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "/FILM"
+      },
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "title": "The For All Mankind Season 5 Mars Set Details That Most Fans Won't Even Notice",
+      "description": "For All Mankind's creative team takes its set design seriously, and it's worth paying attention to the details in every scene.",
+      "url": "https://www.slashfilm.com/2139947/for-all-mankind-season-5-mars-mission-control-set-details/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/for-all-mankind-season-5-mars-mission-control-set-details/l-intro-1775321758.jpg",
+      "publishedAt": "2026-04-04T20:45:00Z",
+      "content": "\"For All Mankind\" is one of the best sci-fi shows on Apple TV. Unfortunately, the streamer is far from the biggest in the world, so not everyone has yet been exposed to \"For All Mankind.\" If you do d… [+1393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Associated Press",
+      "title": "Brewers inherit ‘rally tortoise’ after manager Pat Murphy told no pocket pancakes in TV interview",
+      "description": "First, the Milwaukee Brewers had “pocket pancakes.” Now, they have pocket turtles. Ahem, tortoise. This all probably needs an explanation.",
+      "url": "https://www.nbcsports.com/mlb/news/brewers-inherit-rally-tortoise-after-manager-pat-murphy-told-no-pocket-pancakes-in-tv-interview",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hxbeTE37GhMfVMyDbDf47w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/nbcsports.com/ef435119e90873e8b5f866ee1cbfc261",
+      "publishedAt": "2026-04-04T20:44:41Z",
+      "content": "KANSAS CITY, Mo. First, the Milwaukee Brewers had pocket pancakes. Now, they have pocket turtles.\r\nAhem, tortoise.\r\nThis all probably needs an explanation.\r\nDuring a game last August, Brewers manager… [+2130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "The Music Journal Brazil",
+      "title": "TikTok: o segredo da virada dos singles virais em 2026",
+      "description": "Uma análise profunda sobre a engrenagem que transforma segundos de áudio em milhões de dólares e redefine o sucesso artístico",
+      "url": "https://www.terra.com.br/diversao/musica/meu-sonora/pop-internacional/tiktok-o-segredo-da-virada-dos-singles-virais-em-2026,d19ebd2984ec17df3f30945d7e535dbfgc8aytyb.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/362067429-tiktok-creative-commons.png",
+      "publishedAt": "2026-04-04T20:42:36Z",
+      "content": "O marketing de influência no TikTok  não é mais uma tentativa aleatória de viralização, mas uma ciência exata de distribuição de ativos digitais. O modelo de negócio funciona através de uma tríade co… [+6478 chars]"
     },
     {
       "source": {
@@ -34,233 +112,155 @@
         "name": "Bringatrailer.com"
       },
       "author": "bringatrailer",
-      "title": "2021 Porsche 718 Cayman GT4 at No Reserve",
-      "description": "This 2021 Porsche 718 Cayman GT4 is powered by a 4.0-liter flat-six linked to a seven-speed PDK dual-clutch automatic transaxle and features an Akrapovič exhaust system. The exterior is finished in Chalk, and the cabin is appointed with black leather and Race…",
-      "url": "https://bringatrailer.com/listing/2021-porsche-718-cayman-gt4-33/",
-      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/03/2021_porsche_718-cayman-gt4_RollerGT4-1-33403-scaled.jpg",
-      "publishedAt": "2026-04-01T16:45:50Z",
-      "content": "This 2021 Porsche 718 Cayman GT4 is powered by a 4.0-liter flat-six linked to a seven-speed PDK dual-clutch automatic transaxle and features an Akrapovi exhaust system. The exterior is finished in Ch… [+2572 chars]"
+      "title": "2021 Jeep Gladiator 80th Anniversary Edition",
+      "description": "This 2021 Jeep Gladiator Sport 80th Anniversary Edition was purchased by the seller in 2023 and has since been modified with 17\" KMC wheels, 37\" BFG tires, a 2.5\" leveling kit, and uprated lighting and body components. Elements include a Badlands front winch,…",
+      "url": "https://bringatrailer.com/listing/2021-jeep-gladiator-85/",
+      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/03/2021_jeep_gladiator_2021_jeep_gladiator_7b5b1e8f-9331-41be-96f2-7c11853fb449-fiVAhc-71121-71122-scaled.jpg",
+      "publishedAt": "2026-04-04T20:40:12Z",
+      "content": "This 2021 Jeep Gladiator Sport 80th Anniversary Edition was purchased by the seller in 2023 and has since been modified with 17″ KMC wheels, 37″ BFG tires, a 2.5″ leveling kit, and uprated lighting a… [+3472 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "tomandlorenzo.com"
+        "name": "Rlsbb.to"
       },
-      "author": "Lorenzo Marquez",
-      "title": "THE DRAMA Star Zendaya in Erdem at the GOOD MORNING AMERICA Studios",
-      "description": "Apparently, Zendaya and her stylist Law Roach threw out the “Something old, something new, something borrowed and something blue” style directive for her promo tour for The Drama. Going by her outfit at Good Morning America this morning, they’ve moved on to “…",
-      "url": "https://tomandlorenzo.com/2026/04/the-drama-star-zendaya-in-erdem-at-the-good-morning-america-studios/",
-      "urlToImage": "https://tomandlorenzo.com/wp-content/uploads/2026/04/Zendaya-The-Drama-Good-Morning-America-TV-Style-Fashion-Erdem-Tom-Lorenzo-Site-1.jpg",
-      "publishedAt": "2026-04-01T16:45:17Z",
-      "content": "Archives: \r\nSelect\r\n April 2026 \r\n March 2026 \r\n February 2026 \r\n January 2026 \r\n December 2025 \r\n November 2025 \r\n October 2025 \r\n September 2025 \r\n August 2025 \r\n July 2025 \r\n June 2025 \r\n May 2025… [+4010 chars]"
+      "author": "Ash",
+      "title": "MusConv Lifetime 4.10.461",
+      "description": "Description: More than 125+ music services supported. MusConv - the easiest way to transfer your music data! MusConv transfers playlists, albums, followed artists and liked songs across various services – Spotify, Apple Music, Amazon Music, YouTube, YouTube M…",
+      "url": "https://post.rlsbb.to/musconv-lifetime-4-10-461/",
+      "urlToImage": null,
+      "publishedAt": "2026-04-04T20:39:21Z",
+      "content": "Description: More than 125+ music services supported. MusConv - the easiest way to transfer your music data! MusConv transfers playlists, albums, followed artists and liked songs across various servi… [+919 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "The Atlantic"
+        "id": "breitbart-news",
+        "name": "Breitbart News"
       },
-      "author": "Laura Secor",
-      "title": "Someday in Tehran",
-      "description": "The heartbreak of hoping for a democratic Iran",
-      "url": "https://www.theatlantic.com/magazine/2026/05/iran-us-israel-war-democracy-women/686583/",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/WQ7Ugt15JBCfH1YgCei79zG00kA=/0x0:5700x2969/1200x625/media/img/2026/04/ABA2006014W00069_06_1/original.jpg",
-      "publishedAt": "2026-04-01T16:45:00Z",
-      "content": "This article was featured in the One Story to Read Today newsletter. Sign up for it here.Like Donald Trump, I, too, once underestimated the Islamic Republic of Iran. In the fall of 2004, as an undere… [+23961 chars]"
+      "author": "Breitbart TV",
+      "title": "Red Light Therapy Entrepreneur Touts MAHA Solution to Inflammation",
+      "description": "Saturday on “The Alex Marlow Show,” Tom Kerber, the CEO of SunPower LED, talked about inflammation. Kerber said, “I thought, the next day when I was working on the computer, I thought I’ll take this powerful light…and I put this\nThe post Red Light Therapy Ent…",
+      "url": "https://www.breitbart.com/clips/2026/04/04/red-light-therapy-entrepreneur-touts-maha-solution-to-inflammation/",
+      "urlToImage": "https://media.breitbart.com/media/2026/04/Screenshot-2026-04-04-163055-640x335.jpg",
+      "publishedAt": "2026-04-04T20:38:41Z",
+      "content": "Saturday on “The Alex Marlow Show,” Tom Kerber, the CEO of SunPower LED, talked about inflammation.\r\nKerber said, “I thought, the next day when I was working on the computer, I thought I’ll take this… [+752 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "breitbart-news",
+        "name": "Breitbart News"
       },
-      "author": "Zac Hall",
-      "title": "Apple at 50: How the company’s shift into health changed my life at 25",
-      "description": "This story is part of 9to5mac’s series celebrating Apple’s 50th anniversary.\n\n\n\nApril 1, 1976: 50 years ago, Apple was founded. 40 years later, to the date, I was a 25-year-old embarking on a health and fitness journey, and Apple was right at the core.\n\n\n\nApr…",
-      "url": "https://9to5mac.com/2026/04/01/apple-at-50-how-the-companys-shift-into-health-changed-my-life-at-25/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-watch-decade-running.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-04-01T16:45:00Z",
-      "content": "This story is part of 9to5macs series celebrating Apples 50th anniversary.\r\nApril 1, 1976: 50 years ago, Apple was founded. 40 years later, to the date, I was a 25-year-old embarking on a health and … [+2875 chars]"
+      "author": "Breitbart TV",
+      "title": "Exclusive -- Lara Trump: Foreign Millionaires and Billionaires Funding No Kings, Rigging Democrat Primaries",
+      "description": "Saturday on “The Alex Marlow Show,” “The Right View” host Lara Trump talked about the left. Trump said, “Take a look at who is funding the No Kings protests. Guess who it is. It is the very people that this\nThe post Exclusive — Lara Trump: Foreign Millionaire…",
+      "url": "https://www.breitbart.com/clips/2026/04/04/exclusive-lara-trump-foreign-millionaires-and-billionaires-funding-no-kings-rigging-democrat-primaries/",
+      "urlToImage": "https://media.breitbart.com/media/2026/03/d4886858e73a47f8a9a6c5ac58dbca70-640x335.jpg",
+      "publishedAt": "2026-04-04T20:38:39Z",
+      "content": "Saturday on “The Alex Marlow Show,” “The Right View” host Lara Trump talked about the left.\r\nTrump said, “Take a look at who is funding the No Kings protests. Guess who it is. It is the very people t… [+582 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Zive.cz"
+        "id": "breitbart-news",
+        "name": "Breitbart News"
       },
-      "author": "Jan Spěšný",
-      "title": "Apple slaví 50 let. Připomeňte si klíčové okamžiky, které vedly z garáže až k největší firmě světa",
-      "description": "Macintosh, iPad nebo iPhone zná téměř každý. V padesátileté historii společnosti Apple ale nešlo jen o slavné produkty. Firmu formovaly také návraty zakladatelů, nečekaná partnerství, marketingové tahy i strategická rozhodnutí. V přehledné časové ose proto př…",
-      "url": "https://www.zive.cz/clanky/apple-slavi-50-let-pripomente-si-klicove-okamziky-ktere-vedly-z-garaze-az-k-nejvetsi-firme-sveta/sc-3-a-240190/default.aspx",
-      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=714883516",
-      "publishedAt": "2026-04-01T16:45:00Z",
-      "content": "Macintosh, iPad nebo iPhone zná tém kadý. V padesátileté historii spolenosti Apple ale nelo jen o slavné produkty. Firmu formovaly také návraty zakladatel, neekaná partnerství, marketingové tahy i st… [+4854 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Omar Gallaga",
-      "title": "Iran Threatens to Strike US Tech Companies in the Middle East",
-      "description": "US tech companies, including Apple, Google, Microsoft and Tesla, are being warned that they are being considered \"legitimate targets.\"",
-      "url": "https://www.cnet.com/news/politics/us-tech-companies-are-being-targeted-by-irans-revolutionary-guard/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/ead920dd5702807670449ddbb88f44c106eec034/hub/2026/04/01/00afbd46-2b7c-4252-9f11-ed19221bb9f6/gettyimages-2265951161.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2026-04-01T16:43:40Z",
-      "content": "Iran threatened on Tuesday to strike facilities in the Middle East owned by US technology companies as part of the escalating war that began with US and Israeli strikes at the end of February.\r\nIn a … [+1192 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "David Nield",
-      "title": "Your iPhone could be getting a Grammarly-style upgrade for its keyboard when iOS 27 launches",
-      "description": "There are rumors of alternative word suggestions for the iOS keyboard, but nothing is certain yet.",
-      "url": "https://www.techradar.com/phones/iphone/your-iphone-could-be-getting-a-grammarly-style-upgrade-for-its-keyboard-when-ios-27-launches",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5Gb782wc3afsZS55DNk4SB-1920-80.jpg",
-      "publishedAt": "2026-04-01T16:41:16Z",
-      "content": "<ul><li>Apple may enhance autocorrect with iOS 27, according to new rumors</li><li>The upgrade is said to be similar to the Grammarly tool</li><li>A final decision has still to be taken on the featur… [+2554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Macworld"
-      },
-      "author": "Roman Loyola",
-      "title": "Apple already slashed the Display XDR price by $400",
-      "description": "Macworld\n\n\n\r\n\n\n\n\nLess than a month ago, Apple started selling its new Studio Display XDR for $3,299/£2,999, with either a VESA mount or a stand. However, on Wednesday, Apple changed the price of the VESA mount model, reducing it by $400/£400 to $2,899/£2,599.…",
-      "url": "https://www.macworld.com/article/3104724/apple-already-slashed-the-display-xdr-price-by-400.html",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/04/applestudiodisplayxdr-1.jpg?quality=50&strip=all&w=1024",
-      "publishedAt": "2026-04-01T16:39:03Z",
-      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nLess than a month ag… [+1540 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Donanimhaber.com"
-      },
-      "author": "",
-      "title": "iPhone 17e vs Galaxy S26: Ucuz iPhone mu, güçlü Android mi?",
-      "description": "Akıllı telefon pazarında rekabet artık sadece en güçlü modeli seçmekten ibaret değil. Peki Galaxy S26, iPhone 17e karşısında neler sunuyor? İşte Galaxy S26 vs iPhone 17e.",
-      "url": "https://www.donanimhaber.com/iphone-17e-vs-galaxy-s26-ucuz-iphone-mu-guclu-android-mi--203915",
-      "urlToImage": "https://www.donanimhaber.com/images/images/haber/203915/src_340x1912xiphone-17e-vs-galaxy-s26-ucuz-iphone-mu-guclu-android-mi.jpg",
-      "publishedAt": "2026-04-01T16:39:00Z",
-      "content": "a').click(); event.preventDefault();\"&gt;Tam Boyutta GörSamsung, geçtiimiz ubat aynda imdiye kadarki en güçlü telefonlar Galaxy S26 serisini duyurdu. Peki Galaxy S26, iPhone 17 serisinin uygun fiyatl… [+5694 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ifun.de › Apple-News seit 2001"
-      },
-      "author": "Nicolas",
-      "title": "macshot: Open-Source-Alternative für Screenshots auf dem Mac",
-      "description": "Mit macOS liefert Apple seit Jahren ein integriertes Werkzeug für Bildschirmaufnahmen. Für einfache Screenshots reicht das aus, bei erweiterten Anforderungen stoßen Nutzer jedoch schnell an Grenzen. Genau hier setzt die noch relativ junge Mac-Applikation macs…",
-      "url": "https://www.ifun.de/macshot-open-source-alternative-fuer-screenshots-auf-dem-mac-277317/",
-      "urlToImage": "https://images.ifun.de/wp-content/uploads/2026/04/macshot-feature.jpg",
-      "publishedAt": "2026-04-01T16:38:33Z",
-      "content": "Mit macOS liefert Apple seit Jahren ein integriertes Werkzeug für Bildschirmaufnahmen. Für einfache Screenshots reicht das aus, bei erweiterten Anforderungen stoßen Nutzer jedoch schnell an Grenzen. … [+2022 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "alexblake.techradar@gmail.com (Alex Blake) , Alex Blake",
-      "title": "‘A computer should be yours’: Framework CEO blasts the MacBook Neo over a core difference between the laptops",
-      "description": "Framework’s founder says Apple’s MacBook Neo isn’t repairable enough and is made with a different philosophy in mind.",
-      "url": "https://www.techradar.com/computing/a-computer-should-be-yours-framework-ceo-blasts-the-macbook-neo-over-a-core-difference-between-the-laptops",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BvvtntWxUZZ4vwtwPfZoUW-2000-80.jpg",
-      "publishedAt": "2026-04-01T16:37:55Z",
-      "content": "<ul><li>Framework’s CEO says the MacBook Neo isn’t repairable enough</li><li>The founder says Apple’s laptop is made to entice you into the walled garden</li><li>But the reality might not be as simpl… [+4536 chars]"
+      "author": "Breitbart TV",
+      "title": "Exclusive -- Lara Trump: Democrats Offer No Solutions, Only to Seize Power and Impeach",
+      "description": "Saturday on “The Alex Marlow Show,” “The Right View” host Lara Trump talked about Democrats. Trump said, “I do think the Democrats have a problem, though, as I just said, because they don’t really have any solution to any of\nThe post Exclusive — Lara Trump: D…",
+      "url": "https://www.breitbart.com/clips/2026/04/04/exclusive-lara-trump-democrats-offer-no-solutions-only-to-seize-power-and-impeach/",
+      "urlToImage": "https://media.breitbart.com/media/2026/04/Lara-44-Thumbnail-640x335.jpg",
+      "publishedAt": "2026-04-04T20:38:37Z",
+      "content": "Saturday on “The Alex Marlow Show,” “The Right View” host Lara Trump talked about Democrats.\r\nTrump said, “I do think the Democrats have a problem, though, as I just said, because they don’t really h… [+621 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Pypi.org"
       },
-      "author": null,
-      "title": "mlx-stack 0.1.0",
-      "description": "CLI control plane for local LLM infrastructure on Apple Silicon",
-      "url": "https://pypi.org/project/mlx-stack/0.1.0/",
+      "author": "eric@jangq.ai",
+      "title": "jang 2.3.1",
+      "description": "JANG — Adaptive Mixed-Precision Quantization for Apple Silicon. The GGUF equivalent for MLX.",
+      "url": "https://pypi.org/project/jang/2.3.1/",
       "urlToImage": null,
-      "publishedAt": "2026-04-01T16:37:13Z",
+      "publishedAt": "2026-04-04T20:36:50Z",
       "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Pypi.org"
+        "name": "Bringatrailer.com"
       },
-      "author": null,
-      "title": "mlx-stack added to PyPI",
-      "description": "CLI control plane for local LLM infrastructure on Apple Silicon",
-      "url": "https://pypi.org/project/mlx-stack/",
-      "urlToImage": null,
-      "publishedAt": "2026-04-01T16:37:09Z",
-      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+      "author": "bringatrailer",
+      "title": "17k-Mile 2014 Ford Mustang GT Premium Coupe 6-Speed",
+      "description": "This 2014 Ford Mustang is a black-over-black GT Premium coupe that has 17k miles, and it has been modified with black-finished 19\" RTR Tech 7 wheels, a Roush Extreme Series axle-back exhaust system, and Oracle Lighting LED side markers. Purchased in 2017 by t…",
+      "url": "https://bringatrailer.com/listing/2014-ford-mustang-gt-coupe-26/",
+      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/03/2014_ford_mustang-gt-coupe_a3-75550.jpg",
+      "publishedAt": "2026-04-04T20:35:01Z",
+      "content": "This 2014 Ford Mustang is a black-over-black GT Premium coupe that has 17k miles, and it has been modified with black-finished 19″ RTR Tech 7 wheels, a Roush Extreme Series axle-back exhaust system, … [+2747 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Toys"
+        "name": "Drinkhacker.com"
       },
-      "author": "Simon Walsh",
-      "title": "Keep tabs on your luggage with this Apple Find My tag, now $21.50 (Reg. $30)",
-      "description": "ExtreLife Apple Find My Luggage Tag\n\n\n\nBuy for $21.50 (Reg. $30)\n\n\n\n\n\n\n\n\r\n\n\r\n\n\n\n\nWhat we love\r\n\n\n\n\nIt doesn’t matter if you have a trip around the corner or simply want to get ahead while the price is right, here’s a chance to affordably add Apple Find My cap…",
-      "url": "http://9to5toys.com/2026/04/01/extrelife-apple-find-my-luggage-tag-2/",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/04/ExtreLife-Apple-Find-My-Luggage-Tag.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-04-01T16:36:00Z",
-      "content": "What we love\r\nIt doesn’t matter if you have a trip around the corner or simply want to get ahead while the price is right, here’s a chance to affordably add Apple Find My capabilites to your luggage.… [+95 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-bicchierai",
-      "title": "WhatsApp notifies hundreds of users who installed a fake app that was actually government spyware | TechCrunch",
-      "description": "The Meta-owned company said it identified around 200 users who were tricked into installing a fake version of WhatsApp that was actually Italian-made spyware.",
-      "url": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/whatsapp-logo-notification-badge.jpg?resize=1200,800",
-      "publishedAt": "2026-04-01T16:35:28Z",
-      "content": "WhatsApp says it has notified around 200 users who were tricked into installing a malicious fake version of the chat app that contained government spyware. \r\nWhatsApp accused Italian spyware maker SI… [+2529 chars]"
+      "author": "Christopher Null",
+      "title": "Review: Argonaut Brandies, plus Amarena Cherries (Updated 2026)",
+      "description": "Not even the fine print of the old-timey Argonaut Brandy bottles will clue you in to who actually makes it, but it’s not a massive secret. Argonaut is a new brand produced by none other than Ernest & Julio Gallo, made in California from its own excess wine pr…",
+      "url": "https://www.drinkhacker.com/2026/04/04/review-argonaut-brandies-plus-amarena-cherries/",
+      "urlToImage": "https://www.drinkhacker.com/wp-content/uploads/2019/12/Argonaut-brandy-caskers.jpg",
+      "publishedAt": "2026-04-04T20:30:52Z",
+      "content": "Not even the fine print of the old-timey Argonaut Brandy bottles will clue you in to who actually makes it, but it’s not a massive secret. Argonaut is a new brand produced by none other than Ernest &… [+3899 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Github.com"
       },
-      "author": "Zac Hall",
-      "title": "Eddy Cue to appear on TBPN to discuss Apple’s 50th anniversary today",
-      "description": "Eddy Cue, Apple’s senior vice president of Services and Health, will make a video podcast appearance this afternoon as part of Apple’s 50th anniversary.\n\n\n\n more…",
-      "url": "https://9to5mac.com/2026/04/01/eddy-cue-to-appear-on-tbpn-to-discuss-apples-50th-anniversary-today/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/eddy-cue.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-04-01T16:35:03Z",
-      "content": "Eddy Cue, Apples senior vice president of Services and Health, will make a video podcast appearance this afternoon as part of Apple’s 50th anniversary.\r\nCue will join Jordi Hays and John Coogan on TB… [+388 chars]"
+      "author": "jannniii",
+      "title": "Show HN: Chained apples, or apfels, for more logic",
+      "description": "Thought to try if I could chain multiple apfel calls to make the Apple LLM be more useful, enabling use of natural language to run many zsh commands or combinations of commands.\n\nComments URL: https://news.ycombinator.com/item?id=47643058\nPoints: 1\n# Comments…",
+      "url": "https://github.com/randomm/omppu",
+      "urlToImage": "https://opengraph.githubassets.com/2e17405fb800c8b308442dbda2a56845a7c638297b339b73d95ba04417c2fcd0/randomm/omppu",
+      "publishedAt": "2026-04-04T20:30:48Z",
+      "content": "Apple Intelligence for your terminal.(Finnish: omppu = apple)\r\nAsk questions in plain English. omppu answers from general knowledge, your project's README and git history, or by running shell command… [+6048 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacGeneration"
+        "name": "MakeUseOf"
       },
-      "author": "Pierre Dandumont",
-      "title": "JetStream, le logiciel de test pour les navigateurs d'Apple, passe en version 3.0",
-      "description": "Plus de six ans après la version 2.0, le banc de test JetStream passe en version 3.0. Si JetStream était à l'origine développé par Apple, ce n'est pas totalement le cas pour cette nouvelle version : le communiqué de présentation est très clair et explique qu'…",
-      "url": "https://www.macg.co/logiciels/2026/04/jetstream-le-logiciel-de-test-pour-les-navigateurs-dapple-passe-en-version-30-307801",
-      "urlToImage": "https://cdn.mgig.fr/2026/04/mga-abffd4d4-w375-w1500-w750_accroche.jpg",
-      "publishedAt": "2026-04-01T16:35:00Z",
-      "content": "Plus de six ans après la version 2.0, le banc de test JetStream passe en version 3.0. Si JetStream était à l'origine développé par Apple, ce n'est pas totalement le cas pour cette nouvelle version : … [+1511 chars]"
+      "author": "Brady Snyder",
+      "title": "Google Messages still can't do the one thing that makes iMessage actually useful",
+      "description": "Apple users can send iMessages without an active SIM — and it's the messaging service's best feature. Why can't Google offer the same functionality?",
+      "url": "https://www.makeuseof.com/google-messages-missing-imessage-feature/",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/google-messages-no-sim-7.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-04-04T20:30:16Z",
+      "content": "iMessage is one of Apple's best offerings, and a big reason why iPhones dominate North American smartphone sales. It's easy to reduce the success of iMessage to superficial reasons, like people wanti… [+6415 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Pypi.org"
+        "name": "Www.vg.no"
       },
-      "author": "support@lorislab.fr",
-      "title": "apple-device-specs added to PyPI",
-      "description": "Python client for the Apple Device Specs API by LorisLabs",
-      "url": "https://pypi.org/project/apple-device-specs/",
-      "urlToImage": null,
-      "publishedAt": "2026-04-01T16:34:59Z",
-      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+      "author": "NTB",
+      "title": "John Travolta regidebuterer på Cannes-festivalen",
+      "description": "Skuespillerstjernen John Travolta (72) har regissert en film basert på en bok han selv skrev på 90-tallet. Filmen får premiere på filmfestivalen i Cannes i mai.",
+      "url": "https://www.vg.no/rampelys/i/7pprRW/john-travolta-regidebuterer-paa-cannes-festivalen",
+      "urlToImage": "https://akamai.vgc.no/v2/images/01f972ef-1fd6-43e6-bfe5-e4b68311f15b?format=auto&w=1080&s=98d8cb7a0f91fadc7f8386afdf5be6f78dc2b460",
+      "publishedAt": "2026-04-04T20:29:55Z",
+      "content": "«Propeller One-Way Night Coach» forteller historien om en gutt og hans mor på flytur og er inspirert av Travoltas egen lidenskap for flyging. \r\nTravolta begynte å fly som 15-åring og fikk pilotsertif… [+414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "redmondpie.com"
+      },
+      "author": "Oliver Haslam",
+      "title": "Save A Massive 52% Off These Skullcandy Crusher Evo Wireless Headphones",
+      "description": "Skullcandy's Crusher Evo wireless headphones come with plenty of features, and right now you can pick up a pair of your very own while saving an incredible 52% off the usual asking price of around $210.\nThe post Save A Massive 52% Off These Skullcandy Crusher…",
+      "url": "https://www.redmondpie.com/save-a-massive-52-off-these-skullcandy-crusher-evo-wireless-headphones/",
+      "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2026/04/skullcandy-crusher-evo-discounted.jpg",
+      "publishedAt": "2026-04-04T20:27:53Z",
+      "content": "Skullcandy’s Crusher Evo wireless headphones come with plenty of features, and right now you can pick up a pair of your very own while saving an incredible 52% off the usual asking price of around $2… [+1351 chars]"
     }
   ]
 }
