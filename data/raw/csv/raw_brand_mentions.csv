@@ -1,0 +1,234 @@
+_id,source,author,content,description,document_type,extraction_timestamp,publishedAt,title,url,urlToImage,date,Author,CreationDate,Creator,Keywords,ModDate,Producer,Subject,Title,Trapped,type,page,file_name,text,page_number,price,awards,best_picture,nominations,year,query_params.ajax,query_params.year
+69ce9d979d3427d3654d3275,newsapi_Apple_page_1.json,Oliver Haslam,"Skullcandy’s Crusher Evo wireless headphones come with plenty of features, and right now you can pick up a pair of your very own while saving an incredible 52% off the usual asking price of around $2… [+1351 chars]","Skullcandy's Crusher Evo wireless headphones come with plenty of features, and right now you can pick up a pair of your very own while saving an incredible 52% off the usual asking price of around $210.
+The post Save A Massive 52% Off These Skullcandy Crusher…",json,2026-04-05 21:15:49.689,2026-04-04T20:27:53Z,Save A Massive 52% Off These Skullcandy Crusher Evo Wireless Headphones,https://www.redmondpie.com/save-a-massive-52-off-these-skullcandy-crusher-evo-wireless-headphones/,https://cdn.redmondpie.com/wp-content/uploads/2026/04/skullcandy-crusher-evo-discounted.jpg,,,,,,,,,,,,,,,,,,,,,,
+69ce9d979d3427d3654d3276,newsapi_Apple_page_2.json,Abhijeet Mishra,"Samsung has kept wireless charging on its flagship phones at 15W for years. While other brands have been way ahead on this for a long time, Samsung did nothing. And if you used wireless charging regu… [+2568 chars]","Samsung has kept wireless charging on its flagship phones at 15W for years. While other brands have been way ahead on this for a long time, Samsung did nothing. And if you used wireless charging regularly, you felt that. It's always the same thing: you put yo…",json,2026-04-05 21:15:49.727,2026-04-04T19:50:57Z,Samsung finally fixed the one thing that made wireless charging pointless,https://www.sammobile.com/opinion/samsung-finally-fixed-wireless-charging-galaxy-phones/,https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-review-battery-life-1-1200x675.jpg,,,,,,,,,,,,,,,,,,,,,,
+69ce9d979d3427d3654d3277,newsapi_Apple_page_3.json,Łukasz Pająk,"Tempomat w samochodach to rozwizanie, które w XXI wieku na dobre zadomowio si praktycznie w kadym modelu, poczwszy od luksusowych aut, a koczc nawet na miejskich propozycjach. Zdecydowanie nie jest t… [+11331 chars]","Tempomat w samochodach to rozwiązanie, które w XXI wieku na dobre zadomowiło się praktycznie w każdym modelu, począwszy od luksusowych aut, a kończąc nawet na miejskich propozycjach. Zdecydowanie nie jest to innowacja z tego tysiąclecia, aczkolwiek w ostatnic…",json,2026-04-05 21:15:49.738,2026-04-04T18:58:00Z,Co to tempomat adaptacyjny i jak działa? Kompendium wiedzy,https://android.com.pl/moto/1034494-co-to-tempomat-adaptacyjny-jak-dziala/,https://static.android.com.pl/uploads/2026/04/co-to-tempomat-i-jak-dziala-rodzaje-6-1280x853.jpg,,,,,,,,,,,,,,,,,,,,,,
+69ce9d979d3427d3654d3278,sample.csv,Alex Brown,,,csv,2026-04-05 21:15:49.743,,Apple doesnt lawsuit,,,2026-03-02,,,,,,,,,,,,,,,,,,,,,
+69ce9d979d3427d3654d3279,sample.xml,Alex Brown,,,xml,2026-04-05 21:15:49.746,,Apple faces lawsuit,,,2026-03-03,,,,,,,,,,,,,,,,,,,,,
+69ce9d979d3427d3654d327a,document_1.pdf,,"[['Header 1', 'Header 2', 'Header 3'], ['Row 1, Col 1', 'Row 1, Col 2', 'Row 1, Col 3'], ['Row 2, Col 1', 'Row 2, Col 2', 'Row 2, Col 3'], ['Row 3, Col 1', 'Row 3, Col 2', 'Row 3, Col 3']]",,pdf,2026-04-05 21:15:49.795,,,,,,(anonymous),D:20260325103643+01'00',(unspecified),,D:20260325103643+01'00',ReportLab PDF Library - (opensource),(unspecified),(anonymous),False,table,1.0,,,,,,,,,,
+69ce9d989d3427d3654d327b,document_2_columns.pdf,,"Two-Column PDF
+Document
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.",,pdf,2026-04-05 21:15:50.048,,,,,,(anonymous),D:20260325103643+01'00',(unspecified),,D:20260325103643+01'00',ReportLab PDF Library - (opensource),(unspecified),(anonymous),False,text,,,,,,,,,,,
+69ce9d989d3427d3654d327c,document_1.docx,,"[{'Header 1': 'Row 1, Col 1', 'Header 2': 'Row 1, Col 2', 'Header 3': 'Row 1, Col 3'}, {'Header 1': 'Row 2, Col 1', 'Header 2': 'Row 2, Col 2', 'Header 3': 'Row 2, Col 3'}, {'Header 1': 'Row 3, Col 1', 'Header 2': 'Row 3, Col 2', 'Header 3': 'Row 3, Col 3'}]",,docx,2026-04-05 21:15:50.062,,,,,,,,,,,,,,,table,,,,,,,,,,,
+69ce9d989d3427d3654d327d,document_2_columns.docx,,"Two-Column PDF Document
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur
+
+adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",,docx,2026-04-05 21:15:50.072,,,,,,,,,,,,,,,text,,,,,,,,,,,
+69ce9d989d3427d3654d327e,C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\images\dummy_image_1.png,,,,,2026-04-05 21:16:00.503,,,,,,,,,,,,,,,ocr_image,,dummy_image_1.png,Thisisimage 1,,,,,,,,
+69ce9d989d3427d3654d327f,C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\images\dummy_image_2.png,,,,,2026-04-05 21:16:00.626,,,,,,,,,,,,,,,ocr_image,,dummy_image_2.png,Thisisimage 2,,,,,,,,
+69ce9d989d3427d3654d3280,C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\images\test_scan.png,,,,,2026-04-05 21:16:00.971,,,,,,,,,,,,,,,ocr_image,,test_scan.png,"Part 7 - OCR on a Scanned Image
+
+Create src/ocr/ocr_utils.py and start with a single scanned image OCR is needed when text is
+trapped inside pixels, for example in scans, photographed forms, or image-only files.
+
+Download a test image from the internet or create your own (e.g., a screenshot of some text, a
+scanned document, etc.). Save it as data/raw/images/test_scan.png. You can also use images we
+took from api in week2 if they contain text. To apply OCR to images pytesseract should be
+used. Preprocessing significantly improves OCR accuracy compared to raw extraction.",,,,,,,,
+69ce9d9e9d3427d3654d3281,C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf,,,,,2026-04-05 21:16:07.436,,,,,,,,,,,,,,,ocr_pdf,,pdf_scan.pdf,"Two-Column PDF
+Document
+
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.",1.0,,,,,,,
+69d2cfa028a08eb4d8b42161,https://books.toscrape.com/,,,,,2026-04-05 21:15:58.287,,The Natural History of Us (The Fine Art of Pretending #2),,,,,,,,,,,,,web_scrape,,,,,£45.22,,,,,,
+69d2d11028a08eb4d8b42162,https://www.scrapethissite.com/pages/ajax-javascript/,,,,,2026-04-05 21:16:00.244,,Stutterer  ,,,,,,,,,,,,,ajax_scrape,,,,,,1.0,True,1.0,2015.0,true,2015.0
