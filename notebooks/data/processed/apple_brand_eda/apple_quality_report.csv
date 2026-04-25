@@ -1,0 +1,16 @@
+column,dtype,non_null_count,missing_count,missing_pct,unique_count,missing_severity
+_id,object,165,0,0.0,165,low
+title,string,165,0,0.0,73,low
+author,string,165,0,0.0,59,low
+description,str,127,38,23.03,65,high
+content,object,127,38,23.03,64,high
+source,string,165,0,0.0,7,low
+document_type,string,165,0,0.0,3,low
+type,string,43,122,73.94,1,critical
+publishedAt,"datetime64[us, UTC]",104,61,36.97,59,high
+date,datetime64[us],61,104,63.03,31,critical
+url,str,127,38,23.03,66,high
+mention_date,string,104,61,36.97,1,high
+content_length,int64,165,0,0.0,5,low
+overview,string,127,38,23.03,65,high
+genres,string,165,0,0.0,3,low

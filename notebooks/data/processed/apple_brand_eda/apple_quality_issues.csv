@@ -1,0 +1,12 @@
+issue_type,column,severity,affected_rows,metric,details
+missing_values,description,high,38,23.03,Column contains missing values
+missing_values,content,high,38,23.03,Column contains missing values
+missing_values,type,critical,122,73.94,Column contains missing values
+missing_values,publishedAt,high,61,36.97,Column contains missing values
+missing_values,date,critical,104,63.03,Column contains missing values
+missing_values,url,high,38,23.03,Column contains missing values
+missing_values,mention_date,high,61,36.97,Column contains missing values
+missing_values,overview,high,38,23.03,Column contains missing values
+zero_as_missing_candidate,content_length,medium,61,36.97,36.97% of non-null values are zero
+duplicate_identifier,url,high,61,48.03,Detected duplicate values in url
+duplicate_identifier,title,medium,92,55.76,Detected duplicate values in title

@@ -1,7 +1,7 @@
 import os
 import sys
-from pathlib import Path
 from collections import defaultdict
+from pathlib import Path
 
 import pandas as pd
 from pymongo import MongoClient
@@ -62,7 +62,19 @@ def export_raw_csv(dataframe: pd.DataFrame, export_path: Path = EXPORT_PATH) -> 
     )
     return export_path
 
-#testing csv file creation and chunked processing for lab requirement 4.2
+
+def load_from_csv(csv_path: Path = EXPORT_PATH) -> pd.DataFrame:
+    """Load a CSV file into pandas for downstream analytics."""
+    dataframe = pd.read_csv(csv_path)
+    logger.info(
+        "CSV load complete | path=%s | rows=%s | columns=%s",
+        csv_path,
+        len(dataframe),
+        len(dataframe.columns),
+    )
+    return dataframe
+
+
 def create_large_ratings_csv(
     export_path: Path = DEFAULT_CHUNK_CSV_PATH,
     row_count: int = 5000,
@@ -268,33 +280,54 @@ def compute_per_language_mean_from_chunks(
     return language_means
 
 
-def main() -> None:
-    logger.info("MongoDB raw CSV export started")
+def run_data_loader_pipeline() -> dict[str, object]:
+    """Run the loading, export, optimization, and chunk-processing steps together."""
+    logger.info("Analytics data-loader pipeline started")
     dataframe = load_from_mongodb()
 
     if dataframe.empty:
-        print("No MongoDB records found. CSV export skipped.")
-        logger.warning("CSV export skipped because no MongoDB records were available")
-        return
+        logger.warning("Analytics data-loader pipeline skipped because no MongoDB records were available")
+        return {"dataframe": dataframe, "skipped": True}
 
     export_path = export_raw_csv(dataframe)
-    print(f"Loaded {len(dataframe)} documents from MongoDB.")
-    print(f"Exported raw CSV to: {export_path}")
-    logger.info("MongoDB raw CSV export finished successfully")
+    csv_dataframe = load_from_csv(export_path)
+
+    create_large_ratings_csv()
+    _, before_mb, after_mb = optimize_dataframe_dtypes(DEFAULT_CHUNK_CSV_PATH)
+    mean_rating = compute_global_mean_from_chunks(DEFAULT_CHUNK_CSV_PATH)
+    language_means = compute_per_language_mean_from_chunks(DEFAULT_CHUNK_CSV_PATH)
+
+    logger.info(
+        "Analytics data-loader pipeline finished | export_path=%s | csv_rows=%s | global_mean=%.4f | language_means=%s",
+        export_path,
+        len(csv_dataframe),
+        mean_rating,
+        language_means,
+    )
+    return {
+        "dataframe": dataframe,
+        "export_path": export_path,
+        "chunk_csv_path": DEFAULT_CHUNK_CSV_PATH,
+        "memory_before_mb": before_mb,
+        "memory_after_mb": after_mb,
+        "global_mean_rating": mean_rating,
+        "per_language_means": language_means,
+    }
+
+
+def main() -> None:
+    results = run_data_loader_pipeline()
+    if results.get("skipped"):
+        print("No MongoDB records found. CSV export skipped.")
+        return
+
+    print(f"Loaded {len(results['dataframe'])} documents from MongoDB.")
+    print(f"Exported raw CSV to: {results['export_path']}")
+    print(f"Memory usage before dtype optimization: {results['memory_before_mb']:.4f} MB")
+    print(f"Memory usage after dtype optimization: {results['memory_after_mb']:.4f} MB")
+    print(f"Global mean of rating column across chunks: {results['global_mean_rating']:.2f}")
+    print(f"Per-language mean ratings across chunks: {results['per_language_means']}")
 
 
 if __name__ == "__main__":
     main()
-
-    try:
-        create_large_ratings_csv()
-        _, before_mb, after_mb = optimize_dataframe_dtypes(DEFAULT_CHUNK_CSV_PATH)
-        mean_rating = compute_global_mean_from_chunks(DEFAULT_CHUNK_CSV_PATH)
-        language_means = compute_per_language_mean_from_chunks(DEFAULT_CHUNK_CSV_PATH)
-        print(f"Memory usage before dtype optimization: {before_mb:.4f} MB")
-        print(f"Memory usage after dtype optimization: {after_mb:.4f} MB")
-        print(f"Global mean of rating column across chunks: {mean_rating:.2f}")
-        print(f"Per-language mean ratings across chunks: {language_means}")
-    except (FileNotFoundError, KeyError, ValueError) as exc:
-        print(f"Chunked CSV mean calculation could not run: {exc}")
-        logger.warning("Chunked CSV mean calculation skipped | reason=%s", exc)

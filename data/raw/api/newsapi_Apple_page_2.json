@@ -1,71 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 37810,
+  "totalResults": 38031,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Php.net"
+        "name": "Elotrolado.net"
       },
-      "author": null,
-      "title": "ssh2 1.5.0",
-      "description": "- PIE (PHP Installer for Extensions) compatibility\n- Fix crash on ECDSA pubkey auth due to libssh2 allocator mismatch [PR #92] (Fixes #91, #84)\n- Fix fragment part of path lost for files with # in name [PR #93] (Fixes #90)\n- Fix segfault when disconnecting wi…",
-      "url": "https://pecl.php.net/package-changelog.php?package=ssh2&release=1.5.0",
-      "urlToImage": null,
-      "publishedAt": "2026-04-04T20:24:32Z",
-      "content": "- 1.3.1 release only fixed the PHP &gt;= 8.0 requirement in the package.xml. No code changes.Changes in 1.3:\r\n- Add ssh2_send_eof() [PR #45] (Calvin Buckley)- PHP stream cast function for SSH channel… [+439 chars]"
+      "author": "Benzo",
+      "title": "Battlefield tiene en camino una película con Christopher McQuarrie (Mission Imposible) y Michael B. Jordan (Sinners)",
+      "description": "<table><tr><td></td></tr></table>Battlefield se suma al creciente número de sagas de videojuegos que dan el salto a los cines. Según informa Hollywood Reporter, Christopher McQuarrie y Michael B. Jordan, dos de las grandes figuras que tiene ahora mismo la ind…",
+      "url": "https://www.elotrolado.net/noticias/internet/battlefield-pelicula-cine",
+      "urlToImage": "https://images.elotrolado.net/headers/upload/6/0/60833c_battlefield_news.jpg?1200",
+      "publishedAt": "2026-04-24T20:46:58Z",
+      "content": "Battlefield se suma al creciente número de sagas de videojuegos que dan el salto a los cines. Según informa Hollywood Reporter, Christopher McQuarrie y Michael B. Jordan, dos de las grandes figuras q… [+2252 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "redmondpie.com"
+        "name": "Github.com"
       },
-      "author": "Oliver Haslam",
-      "title": "This Samsung Galaxy Tab A11+ Tablet Is Now $50 Off For A Limited Time Only",
-      "description": "Picking up a new tablet just got a whole lot cheaper, with the Samsung Galaxy Tab A11+ now available with a 13% discount, slashing the original $310 asking price by $50.\nThe post This Samsung Galaxy Tab A11+ Tablet Is Now $50 Off For A Limited Time Only first…",
-      "url": "https://www.redmondpie.com/this-samsung-galaxy-tab-a11-tablet-is-now-50-off-for-a-limited-time-only/",
-      "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2026/04/tab-a11-plus-discounted.jpg",
-      "publishedAt": "2026-04-04T20:16:12Z",
-      "content": "Picking up a new tablet just got a whole lot cheaper, with the Samsung Galaxy Tab A11+ now available with a 13% discount, slashing the original $310 asking price by $50.\r\nThis deal means that you’ll … [+1266 chars]"
+      "author": "jryio",
+      "title": "Show HN: Obscura – V8-powered headless browser for scraping and AI agents",
+      "description": "Article URL: https://github.com/h4ckf0r0day/obscura\nComments URL: https://news.ycombinator.com/item?id=47895561\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/h4ckf0r0day/obscura",
+      "urlToImage": "https://opengraph.githubassets.com/382b6f8718cd1b7a4cb565b20d7452f8d384721a0b3a66a82885f414bd52a632/h4ckf0r0day/obscura",
+      "publishedAt": "2026-04-24T20:46:58Z",
+      "content": "The open-source headless browser for AI agents and web scraping.Lightweight, stealthy, and built in Rust.\r\nObscura is a headless browser engine written in Rust, built for web scraping and AI agent au… [+6601 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Larazon.es"
+        "name": "Expressen.se"
       },
-      "author": "Mauro, Minichiello",
-      "title": "El iPhone 17 Pro Max se va a la Luna, pero antes tuvo que convencer a la NASA",
-      "description": "La misión Artemis II no solo llevará astronautas alrededor de la Luna. También llevará cuatro iPhone 17 Pro Max, después de que la NASA aceptara usar por primera vez este móvil como parte del equipo de una misión más allá de la órbita terrestre",
-      "url": "https://www.larazon.es/tecnologia-consumo/iphone-17-pro-max-se-va-luna-antes-tuvo-convencer-nasa_2026040469d1690a6b2f88359260de86.html",
-      "urlToImage": "https://fotografias-2.larazon.es/assets/2026/04/los-astronautas-de-la-mision-artemis-ii-llevan-iphone-17-pro-max.jpg?width=1200",
-      "publishedAt": "2026-04-04T20:15:02Z",
-      "content": "La misión Artemis II ya ha dejado una de esas imágenes que hace unos años habrían parecido imposibles. Entre el equipo que viaja a bordo de la nave Orion hay cuatro iPhone 17 Pro Max, uno para cada a… [+3124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slickdeals.net"
-      },
-      "author": "SeriousFog3768",
-      "title": "Apple iPhone 15 Pro Max A2849 256GB Unlocked Very Good $568.98",
-      "description": "Apple Iphone \n \nhttps://www.ebay.com/itm/35622785...5224267957",
-      "url": "https://slickdeals.net/f/19383990-apple-iphone-15-pro-max-a2849-256gb-unlocked-very-good-568-98",
-      "urlToImage": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-      "publishedAt": "2026-04-04T20:11:06Z",
-      "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rlsbb.to"
-      },
-      "author": "Ash",
-      "title": "iMazing 3.5.2",
-      "description": "iMazing is the world’s favourite iOS device manager for Mac and PC. Millions of users every year leverage its powerful capabilities to make the most of their personal or business iPhone and iPad. Often called ‘The Swiss Army Knife of iPhone Management’, iMazi…",
-      "url": "https://post.rlsbb.to/imazing-3-5-2/",
-      "urlToImage": null,
-      "publishedAt": "2026-04-04T20:09:56Z",
-      "content": "iMazing is the worlds favourite iOS device manager for Mac and PC. Millions of users every year leverage its powerful capabilities to make the most of their personal or business iPhone and iPad. \r\nOf… [+1314 chars]"
+      "author": "sara.schwartz@expressen.se (Sara Schwartz Wiman)",
+      "title": "Apple ville sätta stopp för föreningslogga i Österlen",
+      "description": "Techjätten Apple verkar inte vara så sugna på att dela med sig av frukten. Tidigare i år försökte man få en liten ideell förening i Österlen att ändra sin äppellogga, rapporterar Ystads Allehanda.",
+      "url": "https://www.expressen.se/nyheter/sverige/apple-ville-satta-stopp-for-foreningslogga-i-osterlen/",
+      "urlToImage": "https://static.bonniernews.se/images/27/8e/278e97d5753447f28f18eb003d07e276/16x9/original.png",
+      "publishedAt": "2026-04-24T20:42:58Z",
+      "content": "Den ideella föreningen Biosfärområde på Österlen verkar för hållbar utveckling och vill värna natur- och kulturmiljöer i området. Föreningen har ett färgglatt äpple som logga.\r\nDet har det amerikansk… [+661 chars]"
     },
     {
       "source": {
@@ -73,155 +47,38 @@
         "name": "Bringatrailer.com"
       },
       "author": "bringatrailer",
-      "title": "1995 Land Rover Defender 110 300Tdi 5-Speed",
-      "description": "This 1995 Land Rover Defender 110 is a left-hand-drive five-door wagon that was repainted in France in 2013, and it was imported to the US in 2022 before it was acquired by the seller on BaT in September 2023. Over $46k of subsequent mechanical and interior w…",
-      "url": "https://bringatrailer.com/listing/1995-land-rover-defender-110-88/",
-      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/03/1995_land-rover_defender-110_1995-defender-110-0813-66921.jpg",
-      "publishedAt": "2026-04-04T20:05:17Z",
-      "content": "This 1995 Land Rover Defender 110 is a left-hand-drive five-door wagon that was repainted in France in 2013, and it was imported to the US in 2022 before it was acquired by the seller on BaT in Septe… [+4745 chars]"
+      "title": "2010 Dodge Ram 2500 ST Crew Cab Cumins 4×4 at No Reserve",
+      "description": "This 2010 Dodge Ram 2500 ST is a Crew Cab 4×4 pickup that is powered by a 6.7-liter Cummins turbodiesel inline-six linked with a six-speed automatic transmission and a dual-range transfer case. Finished in Inferno Red Crystal Pearl over gray cloth upholstery,…",
+      "url": "https://bringatrailer.com/listing/2010-dodge-ram-2500/",
+      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/04/2010_dodge_ram-2500_img_4848-67120.jpeg",
+      "publishedAt": "2026-04-24T20:40:12Z",
+      "content": "This 2010 Dodge Ram 2500 ST is a Crew Cab 4×4 pickup that is powered by a 6.7-liter Cummins turbodiesel inline-six linked with a six-speed automatic transmission and a dual-range transfer case. Finis… [+2777 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Jalopnik"
+        "name": "Bringatrailer.com"
       },
-      "author": "staff@jalopnik.com (Monday Goma)",
-      "title": "Does Maserati Deserve Its Bad Reputation? Here's What Owners Say",
-      "description": "Maserati is legendary in the luxury car space. However, the brand has a reputation for poor reliability. Here's what owners have to say about that reputation.",
-      "url": "https://www.jalopnik.com/2135684/does-maserati-deserve-bad-reputation-owners/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/does-maserati-deserve-its-bad-reputation-heres-what-owners-say/l-intro-1774888568.jpg",
-      "publishedAt": "2026-04-04T20:05:00Z",
-      "content": "In most owners' view, the widespread stereotype of Maserati making bad cars holds up. Of the 66 drivers who left a review on Trustpilot, 70% gave 1-star ratings, and you get the feeling that's only b… [+1384 chars]"
+      "author": "bringatrailer",
+      "title": "2021 Ram 1500 TRX Crew Cab 4×4",
+      "description": "This 2021 Ram Ram 1500 TRX Crew Cab 4×4 was purchased new by the seller from Rick Hendrick Dodge of South Carolina and now has 15k miles. It is powered by a supercharged 6.2-liter Hemi V8 linked with an eight-speed automatic transmission, a full-time two-spee…",
+      "url": "https://bringatrailer.com/listing/2021-dodge-ram-1500-trx-9/",
+      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/01/2021_dodge_ram-1500-trx_2021-Dodge-TRX-RAM-1500-011-61405-scaled.jpg",
+      "publishedAt": "2026-04-24T20:37:25Z",
+      "content": "This 2021 Ram Ram 1500 TRX Crew Cab 4×4 was purchased new by the seller from Rick Hendrick Dodge of South Carolina and now has 15k miles. It is powered by a supercharged 6.2-liter Hemi V8 linked with… [+2526 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PCMag.com"
+        "name": "Www.df.cl"
       },
-      "author": "Pantelis Daskalelos",
-      "title": "Το ChatGPT έφτασε στο Apple CarPlay: Πώς να χρησιμοποιήσετε το AI chatbot ενώ οδηγείτε",
-      "description": "Με την ενημέρωση του iOS 26.4, η OpenAI φέρνει τις φωνητικές συνομιλίες στην οθόνη του αυτοκινήτου, προσφέροντας μια νέα εμπειρία υποβοήθησης καθ' οδόν.",
-      "url": "https://gr.pcmag.com/mobile-phones/51672/to-chatgpt-ephtase-sto-apple-carplay-pos-na-khresimopoiesete-to-ai-chatbot-eno-odegeite",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_gr/news/w/with-ios-2/with-ios-264-you-can-talk-to-chatgpt-in-apple-carplay-heres_b4ec.1200.jpg",
-      "publishedAt": "2026-04-04T20:03:51Z",
-      "content": ", Apple third-party CarPlay iOS 26.4. OpenAI ChatGPT Apple CarPlay.\r\n ChatGPT , iPhone iOS 26.4 chatbot App Store. , ChatGPT « » &gt; CarPlay &gt; &gt; . « », «+» .\r\n(Credit: Jibin Joseph)\r\ninfotainm… [+243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "author": "Abdullah Asim",
-      "title": "You know what? Maybe the Galaxy Z Wide Fold and the foldable iPhone aren’t stupid ideas",
-      "description": "The foldable iPhone and the Galaxy Z Wide Fold are different, but perhaps that's not necessarily a bad thing.",
-      "url": "https://www.phonearena.com/news/maybe-the-galaxy-z-wide-fold-and-foldable-iphone-arent-stupid-ideas_id179435",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/179435-wide-two_1200/You-know-what-Maybe-the-Galaxy-Z-Wide-Fold-and-the-foldable-iPhone-arent-stupid-ideas.jpg",
-      "publishedAt": "2026-04-04T20:00:51Z",
-      "content": "Ive made my reservations about the foldable iPhone clear before, its an odd design and definitely not something that I had ever envisioned Apple releasing. Samsung immediately followed suit after the… [+3274 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Brent Brookhouse",
-      "title": "UFC Fight Night, Renato Moicano vs. Chris Duncan: Start time, where to watch live on Paramount+",
-      "description": "Complete viewing information you need to watch UFC Fight Night live in Las Vegas on Saturday",
-      "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-renato-moicano-chris-duncan-start-time-where-to-watch-paramount/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/04/03/78ff5d03-97d2-464e-a83d-0523c4a1d4da/thumbnail/1200x675/885ff57afca1e26407c3508776986965/renato-moicano-weighins.jpg",
-      "publishedAt": "2026-04-04T20:00:49Z",
-      "content": "Renato Moicano and Chris Duncan may be teammates, but a spot in the UFC lightweight rankings is a valuable enough prize for them to put that relationship aside and meet in the main event of Saturday'… [+5244 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windy City Gridiron"
-      },
-      "author": "Lester A. Wiltfong Jr.",
-      "title": "Chicago Bears Draft: Akheem Mesidor could add instant impact",
-      "description": "The Miami Hurricanes have a few prospects who could end up on the Chicago Bears, and we look at some of them here.",
-      "url": "https://www.windycitygridiron.com/chicago-bears-analysis/113880/chicago-bears-draft-a-closer-look-at-miami-top-prospect-akheem-mesidor",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WPvuEg0rNunlhWfSALU4_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/d731a314e09daf9687717dbb64cc4e25",
-      "publishedAt": "2026-04-04T20:00:00Z",
-      "content": "On her latest Making Monsters podcast, Taylor Doll is joined by Adam Lichtenstein, who covers the Miami Hurricanes for the South Florida Sun Sentinel. They chat about several Miami prospects who were… [+1696 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TVLine"
-      },
-      "author": "staff@tvline.com (Ryan Schwartz)",
-      "title": "What To Watch This Week: 40+ Premieres, Finales, And More",
-      "description": "TVLine offers a look at the week ahead - a handy roundup of new TV premieres and finales to help you plan your viewing for April 5-11.",
-      "url": "https://www.tvline.com/2132462/what-to-watch-week-of-april-5-2026-tv-shows-movies/",
-      "urlToImage": "https://www.tvline.com/img/gallery/what-to-watch-week-of-april-5-2026-tv-shows-movies/l-intro-1775235625.jpg",
-      "publishedAt": "2026-04-04T20:00:00Z",
-      "content": "SUNDAY, APRIL 5\r\n 3 p.m. \"Finding Harry: The Craft Behind the Magic\" (HBO Max)The special offers a behind-the-scenes look at \"Harry Potter and the Philosopher's Stone,\" with appearances from cast mem… [+5061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Jane Yee",
-      "title": "Kelsey Waghorn on the trauma that haunted her after Whakaari White Island eruption – Ask Me Anything with Paula Bennett",
-      "description": "The eruption marked the beginning of a traumatic journey for Kelsey Waghorn.",
-      "url": "https://www.nzherald.co.nz/lifestyle/kelsey-waghorn-on-the-trauma-that-haunted-her-after-whakaari-white-island-eruption-ask-me-anything-with-paula-bennett/LKOILB3CX5AUHK7T2LKYKIULIQ/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NVWWX5NBTFBF7DA3ZLCSOBWQCE.JPG?auth=b87dab7ee82669bdc6e4601199ee6eb21a5e36e774880966843acc30a1bdaec3&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2026-04-04T20:00:00Z",
-      "content": "She underwent a slew of surgeries, often just days apart. As part of her recovery Waghorn was turned every two hours - an excruciating exercise that filled her with nervous anxiety. \r\nI was lucid, li… [+3632 chars]"
-    },
-    {
-      "source": {
-        "id": "la-nacion",
-        "name": "La Nacion"
-      },
-      "author": "LA NACION",
-      "title": "Real ID en USA: en qué casos no lo necesitas y qué documentos puedes usar en su lugar",
-      "description": "No siempre se necesita esta identificación: estos son los casos y las alternativas válidas para poder viajar o entrar a instalaciones federales",
-      "url": "https://www.lanacion.com.ar/estados-unidos/real-id-en-eeuu-en-que-casos-no-lo-necesitas-y-que-documentos-puedes-usar-en-su-lugar-nid04042026/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-real-id-permite-acceder-a-determinadas-GSFP2O2KO5BRJK7GPXQQCKGXLA.png?auth=876552acb964869404335aa6ac13566e6bd563591cab88ecf64ac685a3617d7f&width=1200&quality=85&smart=true&height=675",
-      "publishedAt": "2026-04-04T20:00:00Z",
-      "content": "A partir de la implementación definitiva de la ley Real IDel año pasado en Estados Unidos, el 7 de mayo de 2025, las autoridades exigen este documento para distintas acciones, como abordar vuelos o a… [+2146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Kevin E G Perry",
-      "title": "Seth Rogen says The Studio will feature ‘heavy themes’ after death of Catherine O’Hara",
-      "description": "O’Hara died in January at the age of 71",
-      "url": "https://www.the-independent.com/arts-entertainment/tv/news/seth-rogen-catherine-ohara-death-the-studio-b2951936.html",
-      "urlToImage": "https://static.the-independent.com/2026/01/31/11/38/Screenshot-2026-01-31-at-11-17-08.png?trim=0,7,0,7&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-04-04T19:59:16Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3241 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Kennedy French",
-      "title": "‘Shrinking’ Creator Bill Lawrence Says Season 4 Will Have ‘A New Story With The Same Cast’",
-      "description": "With Season 3 of “Shrinking” nearing its finale, co-creator Bill Lawrence is already setting expectations for what comes next. The showrunner revealed that the upcoming fourth season will mark a creative reset, introducing a fresh narrative while keeping the …",
-      "url": "https://variety.com/2026/tv/news/shrinking-bill-lawrence-season-4-new-story-harrison-ford-1236708489/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Shrinking_Photo_021001.jpg?crop=0px%2C83px%2C5689px%2C3200px&resize=1000%2C563",
-      "publishedAt": "2026-04-04T19:57:52Z",
-      "content": "With Season 3 of “Shrinking” nearing its finale, co-creator Bill Lawrence is already setting expectations for what comes next. The showrunner revealed that the upcoming fourth season will mark a crea… [+1838 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Overclockers.ru"
-      },
-      "author": "Global_Chronicles",
-      "title": "Apple готовит линейку iPhone 18 без заметных изменений во внешнем виде",
-      "description": "Внешний вид серии iPhone 18 останется почти без изменений по сравнению с моделями предыдущего выпуска. Apple увеличит толщину корпуса для установки более емкого аккумулятора.",
-      "url": "https://overclockers.ru/blog/Global_Chronicles/show/252848/Apple-gotovit-linejku-iPhone-18-bez-zametnyh-izmenenij-vo-vneshnem-vide",
-      "urlToImage": "https://overclockers.ru/st/legacy/blog/430440/724814_O.JPG",
-      "publishedAt": "2026-04-04T19:56:28Z",
-      "content": "Android - DRAM. , . Apple, iPhone 17, . \r\n: WCCFTech\r\n Weibo Fixed-focus digital cameras : iPhone 18 . . , . , .\r\n: WCCFTech\r\n Pro Pro Max. : . Apple C2 5G. A20 A20 Pro .\r\n iPhone 18 iPhone Fold . . … [+45 chars]"
+      "author": "Diario Financiero",
+      "title": "Envío del proyecto emblemático de Kast y alta tensión por Codelco marcaron la agenda",
+      "description": "En el escenario internacional, nuevas acciones bélicas entre EEUU e Irán pusieron en jaque la frágil tregua en el estrecho de Ormuz.",
+      "url": "https://www.df.cl/senal-df/doble-shot/envio-del-proyecto-emblematico-de-kast-y-alta-tension-por-codelco-marcaron",
+      "urlToImage": "https://www.df.cl/noticias/site/artic/20260424/imag/foto_0000001420260424161150/Doble_Shot_2026-04-25.jpg",
+      "publishedAt": "2026-04-24T20:35:45Z",
+      "content": "Tras intensas jornadas de negociación en los días previos para allanar el camino  de su trámite parlamentario, finalmente el gobierno despachó el proyecto de reactivación y reconstrucción nacional, l… [+12947 chars]"
     },
     {
       "source": {
@@ -229,11 +86,11 @@
         "name": "Slashdot.org"
       },
       "author": "feedfeeder",
-      "title": "Apple bans vibe coding apps from the App Store - Boing Boing",
-      "description": "Apple bans vibe coding apps from the App StoreBoing Boing Apple Kicks Vibe Coding App Out of App Store, Escalating CrackdownThe Information Column: Apple's crackdown on AI apps puts it on the wrong side of historyCNBC Developers Warn Flood of Vibe-Coded Apps …",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181222528",
+      "title": "20th Anniversary iPhone to Feature Custom 'Micro-Curved' OLED Panel - MacRumors",
+      "description": "20th Anniversary iPhone to Feature Custom 'Micro-Curved' OLED PanelMacRumors Leaker details next year’s ‘iPhone 20’ display features9to5Mac Apple Has Grand Plans For The iPhone Display And Samsung Is Making That A Reality By Working On ‘Filterless’ Panels & P…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=182445522",
       "urlToImage": null,
-      "publishedAt": "2026-04-04T19:52:51Z",
+      "publishedAt": "2026-04-24T20:32:38Z",
       "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     },
     {
@@ -242,25 +99,155 @@
         "name": "Slashdot.org"
       },
       "author": "feedfeeder",
-      "title": "Ursula K. Le Guin's blog has been turned into a podcast",
-      "description": "For those will never tire of the words of Ursula K. Le Guin, a special treat is on the way. The esteemed late author's blog, which she started in 2010 at the age of 81, is being rereleased as a podcast, In Your Spare Time . Le Guin's blog ran until 2017, and …",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181222510",
+      "title": "Tim Cook admits his biggest mistake and proudest moment as Apple CEO - PhoneArena",
+      "description": "Tim Cook admits his biggest mistake and proudest moment as Apple CEOPhoneArena Tim Cook says Apple Maps release was a 'really big mistake'USA Today Report shares new details from Tim Cook’s town hall, including career highs and missteps9to5Mac Tim Cook calls …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=182445398",
       "urlToImage": null,
-      "publishedAt": "2026-04-04T19:52:08Z",
-      "content": "For those will never tire of the words of Ursula K. Le Guin, a special treat is on the way. The esteemed late author's blog, which she started in 2010 at the age of 81, is being rereleased as a podca… [+1177 chars]"
+      "publishedAt": "2026-04-24T20:32:28Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "Page Six"
       },
-      "author": "Abhijeet Mishra",
-      "title": "Samsung finally fixed the one thing that made wireless charging pointless",
-      "description": "Samsung has kept wireless charging on its flagship phones at 15W for years. While other brands have been way ahead on this for a long time, Samsung did nothing. And if you used wireless charging regularly, you felt that. It's always the same thing: you put yo…",
-      "url": "https://www.sammobile.com/opinion/samsung-finally-fixed-wireless-charging-galaxy-phones/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-review-battery-life-1-1200x675.jpg",
-      "publishedAt": "2026-04-04T19:50:57Z",
-      "content": "Samsung has kept wireless charging on its flagship phones at 15W for years. While other brands have been way ahead on this for a long time, Samsung did nothing. And if you used wireless charging regu… [+2568 chars]"
+      "author": "Mara Siegler",
+      "title": "John Catsimatidis looking to go international with beloved radio station",
+      "description": "RED Apple Media boss John Catsimatidis is looking beyond the Big Apple.",
+      "url": "https://pagesix.com/2026/04/24/entertainment/john-catsimatidis-looking-to-go-international-with-beloved-radio-station/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/04/crop-8893089_6c65c8.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-04-24T20:32:25Z",
+      "content": "RED Apple Media boss John Catsimatidis is looking beyond the Big Apple.\r\nThe owner of 77 WABC was honored in Las Vegas with the Lowry Mays Excellence in Broadcasting Award at the Broadcasters Foundat… [+448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Billboard"
+      },
+      "author": "Billboard Japan",
+      "title": "MGA, aka Mrs. GREEN APPLE: A Beginner's Guide to Japan's Monster Band",
+      "description": "MGA (outside Japan, Mrs. GREEN APPLE goes by MGA) stood out as the only Japanese act to appear on the IFPI's Global Artist Chart, landing at No. 13.",
+      "url": "http://www.billboard.com/music/music-news/mga-mrs-green-apple-beginners-guide-1236231376/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/04/MGA-1.jpg?w=1024",
+      "publishedAt": "2026-04-24T20:32:18Z",
+      "content": "Each year, the IFPI (International Federation of the Phonographic Industry) releases a Global Artist Chart recognizing the world’s best-selling artists of the previous year. This year’s report droppe… [+4823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Everyeye.it"
+      },
+      "author": "Alessio Marino",
+      "title": "È possibile che Starlink Mobile sarà gestito anche da Fastweb in Italia?",
+      "description": "SpaceX prepara Starlink Mobile in Italia, possibile partnership con Fastweb. La piattaforma punta a rivoluzionare la connettività via satellite.Mentre Starlink di Elon Musk è chiamato a guardarsi dalla concorrenza di Amazon Leo, arrivano delle importanti indi…",
+      "url": "https://tech.everyeye.it/notizie/possibile-starlink-mobile-sar-gestito-fastweb-italia-872634.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/E-possibile-starlink-mobile-gestito-fastweb-italia-v4-872634.jpg",
+      "publishedAt": "2026-04-24T20:32:00Z",
+      "content": "Mentre Starlink di Elon Musk è chiamato a guardarsi dalla concorrenza di Amazon Leo, arrivano delle importanti indiscrezioni su Starlink Mobile, la piattaforma sviluppata da SpaceX che punta a scardi… [+1579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MMA Fighting"
+      },
+      "author": "Jed Meshew",
+      "title": "UFC Vegas 116 Preview Show: Can either Aljamain Sterling or Youssef Zalal jump Movsar Evloev for a title shot?",
+      "description": "MMA Fighting previews Aljamain Sterling vs Youssef Zalal, and the rest of UFC Vegas 116",
+      "url": "https://www.mmafighting.com/latest-news/484607/ufc-vegas-116-preview-show-can-either-aljamain-sterling-or-youssef-zalal-jump-movsar-evloev-for-a-title-shot",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MjERZhmy4k__QEaACqAYug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/8a6f26dbbb11703c0414b7dce146729b",
+      "publishedAt": "2026-04-24T20:30:00Z",
+      "content": "Aljamain Sterling and Youssef Zalal are fighting for big stakes this weekend.\r\nOn Saturday, the UFC returns to its stomping grounds, the META APEX, for UFC Vegas 116, headlined by a high-stakes feath… [+855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Libertaddigital.com"
+      },
+      "author": "Carlos Cuesta",
+      "title": "Un exdirigente socialista saca los colores a Sánchez por el pucherazo que protagonizó en 2016: \"Fue indigno lo que pasó\"",
+      "description": "Carlos Cuesta entrevista al exdiputado del PSOE, Juan Antonio Ruiz Castillo.",
+      "url": "https://esradio.libertaddigital.com/la-noche-de-cuesta/entrevistas-de-la-noche-de-cuesta/2026-04-24/un-exdirigente-socialista-saca-los-colores-a-sanchez-por-el-pucherazo-que-protagonizo-en-2016-fue-indigno-lo-que-paso-7394351/",
+      "urlToImage": "https://s1.staticld.com//2017/06/18/1200/675/624x291/pedro-sanchez-zapatero-congreso-psoe-efe-17062017-1.jpg",
+      "publishedAt": "2026-04-24T20:29:24Z",
+      "content": "El exdiputado socialista Juan Antonio Ruiz Castillo ha cargado duramente en el programa especial desde Málaga de La Noche De Cuesta contra la actual dirección del PSOE y la figura de Pedro Sánchez, a… [+2413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Actualidadiphone.com"
+      },
+      "author": "Actualidad iPhone",
+      "title": "Instagram lanza en España la aplicación Instants para fotos efímeras y sin filtros",
+      "description": "Instagram prueba Instants en España: app para fotos efímeras sin filtros, solo con la cámara y lista de Mejores Amigos. Conoce cómo funciona y a quién va dirigida.",
+      "url": "https://www.actualidadiphone.com/instagram-lanza-en-espana-la-aplicacion-instants-para-fotos-efimeras-y-sin-filtros/",
+      "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2026/04/Instagram-lanza-en-Espana-la-aplicacion-Instants-2.jpg",
+      "publishedAt": "2026-04-24T20:28:50Z",
+      "content": "Instagram ha dado un paso más en su estrategia de diversificar su ecosistema con el lanzamiento en pruebas de Instants, una nueva aplicación centrada en compartir fotos y vídeos efímeros sin filtros … [+11526 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Libertaddigital.com"
+      },
+      "author": "Carlos Cuesta",
+      "title": "El alcalde de Málaga explica todo lo que el Gobierno no hizo para evitar el corte del AVE: \"No se vigiló nada\"",
+      "description": "Carlos Cuesta entrevista al alcalde de Málaga, Francisco de la Torre, en el programa especial de La Noche de Cuesta.",
+      "url": "https://esradio.libertaddigital.com/la-noche-de-cuesta/entrevistas-de-la-noche-de-cuesta/2026-04-24/el-alcalde-de-malaga-explica-todo-lo-que-el-gobierno-no-hizo-para-evitar-el-corte-del-ave-no-se-vigilo-nada-7394350/",
+      "urlToImage": "https://s1.staticld.com/2026/04/24/1200/675/1251x582/paco-de-la-torre-alcalde-malaga24042026.jpg",
+      "publishedAt": "2026-04-24T20:22:23Z",
+      "content": "Escucha este programa en cualquier momento y lugar a través de los podcasts de Libertad Digital y esRadio. Descarga nuestra aplicación para iOs o Android, visita nuestra página web en esradio.fm, o e… [+315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "iPhone 18 Could Come With 12GB of RAM",
+      "description": "Apple's standard iPhone 18 could feature 12GB of memory for the first time, according to analyst Dan Nystedt.\n\n\n\n\n\nIn a new post on X, Nystedt said that the standard ‌iPhone 18‌ will match the 12GB of RAM Apple gave the iPhone 17 Pro and ‌iPhone 17 Pro‌ Max l…",
+      "url": "https://www.macrumors.com/2026/04/24/iphone-18-could-come-with-12gb-ram/",
+      "urlToImage": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+      "publishedAt": "2026-04-24T20:21:57Z",
+      "content": "Apple's standard iPhone 18 could feature 12GB of memory for the first time, according to analyst Dan Nystedt.\r\nIn a new post on X, Nystedt said that the standard ‌iPhone 18‌ will match the 12GB of RA… [+1251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "How to watch Major League Baseball games Fridays on Apple TV",
+      "description": "Friday Night Baseball is back on Apple TV tonight for a big doubleheader: Philadelphia Phillies at Atlanta Braves, and Chicago Cubs at LA Dodgers. Here’s how to watch tonight’s MLB games on Apple TV.\n\n\n\n more…",
+      "url": "https://9to5mac.com/2026/04/24/how-to-watch-major-league-baseball-on-apple-tv-every-friday-night/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/mlb-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-04-24T20:20:08Z",
+      "content": "Friday Night Baseball is back on Apple TV tonight for a big doubleheader: Philadelphia Phillies at Atlanta Braves, and Chicago Cubs at LA Dodgers. Heres how to watch tonights MLB games on Apple TV.\r\n… [+1454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Alexis Mikulski Ruiz",
+      "title": "Netflix Hasn’t Offered a Free Option in Six Years, but We Found Two Ways to Get It for Free",
+      "description": "Want to get Netflix for free? Here's a hack with T-Mobile that will help you get a Netflix membership for free online. How to get Netflix for free?",
+      "url": "http://www.rollingstone.com/product-recommendations/lifestyle/netflix-free-subscription-hack-1235553467/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/04/netflix-hacks.jpg?w=766&h=454&crop=1",
+      "publishedAt": "2026-04-24T20:16:28Z",
+      "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nOut of all the streaming platforms available today, Net… [+2399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Interia.pl"
+      },
+      "author": "Grzegorz Gajkoś",
+      "title": "Battlefield rzuca rękawicę Call of Duty. Powstaje wysokobudżetowy film",
+      "description": "Wojenne doświadczenia ze świata gier wideo zostaną przeniesione na duży ekran. To już pewne, że w 2028 roku zadebiutuje film inspirowany popularną serią Call of Duty. Nie będzie to jedyna kinematograficzna adaptacja popularnej strzelankowej franczyzy. W drodz…",
+      "url": "https://gry.interia.pl/filmy-i-seriale/news-battlefield-rzuca-rekawice-call-of-duty-powstaje-wysokobudze,nId,23421360",
+      "urlToImage": "https://i.iplsc.com/-/000LQR93HYGA6W50-C461.jpg",
+      "publishedAt": "2026-04-24T20:16:27Z",
+      "content": "Marka Call of Duty nie znajduje si aktualnie w najlepszej kondycji. Ostatnie odsony nie speniy oczekiwa graczy, notujc rekordowe niskie zainteresowanie i przychody. Activision próbuje wic ugry temat … [+1793 chars]"
     }
   ]
 }

@@ -74,6 +74,7 @@ def filter_apple_mentions(dataframe: pd.DataFrame, keyword: str = BRAND_KEYWORD)
 def clean_brand_dataset(dataframe: pd.DataFrame) -> pd.DataFrame:
     """Select the main columns and normalize fields for Apple brand-monitor EDA."""
     preferred_columns = [
+        "_id",
         "title",
         "author",
         "description",
@@ -250,23 +251,33 @@ def print_eda_summary(dataframe: pd.DataFrame) -> None:
             print(dataframe[column].value_counts(dropna=False).head(15))
 
 
-def main() -> None:
+def run_explorer_pipeline() -> dict[str, object]:
+    """Run the EDA workflow and return generated outputs."""
     logger.info("Apple brand EDA pipeline started")
     dataframe = load_brand_dataset_from_mongodb()
     apple_mentions = filter_apple_mentions(dataframe)
     cleaned = clean_brand_dataset(apple_mentions)
     report_path = save_eda_text_report(cleaned)
     chart_paths = create_brand_charts(cleaned)
-    print_eda_summary(cleaned)
-    print(f"\nSaved EDA report to: {report_path}")
-    print("Saved charts:")
-    for chart_path in chart_paths:
-        print(f"- {chart_path}")
     logger.info(
         "Apple brand EDA pipeline finished | report=%s | charts=%s",
         report_path,
         [str(path) for path in chart_paths],
     )
+    return {
+        "dataframe": cleaned,
+        "report_path": report_path,
+        "chart_paths": chart_paths,
+    }
+
+
+def main() -> None:
+    results = run_explorer_pipeline()
+    print_eda_summary(results["dataframe"])
+    print(f"\nSaved EDA report to: {results['report_path']}")
+    print("Saved charts:")
+    for chart_path in results["chart_paths"]:
+        print(f"- {chart_path}")
 
 
 if __name__ == "__main__":
