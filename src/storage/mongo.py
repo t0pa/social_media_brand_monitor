@@ -2,6 +2,8 @@ from pymongo import MongoClient, UpdateOne
 from datetime import datetime
 import sys
 import os
+import hashlib
+import json
 
 # Add the project root to the Python path to allow importing from src
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
@@ -16,7 +18,7 @@ db = client["social_media_brand_monitor"]
 def save_to_mongo(data, collection_name="brand_mentions", metadata=None):
     """
     Save data to a MongoDB collection using an upsert strategy to prevent duplicates.
-    - A unique identifier is created based on the source and page number.
+    - A stable unique filter is created per record (source+url, source+page, source+title/date, or source+hash).
     - If a document with that identifier exists, it's updated.
     - If not, a new document is inserted.
     """
@@ -30,25 +32,64 @@ def save_to_mongo(data, collection_name="brand_mentions", metadata=None):
 
     operations = []
 
+    def build_query_filter(doc_content, doc_metadata, page_num=None):
+        """Build a stable upsert filter so one source file can store many records safely."""
+        source = doc_metadata.get("source")
+        if not source:
+            return None, None
+
+        existing_id = doc_content.get("_id")
+        if existing_id is not None and str(existing_id).strip() != "":
+            return {"_id": existing_id}, None
+
+        if page_num is not None:
+            doc_metadata["page_number"] = page_num
+            return {"source": source, "page_number": page_num}, None
+
+        url_value = str(doc_content.get("url", "")).strip()
+        if url_value:
+            return {"source": source, "url": url_value}, None
+
+        title_value = str(doc_content.get("title", "")).strip()
+        author_value = str(doc_content.get("author", "")).strip()
+        date_value = str(
+            doc_content.get("publishedAt")
+            or doc_content.get("date")
+            or doc_content.get("mention_date")
+            or ""
+        ).strip()
+        if title_value and (author_value or date_value):
+            return {
+                "source": source,
+                "title": title_value,
+                "author": author_value,
+                "record_date": date_value,
+            }, {"record_date": date_value}
+
+        # Last-resort identifier for records without URL/title/date.
+        payload = json.dumps(doc_content, sort_keys=True, default=str, ensure_ascii=False)
+        content_hash = hashlib.sha1(payload.encode("utf-8")).hexdigest()
+        doc_metadata["content_hash"] = content_hash
+        return {"source": source, "content_hash": content_hash}, None
+
     def process_document(doc_content, page_num=None):
         """Prepares a single document for an upsert operation."""
         doc_metadata = base_metadata.copy()
-        
-        # Create a unique filter for the upsert operation
-        # Use source (file path or URL) as the primary unique key
-        if 'source' not in doc_metadata:
-            logger.warning(f"Document is missing 'source' metadata for unique identification. Skipping. Content: {doc_content}")
+
+        query_filter, extra_update_fields = build_query_filter(doc_content, doc_metadata, page_num=page_num)
+        if query_filter is None:
+            logger.warning(
+                f"Document is missing 'source' metadata for unique identification. Skipping. Content: {doc_content}"
+            )
             return None
 
-        query_filter = {"source": doc_metadata["source"]}
-        
-        # If it's a multi-page document, add page_number to the filter
-        if page_num is not None:
-            doc_metadata["page_number"] = page_num
-            query_filter["page_number"] = page_num
-
         # Combine content and metadata for the update operation
-        update_data = {"$set": {**doc_content, **doc_metadata}}
+        update_fields = {**doc_content, **doc_metadata}
+        # Never attempt to update Mongo's immutable _id field.
+        update_fields.pop("_id", None)
+        if extra_update_fields:
+            update_fields.update(extra_update_fields)
+        update_data = {"$set": update_fields}
         
         return UpdateOne(query_filter, update_data, upsert=True)
 

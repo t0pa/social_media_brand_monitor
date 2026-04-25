@@ -18,6 +18,11 @@ from src.ocr.ocr_utils import extract_text_from_image, extract_text_from_pdf
 from src.storage.mongo import save_to_mongo
 from src.scraping.scraper import scrape_multiple_pages
 from src.scraping.dynamic_scraper import scrape_ajax_endpoint, scrape_dynamic_url
+from src.analytics.numpy_ops import main as run_numpy_demo
+from src.analytics.data_loader import run_data_loader_pipeline
+from src.analytics.explorer import run_explorer_pipeline
+from src.analytics.quality_report import run_quality_pipeline
+from src.analytics.regex_ops import run_regex_pipeline
 
 logger = get_logger(__name__)
 
@@ -190,6 +195,39 @@ def run_pipeline():
     # except Exception as e:
     #     logger.error(f"An error occurred during the S3 upload process: {e}")
     
+    # --- Analytics and Reporting ---
+    logger.info("--- Starting Analytics and Reporting ---")
+
+    try:
+        logger.info("Running NumPy foundations demo...")
+        run_numpy_demo()
+    except Exception as e:
+        logger.error(f"Error running NumPy analytics demo: {e}")
+
+    try:
+        logger.info("Running analytics data loading, CSV export, chunk processing, and dtype optimization...")
+        run_data_loader_pipeline()
+    except Exception as e:
+        logger.error(f"Error in analytics data-loader stage: {e}")
+
+    try:
+        logger.info("Running EDA explorer module...")
+        run_explorer_pipeline()
+    except Exception as e:
+        logger.error(f"Error in analytics explorer stage: {e}")
+
+    try:
+        logger.info("Running quality report module...")
+        run_quality_pipeline()
+    except Exception as e:
+        logger.error(f"Error in analytics quality-report stage: {e}")
+
+    try:
+        logger.info("Running regex analytics module...")
+        run_regex_pipeline()
+    except Exception as e:
+        logger.error(f"Error in analytics regex stage: {e}")
+
     logger.info("--- Pipeline finished successfully. ---")
 
 if __name__ == "__main__":

@@ -1,0 +1,37 @@
+loc_example
+===========
+                                                                                                  title        author                    source
+                                         2012 Mazda MX-5 Miata Grand Touring PRHT 6-Speed at No Reserve bringatrailer newsapi_Apple_page_1.json
+News: Nach Rücktritt - »Mein erster großer Fehler«: Tim Cook blickt auf seine Zeit als Apple-CEO zurück   Jusuf Hatic newsapi_Apple_page_2.json
+         ‘Certainly Disreputable’: WSJ Editorial Board Tries to Make Sense of Trump DOJ SPLC Indictment Alex Griffing newsapi_Apple_page_3.json
+
+iloc_example
+============
+                     _id                                                                                                   title        author                                                                                                                                                                                                                                                           description
+69ce9d979d3427d3654d3275                                          2012 Mazda MX-5 Miata Grand Touring PRHT 6-Speed at No Reserve bringatrailer  This Liquid Silver Metallic 2012 Mazda MX-5 Miata is a Grand Touring with a six-speed manual transmission, black leather, heated seats, automatic climate control, and a power-retractable hardtop (PRHT). Powered by a 2.0-liter inline-four, it also features BC …
+69ce9d979d3427d3654d3276 News: Nach Rücktritt - »Mein erster großer Fehler«: Tim Cook blickt auf seine Zeit als Apple-CEO zurück   Jusuf Hatic                                                                        Nach über 15 Jahren hört Tim Cook als Apple-CEO auf und nutzt die Gegenwart auch, um diese Zeit Revue passieren zu lassen. Dabei gesteht er seinen »ersten großen Fehler« seiner Amtszeit ein.
+69ce9d979d3427d3654d3277          ‘Certainly Disreputable’: WSJ Editorial Board Tries to Make Sense of Trump DOJ SPLC Indictment Alex Griffing “To the extent the money encouraged or sustained the racist groups, tacitly or otherwise, SPLC benefited from perpetuating racial division."\nThe post ‘Certainly Disreputable’: WSJ Editorial Board Tries to Make Sense of Trump DOJ SPLC Indictment first appeared…
+
+boolean_example
+===============
+                                                                                                  title  content_length
+                                         2012 Mazda MX-5 Miata Grand Touring PRHT 6-Speed at No Reserve             214
+News: Nach Rücktritt - »Mein erster großer Fehler«: Tim Cook blickt auf seine Zeit als Apple-CEO zurück             214
+         ‘Certainly Disreputable’: WSJ Editorial Board Tries to Make Sense of Trump DOJ SPLC Indictment             214
+                                                    Battlefield rare earths: How the U.S. lost to China             213
+                        WiFi 6, WiFi 6E y WiFi 7: qué significan los números y cuál necesitas realmente             214
+
+isin_example
+============
+                                                                                                  title document_type
+                                         2012 Mazda MX-5 Miata Grand Touring PRHT 6-Speed at No Reserve          json
+News: Nach Rücktritt - »Mein erster großer Fehler«: Tim Cook blickt auf seine Zeit als Apple-CEO zurück          json
+         ‘Certainly Disreputable’: WSJ Editorial Board Tries to Make Sense of Trump DOJ SPLC Indictment          json
+                                                                                   Apple doesnt lawsuit           csv
+                                                                          AirPods daily use impressions           csv
+
+between_example
+===============
+Empty DataFrame
+Columns: [title, mention_date]
+Index: []
