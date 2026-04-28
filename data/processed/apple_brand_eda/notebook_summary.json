@@ -1,0 +1,15 @@
+{
+  "global_mean_rating": 3.0,
+  "per_language_means": {
+    "de": 3.0,
+    "en": 3.0,
+    "es": 3.0,
+    "fr": 3.0
+  },
+  "memory_before_mb": 1.3448028564453125,
+  "memory_after_mb": 0.0408477783203125,
+  "eda_report": "c:\\Users\\topic\\OneDrive\\Desktop\\PROJECTS\\Projekat za unstructured data\\social_media_brand_monitor\\data\\processed\\apple_brand_eda\\apple_brand_eda_report.txt",
+  "quality_report": "c:\\Users\\topic\\OneDrive\\Desktop\\PROJECTS\\Projekat za unstructured data\\social_media_brand_monitor\\data\\processed\\apple_brand_eda\\apple_quality_report.csv",
+  "quality_issues": "c:\\Users\\topic\\OneDrive\\Desktop\\PROJECTS\\Projekat za unstructured data\\social_media_brand_monitor\\data\\processed\\apple_brand_eda\\apple_quality_issues.csv",
+  "regex_results": "c:\\Users\\topic\\OneDrive\\Desktop\\PROJECTS\\Projekat za unstructured data\\social_media_brand_monitor\\data\\processed\\apple_brand_eda\\apple_regex_results.csv"
+}

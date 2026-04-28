@@ -1,162 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 37810,
+  "totalResults": 38031,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Ferra.ru"
+        "id": "techradar",
+        "name": "TechRadar"
       },
-      "author": "Максим Многословный",
-      "title": "Иран продолжил бомбить дата-центры. Теперь досталось Oracle в ОАЭ",
-      "description": "Корпус стражей исламской революции (КСИР) сообщил, что атаковал дата-центр Oracle в ОАЭ. Информацию передало иранское государственное телевидение.",
-      "url": "https://www.ferra.ru/news/techlife/iran-prodolzhil-bombit-data-centry-teper-dostalos-oracle-v-oae-03-04-2026.htm",
-      "urlToImage": "https://www.ferra.ru/imgs/2026/04/03/14/6962382/52a8a07e4863696696c239d467bfdc72bf9cfad9.png",
-      "publishedAt": "2026-04-04T19:48:24Z",
-      "content": "Apple, Google, Microsoft  .\r\n    , ,   ,  .   Amazon  . Oracle.\r\nOracle       .   ."
+      "author": "bryan.wolfe@futurenet.com (Bryan M Wolfe) , Bryan M Wolfe",
+      "title": "HP DeskJet 2855e: What do users think of this budget inkjet printer?",
+      "description": "The HP DeskJet 2855e is an entry-level inkjet printer for home and small office use. Here's what people are saying about it.",
+      "url": "https://www.techradar.com/computing/printers-scanners/hp-deskjet-2855e-printer",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rEA5zaUm287aAi8Vk4RAib-2560-80.jpg",
+      "publishedAt": "2026-04-24T20:13:16Z",
+      "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you're buying the best. Find out more about how we test.The HP DeskJet 2855e is a compact al… [+17736 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Newsmonkey.be"
+        "name": "Just Jared"
       },
-      "author": "Redactie",
-      "title": "Taylor Swift eert Elizabeth Taylor in nieuwe single en videoclip",
-      "description": "In het kort Taylor Swift, 36 jaar, heeft opvallende promotiefoto’s gedeeld voor haar nieuwe single Elizabeth Taylor. Hoewel Swift zelf niet in de videoclip te zien is, is het een boeiende montage van iconische beelden waarin de legendarische actrice te zien i…",
-      "url": "https://newsmonkey.be/taylor-swift-eert-elizabeth-taylor-in-nieuwe-single-en-videoclip/",
-      "urlToImage": "https://media.newsmonkey.be/Taylor-Swift-zij-1701872768.jpg",
-      "publishedAt": "2026-04-04T19:44:00Z",
-      "content": "In het kort\r\n<ul><li>Taylor Swift brengt een eerbetoon aan actrice Elizabeth Taylor met een nieuw nummer.</li><li>Swift verwijst naar de kenmerkende stijl en geliefde films van de actrice.</li></ul>\r… [+1853 chars]"
+      "author": "Just Jared",
+      "title": "Jennifer Aniston Gets to Work Filming 'The Morning Show' Season 5",
+      "description": "Jennifer Aniston is getting to work on the new season of The Morning Show! The 57-year-old Emmy-winning actress checked her phone and chatted with a crew member as she arrived on set of season 5 of the Apple TV drama series on Thursday (April 23) in Los Angel…",
+      "url": "https://www.justjared.com/2026/04/24/jennifer-aniston-gets-to-work-filming-the-morning-show-season-5/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/04/aniston-morning-downtown.jpg",
+      "publishedAt": "2026-04-24T20:11:32Z",
+      "content": "Jennifer Aniston is getting to work on the new season of The Morning Show!\r\nThe 57-year-old Emmy-winning actress checked her phone and chatted with a crew member as she arrived on set of season 5 of … [+1064 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Edivaldobrito.com.br"
+        "name": "Bringatrailer.com"
       },
-      "author": "Edivaldo Brito",
-      "title": "Guia Completo dos Formatos de Câmera do iPhone: HEIF, JPEG e opões Pro",
-      "description": "iPhone: descubra os diferentes formatos de câmera, HEIF, JPEG e ProRAW que transformam suas fotos e vídeos!\nO post Guia Completo dos Formatos de Câmera do iPhone: HEIF, JPEG e opões Pro apareceu primeiro em Blog do Edivaldo - Informações e Notícias sobre Linu…",
-      "url": "https://www.edivaldobrito.com.br/guia-completo-dos-formatos-de-camera-do-iphone-heif-jpeg-e-opoes-pro/",
-      "urlToImage": "https://www.edivaldobrito.com.br/wp-content/uploads/2026/04/guia-completo-dos-formatos-de-camera-do-iphone-heif-jpeg-e-opoes-pro.webp",
-      "publishedAt": "2026-04-04T19:35:38Z",
-      "content": "Quando se trata de escolher o formato de foto no iPhone, as opções mais comuns são HEIF e JPEG. O HEIF é ideal para economizar espaço e manter qualidade, sendo perfeito para quem tira muitas fotos. P… [+5875 chars]"
+      "author": "bringatrailer",
+      "title": "2012 Mazda MX-5 Miata Grand Touring PRHT 6-Speed at No Reserve",
+      "description": "This Liquid Silver Metallic 2012 Mazda MX-5 Miata is a Grand Touring with a six-speed manual transmission, black leather, heated seats, automatic climate control, and a power-retractable hardtop (PRHT). Powered by a 2.0-liter inline-four, it also features BC …",
+      "url": "https://bringatrailer.com/listing/2012-mazda-mx-5-miata-22/",
+      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/04/2012_mazda_mx-5-miata_img_6872-69746.jpeg",
+      "publishedAt": "2026-04-24T20:10:56Z",
+      "content": "This Liquid Silver Metallic 2012 Mazda MX-5 Miata is a Grand Touring with a six-speed manual transmission, black leather, heated seats, automatic climate control, and a power-retractable hardtop (PRH… [+1815 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Dailymail.com"
       },
-      "author": "Michael Burkhardt",
-      "title": "Indie App Spotlight: ‘VariAlarm’ brings proper schedules to your alarm clock",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\n\n\n\n\n\n\n\nJuggling loads of alarms in the Clock app can be annoying.…",
-      "url": "https://9to5mac.com/2026/04/04/indie-app-spotlight-varialarm-brings-proper-schedules-to-your-alarm-clock/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/VariAlarm.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-04-04T19:30:47Z",
-      "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If youre a developer and would like your app featured, get in contact.\r\nJuggl… [+1547 chars]"
+      "author": "Will Potter",
+      "title": "Disgraceful driving record of New York City COP who's had 547 tickets since 2022... and the disgusting reason why NYPD won't lift a finger to punish him",
+      "description": "NYPD officer James Giovansanti, 33, has become one of the most cited drivers in the Big Apple for traffic infractions including speeding through school zones and running red lights.",
+      "url": "https://www.dailymail.com/news/article-15762059/NYPD-cop-driving-tickets-James-Giovansanti-traffic.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/04/24/20/108138805-0-image-a-92_1777060466862.jpg",
+      "publishedAt": "2026-04-24T20:10:48Z",
+      "content": "A New York City cop has racked up a staggering 547 traffic tickets in just four years - many of them for dangerous driving - but the New York Police Department is refusing to punish him. \r\nThe police… [+3951 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Screen Rant"
+        "name": "Bringatrailer.com"
       },
-      "author": "Sean Morrison",
-      "title": "Dark Winds Is Officially The King Of Cliffhangers",
-      "description": "Discover why AMC's Dark Winds, with its perfect Rotten Tomatoes score, reigns as the king of cliffhangers in the realm of mystery thrillers, expertly crafting suspenseful endings for each episode.",
-      "url": "https://screenrant.com/dark-winds-amc-western-cliffhanger-king/",
-      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/isabel-deroy-olson-in-dark-winds.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-04-04T19:30:19Z",
-      "content": "Warning! This article contains SPOILERS for Dark Winds season 4.One of AMC's best shows, a blend between Western and crime thriller, is also demonstrating how to do episodic cliffhangers perfectly. T… [+5195 chars]"
+      "author": "bringatrailer",
+      "title": "10k-Mile 2016 BMW 750i M Sport",
+      "description": "This 2016 BMW 750i has 10k miles through the seller's purchase in 2026, and it was optioned with the Driver Assistance Plus 2, Executive 2, M Sport, Cold Weather, and Driving Assistance Plus packages. It is powered by a twin-turbocharged 4.4-liter V8 paired w…",
+      "url": "https://bringatrailer.com/listing/2016-bmw-750i-20/",
+      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/04/2016_bmw_750i_dsc05522-65806.jpg",
+      "publishedAt": "2026-04-24T20:08:27Z",
+      "content": "This 2016 BMW 750i has 10k miles through the seller’s purchase in 2026, and it was optioned with the Driver Assistance Plus 2, Executive 2, M Sport, Cold Weather, and Driving Assistance Plus packages… [+2454 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
+        "name": "Gagadget.com"
       },
-      "author": "Sarfraz Khan",
-      "title": "Intel Panther Lake Ultra X Series Laptops See A Significant Price Increase In China While Apple MacBooks Remain Unaffected",
-      "description": "Panther Lake high-end laptops are seeing significant price hikes in the Chinese market, making them less affordable than the Apple MacBook M5 series. Panther Lake X Series Laptops See a Price Hike of $145-$870 in China, While MacBook M5 Series Laptop Prices S…",
-      "url": "https://wccftech.com/intel-panther-lake-ultra-x-series-laptops-see-a-massive-increase-in-prices-in-china-while/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/DSC_0587-Custom-1920x1280.jpg",
-      "publishedAt": "2026-04-04T19:24:30Z",
-      "content": "Panther Lake high-end laptops are seeing significant price hikes in the Chinese market, making them less affordable than the Apple MacBook M5 series.\r\nThe DRAM and SSD shortages have affected a wide … [+2003 chars]"
+      "author": "gagadget.com",
+      "title": "СМИ: сценарист “Миссия невыполнима” готовит экранизацию Battlefield",
+      "description": "Со-продюсером и исполнителем главной роли может стать звезда \"Черной Пантеры\"&nbsp;Майкл Б. Джордан",
+      "url": "https://gagadget.com/ru/706632-smi-stsenarist-missiya-nevyipolnima-gotovit-ekranizatsiyu-battlefield/",
+      "urlToImage": "https://gagadget.com/media/cache/41/73/41733fdc400a0ca31643c32976b535b8.webp",
+      "publishedAt": "2026-04-24T20:08:14Z",
+      "content": "!\r\nActivision Paramount Call of Duty, , , 30 2028 . , Battlefield , .\r\n The Hollywood Reporter, Battlefield. , (Christopher McQuarrie), . , , .\r\n - . (Michael B. Jordan), \" (Sinners), \" \" (Black Pant… [+172 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Newser"
+        "name": "Digital Journal"
       },
-      "author": "Bob Cronin with Newser.AI",
-      "title": "McCartney Makes Peace With Apple, Plays Anniversary Bash",
-      "description": "Paul McCartney put a long-running legal feud behind him with a performance at Apple's 50th anniversary celebration this week in California. The 83-year-old played Beatles songs including \"Hey Jude,\" \"Help!\" and \"Love Me Do\" on Tuesday night for employees at A…",
-      "url": "https://www.newser.com/story/386721/mccartney-makes-peace-with-apple-plays-anniversary-bash.html",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1675974-12-20260404142823.jpeg",
-      "publishedAt": "2026-04-04T19:23:00Z",
-      "content": "Apple Corps was founded in 1968 as a multimedia venture. The conflict began when Apple Inc., co-founded by Steve Jobs, launched its brand around the same name and a related logo. Apple Corps brought … [+967 chars]"
+      "author": "Jon Stojan",
+      "title": "How Aliaksei Karavaichyk is putting Wall Street data in everyone’s pocket",
+      "description": "When Aliaksei Karavaichyk was pursuing his master’s in economics at the University of Illinois Urbana-Champaign, he had access to some of the most powerful financial tools in the world, the same platforms used by hedge funds and institutional traders. That's …",
+      "url": "https://www.digitaljournal.com/business/how-aliaksei-karavaichyk-is-putting-wall-street-data-in-everyones-pocket/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/04/TechTO-8-68.png",
+      "publishedAt": "2026-04-24T20:07:09Z",
+      "content": "Photo courtesy of Aliaksei Karavaichyk. \r\nOpinions expressed by Digital Journal contributors are their own.\r\nWhen Aliaksei Karavaichyk was pursuing his masters in economics at the University of Illin… [+4540 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Overclockers.ru"
       },
-      "author": "Michael Burkhardt",
-      "title": "Hands-on: HyperDrive Next enclosure for Mac offers 80Gbps speeds for SSDs, more",
-      "description": "Internal Mac storage upgrades are expensive, often causing users to resort to external media when possible. That also has its own problems of sometimes compromising on speed or reliability. HyperDrive Next aims to bridge that gap, by bringing incredible perfo…",
-      "url": "https://9to5mac.com/2026/04/04/hyperdrive-next-for-mac-80gbps-thunderbolt-ai-enclosures-networking/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/HyperDrive-Next.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-04-04T19:20:29Z",
-      "content": "Internal Mac storage upgrades are expensive, often causing users to resort to external media when possible. That also has its own problems of sometimes compromising on speed or reliability. HyperDriv… [+1854 chars]"
+      "author": "Global_Chronicles",
+      "title": "Для iPhone 20 могут готовить безрамочный микроизогнутый OLED‑дисплей Samsung с технологией COE",
+      "description": "По данным источников в цепочке поставок, Apple совместно с Samsung разрабатывает микроизогнутый OLED‑дисплей для юбилейной модели iPhone 2027 года",
+      "url": "https://overclockers.ru/blog/Global_Chronicles/show/254327/Dlya-iPhone-20-mogut-gotovit-bezramochnyj-mikroizognutyj-OLED-displej-Samsung-s-tehnologiej-COE",
+      "urlToImage": "https://overclockers.ru/st/legacy/blog/430440/727833_O.JPG",
+      "publishedAt": "2026-04-24T20:06:41Z",
+      "content": ", Apple 20 iPhone, . OLED Samsung. , Apple Samsung OLED iPhone 2027 , «iPhone 20» «iPhone XX».\r\n- iPhone 20/XX Gemini\r\n « ». «» Samsung, , .\r\n , Android: , , . iPhone Samsung, , , .\r\n COE (Color Filt… [+124 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Iphon.fr"
+        "name": "Bringatrailer.com"
       },
-      "author": "Sami Trabcha",
-      "title": "Apple Store : jusqu’à 5 mois de délais pour ce Mac",
-      "description": "Les configurations les plus musclées sont presque introuvables.",
-      "url": "https://www.iphon.fr/post/delais-livraison-mac-studio-mini-apple-store",
-      "urlToImage": "https://www.iphon.fr/app/uploads/2026/03/apple-mac-mini-rumeurs-1600x900.jpg",
-      "publishedAt": "2026-04-04T19:16:19Z",
-      "content": "Faire tourner une intelligence artificielle directement chez soi, sans dépendre d’un service en ligne comme ChatGPT, séduit de plus en plus d’acheteurs de Mac depuis le début de l’année. Cette demand… [+2420 chars]"
+      "author": "bringatrailer",
+      "title": "2024 Ferrari Roma Coupe",
+      "description": "This 2024 Ferrari Roma coupe was first registered in California and then relocated to South Carolina following the purchase by its current owner on BaT in October 2025. It was specified in Blu Roma over Nero leather with Giallo accents as well as carbon-fiber…",
+      "url": "https://bringatrailer.com/listing/2024-ferrari-roma-coupe-6-2/",
+      "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/04/2024_ferrari_roma-coupe_DSC_0058-82861-scaled.jpg",
+      "publishedAt": "2026-04-24T20:04:12Z",
+      "content": "This 2024 Ferrari Roma coupe was first registered in California and then relocated to South Carolina following the purchase by its current owner on BaT in October 2025. It was specified in Blu Roma o… [+3489 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Milwaukee Journal Sentinel"
+        "name": "PetaPixel"
       },
-      "author": "Todd Rosiak, Milwaukee Journal Sentinel",
-      "title": "Brewers manager Pat Murphy pulls a pet from his pocket – a tortoise",
-      "description": "Brewers manager Pat Murphy got some more laughs after pulling a live tortoise out during Apple TV's broadcast from Friday's rainout.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/04/04/milwaukee-brewers-manager-pat-murphy-hands-tortise-to-apple-tv-reporter-tricia-whitaker/89467598007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/k9HRFpZvnriNtYbEau17lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjM7Y2Y9d2VicA--/https://media.zenfs.com/en/milwaukee_journal_sentinel_natl_articles_362/1041370da873ab1f5682f401056c46af",
-      "publishedAt": "2026-04-04T19:12:53Z",
-      "content": "KANSAS CITY Last year, it was pocket pancakes.\r\nThis year?\r\nPocket ... tortoises?\r\nIndeed, that's the gambit by Milwaukee Brewers manager Pat Murphy, who prior to his team's rained-out game against t… [+5333 chars]"
+      "author": "Jeremy Gray",
+      "title": "How Apple Filmed its Flashy MacBook Neo Video Using Handmade Props",
+      "description": "When Apple unveiled its new low-cost MacBook Neo laptop in early March, it did so with the flashy launch video seen above. While some of it is CGI, much of it has very practical roots, as Apple revealed today in a new behind-the-scenes video.\n[Read More]",
+      "url": "https://petapixel.com/2026/04/24/how-apple-filmed-its-flashy-macbook-neo-video-using-handmade-props/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/04/macbook-neo-bts-featured.jpg",
+      "publishedAt": "2026-04-24T20:04:00Z",
+      "content": "When Apple unveiled its new low-cost MacBook Neo laptop in early March, it did so with the flashy launch video seen above. While some of it is CGI, much of it has very practical roots, as Apple revea… [+1969 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Iphon.fr"
+        "name": "Gizmodo.com"
       },
-      "author": "Sami Trabcha",
-      "title": "iPhone 18 Pro : les 12 nouveautés qui vous attendent en septembre",
-      "description": "Apple prépare une rentrée chargée pour son prochain haut de gamme.",
-      "url": "https://www.iphon.fr/post/iphone-18-pro-les-12-nouveautes-qui-vous-attendent-en-septembre",
-      "urlToImage": "https://www.iphon.fr/app/uploads/2025/11/iphone-18-pro-concept-rumeurs-dynamic-island-plus-petit-1600x900.jpg",
-      "publishedAt": "2026-04-04T19:09:39Z",
-      "content": "Les rumeurs autour de l’iPhone 18 Pro se sont accumulées depuis septembre 2025, entre production d’essai confirmée en février et premières fuites sur le Dynamic Island. Apple devrait présenter ses pr… [+2485 chars]"
+      "author": "Lucas Handley",
+      "title": "Servidores VPN de ExpressVPN: cómo funcionan, qué protocolos soportan y cómo elegir la mejor ubicación",
+      "description": "ExpressVPN opera una red de servidores en más de 105 países y más de 170 ubicaciones, con capacidad de hasta 10 Gbps por servidor, tecnología TrustedServer con RAM volátil y soporte para los principales protocolos VPN. Elegir bien el servidor marca la diferen…",
+      "url": "https://es.gizmodo.com/servidores-vpn-de-expressvpn-como-funcionan-que-protocolos-soportan-y-como-elegir-la-mejor-ubicacion-2000231729",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2026/04/Diseno-sin-titulo-11-12-1200x675.jpg",
+      "publishedAt": "2026-04-24T20:03:44Z",
+      "content": "No todas las conexiones VPN ofrecen el mismo resultado. La velocidad, la latencia y el acceso a contenidos dependen en gran medida del servidor al que te conectes: su ubicación geográfica, su capacid… [+5668 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "MobileSyrup"
       },
-      "author": "Glenn Garner",
-      "title": "Seth Rogen On How ‘The Studio’ Season 2 Is “Acknowledging” Catherine O’Hara’s Death: “We Are Not Ignoring It”",
-      "description": "As The Studio prepares its return to Hollywood for Season 2, the cast will be missing one bright star following Catherine O’Hara’s death at age 71. Seth Rogen recently confirmed that the upcoming second season of the Apple TV+ satire series is “acknowledging”…",
-      "url": "http://deadline.com/2026/04/seth-rogen-the-studio-season-2-catherine-ohara-death-1236779788/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/TCDSTUD_G2053.jpg?w=1024",
-      "publishedAt": "2026-04-04T19:08:13Z",
-      "content": "As The Studio prepares its return to Hollywood for Season 2, the cast will be missing one bright star following Catherine O’Hara’s death at age 71.\r\nSeth Rogen recently confirmed that the upcoming se… [+1623 chars]"
+      "author": "Matthew Mountjoy",
+      "title": "Best Buy’s 25th anniversary sale includes deal on mobile phones",
+      "description": "Best Buy is marking the 25th anniversary of its entry into the Canadian market with a wide range of deals. We already wrote about a bunch of the discounts, but we also thought it was worth highlighting the deals the company has on smartphones as well. First u…",
+      "url": "https://mobilesyrup.com/2026/04/24/best-buys-25th-anniversary-sale-includes-deal-on-mobile-phones/",
+      "urlToImage": "https://production-static.mobilesyrup.com/uploads/2025/04/google-pixel-9a-20250409-header-scaled.jpg",
+      "publishedAt": "2026-04-24T20:03:14Z",
+      "content": "Best Buy is marking the 25th anniversary of its entry into the Canadian market with a wide range of deals.\r\nWe already wrote about a bunch of the discounts, but we also thought it was worth highlight… [+1510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "author": "MacDailyNews",
+      "title": "How John Ternus could finally fulfill Steve Jobs’ original vision for the iPad as a true primary computing device",
+      "description": "Steve Jobs introduced the iPad in 2010 not as a bigger iPhone or a sidekick to the Mac, but as a revolutionary “third category” of device…\nThe post How John Ternus could finally fulfill Steve Jobs’ original vision for the iPad as a true primary computing devi…",
+      "url": "https://macdailynews.com/2026/04/24/how-john-ternus-could-finally-fulfill-steve-jobs-original-vision-for-the-ipad-as-a-true-primary-computing-device/",
+      "urlToImage": "https://macdailynews.com/wp-content/uploads/2025/10/251015_m5_ipad_pro_05.png",
+      "publishedAt": "2026-04-24T20:01:44Z",
+      "content": "Apple’s iPad Pro\r\nSteve Jobs introduced the iPad in 2010 not as a bigger iPhone or a sidekick to the Mac, but as a revolutionary third category of device a magical slate of glass that would usher in … [+5778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Just Jared"
+      },
+      "author": "Just Jared",
+      "title": "Most Shocking TV Show Cancellations of 2026: 3 From CBS, 1 From Netflix & More",
+      "description": "There have been unfortunately a ton of fan favorite TV show cancellations this year so far, and we’re breaking down some of the most upsetting ones! In terms of shows that have gotten the axe this year, there have been a great deal from both networks and stre…",
+      "url": "https://www.justjared.com/2026/04/24/most-shocking-tv-show-cancellations-of-2026-2-from-cbs-1-from-netflix-more/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/04/shocking-tv-show-cancellations-2026-list1.jpg",
+      "publishedAt": "2026-04-24T20:00:36Z",
+      "content": "There have been unfortunately a ton of fan favorite TV show cancellations this year so far, and we’re breaking down some of the most upsetting ones!\r\nIn terms of shows that have gotten the axe this y… [+559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antyweb.pl"
+      },
+      "author": "Bartosz Gabiś",
+      "title": "Zapomnijcie o iPhonie 18, ten na 20. urodziny, to dopiero będzie hit!",
+      "description": "Im bliżej premiery nowego iPhone'a, tym więcej się mówi o potencjalnych nowościach osiemnastek, ale zaczyna się także pojawiać coraz więcej wiadomości na temat przyszłorocznej, dwudziestej rocznicy applowskiego smartfona.",
+      "url": "https://antyweb.pl/zapomnijcie-o-iphonie-18-ten-na-20-urodziny-to-dopiero-bedzie-hit",
+      "urlToImage": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/03/apple-potwierdza-zaden-iphone-nigdy-nie-zostal-zhakowany-gdy-ta-funkcja-byla-wlaczona-2.jpg",
+      "publishedAt": "2026-04-24T20:00:34Z",
+      "content": "Do premiery nowego iPhone'a zostao jeszcze pó roku, wic na pewno ju coraz wicej osób zaczyna wchodzi w t faz rozwaa, czy moe pora zmieni telefon? Szczególnie, e tegoroczna jesie moe przynie pierwszeg… [+1538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Audrey Rock",
+      "title": "Nicole Kidman was rushed to hospital after filming pro-wrestling TV scene",
+      "description": "Kidman serves as an executive producer on AppleTV+ series \"Margo's Got Money Troubles.\"",
+      "url": "https://pagesix.com/2026/04/24/entertainment/nicole-kidman-hospitalized-after-filming-pro-wrestling-scene/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/04/Nicole-Kidman-was-rushed-to-hospital-after-filming-pro-wrestling-TV-scene-1.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-04-24T20:00:29Z",
+      "content": "Nicole Kidman performed a pro-wrestling scene in “Margo’s Got Money Troubles” while suffering from the flu, and promptly had to be transported to the hospital afterwards.\r\n“We’re there in the morning… [+3802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Erik Kain, Senior Contributor, \n Erik Kain, Senior Contributor\n https://www.forbes.com/sites/erikkain/",
+      "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+      "description": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
+      "url": "https://www.forbes.com/sites/erikkain/2026/04/24/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69eba8ff6d66e456f7b36c1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-04-24T20:00:19Z",
+      "content": "What to watch this weekend.\r\nCredit: Netflix / HBO / Independent Film Company\r\nComplicated relationships, creepy cults and action-packed new takes on The Most Dangerous Game. Love and murder. Spinoff… [+13637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freek.dev"
+      },
+      "author": "Freek Van der Herten",
+      "title": "Generate Apple and Google Wallet passes from Laravel",
+      "description": "A mobile pass is that thing in your iPhone's Wallet app. A boarding pass, a concert ticket, a coffee loyalty card, a gym membership. Apple calls them passes. Google calls them objects. Both Wallet apps let you generate them, hand them out, and push live updat…",
+      "url": "https://freek.dev/3108-generate-apple-wallet-and-google-wallet-passes-from-laravel?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews",
+      "urlToImage": "https://freek.dev/og-image/b6d20bc4d1760fa724cab383918dfa2d.jpeg",
+      "publishedAt": "2026-04-24T20:00:00Z",
+      "content": "A mobile pass is that thing in your iPhone's Wallet app. A boarding pass, a concert ticket, a coffee loyalty card, a gym membership. Apple calls them passes. Google calls them objects. Both Wallet ap… [+7134 chars]"
     },
     {
       "source": {
@@ -164,90 +242,12 @@
         "name": "Everyeye.it"
       },
       "author": "Alessio Marino",
-      "title": "Il Mac Pro va in pensione: motivi e ripercussioni della scelta di Apple",
-      "description": "Apple ha dismesso il Mac Pro e il Pro Display XDR: ora Mac Studio e nuovi display guidano la linea desktop verso utenti prosumer.Mentre i nuovi MacBook Pro con M5 Pro e Max sbaragliano la concorrenza e nei benchmark sembrano superare anche le performance dell…",
-      "url": "https://tech.everyeye.it/notizie/mac-pro-pensione-motivi-ripercussioni-scelta-apple-868032.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/il-mac-pro-pensione-motivi-ripercussioni-scelta-apple-v4-868032.jpg",
-      "publishedAt": "2026-04-04T19:02:00Z",
-      "content": "Mentre i nuovi MacBook Pro con M5 Pro e Max sbaragliano la concorrenza e nei benchmark sembrano superare anche le performance delle schede grafiche più potenti in ambito Windows, Apple ha ufficialmen… [+1470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Larazon.es"
-      },
-      "author": "Damián, García",
-      "title": "Google Pixel 10a vs Pixel 10 vs Pixel 10 Pro, ¿cuál es el móvil de Google más recomendable de 2026?",
-      "description": "Esta es la comparativa que esperabas ver entre los Pixel 10, Pixel 10 Pro y Pixel 10a: todos los detalles y diferencias en precio, pantalla, rendimiento y cámaras para que puedas elegir el modelo de Google que mejor se adapta a tus necesidades",
-      "url": "https://www.larazon.es/tecnologia-consumo/google-pixel/google-pixel-10a-vs-pixel-10-vs-pixel-10-pro-cual-es-movil-google-recomendable-2026_2026040469ce39d26b2f8835925f0170.html",
-      "urlToImage": "https://fotografias-2.larazon.es/assets/2026/04/todos-los-pixel-10-made-by-google.jpg?width=1200",
-      "publishedAt": "2026-04-04T19:01:02Z",
-      "content": "A veces tomamos a Samsung como la referencia del catálogo Android casi obviando que Google cuenta con una familia de smartphones Pixel precisamente destinada a convertirse en esa referencia, no sólo … [+6992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CHIP Online Deutschland"
-      },
-      "author": "Luka Markovic",
-      "title": "Apple stuft 3 Produkte neu ein: Support für ältere Geräte eingeschränkt",
-      "description": "Apple hat nun ältere Geräte in neue Servicekategorien verschoben. Mehrere Modelle gelten inzwischen als \"Vintage\" oder \"obsolet\".",
-      "url": "https://www.chip.de/news/apple/apple-stuft-3-produkte-neu-ein-support-fuer-aeltere-geraete-eingeschraenkt_eacd0d04-009f-4f20-b1cd-d8cc0eb76080.html",
-      "urlToImage": "https://quadro.burda-forward.de/ctf/2ccfd1ce-59d3-4039-8936-ec562cb7a19e.af08246a-720f-486e-b3dd-4e8e85da10da.jpg?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(965,709)&hash=b72c42fa21f2a85693b3386eaf8e63da40de5a8f035edd910ed86fc713a7ea6e",
-      "publishedAt": "2026-04-04T19:01:00Z",
-      "content": "Im aktuellen Update der Service-Übersicht erweitert Apple die Einstufung älterer Geräte. Neu aufgenommen wurde das MacBook Air (13 Zoll, 2017) in die Kategorie \"Vintage\".\r\nApple stuft MacBook Air 201… [+1009 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Xataka.com.mx"
-      },
-      "author": "Valeria Romero",
-      "title": "México está dejando de usar efectivo más rápido de lo esperado: casi la mitad de pagos con tarjeta ya son sin contacto",
-      "description": "Pagar con efectivo en México sigue siendo lo más común, pero algo está cambiando. Cada vez más personas dejan las monedas y billetes para acercar su tarjeta o celular a una terminal y completar una compra en segundos.\n<!-- BREAK 1 -->\nEl fenómeno no es nuevo,…",
-      "url": "https://www.xataka.com.mx/banca-digital/mexico-esta-dejando-usar-efectivo-rapido-esperado-casi-mitad-pagos-tarjeta-contacto",
-      "urlToImage": "https://i.blogs.es/8621c3/pagos-sin-contacto-aumentan-mexico-dejan-usar-efectivo-xataka-latam/840_560.png",
-      "publishedAt": "2026-04-04T19:00:56Z",
-      "content": "Pagar con efectivo en México sigue siendo lo más común, pero algo está cambiando. Cada vez más personas dejan las monedas y billetes para acercar su tarjeta o celular a una terminal y completar una c… [+8001 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "insider@insider.com (Adam Marshall)",
-      "title": "How to watch Illinois vs. UConn: Live stream the Final Four free from anywhere",
-      "description": "The Fighting Illini and the Huskies will square off in the Final Four. Here's how to watch Illinois vs. UConn from anywhere.",
-      "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-illinois-vs-uconn-march-madness-2026",
-      "urlToImage": "https://i.insider.com/69d018cdc02a678bd7e47e85?width=1200&format=jpeg",
-      "publishedAt": "2026-04-04T19:00:01Z",
-      "content": "In time-honored tradition, the first Saturday of April is dedicated to the Final Four of March Madness, and the first two teams shooting for a place in the 2026 National Championship game are the Fig… [+7914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hipertextual"
-      },
-      "author": "Aglaia Berlutti",
-      "title": "Terror religioso: 7 películas ‘herejes’ para ver en Semana Santa",
-      "description": "Semana Santa es una época ideal para profundizar en temas complejos. Como el que propone el cine de terror religioso. Cuando El exorcista se estrenó en 1973, causó sensación. Pero no solo por contar una historia siniestra y con datos verídicos sobre una poses…",
-      "url": "https://hipertextual.com/cine-television/terror-religioso-7-peliculas-herejes-para-ver-en-semana-santa/",
-      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Terror-religioso.jpg?fit=2000%2C1600&quality=70&strip=all&ssl=1",
-      "publishedAt": "2026-04-04T19:00:00Z",
-      "content": "Semana Santa es una época ideal para profundizar en temas complejos. Como el que propone el cine de terror religioso. Cuando El exorcistase estrenó en 1973, causó sensación. Pero no solo por contar u… [+8278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android.com.pl"
-      },
-      "author": "Łukasz Pająk",
-      "title": "Co to tempomat adaptacyjny i jak działa? Kompendium wiedzy",
-      "description": "Tempomat w samochodach to rozwiązanie, które w XXI wieku na dobre zadomowiło się praktycznie w każdym modelu, począwszy od luksusowych aut, a kończąc nawet na miejskich propozycjach. Zdecydowanie nie jest to innowacja z tego tysiąclecia, aczkolwiek w ostatnic…",
-      "url": "https://android.com.pl/moto/1034494-co-to-tempomat-adaptacyjny-jak-dziala/",
-      "urlToImage": "https://static.android.com.pl/uploads/2026/04/co-to-tempomat-i-jak-dziala-rodzaje-6-1280x853.jpg",
-      "publishedAt": "2026-04-04T18:58:00Z",
-      "content": "Tempomat w samochodach to rozwizanie, które w XXI wieku na dobre zadomowio si praktycznie w kadym modelu, poczwszy od luksusowych aut, a koczc nawet na miejskich propozycjach. Zdecydowanie nie jest t… [+11331 chars]"
+      "title": "Aptoide sfida Google: come il monopolio del Play Store blocca il risparmio su Android",
+      "description": "Aptoide denuncia Google all'Antitrust USA, accusandola di ostacolare la concorrenza tra store di app su Android; Google non commenta.Una nuova causa presentata all’Antitrust degli Stati riaccende il confronto tra Google e store alternativi presenti sull’ecosi…",
+      "url": "https://tech.everyeye.it/notizie/aptoide-sfida-google-come-monopolio-play-store-blocca-risparmio-android-872630.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/aptoide-sfida-google-come-monopolio-play-store-blocca-risparmio-android-v4-872630.jpg",
+      "publishedAt": "2026-04-24T20:00:00Z",
+      "content": "Una nuova causa presentata all’Antitrust degli Stati riaccende il confronto tra Google e store alternativi presenti sull’ecosistema Android. L’ultima denuncia è stata presentata da Aptoide, che accus… [+1586 chars]"
     }
   ]
 }

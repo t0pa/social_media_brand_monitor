@@ -1,0 +1,98 @@
+Apple Brand Monitor EDA Report
+========================================
+Shape: (139, 13)
+
+Info:
+<class 'pandas.DataFrame'>
+Index: 139 entries, 0 to 296
+Data columns (total 13 columns):
+ #   Column          Non-Null Count  Dtype              
+---  ------          --------------  -----              
+ 0   _id             139 non-null    object             
+ 1   title           139 non-null    string             
+ 2   author          139 non-null    string             
+ 3   description     101 non-null    str                
+ 4   content         101 non-null    object             
+ 5   source          139 non-null    string             
+ 6   document_type   139 non-null    string             
+ 7   type            43 non-null     string             
+ 8   publishedAt     78 non-null     datetime64[us, UTC]
+ 9   date            61 non-null     datetime64[us]     
+ 10  url             101 non-null    str                
+ 11  mention_date    78 non-null     string             
+ 12  content_length  139 non-null    int64              
+dtypes: datetime64[us, UTC](1), datetime64[us](1), int64(1), object(2), str(2), string(6)
+memory usage: 15.2+ KB
+
+Describe:
+                             _id                title    author description content                  source document_type type                       publishedAt                        date  url mention_date  content_length
+count                        139                  139       139         101     101                     139           139   43                                78                          61  101           78      139.000000
+unique                       139                   64        52          56      55                       7             3    1                               NaN                         NaN   57            1             NaN
+top     69ce9d979d3427d3654d3275  Apple iPhone review  John Doe                      raw_brand_mentions.csv           csv                                    NaN                         NaN        2026-04-24             NaN
+freq                           1                   14        18          24      23                      43            77   43                               NaN                         NaN   23           78             NaN
+mean                         NaN                  NaN       NaN         NaN     NaN                     NaN           NaN  NaN  2026-04-24 20:18:37.653846+00:00  2026-04-01 11:48:11.803278  NaN          NaN      117.187050
+min                          NaN                  NaN       NaN         NaN     NaN                     NaN           NaN  NaN         2026-04-24 19:32:40+00:00         2026-03-01 00:00:00  NaN          NaN        0.000000
+25%                          NaN                  NaN       NaN         NaN     NaN                     NaN           NaN  NaN         2026-04-24 20:00:29+00:00         2026-03-03 00:00:00  NaN          NaN        0.000000
+50%                          NaN                  NaN       NaN         NaN     NaN                     NaN           NaN  NaN         2026-04-24 20:11:14+00:00         2026-04-09 00:00:00  NaN          NaN      213.000000
+75%                          NaN                  NaN       NaN         NaN     NaN                     NaN           NaN  NaN         2026-04-24 20:32:28+00:00         2026-04-18 00:00:00  NaN          NaN      214.000000
+max                          NaN                  NaN       NaN         NaN     NaN                     NaN           NaN  NaN         2026-04-24 21:00:00+00:00         2026-04-28 00:00:00  NaN          NaN      215.000000
+std                          NaN                  NaN       NaN         NaN     NaN                     NaN           NaN  NaN                               NaN                         NaN  NaN          NaN      105.266506
+
+Nunique:
+_id               139
+title              64
+author             52
+description        56
+content            55
+source              7
+document_type       3
+type                1
+publishedAt        50
+date               31
+url                57
+mention_date        1
+content_length      5
+
+Value counts for source:
+source
+raw_brand_mentions.csv       43
+apple_ratings_large.csv      29
+newsapi_Apple_page_3.json    20
+newsapi_Apple_page_1.json    19
+newsapi_Apple_page_2.json    19
+sample.csv                    5
+sample.xml                    4
+
+Value counts for document_type:
+document_type
+csv     77
+json    58
+xml      4
+
+Value counts for type:
+type
+<NA>    96
+        43
+
+Value counts for author:
+author
+John Doe                                            18
+Jane Smith                                          18
+Alex Brown                                          17
+Sara Lee                                             8
+bringatrailer                                        6
+Jusuf Hatic                                          4
+feedfeeder                                           4
+Just Jared                                           3
+Juli Clover                                          2
+sara.schwartz@expressen.se (Sara Schwartz Wiman)     2
+Mara Siegler                                         2
+Billboard Japan                                      2
+Alessio Marino                                       2
+Carlos Cuesta                                        2
+Hartley Charlton                                     2
+
+Value counts for mention_date:
+mention_date
+2026-04-24    78
+<NA>          61
