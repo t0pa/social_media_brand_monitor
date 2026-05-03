@@ -10,6 +10,7 @@ def get_logger(name):
     """
     logger = logging.getLogger(name)
     logger.setLevel(logging.INFO)
+    logger.propagate = False
 
     # Create handlers if they don't exist
     if not logger.handlers:

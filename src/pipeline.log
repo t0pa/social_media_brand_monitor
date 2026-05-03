@@ -2140,3 +2140,675 @@ Lorem ipsum dolor sit amet, consectetur
 2026-04-25 23:11:48,981 - src.analytics.regex_ops - INFO - Regex operations completed | rows=165 | columns_added=['title_prefix_match', 'title_extracted_product', 'title_extracted_year', 'overview_extracted_number', 'overview_crime_term_count', 'overview_is_unusually_short', 'genres_standardized', 'genres_has_structured_doc', 'valid_local_id_format']
 2026-04-25 23:11:48,987 - src.analytics.regex_ops - INFO - Regex results CSV saved | path=data\processed\apple_brand_eda\apple_regex_results.csv
 2026-04-25 23:11:48,988 - src.analytics.regex_ops - INFO - Apple regex pipeline finished | output=data\processed\apple_brand_eda\apple_regex_results.csv
+2026-04-29 12:09:20,777 - src.cleaning.missing_handler - INFO - Generated missing-value report for 37 columns.
+2026-05-03 20:34:26,344 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating', 'content_length']
+2026-05-03 20:34:26,350 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating']
+2026-05-03 20:34:26,352 - src.cleaning.missing_handler - INFO - Filled missing numeric values with medians in 1 columns.
+2026-05-03 20:34:26,360 - src.cleaning.missing_handler - INFO - Dropped 2 columns above missing threshold 0.70: ['date', 'all_missing']
+2026-05-03 20:34:26,365 - src.cleaning.missing_handler - INFO - Dropped 0 rows with missing critical identifiers: ['_id', 'title']
+2026-05-03 20:34:26,366 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating']
+2026-05-03 20:34:26,368 - src.cleaning.missing_handler - INFO - Dropped 2 columns above missing threshold 0.60: ['date', 'all_missing']
+2026-05-03 20:34:26,371 - src.cleaning.missing_handler - INFO - Filled missing text values in 2 columns.
+2026-05-03 20:34:26,373 - src.cleaning.missing_handler - INFO - Filled missing numeric values with medians in 1 columns.
+2026-05-03 20:34:26,374 - src.cleaning.missing_handler - INFO - Completed missing-value handling. Shape: (4, 16)
+2026-05-03 20:34:26,403 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'rating', 'content_length', 'content_hash', 'record_date', 'query_params.year']
+2026-05-03 20:34:26,404 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:34:26,407 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:34:26,411 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:34:26,412 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:34:26,418 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:34:26,419 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:34:26,419 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (4, 21)
+2026-05-03 20:34:26,423 - src.analytics.regex_ops - INFO - Invalid-date scan completed | column=publishedAt | invalid_count=1
+2026-05-03 20:34:26,423 - src.analytics.regex_ops - INFO - Invalid-language scan completed | column=language | invalid_count=1
+2026-05-03 20:34:26,425 - src.analytics.regex_ops - INFO - Numeric extraction completed | source_column=content | output_column=content_numeric_value
+2026-05-03 20:34:26,439 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'rating', 'content_length', 'content_hash', 'record_date', 'query_params.year']
+2026-05-03 20:34:26,440 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:34:26,441 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:34:26,444 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:34:26,445 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:34:26,447 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:34:26,448 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:34:26,448 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (4, 21)
+2026-05-03 20:34:26,449 - src.analytics.regex_ops - INFO - Short-overview scan completed | column=overview | min_length=10 | flagged=1
+2026-05-03 20:34:26,456 - src.cleaning.deduplicator - INFO - Counted 1 duplicate values in column _id
+2026-05-03 20:34:26,459 - src.cleaning.deduplicator - INFO - Removed 1 duplicate rows using identifier column _id
+2026-05-03 20:34:26,476 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'rating', 'content_length', 'content_hash', 'record_date', 'query_params.year']
+2026-05-03 20:34:26,478 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:34:26,479 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:34:26,481 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:34:26,483 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:34:26,486 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:34:26,489 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:34:26,490 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (3, 21)
+2026-05-03 20:34:26,493 - src.cleaning.deduplicator - INFO - Removed 1 duplicate title/date rows using columns title and mention_date
+2026-05-03 20:34:26,496 - src.cleaning.deduplicator - INFO - Removed 1 exact duplicate rows.
+2026-05-03 20:34:26,514 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'rating', 'content_length', 'content_hash', 'record_date', 'query_params.year']
+2026-05-03 20:34:26,516 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:34:26,519 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:34:26,524 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:34:26,525 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:34:26,527 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:34:26,527 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:34:26,527 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (4, 21)
+2026-05-03 20:34:26,528 - src.cleaning.type_converter - INFO - Converted datetime columns: ['publishedAt', 'date', 'mention_date', 'record_date']
+2026-05-03 20:34:26,530 - src.cleaning.type_converter - INFO - Converted numeric columns | ints=['query_params.year', 'mention_year'] | floats=['rating', 'content_length']
+2026-05-03 20:34:26,533 - src.cleaning.type_converter - INFO - Converted category columns: ['source', 'document_type', 'type', 'language']
+2026-05-03 20:34:26,533 - src.cleaning.type_converter - INFO - Completed type conversion. Shape: (4, 21)
+2026-05-03 20:34:26,535 - src.cleaning.type_converter - INFO - Memory report created | before_bytes=5478 | after_bytes=3092 | saved_bytes=2386
+2026-05-03 20:34:26,541 - src.analytics.regex_ops - INFO - Invalid-date scan found 0 issues because publishedAt is already datetime.
+2026-05-03 20:34:26,541 - src.analytics.regex_ops - INFO - Invalid-language scan completed | column=language | invalid_count=0
+2026-05-03 20:34:26,542 - src.cleaning.validator - INFO - Validation completed successfully. Shape: (1, 8)
+2026-05-03 20:34:26,558 - src.cleaning.clean_pipeline - INFO - Cleaning pipeline started | rows=4 | columns=18
+2026-05-03 20:34:26,562 - src.cleaning.missing_handler - INFO - Generated missing-value report for 18 columns.
+2026-05-03 20:34:26,567 - src.cleaning.clean_pipeline - INFO - Missing-value report saved | path=data\processed\cleaned\missing_report.csv
+2026-05-03 20:34:26,569 - src.cleaning.missing_handler - INFO - Dropped 0 rows with missing critical identifiers: ['_id', 'title']
+2026-05-03 20:34:26,571 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating', 'content_length']
+2026-05-03 20:34:26,573 - src.cleaning.missing_handler - INFO - Dropped 1 columns above missing threshold 0.85: ['all_missing']
+2026-05-03 20:34:26,575 - src.cleaning.missing_handler - INFO - Filled missing text values in 7 columns.
+2026-05-03 20:34:26,576 - src.cleaning.missing_handler - INFO - Filled missing numeric values with medians in 3 columns.
+2026-05-03 20:34:26,576 - src.cleaning.missing_handler - INFO - Completed missing-value handling. Shape: (4, 17)
+2026-05-03 20:34:26,588 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'content_hash', 'record_date']
+2026-05-03 20:34:26,589 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:34:26,590 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:34:26,592 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:34:26,594 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:34:26,596 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:34:26,597 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:34:26,597 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (4, 20)
+2026-05-03 20:34:26,598 - src.cleaning.deduplicator - INFO - Removed 0 exact duplicate rows.
+2026-05-03 20:34:26,600 - src.cleaning.deduplicator - INFO - Counted 1 duplicate values in column _id
+2026-05-03 20:34:26,600 - src.cleaning.clean_pipeline - INFO - Duplicate _id count before ID deduplication: 1
+2026-05-03 20:34:26,602 - src.cleaning.deduplicator - INFO - Removed 1 duplicate rows using identifier column _id
+2026-05-03 20:34:26,603 - src.cleaning.deduplicator - INFO - Removed 0 duplicate rows using identifier column url
+2026-05-03 20:34:26,604 - src.cleaning.deduplicator - INFO - Removed 0 duplicate rows using identifier column content_hash
+2026-05-03 20:34:26,605 - src.cleaning.deduplicator - INFO - Removed 1 duplicate title/date rows using columns title and mention_date
+2026-05-03 20:34:26,606 - src.cleaning.type_converter - INFO - Converted datetime columns: ['publishedAt', 'date', 'mention_date', 'record_date']
+2026-05-03 20:34:26,607 - src.cleaning.type_converter - INFO - Converted numeric columns | ints=['query_params.year', 'mention_year'] | floats=['rating', 'content_length']
+2026-05-03 20:34:26,607 - src.cleaning.type_converter - INFO - Converted category columns: ['type']
+2026-05-03 20:34:26,607 - src.cleaning.type_converter - INFO - Completed type conversion. Shape: (2, 20)
+2026-05-03 20:34:26,610 - src.analytics.regex_ops - INFO - Invalid-date scan found 0 issues because publishedAt is already datetime.
+2026-05-03 20:34:26,610 - src.analytics.regex_ops - INFO - Invalid-language scan completed | column=language | invalid_count=0
+2026-05-03 20:34:26,610 - src.cleaning.validator - INFO - Validation completed successfully. Shape: (2, 20)
+2026-05-03 20:34:26,614 - src.cleaning.clean_pipeline - INFO - Cleaning pipeline finished | output=C:\Users\topic\AppData\Local\Temp\pytest-of-topic\pytest-0\test_run_cleaning_pipeline0\cleaned_data.csv | alternate_output=data\processed\cleaned\clean.csv | rows=2 | columns=20
+2026-05-03 20:34:30,374 - __main__ - INFO - Pipeline started for brand: Apple
+2026-05-03 20:34:30,374 - __main__ - INFO - --- Starting Data Ingestion and Parsing ---
+2026-05-03 20:34:30,374 - __main__ - INFO - Fetching data from NewsAPI...
+2026-05-03 20:34:31,547 - __main__ - INFO - API data fetched. Parsing JSON files...
+2026-05-03 20:34:31,681 - src.storage.mongo - INFO - MongoDB write complete. New documents: 20, Updated documents: 0.
+2026-05-03 20:34:31,708 - src.storage.mongo - INFO - MongoDB write complete. New documents: 19, Updated documents: 0.
+2026-05-03 20:34:31,729 - src.storage.mongo - INFO - MongoDB write complete. New documents: 19, Updated documents: 0.
+2026-05-03 20:34:31,730 - __main__ - INFO - Parsing CSV files...
+2026-05-03 20:34:32,392 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 5000.
+2026-05-03 20:34:32,425 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 192.
+2026-05-03 20:34:32,429 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 4.
+2026-05-03 20:34:32,429 - __main__ - INFO - Parsing XML files...
+2026-05-03 20:34:32,432 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 3.
+2026-05-03 20:34:32,432 - __main__ - INFO - Parsing PDF files...
+2026-05-03 20:34:32,478 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:32,480 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:32,717 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:32,717 - __main__ - INFO - Parsing DOCX files...
+2026-05-03 20:34:32,737 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:32,742 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:32,754 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:32,757 - __main__ - INFO - Parsing EXCEL files...
+2026-05-03 20:34:32,757 - __main__ - INFO - --- Starting Web Scraping ---
+2026-05-03 20:34:32,757 - src.scraping.scraper - INFO - Scraping page 1: https://books.toscrape.com/index.html
+2026-05-03 20:34:33,490 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/index.html...
+2026-05-03 20:34:36,068 - src.scraping.scraper - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-05-03 20:34:36,665 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-2.html...
+2026-05-03 20:34:39,241 - src.scraping.scraper - INFO - Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-05-03 20:34:39,842 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-3.html...
+2026-05-03 20:34:42,315 - __main__ - INFO - Successfully scraped 60 records from https://books.toscrape.com/.
+2026-05-03 20:34:42,317 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,318 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,319 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,320 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,321 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,322 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,324 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,336 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,339 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,342 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,343 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,345 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,346 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,346 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,347 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,349 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,350 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,352 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,353 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,355 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,356 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,359 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,360 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,361 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,362 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,364 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,366 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,367 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,369 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,370 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,372 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,374 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,375 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,376 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,377 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,378 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,380 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,382 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,385 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,386 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,389 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,390 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,391 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,392 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,393 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,396 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,397 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,398 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,402 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,403 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,405 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,406 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,408 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,411 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,412 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,414 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,415 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,416 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,417 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,418 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:42,419 - __main__ - INFO - --- Starting Dynamic Content Handling ---
+2026-05-03 20:34:42,419 - __main__ - INFO - Scraping AJAX endpoint for year 2015...
+2026-05-03 20:34:42,419 - src.scraping.dynamic_scraper - INFO - Requesting data from AJAX endpoint: https://www.scrapethissite.com/pages/ajax-javascript/ with params: {'ajax': 'true', 'year': 2015}
+2026-05-03 20:34:44,447 - __main__ - INFO - Successfully scraped 16 films from AJAX endpoint.
+2026-05-03 20:34:44,457 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,458 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,460 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,464 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,467 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,469 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,471 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,473 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,474 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,475 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,476 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,476 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,477 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,479 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,480 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,481 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:44,482 - __main__ - INFO - Scraping dynamic page with Selenium: https://www.scrapethissite.com/pages/javascript/
+2026-05-03 20:34:44,618 - src.scraping.dynamic_scraper - WARNING - Scraping not allowed for https://www.scrapethissite.com/pages/javascript/ by robots.txt.
+2026-05-03 20:34:44,619 - __main__ - WARNING - Selenium scraper did not return any content.
+2026-05-03 20:34:44,619 - __main__ - INFO - --- Starting OCR Processing ---
+2026-05-03 20:34:44,619 - __main__ - INFO - Performing OCR on images...
+2026-05-03 20:34:45,341 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:45,459 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:45,742 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:45,744 - __main__ - INFO - Performing OCR on scanned PDFs...
+2026-05-03 20:34:49,678 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-05-03 20:34:51,747 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:34:51,748 - __main__ - INFO - --- Starting Analytics and Reporting ---
+2026-05-03 20:34:51,748 - __main__ - INFO - Running NumPy foundations demo...
+2026-05-03 20:34:51,748 - src.analytics.numpy_ops - INFO - NumPy analytics demo started for Apple brand monitor assignment
+2026-05-03 20:34:51,749 - src.analytics.numpy_ops - INFO - Array created: 1. np.array() from daily Apple mention counts | shape=(5,) | dtype=int64 | ndim=1
+2026-05-03 20:34:51,750 - src.analytics.numpy_ops - INFO - Array created: 2. np.arange() for hourly monitoring windows | shape=(6,) | dtype=int64 | ndim=1
+2026-05-03 20:34:51,751 - src.analytics.numpy_ops - INFO - Array created: 3. np.linspace() for engagement score scale | shape=(5,) | dtype=float64 | ndim=1
+2026-05-03 20:34:51,753 - src.analytics.numpy_ops - INFO - Array created: 4. np.zeros() for unresolved complaint counts | shape=(2, 3) | dtype=int64 | ndim=2
+2026-05-03 20:34:51,755 - src.analytics.numpy_ops - INFO - Array created: 5. np.ones() for campaign baseline matrix | shape=(3, 2) | dtype=float64 | ndim=2
+2026-05-03 20:34:51,758 - src.analytics.numpy_ops - INFO - Vectorized operation: Original daily mentions | result=[120 135 128 142 150]
+2026-05-03 20:34:51,760 - src.analytics.numpy_ops - INFO - Vectorized operation: Original positive sentiment counts | result=[ 82  90  85  95 102]
+2026-05-03 20:34:51,765 - src.analytics.numpy_ops - INFO - Vectorized operation: Add 15 mentions to every day | result=[135 150 143 157 165]
+2026-05-03 20:34:51,766 - src.analytics.numpy_ops - INFO - Vectorized operation: Double sentiment counts | result=[164 180 170 190 204]
+2026-05-03 20:34:51,766 - src.analytics.numpy_ops - INFO - Vectorized operation: Add two arrays element-wise | result=[202 225 213 237 252]
+2026-05-03 20:34:51,767 - src.analytics.numpy_ops - INFO - Vectorized operation: Divide arrays element-wise | result=[0.68333333 0.66666667 0.6640625  0.66901408 0.68      ]
+2026-05-03 20:34:51,767 - src.analytics.numpy_ops - INFO - NumPy analytics demo finished successfully
+2026-05-03 20:34:51,768 - __main__ - INFO - Running analytics data loading, CSV export, chunk processing, and dtype optimization...
+2026-05-03 20:34:51,768 - src.analytics.data_loader - INFO - Analytics data-loader pipeline started
+2026-05-03 20:34:51,768 - src.analytics.data_loader - INFO - Loading raw data from MongoDB | database=social_media_brand_monitor | collection=brand_mentions
+2026-05-03 20:34:51,807 - src.analytics.data_loader - INFO - MongoDB load complete | documents_loaded=470
+2026-05-03 20:34:51,813 - src.analytics.data_loader - INFO - Data normalized into DataFrame | rows=470 | columns=37
+2026-05-03 20:34:51,829 - src.analytics.data_loader - INFO - Raw CSV export complete | path=data\raw\csv\raw_brand_mentions.csv | rows=470 | columns=37
+2026-05-03 20:34:51,852 - src.analytics.data_loader - INFO - CSV load complete | path=data\raw\csv\raw_brand_mentions.csv | rows=470 | columns=37
+2026-05-03 20:34:51,868 - src.analytics.data_loader - INFO - Large ratings CSV created | path=data\raw\csv\apple_ratings_large.csv | rows=5000 | columns=5
+2026-05-03 20:34:51,889 - src.analytics.data_loader - INFO - Dtype optimization complete | path=data\raw\csv\apple_ratings_large.csv | memory_before_mb=1.3448 | memory_after_mb=0.0408 | saved_mb=1.3040
+2026-05-03 20:34:51,890 - src.analytics.data_loader - INFO - Optimized dtypes | dtypes={'title': 'category', 'author': 'category', 'language': 'category', 'date': 'category', 'rating': 'float32'}
+2026-05-03 20:34:51,890 - src.analytics.data_loader - INFO - Chunked CSV mean calculation started | path=data\raw\csv\apple_ratings_large.csv | rating_column=rating | chunk_size=1000
+2026-05-03 20:34:51,895 - src.analytics.data_loader - INFO - Processed chunk 1 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:34:51,901 - src.analytics.data_loader - INFO - Processed chunk 2 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:34:51,906 - src.analytics.data_loader - INFO - Processed chunk 3 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:34:51,910 - src.analytics.data_loader - INFO - Processed chunk 4 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:34:51,915 - src.analytics.data_loader - INFO - Processed chunk 5 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:34:51,916 - src.analytics.data_loader - INFO - Chunked CSV mean calculation finished | chunks=5 | total_values=5000 | global_mean=3.0000
+2026-05-03 20:34:51,916 - src.analytics.data_loader - INFO - Per-language chunked mean calculation started | path=data\raw\csv\apple_ratings_large.csv | rating_column=rating | language_column=language | chunk_size=1000
+2026-05-03 20:34:51,926 - src.analytics.data_loader - INFO - Processed language chunk 1 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:34:51,933 - src.analytics.data_loader - INFO - Processed language chunk 2 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:34:51,939 - src.analytics.data_loader - INFO - Processed language chunk 3 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:34:51,944 - src.analytics.data_loader - INFO - Processed language chunk 4 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:34:51,950 - src.analytics.data_loader - INFO - Processed language chunk 5 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:34:51,951 - src.analytics.data_loader - INFO - Per-language accumulator combination finished | means={'de': 3.0, 'en': 3.0, 'es': 3.0, 'fr': 3.0}
+2026-05-03 20:34:51,951 - src.analytics.data_loader - INFO - Analytics data-loader pipeline finished | export_path=data\raw\csv\raw_brand_mentions.csv | csv_rows=470 | global_mean=3.0000 | language_means={'de': 3.0, 'en': 3.0, 'es': 3.0, 'fr': 3.0}
+2026-05-03 20:34:51,952 - __main__ - INFO - Running EDA explorer module...
+2026-05-03 20:34:51,952 - src.analytics.explorer - INFO - Apple brand EDA pipeline started
+2026-05-03 20:34:51,952 - src.analytics.explorer - INFO - Apple brand EDA load started | database=social_media_brand_monitor | collection=brand_mentions
+2026-05-03 20:34:51,996 - src.analytics.explorer - INFO - Apple brand EDA Mongo load complete | rows=470
+2026-05-03 20:34:52,006 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=470 | rows_after=223
+2026-05-03 20:34:52,017 - src.analytics.explorer - INFO - Apple dataset cleaned | rows=223 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length']
+2026-05-03 20:34:52,055 - src.analytics.explorer - INFO - Apple EDA text report saved | path=data\processed\apple_brand_eda\apple_brand_eda_report.txt
+2026-05-03 20:34:53,040 - src.analytics.explorer - INFO - Saved chart | path=data\processed\apple_brand_eda\charts\apple_mentions_by_source.png
+2026-05-03 20:34:53,215 - src.analytics.explorer - INFO - Saved chart | path=data\processed\apple_brand_eda\charts\apple_mentions_by_document_type.png
+2026-05-03 20:34:53,430 - src.analytics.explorer - INFO - Saved chart | path=data\processed\apple_brand_eda\charts\apple_mentions_over_time.png
+2026-05-03 20:34:53,683 - src.analytics.explorer - INFO - Saved chart | path=data\processed\apple_brand_eda\charts\top_authors_covering_apple.png
+2026-05-03 20:34:53,684 - src.analytics.explorer - INFO - Apple brand EDA pipeline finished | report=data\processed\apple_brand_eda\apple_brand_eda_report.txt | charts=['data\\processed\\apple_brand_eda\\charts\\apple_mentions_by_source.png', 'data\\processed\\apple_brand_eda\\charts\\apple_mentions_by_document_type.png', 'data\\processed\\apple_brand_eda\\charts\\apple_mentions_over_time.png', 'data\\processed\\apple_brand_eda\\charts\\top_authors_covering_apple.png']
+2026-05-03 20:34:53,685 - __main__ - INFO - Running quality report module...
+2026-05-03 20:34:53,686 - src.analytics.quality_report - INFO - Apple quality report pipeline started
+2026-05-03 20:34:53,686 - src.analytics.explorer - INFO - Apple brand EDA load started | database=social_media_brand_monitor | collection=brand_mentions
+2026-05-03 20:34:53,701 - src.analytics.explorer - INFO - Apple brand EDA Mongo load complete | rows=470
+2026-05-03 20:34:53,716 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=470 | rows_after=223
+2026-05-03 20:34:53,730 - src.analytics.explorer - INFO - Apple dataset cleaned | rows=223 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length']
+2026-05-03 20:34:53,732 - src.analytics.quality_report - INFO - Quality dataset prepared | rows=223 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length', 'overview', 'genres']
+2026-05-03 20:34:53,736 - src.analytics.quality_report - INFO - Missing value report built | rows=15
+2026-05-03 20:34:53,740 - src.analytics.quality_report - INFO - Missing value report built | rows=15
+2026-05-03 20:34:53,744 - src.analytics.quality_report - INFO - Zero-as-missing scan completed | issues=1
+2026-05-03 20:34:53,747 - src.analytics.quality_report - INFO - IQR outlier scan completed | issues=0
+2026-05-03 20:34:53,748 - src.analytics.quality_report - INFO - Duplicate identifier scan completed | issues=2
+2026-05-03 20:34:53,749 - src.analytics.quality_report - INFO - Invalid title scan completed | issues=0
+2026-05-03 20:34:53,752 - src.analytics.quality_report - INFO - Format inconsistency scan completed | issues=0
+2026-05-03 20:34:53,752 - src.analytics.quality_report - INFO - Full quality audit completed | issues=12
+2026-05-03 20:34:53,754 - src.analytics.quality_report - INFO - Quality report CSV saved | path=data\processed\apple_brand_eda\apple_quality_report.csv
+2026-05-03 20:34:53,757 - src.analytics.quality_report - INFO - Quality issues CSV saved | path=data\processed\apple_brand_eda\apple_quality_issues.csv
+2026-05-03 20:34:54,080 - src.analytics.quality_report - INFO - Missing value heatmap saved | path=data\processed\apple_brand_eda\charts\apple_missing_values_heatmap.png
+2026-05-03 20:34:54,083 - src.analytics.selector - INFO - Selector boolean filter built | column=content_length | minimum_value=0 | matched_rows=162
+2026-05-03 20:34:54,090 - src.analytics.selector - INFO - Selector isin filter built | column=document_type | values=['json', 'csv'] | exclude=False | matched_rows=219
+2026-05-03 20:34:54,093 - src.analytics.selector - INFO - Selector loc column slice built | columns=['title', 'author', 'source'] | rows=223
+2026-05-03 20:34:54,094 - src.analytics.selector - INFO - Selector iloc sample built | row_count=3 | column_count=4 | result_rows=3
+2026-05-03 20:34:54,094 - src.analytics.selector - INFO - Selector examples built | examples=['loc_example', 'iloc_example', 'boolean_example', 'isin_example', 'between_example']
+2026-05-03 20:34:54,100 - src.analytics.selector - INFO - Selector examples report saved | path=data\processed\apple_brand_eda\apple_selection_examples.txt
+2026-05-03 20:34:54,101 - src.analytics.quality_report - INFO - Apple quality report pipeline finished | report=data\processed\apple_brand_eda\apple_quality_report.csv | issues=data\processed\apple_brand_eda\apple_quality_issues.csv | heatmap=data\processed\apple_brand_eda\charts\apple_missing_values_heatmap.png | selections=data\processed\apple_brand_eda\apple_selection_examples.txt
+2026-05-03 20:34:54,101 - __main__ - INFO - Running regex analytics module...
+2026-05-03 20:34:54,101 - src.analytics.regex_ops - INFO - Apple regex pipeline started
+2026-05-03 20:34:54,101 - src.analytics.explorer - INFO - Apple brand EDA load started | database=social_media_brand_monitor | collection=brand_mentions
+2026-05-03 20:34:54,133 - src.analytics.explorer - INFO - Apple brand EDA Mongo load complete | rows=470
+2026-05-03 20:34:54,142 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=470 | rows_after=223
+2026-05-03 20:34:54,148 - src.analytics.explorer - INFO - Apple dataset cleaned | rows=223 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length']
+2026-05-03 20:34:54,150 - src.analytics.quality_report - INFO - Quality dataset prepared | rows=223 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length', 'overview', 'genres']
+2026-05-03 20:34:54,155 - src.analytics.regex_ops - INFO - Regex operations completed | rows=223 | columns_added=['title_prefix_match', 'title_extracted_product', 'title_extracted_year', 'overview_extracted_number', 'overview_crime_term_count', 'overview_is_unusually_short', 'genres_standardized', 'genres_has_structured_doc', 'valid_local_id_format']
+2026-05-03 20:34:54,161 - src.analytics.regex_ops - INFO - Regex results CSV saved | path=data\processed\apple_brand_eda\apple_regex_results.csv
+2026-05-03 20:34:54,162 - src.analytics.regex_ops - INFO - Apple regex pipeline finished | output=data\processed\apple_brand_eda\apple_regex_results.csv
+2026-05-03 20:34:54,162 - __main__ - INFO - Running cleaning pipeline...
+2026-05-03 20:34:54,171 - src.cleaning.clean_pipeline - INFO - Cleaning pipeline started | rows=470 | columns=37
+2026-05-03 20:34:54,176 - src.cleaning.missing_handler - INFO - Generated missing-value report for 37 columns.
+2026-05-03 20:34:54,180 - src.cleaning.clean_pipeline - INFO - Missing-value report saved | path=data\processed\cleaned\missing_report.csv
+2026-05-03 20:34:54,182 - src.cleaning.missing_handler - INFO - Dropped 38 rows with missing critical identifiers: ['_id', 'title']
+2026-05-03 20:34:54,183 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating', 'price']
+2026-05-03 20:34:54,184 - src.cleaning.missing_handler - INFO - Dropped 19 columns above missing threshold 0.85: ['Author', 'CreationDate', 'Creator', 'Keywords', 'ModDate', 'Producer', 'Subject', 'Title', 'Trapped', 'page', 'file_name', 'text', 'page_number', 'awards', 'best_picture', 'nominations', 'year', 'query_params.ajax', 'query_params.year']
+2026-05-03 20:34:54,186 - src.cleaning.missing_handler - INFO - Filled missing text values in 7 columns.
+2026-05-03 20:34:54,187 - src.cleaning.missing_handler - WARNING - Skipping median fill for price because its median is NaN.
+2026-05-03 20:34:54,187 - src.cleaning.missing_handler - INFO - Filled missing numeric values with medians in 2 columns.
+2026-05-03 20:34:54,188 - src.cleaning.missing_handler - INFO - Completed missing-value handling. Shape: (432, 18)
+2026-05-03 20:34:54,221 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'source', 'author', 'content', 'description', 'document_type', 'extraction_timestamp', 'publishedAt', 'title', 'url', 'urlToImage', 'date', 'type', 'price', 'language', 'content_hash', 'record_date']
+2026-05-03 20:34:54,224 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:34:54,227 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:34:54,236 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:34:54,239 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:34:54,245 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:34:54,247 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:34:54,247 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (432, 21)
+2026-05-03 20:34:54,251 - src.cleaning.deduplicator - INFO - Removed 0 exact duplicate rows.
+2026-05-03 20:34:54,251 - src.cleaning.deduplicator - INFO - Counted 174 duplicate values in column _id
+2026-05-03 20:34:54,252 - src.cleaning.clean_pipeline - INFO - Duplicate _id count before ID deduplication: 174
+2026-05-03 20:34:54,254 - src.cleaning.deduplicator - INFO - Removed 174 duplicate rows using identifier column _id
+2026-05-03 20:34:54,257 - src.cleaning.deduplicator - INFO - Removed 19 duplicate rows using identifier column url
+2026-05-03 20:34:54,262 - src.cleaning.deduplicator - INFO - Removed 0 duplicate rows using identifier column content_hash
+2026-05-03 20:34:54,264 - src.cleaning.deduplicator - INFO - Removed 8 duplicate title/date rows using columns title and mention_date
+2026-05-03 20:34:54,268 - src.cleaning.type_converter - INFO - Converted datetime columns: ['publishedAt', 'date', 'mention_date', 'record_date', 'extraction_timestamp']
+2026-05-03 20:34:54,270 - src.cleaning.type_converter - INFO - Converted numeric columns | ints=['mention_year'] | floats=['price', 'rating']
+2026-05-03 20:34:54,271 - src.cleaning.type_converter - INFO - Converted category columns: ['source', 'document_type', 'type', 'language']
+2026-05-03 20:34:54,273 - src.cleaning.type_converter - INFO - Completed type conversion. Shape: (231, 21)
+2026-05-03 20:34:54,276 - src.analytics.regex_ops - INFO - Invalid-date scan found 0 issues because publishedAt is already datetime.
+2026-05-03 20:34:54,277 - src.analytics.regex_ops - INFO - Invalid-language scan completed | column=language | invalid_count=0
+2026-05-03 20:34:54,278 - src.cleaning.validator - INFO - Validation completed successfully. Shape: (231, 21)
+2026-05-03 20:34:54,292 - src.cleaning.clean_pipeline - INFO - Cleaning pipeline finished | output=data\processed\cleaned\cleaned_data.csv | alternate_output=data\processed\cleaned\clean.csv | rows=231 | columns=21
+2026-05-03 20:34:54,292 - __main__ - INFO - Cleaning stage complete | input_path=C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\csv\raw_brand_mentions.csv | cleaned_rows=231 | cleaned_columns=21
+2026-05-03 20:34:54,293 - __main__ - INFO - --- Pipeline finished successfully. ---
+2026-05-03 20:38:06,843 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating', 'content_length']
+2026-05-03 20:38:06,849 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating']
+2026-05-03 20:38:06,852 - src.cleaning.missing_handler - INFO - Filled missing numeric values with medians in 1 columns.
+2026-05-03 20:38:06,857 - src.cleaning.missing_handler - INFO - Dropped 2 columns above missing threshold 0.70: ['date', 'all_missing']
+2026-05-03 20:38:06,863 - src.cleaning.missing_handler - INFO - Dropped 0 rows with missing critical identifiers: ['_id', 'title']
+2026-05-03 20:38:06,864 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating']
+2026-05-03 20:38:06,865 - src.cleaning.missing_handler - INFO - Dropped 2 columns above missing threshold 0.60: ['date', 'all_missing']
+2026-05-03 20:38:06,866 - src.cleaning.missing_handler - INFO - Filled missing text values in 2 columns.
+2026-05-03 20:38:06,866 - src.cleaning.missing_handler - INFO - Filled missing numeric values with medians in 1 columns.
+2026-05-03 20:38:06,867 - src.cleaning.missing_handler - INFO - Completed missing-value handling. Shape: (4, 16)
+2026-05-03 20:38:06,896 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'rating', 'content_length', 'content_hash', 'record_date', 'query_params.year']
+2026-05-03 20:38:06,898 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:38:06,900 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:38:06,903 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:38:06,907 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:38:06,914 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:38:06,915 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:38:06,915 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (4, 21)
+2026-05-03 20:38:06,920 - src.analytics.regex_ops - INFO - Invalid-date scan completed | column=publishedAt | invalid_count=1
+2026-05-03 20:38:06,921 - src.analytics.regex_ops - INFO - Invalid-language scan completed | column=language | invalid_count=1
+2026-05-03 20:38:06,922 - src.analytics.regex_ops - INFO - Numeric extraction completed | source_column=content | output_column=content_numeric_value
+2026-05-03 20:38:06,941 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'rating', 'content_length', 'content_hash', 'record_date', 'query_params.year']
+2026-05-03 20:38:06,943 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:38:06,944 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:38:06,948 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:38:06,950 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:38:06,953 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:38:06,954 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:38:06,954 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (4, 21)
+2026-05-03 20:38:06,955 - src.analytics.regex_ops - INFO - Short-overview scan completed | column=overview | min_length=10 | flagged=1
+2026-05-03 20:38:06,960 - src.cleaning.deduplicator - INFO - Counted 1 duplicate values in column _id
+2026-05-03 20:38:06,964 - src.cleaning.deduplicator - INFO - Removed 1 duplicate rows using identifier column _id
+2026-05-03 20:38:06,989 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'rating', 'content_length', 'content_hash', 'record_date', 'query_params.year']
+2026-05-03 20:38:06,991 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:38:06,993 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:38:06,997 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:38:07,001 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:38:07,005 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:38:07,006 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:38:07,006 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (3, 21)
+2026-05-03 20:38:07,009 - src.cleaning.deduplicator - INFO - Removed 1 duplicate title/date rows using columns title and mention_date
+2026-05-03 20:38:07,015 - src.cleaning.deduplicator - INFO - Removed 1 exact duplicate rows.
+2026-05-03 20:38:07,041 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'rating', 'content_length', 'content_hash', 'record_date', 'query_params.year']
+2026-05-03 20:38:07,042 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:38:07,046 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:38:07,050 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:38:07,052 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:38:07,055 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:38:07,055 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:38:07,056 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (4, 21)
+2026-05-03 20:38:07,058 - src.cleaning.type_converter - INFO - Converted datetime columns: ['publishedAt', 'date', 'mention_date', 'record_date']
+2026-05-03 20:38:07,059 - src.cleaning.type_converter - INFO - Converted numeric columns | ints=['query_params.year', 'mention_year'] | floats=['rating', 'content_length']
+2026-05-03 20:38:07,060 - src.cleaning.type_converter - INFO - Converted category columns: ['source', 'document_type', 'type', 'language']
+2026-05-03 20:38:07,060 - src.cleaning.type_converter - INFO - Completed type conversion. Shape: (4, 21)
+2026-05-03 20:38:07,064 - src.cleaning.type_converter - INFO - Memory report created | before_bytes=5478 | after_bytes=3092 | saved_bytes=2386
+2026-05-03 20:38:07,070 - src.analytics.regex_ops - INFO - Invalid-date scan found 0 issues because publishedAt is already datetime.
+2026-05-03 20:38:07,071 - src.analytics.regex_ops - INFO - Invalid-language scan completed | column=language | invalid_count=0
+2026-05-03 20:38:07,071 - src.cleaning.validator - INFO - Validation completed successfully. Shape: (1, 8)
+2026-05-03 20:38:07,097 - src.cleaning.clean_pipeline - INFO - Cleaning pipeline started | rows=4 | columns=18
+2026-05-03 20:38:07,100 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=4 | rows_after=3
+2026-05-03 20:38:07,100 - src.cleaning.clean_pipeline - INFO - Restricted cleaning dataset to Apple/iPhone project scope | rows=3 | columns=18
+2026-05-03 20:38:07,102 - src.cleaning.missing_handler - INFO - Generated missing-value report for 18 columns.
+2026-05-03 20:38:07,108 - src.cleaning.clean_pipeline - INFO - Missing-value report saved | path=data\processed\cleaned\missing_report.csv
+2026-05-03 20:38:07,109 - src.cleaning.missing_handler - INFO - Dropped 0 rows with missing critical identifiers: ['_id', 'title']
+2026-05-03 20:38:07,112 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating', 'content_length']
+2026-05-03 20:38:07,113 - src.cleaning.missing_handler - INFO - Dropped 1 columns above missing threshold 0.85: ['all_missing']
+2026-05-03 20:38:07,114 - src.cleaning.missing_handler - INFO - Filled missing text values in 7 columns.
+2026-05-03 20:38:07,116 - src.cleaning.missing_handler - INFO - Filled missing numeric values with medians in 3 columns.
+2026-05-03 20:38:07,116 - src.cleaning.missing_handler - INFO - Completed missing-value handling. Shape: (3, 17)
+2026-05-03 20:38:07,132 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'language', 'content_hash', 'record_date']
+2026-05-03 20:38:07,133 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:38:07,135 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:38:07,138 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:38:07,140 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:38:07,142 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:38:07,143 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:38:07,143 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (3, 20)
+2026-05-03 20:38:07,144 - src.cleaning.deduplicator - INFO - Removed 0 exact duplicate rows.
+2026-05-03 20:38:07,145 - src.cleaning.deduplicator - INFO - Counted 1 duplicate values in column _id
+2026-05-03 20:38:07,145 - src.cleaning.clean_pipeline - INFO - Duplicate _id count before ID deduplication: 1
+2026-05-03 20:38:07,147 - src.cleaning.deduplicator - INFO - Removed 1 duplicate rows using identifier column _id
+2026-05-03 20:38:07,148 - src.cleaning.deduplicator - INFO - Removed 0 duplicate rows using identifier column url
+2026-05-03 20:38:07,150 - src.cleaning.deduplicator - INFO - Removed 0 duplicate rows using identifier column content_hash
+2026-05-03 20:38:07,151 - src.cleaning.deduplicator - INFO - Removed 1 duplicate title/date rows using columns title and mention_date
+2026-05-03 20:38:07,152 - src.cleaning.type_converter - INFO - Converted datetime columns: ['publishedAt', 'date', 'mention_date', 'record_date']
+2026-05-03 20:38:07,153 - src.cleaning.type_converter - INFO - Converted numeric columns | ints=['query_params.year', 'mention_year'] | floats=['rating', 'content_length']
+2026-05-03 20:38:07,154 - src.cleaning.type_converter - INFO - Converted category columns: []
+2026-05-03 20:38:07,154 - src.cleaning.type_converter - INFO - Completed type conversion. Shape: (1, 20)
+2026-05-03 20:38:07,156 - src.analytics.regex_ops - INFO - Invalid-date scan found 0 issues because publishedAt is already datetime.
+2026-05-03 20:38:07,156 - src.analytics.regex_ops - INFO - Invalid-language scan completed | column=language | invalid_count=0
+2026-05-03 20:38:07,156 - src.cleaning.validator - INFO - Validation completed successfully. Shape: (1, 20)
+2026-05-03 20:38:07,160 - src.cleaning.clean_pipeline - INFO - Cleaning pipeline finished | output=C:\Users\topic\AppData\Local\Temp\pytest-of-topic\pytest-1\test_run_cleaning_pipeline0\cleaned_data.csv | alternate_output=data\processed\cleaned\clean.csv | rows=1 | columns=20
+2026-05-03 20:38:10,046 - __main__ - INFO - Pipeline started for brand: Apple
+2026-05-03 20:38:10,047 - __main__ - INFO - --- Starting Data Ingestion and Parsing ---
+2026-05-03 20:38:10,047 - __main__ - INFO - Fetching data from NewsAPI...
+2026-05-03 20:38:11,023 - __main__ - INFO - API data fetched. Parsing JSON files...
+2026-05-03 20:38:11,059 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 20.
+2026-05-03 20:38:11,082 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 19.
+2026-05-03 20:38:11,111 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 19.
+2026-05-03 20:38:11,112 - __main__ - INFO - Parsing CSV files...
+2026-05-03 20:38:11,775 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 5000.
+2026-05-03 20:38:11,817 - src.storage.mongo - INFO - MongoDB write complete. New documents: 88, Updated documents: 192.
+2026-05-03 20:38:11,820 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 4.
+2026-05-03 20:38:11,820 - __main__ - INFO - Parsing XML files...
+2026-05-03 20:38:11,822 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 3.
+2026-05-03 20:38:11,822 - __main__ - INFO - Parsing PDF files...
+2026-05-03 20:38:11,863 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:11,865 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:12,100 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:12,101 - __main__ - INFO - Parsing DOCX files...
+2026-05-03 20:38:12,120 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:12,125 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:12,136 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:12,137 - __main__ - INFO - Parsing EXCEL files...
+2026-05-03 20:38:12,137 - __main__ - INFO - --- Starting Web Scraping ---
+2026-05-03 20:38:12,138 - src.scraping.scraper - INFO - Scraping page 1: https://books.toscrape.com/index.html
+2026-05-03 20:38:12,728 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/index.html...
+2026-05-03 20:38:15,158 - src.scraping.scraper - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-05-03 20:38:15,799 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-2.html...
+2026-05-03 20:38:18,378 - src.scraping.scraper - INFO - Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-05-03 20:38:18,974 - src.scraping.scraper - INFO - Scraping https://books.toscrape.com/catalogue/page-3.html...
+2026-05-03 20:38:21,502 - __main__ - INFO - Successfully scraped 60 records from https://books.toscrape.com/.
+2026-05-03 20:38:21,504 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,506 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,508 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,510 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,513 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,514 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,515 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,516 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,518 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,519 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,519 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,520 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,521 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,522 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,524 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,527 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,533 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,534 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,537 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,540 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,541 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,543 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,544 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,546 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,547 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,548 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,551 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,553 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,555 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,557 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,558 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,559 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,560 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,562 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,563 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,563 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,564 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,567 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,569 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,571 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,573 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,574 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,576 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,577 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,578 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,580 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,583 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,584 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,586 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,587 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,588 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,589 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,590 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,591 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,592 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,593 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,593 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,594 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,595 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,596 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:21,596 - __main__ - INFO - --- Starting Dynamic Content Handling ---
+2026-05-03 20:38:21,596 - __main__ - INFO - Scraping AJAX endpoint for year 2015...
+2026-05-03 20:38:21,596 - src.scraping.dynamic_scraper - INFO - Requesting data from AJAX endpoint: https://www.scrapethissite.com/pages/ajax-javascript/ with params: {'ajax': 'true', 'year': 2015}
+2026-05-03 20:38:23,583 - __main__ - INFO - Successfully scraped 16 films from AJAX endpoint.
+2026-05-03 20:38:23,584 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,585 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,586 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,587 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,588 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,589 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,590 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,592 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,593 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,594 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,595 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,596 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,599 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,603 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,605 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,606 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,606 - __main__ - INFO - Scraping dynamic page with Selenium: https://www.scrapethissite.com/pages/javascript/
+2026-05-03 20:38:23,726 - src.scraping.dynamic_scraper - WARNING - Scraping not allowed for https://www.scrapethissite.com/pages/javascript/ by robots.txt.
+2026-05-03 20:38:23,726 - __main__ - WARNING - Selenium scraper did not return any content.
+2026-05-03 20:38:23,726 - __main__ - INFO - --- Starting OCR Processing ---
+2026-05-03 20:38:23,726 - __main__ - INFO - Performing OCR on images...
+2026-05-03 20:38:23,854 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:23,961 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:24,246 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:24,247 - __main__ - INFO - Performing OCR on scanned PDFs...
+2026-05-03 20:38:28,102 - src.ocr.ocr_utils - INFO - Treating C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\scanned\pdf_scan.pdf as a scanned PDF and applying OCR.
+2026-05-03 20:38:30,111 - src.storage.mongo - INFO - MongoDB write complete. New documents: 0, Updated documents: 1.
+2026-05-03 20:38:30,112 - __main__ - INFO - --- Starting Analytics and Reporting ---
+2026-05-03 20:38:30,112 - __main__ - INFO - Running NumPy foundations demo...
+2026-05-03 20:38:30,112 - src.analytics.numpy_ops - INFO - NumPy analytics demo started for Apple brand monitor assignment
+2026-05-03 20:38:30,113 - src.analytics.numpy_ops - INFO - Array created: 1. np.array() from daily Apple mention counts | shape=(5,) | dtype=int64 | ndim=1
+2026-05-03 20:38:30,113 - src.analytics.numpy_ops - INFO - Array created: 2. np.arange() for hourly monitoring windows | shape=(6,) | dtype=int64 | ndim=1
+2026-05-03 20:38:30,114 - src.analytics.numpy_ops - INFO - Array created: 3. np.linspace() for engagement score scale | shape=(5,) | dtype=float64 | ndim=1
+2026-05-03 20:38:30,115 - src.analytics.numpy_ops - INFO - Array created: 4. np.zeros() for unresolved complaint counts | shape=(2, 3) | dtype=int64 | ndim=2
+2026-05-03 20:38:30,116 - src.analytics.numpy_ops - INFO - Array created: 5. np.ones() for campaign baseline matrix | shape=(3, 2) | dtype=float64 | ndim=2
+2026-05-03 20:38:30,116 - src.analytics.numpy_ops - INFO - Vectorized operation: Original daily mentions | result=[120 135 128 142 150]
+2026-05-03 20:38:30,117 - src.analytics.numpy_ops - INFO - Vectorized operation: Original positive sentiment counts | result=[ 82  90  85  95 102]
+2026-05-03 20:38:30,117 - src.analytics.numpy_ops - INFO - Vectorized operation: Add 15 mentions to every day | result=[135 150 143 157 165]
+2026-05-03 20:38:30,117 - src.analytics.numpy_ops - INFO - Vectorized operation: Double sentiment counts | result=[164 180 170 190 204]
+2026-05-03 20:38:30,119 - src.analytics.numpy_ops - INFO - Vectorized operation: Add two arrays element-wise | result=[202 225 213 237 252]
+2026-05-03 20:38:30,119 - src.analytics.numpy_ops - INFO - Vectorized operation: Divide arrays element-wise | result=[0.68333333 0.66666667 0.6640625  0.66901408 0.68      ]
+2026-05-03 20:38:30,120 - src.analytics.numpy_ops - INFO - NumPy analytics demo finished successfully
+2026-05-03 20:38:30,120 - __main__ - INFO - Running analytics data loading, CSV export, chunk processing, and dtype optimization...
+2026-05-03 20:38:30,120 - src.analytics.data_loader - INFO - Analytics data-loader pipeline started
+2026-05-03 20:38:30,120 - src.analytics.data_loader - INFO - Loading raw data from MongoDB | database=social_media_brand_monitor | collection=brand_mentions
+2026-05-03 20:38:30,147 - src.analytics.data_loader - INFO - MongoDB load complete | documents_loaded=558
+2026-05-03 20:38:30,153 - src.analytics.data_loader - INFO - Data normalized into DataFrame | rows=558 | columns=37
+2026-05-03 20:38:30,167 - src.analytics.data_loader - INFO - Raw CSV export complete | path=data\raw\csv\raw_brand_mentions.csv | rows=558 | columns=37
+2026-05-03 20:38:30,189 - src.analytics.data_loader - INFO - CSV load complete | path=data\raw\csv\raw_brand_mentions.csv | rows=558 | columns=37
+2026-05-03 20:38:30,205 - src.analytics.data_loader - INFO - Large ratings CSV created | path=data\raw\csv\apple_ratings_large.csv | rows=5000 | columns=5
+2026-05-03 20:38:30,226 - src.analytics.data_loader - INFO - Dtype optimization complete | path=data\raw\csv\apple_ratings_large.csv | memory_before_mb=1.3448 | memory_after_mb=0.0408 | saved_mb=1.3040
+2026-05-03 20:38:30,227 - src.analytics.data_loader - INFO - Optimized dtypes | dtypes={'title': 'category', 'author': 'category', 'language': 'category', 'date': 'category', 'rating': 'float32'}
+2026-05-03 20:38:30,227 - src.analytics.data_loader - INFO - Chunked CSV mean calculation started | path=data\raw\csv\apple_ratings_large.csv | rating_column=rating | chunk_size=1000
+2026-05-03 20:38:30,232 - src.analytics.data_loader - INFO - Processed chunk 1 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:38:30,237 - src.analytics.data_loader - INFO - Processed chunk 2 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:38:30,241 - src.analytics.data_loader - INFO - Processed chunk 3 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:38:30,246 - src.analytics.data_loader - INFO - Processed chunk 4 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:38:30,250 - src.analytics.data_loader - INFO - Processed chunk 5 | valid_ratings=1000 | chunk_sum=3000.0000
+2026-05-03 20:38:30,250 - src.analytics.data_loader - INFO - Chunked CSV mean calculation finished | chunks=5 | total_values=5000 | global_mean=3.0000
+2026-05-03 20:38:30,250 - src.analytics.data_loader - INFO - Per-language chunked mean calculation started | path=data\raw\csv\apple_ratings_large.csv | rating_column=rating | language_column=language | chunk_size=1000
+2026-05-03 20:38:30,256 - src.analytics.data_loader - INFO - Processed language chunk 1 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:38:30,263 - src.analytics.data_loader - INFO - Processed language chunk 2 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:38:30,268 - src.analytics.data_loader - INFO - Processed language chunk 3 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:38:30,273 - src.analytics.data_loader - INFO - Processed language chunk 4 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:38:30,280 - src.analytics.data_loader - INFO - Processed language chunk 5 | languages=['de', 'en', 'es', 'fr']
+2026-05-03 20:38:30,281 - src.analytics.data_loader - INFO - Per-language accumulator combination finished | means={'de': 3.0, 'en': 3.0, 'es': 3.0, 'fr': 3.0}
+2026-05-03 20:38:30,281 - src.analytics.data_loader - INFO - Analytics data-loader pipeline finished | export_path=data\raw\csv\raw_brand_mentions.csv | csv_rows=558 | global_mean=3.0000 | language_means={'de': 3.0, 'en': 3.0, 'es': 3.0, 'fr': 3.0}
+2026-05-03 20:38:30,281 - __main__ - INFO - Running EDA explorer module...
+2026-05-03 20:38:30,282 - src.analytics.explorer - INFO - Apple brand EDA pipeline started
+2026-05-03 20:38:30,282 - src.analytics.explorer - INFO - Apple brand EDA load started | database=social_media_brand_monitor | collection=brand_mentions
+2026-05-03 20:38:30,315 - src.analytics.explorer - INFO - Apple brand EDA Mongo load complete | rows=558
+2026-05-03 20:38:30,327 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=558 | rows_after=254
+2026-05-03 20:38:30,333 - src.analytics.explorer - INFO - Apple dataset cleaned | rows=254 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length']
+2026-05-03 20:38:30,362 - src.analytics.explorer - INFO - Apple EDA text report saved | path=data\processed\apple_brand_eda\apple_brand_eda_report.txt
+2026-05-03 20:38:30,773 - src.analytics.explorer - INFO - Saved chart | path=data\processed\apple_brand_eda\charts\apple_mentions_by_source.png
+2026-05-03 20:38:30,944 - src.analytics.explorer - INFO - Saved chart | path=data\processed\apple_brand_eda\charts\apple_mentions_by_document_type.png
+2026-05-03 20:38:31,106 - src.analytics.explorer - INFO - Saved chart | path=data\processed\apple_brand_eda\charts\apple_mentions_over_time.png
+2026-05-03 20:38:31,289 - src.analytics.explorer - INFO - Saved chart | path=data\processed\apple_brand_eda\charts\top_authors_covering_apple.png
+2026-05-03 20:38:31,289 - src.analytics.explorer - INFO - Apple brand EDA pipeline finished | report=data\processed\apple_brand_eda\apple_brand_eda_report.txt | charts=['data\\processed\\apple_brand_eda\\charts\\apple_mentions_by_source.png', 'data\\processed\\apple_brand_eda\\charts\\apple_mentions_by_document_type.png', 'data\\processed\\apple_brand_eda\\charts\\apple_mentions_over_time.png', 'data\\processed\\apple_brand_eda\\charts\\top_authors_covering_apple.png']
+2026-05-03 20:38:31,290 - __main__ - INFO - Running quality report module...
+2026-05-03 20:38:31,290 - src.analytics.quality_report - INFO - Apple quality report pipeline started
+2026-05-03 20:38:31,291 - src.analytics.explorer - INFO - Apple brand EDA load started | database=social_media_brand_monitor | collection=brand_mentions
+2026-05-03 20:38:31,300 - src.analytics.explorer - INFO - Apple brand EDA Mongo load complete | rows=558
+2026-05-03 20:38:31,313 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=558 | rows_after=254
+2026-05-03 20:38:31,317 - src.analytics.explorer - INFO - Apple dataset cleaned | rows=254 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length']
+2026-05-03 20:38:31,319 - src.analytics.quality_report - INFO - Quality dataset prepared | rows=254 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length', 'overview', 'genres']
+2026-05-03 20:38:31,324 - src.analytics.quality_report - INFO - Missing value report built | rows=15
+2026-05-03 20:38:31,329 - src.analytics.quality_report - INFO - Missing value report built | rows=15
+2026-05-03 20:38:31,332 - src.analytics.quality_report - INFO - Zero-as-missing scan completed | issues=1
+2026-05-03 20:38:31,333 - src.analytics.quality_report - INFO - IQR outlier scan completed | issues=0
+2026-05-03 20:38:31,335 - src.analytics.quality_report - INFO - Duplicate identifier scan completed | issues=2
+2026-05-03 20:38:31,336 - src.analytics.quality_report - INFO - Invalid title scan completed | issues=0
+2026-05-03 20:38:31,338 - src.analytics.quality_report - INFO - Format inconsistency scan completed | issues=0
+2026-05-03 20:38:31,339 - src.analytics.quality_report - INFO - Full quality audit completed | issues=12
+2026-05-03 20:38:31,342 - src.analytics.quality_report - INFO - Quality report CSV saved | path=data\processed\apple_brand_eda\apple_quality_report.csv
+2026-05-03 20:38:31,345 - src.analytics.quality_report - INFO - Quality issues CSV saved | path=data\processed\apple_brand_eda\apple_quality_issues.csv
+2026-05-03 20:38:31,645 - src.analytics.quality_report - INFO - Missing value heatmap saved | path=data\processed\apple_brand_eda\charts\apple_missing_values_heatmap.png
+2026-05-03 20:38:31,648 - src.analytics.selector - INFO - Selector boolean filter built | column=content_length | minimum_value=0 | matched_rows=193
+2026-05-03 20:38:31,650 - src.analytics.selector - INFO - Selector isin filter built | column=document_type | values=['json', 'csv'] | exclude=False | matched_rows=250
+2026-05-03 20:38:31,652 - src.analytics.selector - INFO - Selector loc column slice built | columns=['title', 'author', 'source'] | rows=254
+2026-05-03 20:38:31,654 - src.analytics.selector - INFO - Selector iloc sample built | row_count=3 | column_count=4 | result_rows=3
+2026-05-03 20:38:31,654 - src.analytics.selector - INFO - Selector examples built | examples=['loc_example', 'iloc_example', 'boolean_example', 'isin_example', 'between_example']
+2026-05-03 20:38:31,660 - src.analytics.selector - INFO - Selector examples report saved | path=data\processed\apple_brand_eda\apple_selection_examples.txt
+2026-05-03 20:38:31,660 - src.analytics.quality_report - INFO - Apple quality report pipeline finished | report=data\processed\apple_brand_eda\apple_quality_report.csv | issues=data\processed\apple_brand_eda\apple_quality_issues.csv | heatmap=data\processed\apple_brand_eda\charts\apple_missing_values_heatmap.png | selections=data\processed\apple_brand_eda\apple_selection_examples.txt
+2026-05-03 20:38:31,661 - __main__ - INFO - Running regex analytics module...
+2026-05-03 20:38:31,661 - src.analytics.regex_ops - INFO - Apple regex pipeline started
+2026-05-03 20:38:31,661 - src.analytics.explorer - INFO - Apple brand EDA load started | database=social_media_brand_monitor | collection=brand_mentions
+2026-05-03 20:38:31,685 - src.analytics.explorer - INFO - Apple brand EDA Mongo load complete | rows=558
+2026-05-03 20:38:31,698 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=558 | rows_after=254
+2026-05-03 20:38:31,702 - src.analytics.explorer - INFO - Apple dataset cleaned | rows=254 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length']
+2026-05-03 20:38:31,704 - src.analytics.quality_report - INFO - Quality dataset prepared | rows=254 | columns=['_id', 'title', 'author', 'description', 'content', 'source', 'document_type', 'type', 'publishedAt', 'date', 'url', 'mention_date', 'content_length', 'overview', 'genres']
+2026-05-03 20:38:31,713 - src.analytics.regex_ops - INFO - Regex operations completed | rows=254 | columns_added=['title_prefix_match', 'title_extracted_product', 'title_extracted_year', 'overview_extracted_number', 'overview_crime_term_count', 'overview_is_unusually_short', 'genres_standardized', 'genres_has_structured_doc', 'valid_local_id_format']
+2026-05-03 20:38:31,717 - src.analytics.regex_ops - INFO - Regex results CSV saved | path=data\processed\apple_brand_eda\apple_regex_results.csv
+2026-05-03 20:38:31,717 - src.analytics.regex_ops - INFO - Apple regex pipeline finished | output=data\processed\apple_brand_eda\apple_regex_results.csv
+2026-05-03 20:38:31,717 - __main__ - INFO - Running cleaning pipeline...
+2026-05-03 20:38:31,727 - src.cleaning.clean_pipeline - INFO - Cleaning pipeline started | rows=558 | columns=37
+2026-05-03 20:38:31,732 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=558 | rows_after=254
+2026-05-03 20:38:31,733 - src.cleaning.clean_pipeline - INFO - Restricted cleaning dataset to Apple/iPhone project scope | rows=254 | columns=37
+2026-05-03 20:38:31,744 - src.cleaning.missing_handler - INFO - Generated missing-value report for 37 columns.
+2026-05-03 20:38:31,746 - src.cleaning.clean_pipeline - INFO - Missing-value report saved | path=data\processed\cleaned\missing_report.csv
+2026-05-03 20:38:31,747 - src.cleaning.missing_handler - INFO - Dropped 0 rows with missing critical identifiers: ['_id', 'title']
+2026-05-03 20:38:31,749 - src.cleaning.missing_handler - INFO - Replaced unrealistic zeros with NaN in columns: ['rating', 'price']
+2026-05-03 20:38:31,751 - src.cleaning.missing_handler - INFO - Dropped 20 columns above missing threshold 0.85: ['Author', 'CreationDate', 'Creator', 'Keywords', 'ModDate', 'Producer', 'Subject', 'Title', 'Trapped', 'page', 'file_name', 'text', 'page_number', 'price', 'awards', 'best_picture', 'nominations', 'year', 'query_params.ajax', 'query_params.year']
+2026-05-03 20:38:31,752 - src.cleaning.missing_handler - INFO - Filled missing text values in 7 columns.
+2026-05-03 20:38:31,753 - src.cleaning.missing_handler - INFO - Filled missing numeric values with medians in 1 columns.
+2026-05-03 20:38:31,754 - src.cleaning.missing_handler - INFO - Completed missing-value handling. Shape: (254, 17)
+2026-05-03 20:38:31,781 - src.cleaning.string_cleaner - INFO - Normalized text formatting in columns: ['_id', 'source', 'author', 'content', 'description', 'document_type', 'extraction_timestamp', 'publishedAt', 'title', 'url', 'urlToImage', 'date', 'type', 'language', 'content_hash', 'record_date']
+2026-05-03 20:38:31,784 - src.cleaning.string_cleaner - INFO - Cleaned title column: title
+2026-05-03 20:38:31,785 - src.cleaning.string_cleaner - INFO - Normalized language codes in column: language
+2026-05-03 20:38:31,795 - src.cleaning.string_cleaner - INFO - Created cleaned overview column overview from ['description', 'content']
+2026-05-03 20:38:31,799 - src.cleaning.string_cleaner - INFO - Sanitized URL values in column: url
+2026-05-03 20:38:31,804 - src.cleaning.string_cleaner - INFO - Created mention_date from source columns ['publishedAt', 'date', 'record_date']
+2026-05-03 20:38:31,806 - src.cleaning.string_cleaner - INFO - Extracted year column mention_year from mention_date
+2026-05-03 20:38:31,806 - src.cleaning.string_cleaner - INFO - Completed string cleaning. Shape: (254, 20)
+2026-05-03 20:38:31,808 - src.cleaning.deduplicator - INFO - Removed 0 exact duplicate rows.
+2026-05-03 20:38:31,810 - src.cleaning.deduplicator - INFO - Counted 74 duplicate values in column _id
+2026-05-03 20:38:31,810 - src.cleaning.clean_pipeline - INFO - Duplicate _id count before ID deduplication: 74
+2026-05-03 20:38:31,812 - src.cleaning.deduplicator - INFO - Removed 74 duplicate rows using identifier column _id
+2026-05-03 20:38:31,815 - src.cleaning.deduplicator - INFO - Removed 19 duplicate rows using identifier column url
+2026-05-03 20:38:31,817 - src.cleaning.deduplicator - INFO - Removed 0 duplicate rows using identifier column content_hash
+2026-05-03 20:38:31,817 - src.cleaning.deduplicator - INFO - Removed 6 duplicate title/date rows using columns title and mention_date
+2026-05-03 20:38:31,822 - src.cleaning.type_converter - INFO - Converted datetime columns: ['publishedAt', 'date', 'mention_date', 'record_date', 'extraction_timestamp']
+2026-05-03 20:38:31,824 - src.cleaning.type_converter - INFO - Converted numeric columns | ints=['mention_year'] | floats=['rating']
+2026-05-03 20:38:31,826 - src.cleaning.type_converter - INFO - Converted category columns: ['source', 'document_type', 'type', 'language']
+2026-05-03 20:38:31,826 - src.cleaning.type_converter - INFO - Completed type conversion. Shape: (155, 20)
+2026-05-03 20:38:31,830 - src.analytics.regex_ops - INFO - Invalid-date scan found 0 issues because publishedAt is already datetime.
+2026-05-03 20:38:31,830 - src.analytics.regex_ops - INFO - Invalid-language scan completed | column=language | invalid_count=0
+2026-05-03 20:38:31,831 - src.cleaning.validator - INFO - Validation completed successfully. Shape: (155, 20)
+2026-05-03 20:38:31,844 - src.cleaning.clean_pipeline - INFO - Cleaning pipeline finished | output=data\processed\cleaned\cleaned_data.csv | alternate_output=data\processed\cleaned\clean.csv | rows=155 | columns=20
+2026-05-03 20:38:31,844 - __main__ - INFO - Cleaning stage complete | input_path=C:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\raw\csv\raw_brand_mentions.csv | cleaned_rows=155 | cleaned_columns=20
+2026-05-03 20:38:31,844 - __main__ - INFO - --- Pipeline finished successfully. ---

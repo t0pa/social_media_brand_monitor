@@ -21,6 +21,8 @@ PRODUCT_PATTERN = re.compile(r"\b(apple|iphone|ipad|macbook|airpods|watch)\b", r
 CRIME_PATTERN = re.compile(r"\b(lawsuit|fine|fraud|probe|investigation)\b", re.IGNORECASE)
 TITLE_PREFIX_PATTERN = re.compile(r"^(apple|iphone|ipad|macbook|airpods)\b", re.IGNORECASE)
 LOCAL_ID_PATTERN = re.compile(r"^[0-9a-f]{24}$", re.IGNORECASE)
+LANGUAGE_CODE_PATTERN = re.compile(r"^[a-z]{2,3}(?:-[a-z]{2})?$", re.IGNORECASE)
+DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}(?:[T\s]\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:?\d{2})?)?$")
 
 
 def run_regex_operations(dataframe: pd.DataFrame) -> pd.DataFrame:
@@ -70,6 +72,81 @@ def save_regex_results(dataframe: pd.DataFrame, output_path: Path = REGEX_RESULT
     dataframe.to_csv(output_path, index=False, encoding="utf-8")
     logger.info("Regex results CSV saved | path=%s", output_path)
     return output_path
+
+
+def detect_invalid_date_formats(df: pd.DataFrame, column: str = "publishedAt") -> int:
+    """Count non-null date values that do not match an expected ISO-like format."""
+    if column not in df.columns:
+        logger.info("Invalid-date scan skipped because column %s is missing.", column)
+        return 0
+
+    series = df[column].dropna().astype("string").str.strip()
+    if pd.api.types.is_datetime64_any_dtype(df[column]):
+        logger.info("Invalid-date scan found 0 issues because %s is already datetime.", column)
+        return 0
+
+    invalid_count = int((~series.str.match(DATE_PATTERN, na=False)).sum())
+    logger.info("Invalid-date scan completed | column=%s | invalid_count=%s", column, invalid_count)
+    return invalid_count
+
+
+def detect_invalid_language_codes(df: pd.DataFrame, column: str = "language") -> int:
+    """Count non-null language values that are not short language-code patterns."""
+    if column not in df.columns:
+        logger.info("Invalid-language scan skipped because column %s is missing.", column)
+        return 0
+
+    series = df[column].dropna().astype("string").str.strip()
+    invalid_count = int((~series.str.match(LANGUAGE_CODE_PATTERN, na=False)).sum())
+    logger.info(
+        "Invalid-language scan completed | column=%s | invalid_count=%s",
+        column,
+        invalid_count,
+    )
+    return invalid_count
+
+
+def extract_numeric_values_from_text(df: pd.DataFrame, column: str, output_column: str | None = None) -> pd.DataFrame:
+    """Extract the first numeric token from a free-text column."""
+    if column not in df.columns:
+        logger.info("Numeric extraction skipped because column %s is missing.", column)
+        return df.copy()
+
+    cleaned = df.copy()
+    target_column = output_column or f"{column}_numeric_value"
+    cleaned[target_column] = (
+        cleaned[column]
+        .astype("string")
+        .str.extract(r"(\d+(?:\.\d+)?)", expand=False)
+    )
+    logger.info(
+        "Numeric extraction completed | source_column=%s | output_column=%s",
+        column,
+        target_column,
+    )
+    return cleaned
+
+
+def flag_short_overviews(
+    df: pd.DataFrame,
+    column: str = "overview",
+    min_length: int = 40,
+    output_column: str = "overview_is_too_short",
+) -> pd.DataFrame:
+    """Flag overview text values that are suspiciously short."""
+    if column not in df.columns:
+        logger.info("Short-overview scan skipped because column %s is missing.", column)
+        return df.copy()
+
+    cleaned = df.copy()
+    cleaned[output_column] = cleaned[column].fillna("").astype("string").str.len().lt(min_length)
+    logger.info(
+        "Short-overview scan completed | column=%s | min_length=%s | flagged=%s",
+        column,
+        min_length,
+        int(cleaned[output_column].sum()),
+    )
+    return cleaned
 
 
 def run_regex_pipeline() -> dict[str, object]:
