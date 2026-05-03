@@ -107,7 +107,9 @@ def replace_unrealistic_zeros(
     columns = _existing_columns(cleaned, zero_as_missing_columns)
 
     for column in columns:
-        cleaned[column] = cleaned[column].replace(0, np.nan)
+        numeric_series = pd.to_numeric(cleaned[column], errors="coerce")
+        zero_mask = numeric_series.eq(0)
+        cleaned.loc[zero_mask, column] = np.nan
 
     logger.info("Replaced unrealistic zeros with NaN in columns: %s", columns)
     return cleaned
@@ -125,11 +127,18 @@ def fill_numeric_medians(
         selected_columns = cleaned.select_dtypes(include=[np.number]).columns.tolist()
 
     for column in selected_columns:
-        median = cleaned[column].median()
+        numeric_series = pd.to_numeric(cleaned[column], errors="coerce")
+        median = numeric_series.median()
         if pd.isna(median):
-            logger.warning("Skipping median fill for %s because its median is NaN.", column)
+            if numeric_series.notna().sum() == 0:
+                logger.info(
+                    "Skipping median fill for %s because the column has no usable numeric values.",
+                    column,
+                )
+            else:
+                logger.warning("Skipping median fill for %s because its median is NaN.", column)
             continue
-        cleaned[column] = cleaned[column].fillna(median)
+        cleaned[column] = numeric_series.fillna(median)
 
     logger.info("Filled missing numeric values with medians in %s columns.", len(selected_columns))
     return cleaned
