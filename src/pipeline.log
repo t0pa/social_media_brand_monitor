@@ -2140,3 +2140,4 @@ Lorem ipsum dolor sit amet, consectetur
 2026-04-25 23:11:48,981 - src.analytics.regex_ops - INFO - Regex operations completed | rows=165 | columns_added=['title_prefix_match', 'title_extracted_product', 'title_extracted_year', 'overview_extracted_number', 'overview_crime_term_count', 'overview_is_unusually_short', 'genres_standardized', 'genres_has_structured_doc', 'valid_local_id_format']
 2026-04-25 23:11:48,987 - src.analytics.regex_ops - INFO - Regex results CSV saved | path=data\processed\apple_brand_eda\apple_regex_results.csv
 2026-04-25 23:11:48,988 - src.analytics.regex_ops - INFO - Apple regex pipeline finished | output=data\processed\apple_brand_eda\apple_regex_results.csv
+2026-04-29 12:09:20,777 - src.cleaning.missing_handler - INFO - Generated missing-value report for 37 columns.
