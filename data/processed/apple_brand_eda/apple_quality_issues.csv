@@ -1,12 +1,13 @@
 issue_type,column,severity,affected_rows,metric,details
-missing_values,description,high,38,27.34,Column contains missing values
-missing_values,content,high,38,27.34,Column contains missing values
-missing_values,type,critical,96,69.06,Column contains missing values
-missing_values,publishedAt,high,61,43.88,Column contains missing values
-missing_values,date,critical,78,56.12,Column contains missing values
-missing_values,url,high,38,27.34,Column contains missing values
-missing_values,mention_date,high,61,43.88,Column contains missing values
-missing_values,overview,high,38,27.34,Column contains missing values
-zero_as_missing_candidate,content_length,medium,61,43.88,43.88% of non-null values are zero
-duplicate_identifier,url,high,44,43.56,Detected duplicate values in url
-duplicate_identifier,title,medium,75,53.96,Detected duplicate values in title
+missing_values,author,medium,1,0.39,Column contains missing values
+missing_values,description,medium,38,14.96,Column contains missing values
+missing_values,content,medium,38,14.96,Column contains missing values
+missing_values,type,critical,180,70.87,Column contains missing values
+missing_values,publishedAt,high,61,24.02,Column contains missing values
+missing_values,date,critical,193,75.98,Column contains missing values
+missing_values,url,medium,38,14.96,Column contains missing values
+missing_values,mention_date,high,61,24.02,Column contains missing values
+missing_values,overview,medium,38,14.96,Column contains missing values
+zero_as_missing_candidate,content_length,medium,61,24.02,24.02% of non-null values are zero
+duplicate_identifier,url,high,92,42.59,Detected duplicate values in url
+duplicate_identifier,title,medium,123,48.43,Detected duplicate values in title

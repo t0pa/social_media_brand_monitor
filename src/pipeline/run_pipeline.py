@@ -23,6 +23,9 @@ from src.analytics.data_loader import run_data_loader_pipeline
 from src.analytics.explorer import run_explorer_pipeline
 from src.analytics.quality_report import run_quality_pipeline
 from src.analytics.regex_ops import run_regex_pipeline
+from src.cleaning.clean_pipeline import run_cleaning_pipeline
+
+import pandas as pd
 
 logger = get_logger(__name__)
 
@@ -227,6 +230,23 @@ def run_pipeline():
         run_regex_pipeline()
     except Exception as e:
         logger.error(f"Error in analytics regex stage: {e}")
+
+    try:
+        logger.info("Running cleaning pipeline...")
+        raw_csv_path = os.path.join(project_root, "data", "raw", "csv", "raw_brand_mentions.csv")
+        if not os.path.exists(raw_csv_path):
+            logger.warning(f"Cleaning stage skipped because raw CSV was not found: {raw_csv_path}")
+        else:
+            raw_dataframe = pd.read_csv(raw_csv_path)
+            cleaned_dataframe = run_cleaning_pipeline(raw_dataframe)
+            logger.info(
+                "Cleaning stage complete | input_path=%s | cleaned_rows=%s | cleaned_columns=%s",
+                raw_csv_path,
+                len(cleaned_dataframe),
+                len(cleaned_dataframe.columns),
+            )
+    except Exception as e:
+        logger.error(f"Error in cleaning stage: {e}")
 
     logger.info("--- Pipeline finished successfully. ---")
 

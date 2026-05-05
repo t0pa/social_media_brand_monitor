@@ -11,7 +11,7 @@ load_dotenv()
 API_KEY = os.getenv("API_KEY")
 BASE_URL = "https://newsapi.org/v2/everything"
 
-def fetch_brand_articles(brand, pages=3, save_dir="data/raw/api", retry_limit=3, sleep_time=1, page_size=20):
+def fetch_brand_articles(brand="Apple", pages=3, save_dir="data/raw/api", retry_limit=3, sleep_time=1, page_size=20):
     os.makedirs(save_dir, exist_ok=True)
     all_articles = []
     for page in range(1, pages + 1):

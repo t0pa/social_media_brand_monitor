@@ -32,6 +32,9 @@ News: Nach Rücktritt - »Mein erster großer Fehler«: Tim Cook blickt auf sein
 
 between_example
 ===============
-Empty DataFrame
-Columns: [title, mention_date]
-Index: []
+                                                                                                                                                               title mention_date
+                                                                       Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes   2026-05-02
+                                                                                   Společnost Beats představila novou delší 3metrovou variantu kabelů USB-C na USB-C   2026-05-02
+                                                                                  Limited-time Apple Card promo offers $100 Bonus Daily Cash when you add a co-owner   2026-05-02
+Ralph Fiennes, Colin Farrell & Wagner Moura Set For Comedy ‘Art’ From Director Fernando Meirelles & Screenwriter Christopher Hampton; 193 Launches For Cannes Market   2026-05-02
+                                                                                          Dash Cam 4K: i 3 modelli imperdibili per proteggersi da truffe e incidenti   2026-05-02
