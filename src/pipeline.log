@@ -3782,3 +3782,39 @@ Lorem ipsum dolor sit amet, consectetur
 2026-05-07 15:02:43,142 - src.analytics.aggregator - INFO - Source summary created | rows=6
 2026-05-07 15:02:46,357 - src.analytics.aggregator - INFO - Yearly trends created | rows=1
 2026-05-07 15:02:49,969 - src.analytics.aggregator - INFO - Top-N per group created | group_column=primary_keyword | sort_column=overview_length | n=3 | rows=22
+2026-05-07 15:05:09,155 - src.analytics.explorer - INFO - Apple mention filter complete | keyword=apple | rows_before=101 | rows_after=101
+2026-05-07 15:05:09,162 - src.analytics.time_series - INFO - Parsed mention dates | valid_dates=101 | missing_dates=0
+2026-05-07 15:05:09,170 - src.analytics.pivot_builder - INFO - Primary keyword column created | unique_keywords=8
+2026-05-07 15:05:09,173 - lab10_data_analysis - INFO - Loaded and prepared 101 Apple rows for Lab 10 analysis
+2026-05-07 15:05:14,215 - src.analytics.db_connector - INFO - Opened MySQL connection | host=localhost | port=3306 | database=social_media_brand_monitor
+2026-05-07 15:05:14,217 - src.analytics.db_connector - INFO - Ensured MySQL table exists: apple_article_metrics
+2026-05-07 15:05:14,262 - src.analytics.db_connector - INFO - Populated MySQL article metrics | rows_processed=101 | table=apple_article_metrics
+2026-05-07 15:05:14,295 - src.analytics.db_connector - INFO - Queried MySQL article metrics | rows=101 | table=apple_article_metrics
+2026-05-07 15:05:17,473 - src.analytics.data_combiner - INFO - Merged dataframes | how=inner | key=_id | left_rows=101 | right_rows=101 | merged_rows=101
+2026-05-07 15:05:17,478 - src.analytics.data_combiner - INFO - Merged dataframes | how=left | key=_id | left_rows=101 | right_rows=101 | merged_rows=101
+2026-05-07 15:05:17,481 - src.analytics.data_combiner - INFO - Merged dataframes | how=right | key=_id | left_rows=101 | right_rows=101 | merged_rows=101
+2026-05-07 15:05:17,483 - src.analytics.data_combiner - INFO - Merged dataframes | how=outer | key=_id | left_rows=101 | right_rows=101 | merged_rows=101
+2026-05-07 15:05:17,485 - src.analytics.data_combiner - INFO - Join comparison created | rows=4
+2026-05-07 15:05:17,635 - src.analytics.data_combiner - INFO - Saved join comparison chart | path=c:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\processed\analytics\join_type_comparison.png
+2026-05-07 15:05:20,257 - src.analytics.data_combiner - INFO - Merged dataframes | how=left | key=_id | left_rows=101 | right_rows=101 | merged_rows=101
+2026-05-07 15:05:23,111 - src.analytics.pivot_builder - INFO - Melted dataframe | rows=303 | metrics=['rating', 'title_length', 'overview_length']
+2026-05-07 15:05:26,808 - src.analytics.pivot_builder - INFO - Keyword/year pivot table created | rows=2 | columns=9
+2026-05-07 15:05:29,182 - src.analytics.pivot_builder - INFO - Language/year crosstab created | rows=3 | columns=2
+2026-05-07 15:05:32,414 - src.analytics.aggregator - INFO - Source summary created | rows=6
+2026-05-07 15:05:36,662 - src.analytics.aggregator - INFO - Yearly trends created | rows=1
+2026-05-07 15:05:39,755 - src.analytics.aggregator - INFO - Top-N per group created | group_column=primary_keyword | sort_column=overview_length | n=3 | rows=22
+2026-05-07 15:05:47,358 - src.analytics.time_series - INFO - Monthly mention series created | rows=3
+2026-05-07 15:05:47,361 - src.analytics.time_series - INFO - Added rolling averages to monthly series | value_column=mention_count
+2026-05-07 15:05:47,663 - src.analytics.time_series - INFO - Saved rolling mentions chart | path=c:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\processed\analytics\rolling_mentions.png
+2026-05-07 15:05:51,256 - src.analytics.time_series - INFO - Resampled mention series created | frequency=YE | rows=1
+2026-05-07 15:05:55,000 - src.analytics.mongo_pipeline - INFO - MongoDB aggregation pipeline executed | rows=7
+2026-05-07 15:06:07,383 - src.analytics.insight_reporter - INFO - Insight | top_keyword=general_apple | mention_count=64
+2026-05-07 15:06:07,384 - src.analytics.insight_reporter - INFO - Insight | top_source=newsapi_Apple_page_1.json | share_pct=38.61
+2026-05-07 15:06:07,386 - src.analytics.insight_reporter - INFO - Insight | peak_year=2026 | mention_count=101
+2026-05-07 15:06:07,388 - src.analytics.insight_reporter - INFO - Insight | top_language=unknown | share_pct=86.14
+2026-05-07 15:06:07,539 - src.analytics.insight_reporter - INFO - Saved keyword insight chart | path=c:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\processed\analytics\question1_top_keywords.png
+2026-05-07 15:06:07,685 - src.analytics.insight_reporter - INFO - Saved source-share chart | path=c:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\processed\analytics\question2_top_sources.png
+2026-05-07 15:06:07,810 - src.analytics.insight_reporter - INFO - Saved yearly-volume chart | path=c:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\processed\analytics\question3_yearly_volume.png
+2026-05-07 15:06:07,923 - src.analytics.insight_reporter - INFO - Saved language-distribution chart | path=c:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\processed\analytics\question4_language_distribution.png
+2026-05-07 15:06:07,928 - src.analytics.insight_reporter - INFO - Saved insight summary text | path=c:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\processed\analytics\insight_summary.txt
+2026-05-07 15:06:07,932 - src.analytics.insight_reporter - INFO - Saved analytical question report | path=c:\Users\topic\OneDrive\Desktop\PROJECTS\Projekat za unstructured data\social_media_brand_monitor\data\processed\analytics\analytical_questions.txt
