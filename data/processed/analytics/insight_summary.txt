@@ -1,0 +1,7 @@
+Apple Brand Monitor Lab 10 Insights
+========================================
+
+Top keyword/topic: general_apple with 64 mentions.
+Top source: newsapi_Apple_page_1.json with 39 mentions (38.61% share).
+Peak year: 2026 with 101 Apple mentions.
+Most common language: unknown (86.14% of mentions).

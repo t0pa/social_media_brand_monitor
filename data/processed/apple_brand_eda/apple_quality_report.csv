@@ -1,16 +1,16 @@
 column,dtype,non_null_count,missing_count,missing_pct,unique_count,missing_severity
-_id,object,254,0,0.0,254,low
-title,string,254,0,0.0,131,low
-author,string,253,1,0.39,105,medium
-description,str,216,38,14.96,123,medium
-content,object,216,38,14.96,121,medium
-source,string,254,0,0.0,7,low
-document_type,string,254,0,0.0,3,low
-type,string,74,180,70.87,1,critical
-publishedAt,"datetime64[us, UTC]",193,61,24.02,113,high
-date,datetime64[us],61,193,75.98,31,critical
-url,str,216,38,14.96,124,medium
-mention_date,string,193,61,24.02,2,high
-content_length,int64,254,0,0.0,8,low
-overview,string,216,38,14.96,123,medium
-genres,string,254,0,0.0,3,low
+_id,object,258,0,0.0,258,low
+title,string,258,0,0.0,89,low
+author,string,240,18,6.98,69,medium
+description,str,235,23,8.91,84,medium
+content,object,235,23,8.91,78,medium
+source,string,258,0,0.0,7,low
+document_type,string,258,0,0.0,3,low
+type,string,117,141,54.65,1,critical
+publishedAt,"datetime64[us, UTC]",212,46,17.83,80,medium
+date,datetime64[us],46,212,82.17,17,critical
+url,str,235,23,8.91,85,medium
+mention_date,string,212,46,17.83,3,medium
+content_length,int64,258,0,0.0,10,low
+overview,string,235,23,8.91,84,medium
+genres,string,258,0,0.0,3,low

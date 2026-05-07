@@ -44,10 +44,13 @@ def load_brand_dataset_from_mongodb(
 
 
 def filter_apple_mentions(dataframe: pd.DataFrame, keyword: str = BRAND_KEYWORD) -> pd.DataFrame:
-    """Keep rows that look related to Apple across source text fields."""
+    """Keep rows that look related to Apple in actual article/content fields."""
     working = dataframe.copy()
 
-    search_columns = [column for column in ["title", "description", "content", "source"] if column in working.columns]
+    search_columns = [
+        column for column in ["title", "description", "content"]
+        if column in working.columns
+    ]
     if not search_columns:
         raise ValueError("No searchable text columns were found for Apple filtering.")
 

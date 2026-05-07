@@ -1,201 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 35240,
+  "totalResults": 36527,
   "articles": [
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": null,
+        "name": "Overclockers.ru"
       },
-      "author": "Maziar Motamedi",
-      "title": "Prices surge, jobs disappear as war strains Iran’s economy",
-      "description": "New Supreme Leader Mojtaba Khamenei says the country must defeat its enemies in an economic and cultural struggle, as we",
-      "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-15T112736Z_842916116_RC2KPKAUSKSB_RTRMADP_3_IRAN-CRISIS-DAILYLIFE-1776691957.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-05-02T16:58:30Z",
-      "content": "Tehran, Iran Prices are surging in Iran, and millions of jobs have been lost or are on pause as the war with the US and Israel causes escalating economic damage.\r\nFood and medicine, cars, electrical … [+3610 chars]"
+      "author": "Global_Chronicles",
+      "title": "Apple укрепила лидерство по выручке на рынке смартфонов в 2026 году",
+      "description": "Apple увеличила долю мировой выручки от смартфонов до 48% в первом квартале 2026 года. Продажи iPhone продолжают расти и усиливают отрыв от конкурентов.",
+      "url": "https://overclockers.ru/blog/Global_Chronicles/show/255080/Apple-ukrepila-liderstvo-po-vyruchke-na-rynke-smartfonov-v-2026-godu",
+      "urlToImage": "https://overclockers.ru/st/legacy/blog/430440/729295_O.png",
+      "publishedAt": "2026-05-06T12:20:47Z",
+      "content": "2026 - , . Apple , . \r\n: WCCFTech\r\n Counterpoint Research , 2026 $117 , - DRAM. 12% , iPhone 17.\r\n iPhone 48% , Apple 21% , Samsung, . iPhone $908, , Samsung, $399.\r\n Apple iPhone 17iPhone 17 Pro Max… [+49 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
+        "name": "Iphon.fr"
       },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "This must-have miniature Macintosh retro dock gives your M4 Mac Mini a 1980s makeover — equipped with a 5-inch HD display and M.2 NVMe SSD slot",
-      "description": "The Wokyis M5 Retro Dock Station will add USB ports, memory card readers, and an external SSD enclosure to your Mac mini while giving you a small '80s Macintosh on your desk.",
-      "url": "https://www.tomshardware.com/peripherals/docking-stations-hubs/this-must-have-miniature-macintosh-retro-dock-gives-your-m4-mac-mini-a-1980s-makeover-equipped-with-a-5-inch-hd-display-and-m-2-nvme-ssd-slot",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aYmmLmvbySWgxxRr9PvcXT-1920-80.png",
-      "publishedAt": "2026-05-02T16:57:48Z",
-      "content": "Many people love adding retro accessories to their modern devices to evoke the nostalgia of the ‘80s and ‘90s, while also making them far more useful. One such gadget is the M5 Retro Dock Station fro… [+2746 chars]"
-    },
-    {
-      "source": {
-        "id": "the-next-web",
-        "name": "The Next Web"
-      },
-      "author": "Cristian Dina",
-      "title": "Nvidia built the AI engine. Alphabet is building the car, the road, and the toll booth. The market is pricing accordingly.",
-      "description": "On Thursday, Alphabet’s share price rose nearly 10 per cent after the company reported first-quarter revenue of $109.9 billion, a 22 per cent increase year over year that beat analyst estimates by almost $3 billion. Google Cloud crossed $20 billion in quarter…",
-      "url": "https://thenextweb.com/news/alphabet-overtake-nvidia-market-cap-mag-seven/",
-      "urlToImage": "https://media.thenextweb.com/2026/05/alphabet-overtake-nvidia-market-cap-mag-seven.avif",
-      "publishedAt": "2026-05-02T16:47:10Z",
-      "content": "TL;DR\r\nAlphabets market capitalisation surged past $4.6 trillion after a 10% stock jump on Q1 2026 earnings that beat estimates across every division, with Google Cloud growing 63% to cross $20 billi… [+9067 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "Bryan M Wolfe",
-      "title": "Mac Pro M2 vs Mac Studio M2: Which is the one for you?",
-      "description": "While not the latest models, these powerhouse Apple devices are well-worth checking out - if you can find them",
-      "url": "https://www.techradar.com/computing/macs/mac-pro-m2-vs-mac-studio-m2-which-is-the-one-for-you",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7sVKDzzWnqKSmnjD8jd8MQ-2000-80.jpg",
-      "publishedAt": "2026-05-02T16:46:11Z",
-      "content": "The Mac Studio and Mac Pro feature variations of Apple’s M2 chip. Now, as of 2026, Apple has discontinued the Mac Pro - the most up-to-date model comes with the M2 Ultra chip. However, the Mac Studio… [+8116 chars]"
+      "author": "Pierre L. Duval",
+      "title": "Mac Studio M3 Ultra : Apple supprime deux configs haut de gamme, les pros s’inquiètent",
+      "description": "Le plus puissant des Mac ne se configure plus qu'avec 96 Go de RAM. Une bien mauvaise nouvelle pour les pros.",
+      "url": "https://www.iphon.fr/post/mac-studio-m3-ultra-options-ram",
+      "urlToImage": "https://www.iphon.fr/app/uploads/2026/05/mac-studio-apple-1600x900.jpg",
+      "publishedAt": "2026-05-06T12:19:32Z",
+      "content": "C’est un comble : la machine la plus puissante du catalogue Apple, le Mac Studio M3 Ultra, vient une nouvelle fois de voir ses options réduites. Plus précisément, Apple vient de retirer la dernière o… [+3575 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "iLounge"
+        "name": "Apfelpage.de"
       },
-      "author": "Samantha Wiley",
-      "title": "13-inch M5 MacBook Air 512GB is $149 Off",
-      "description": "The M5 MacBook Air has been refreshed, given the M5 chip bringing you strong AI capabilities and performance in a device that you can bring anywhere, the device features unified memory and a faster CPU. The laptop features Apple Intelligence, a personal intel…",
-      "url": "https://www.ilounge.com/news/daily-deals/13-inch-m5-macbook-air-512gb-is-149-off",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2019/11/no-image-found.jpg",
-      "publishedAt": "2026-05-02T16:45:08Z",
-      "content": "The M5 MacBook Air has been refreshed, given the M5 chip bringing you strong AI capabilities and performance in a device that you can bring anywhere, the device features unified memory and a faster C… [+740 chars]"
+      "author": "Fabian Schwarzenbach",
+      "title": "iOS 27-Bericht: Glaude und Gemini ergänzen ChatGPT",
+      "description": "In knapp einem Monat findet die WWDC 2026 statt und Apple wird erstmals iOS 27 zeigen. Ein neuer Bericht hat nun Hinweise gefunden, dass die ... Weiterlesen ...\nDer Beitrag iOS 27-Bericht: Glaude und Gemini ergänzen ChatGPT erschien zuerst auf Apfelpage.",
+      "url": "https://www.apfelpage.de/news/ios-27-bericht-glaude-und-gemini-ergaenzen-chatgpt/",
+      "urlToImage": "https://www.apfelpage.de/wp-content/uploads/2024/06/iOS-18-Siri-Thumb.webp",
+      "publishedAt": "2026-05-06T12:19:29Z",
+      "content": "In knapp einem Monat findet die WWDC 2026 statt und Apple wird erstmals iOS 27 zeigen. Ein neuer Bericht hat nun Hinweise gefunden, dass die Tage der exklusiven ChatGPT-Integration damit gezählt sind… [+1184 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "iLounge"
+        "name": "Wccftech"
       },
-      "author": "Samantha Wiley",
-      "title": "Two New Ultra Products to be Released by Apple",
-      "description": "Two products will be given the Ultra branding by Apple this year. The upcoming foldable iPhone will receive the iPhone Ultra branding and will be the most expensive device in the iPhone line. The device will not be part of the upcoming line of the iPhone 18 P…",
-      "url": "https://www.ilounge.com/news/apple/two-new-ultra-products-to-be-released-by-apple",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2026/05/image-2.png",
-      "publishedAt": "2026-05-02T16:43:48Z",
-      "content": "Two products will be given the Ultra branding by Apple this year. The upcoming foldable iPhone will receive the iPhone Ultra branding and will be the most expensive device in the iPhone line. The dev… [+690 chars]"
+      "author": "Omar Sohail",
+      "title": "MacBook Neo Won’t Let Chromebooks Or Windows Laptops Take A Breather This Year As Apple Eyes Ambitious 10 Million Production Goal",
+      "description": "A chip supply deficit is a situation that no company wants to face, especially when it hinders a popular product’s supply. Apple has witnessed tremendous success with the MacBook Neo launch, which starts from $599, and is reportedly facing A18 Pro chip supply…",
+      "url": "https://wccftech.com/apple-asks-macbook-neo-suppliers-to-increase-production-to-10-million-units/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/05/MacBook-Neo-1.jpg",
+      "publishedAt": "2026-05-06T12:18:04Z",
+      "content": "A chip supply deficit is a situation that no company wants to face, especially when it hinders a popular products supply. Apple has witnessed tremendous success with the MacBook Neo launch, which sta… [+2423 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Bavarian Football Works"
+        "name": "Dealnews.com"
       },
-      "author": "muller-era",
-      "title": "Bayern Munich’s Leon Goretzka, Jonas Urbig fired up for second leg against Paris Saint-Germain",
-      "description": "FC Bayern are riled up and ready for PSG.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/195628/bayern-munich-leon-goretzka-jonas-urbig-paris-saint-germain-uefa-ucl-champions-league-final-kompany-kane-olise",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cuEhlZFcsRdKcqUHx2y8Gw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/9d5a07bd0a2a46fb6705e80e74fcb42e",
-      "publishedAt": "2026-05-02T16:41:54Z",
-      "content": "The whole world is watching Bayern Munich and with good reason.\r\nBayern have been nothing short of otherworldly this season. Armed with an incredibly talented squad and a manager whose approach has t… [+1687 chars]"
+      "author": null,
+      "title": "Apple Mother's Day Deals at Best Buy: Up to 50% off + free shipping",
+      "description": "Shop these Mother's Day discounts on Apple devices including $150 off Macbook Air M5, $100 off Apple - 11\" iPad Air M3, $200 off Apple Watch Ultra 2, and more. Ends May 11 at 1am ET  Shop Now at Best Buy",
+      "url": "https://www.dealnews.com/Apple-Mothers-Day-Deals-at-Best-Buy-Up-to-50-off-free-shipping/21826150.html",
+      "urlToImage": "https://d.dlnws.com/64599/1778069571-apple-macbook-air-front-view-blls.png?h=621&w=1024",
+      "publishedAt": "2026-05-06T12:17:39Z",
+      "content": "moreTurn your old devices into savings on new tech with these trade-in offers at Best Buy. Examples of eligible items include Xbox consoles, Apple iPads, MacBook Air laptops, Google Pixel 10 Series s… [+476 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "iLounge"
+        "name": "BGR"
       },
-      "author": "Samantha Wiley",
-      "title": "IAM Union Accuses Apple of Unfair Labor Practice",
-      "description": "Apple employees in Towson are being represented by the IAM Union and stated that they will be filing a charge for Unfair Labor Practice against the company with the National Labor Relations Board. Apple is allegedly conducting unlawful discrimination against …",
-      "url": "https://www.ilounge.com/news/iam-union-accuses-apple-of-unfair-labor-practice",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2026/05/image-1.png",
-      "publishedAt": "2026-05-02T16:40:49Z",
-      "content": "Apple employees in Towson are being represented by the IAM Union and stated that they will be filing a charge for Unfair Labor Practice against the company with the National Labor Relations Board. Ap… [+656 chars]"
+      "author": "staff@bgr.com (José Adorno)",
+      "title": "Will A 100W Charger Destroy Your iPhone's Battery?",
+      "description": "Even if you use a 100W charger, your iPhone is only going to accept the maximum supported power, which is 40W on the iPhone 17 series. So, it will remain safe.",
+      "url": "https://www.bgr.com/2160995/will-100w-charger-destroy-iphone-battery/",
+      "urlToImage": "https://www.bgr.com/img/gallery/will-a-100w-charger-destroy-your-iphones-battery/l-intro-1777547963.jpg",
+      "publishedAt": "2026-05-06T12:17:00Z",
+      "content": "Let's cut straight to the chase charging your iPhone with a 100W charger won't destroy its battery. However, it's important to use a certified accessory to ensure everything works appropriately. Besi… [+798 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Bavarian Football Works"
+        "name": "Computerworld.dk"
       },
-      "author": "Tom Adams",
-      "title": "‘Wednesday All in Red’ — Bayern Munich’s ultras display message after Heidenheim draw ahead of PSG clash",
-      "description": "Mittwoch Alle In Rot is the message from the FC Bayern ultras after the Heidenheim draw…",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/197295/wednesday-all-in-red-bayern-munichs-ultras-display-message-after-heidenheim-draw-ahead-of-psg-clash",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q7UNAcxnibAx0E2dl79Xcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/ff94c427e8fd9d098e4eea8cca176e4d",
-      "publishedAt": "2026-05-02T16:39:44Z",
-      "content": "It was just about Mainz all over again for Bayern Munich, who came from behind on two separate occasions to earn a 3-3 draw vs. Heidenheim at the Allianz Arena just a few short days before their all-… [+2577 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "iLounge"
-      },
-      "author": "Samantha Wiley",
-      "title": "Liquid Glass Display from 20th Anniversary iPhone to Make Bezels Non-Visible",
-      "description": "The upcoming 20th anniversary iPhone is rumored to have a new curved screen type of technology that hides display bezels more effectively. A big redesign is planned for the 20th anniversary iPhone, rumored to have a display that curves around the 4 edges of t…",
-      "url": "https://www.ilounge.com/news/iphone/liquid-glass-display-from-20th-anniversary-iphone-to-make-bezels-non-visible",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2026/05/image.png",
-      "publishedAt": "2026-05-02T16:38:54Z",
-      "content": "The upcoming 20th anniversary iPhone is rumored to have a new curved screen type of technology that hides display bezels more effectively. A big redesign is planned for the 20th anniversary iPhone, r… [+655 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Akash Podishetti",
-      "title": "What will Berkshire do with $380 billion? Greg Abel speaks after taking over Warren Buffett's biggest cash puzzle",
-      "description": "Berkshire Hathaway holds a huge Rs 31.8 lakh crore in cash. This is Greg Abel's first major test as CEO. Abel stated Berkshire's operating philosophy will not change. The company's cash reserves grew despite stronger first-quarter earnings. Berkshire has not …",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/what-will-berkshire-do-with-380-billion-greg-abel-speaks-after-taking-over-warren-buffetts-biggest-cash-puzzle/articleshow/130720280.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-130720565,width-1200,height-630,imgsize-57226,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-05-02T16:38:52Z",
-      "content": "Berkshire Hathaway is sitting on a staggering $380.2 billion (about Rs 31.8 lakh crore) in cash. This became one of the talking points at the conglomerate's annual shareholder meeting in Omaha as inv… [+2253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bavarian Football Works"
-      },
-      "author": "CSmith1919",
-      "title": "Max Eberl not worried about losing Bayern Munich’s Konrad Laimer on free transfer",
-      "description": "FC Bayern could be at risk of losing Konrad Laimer.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/197291/max-eberl-not-worried-about-losing-bayern-munichs-konrad-laimer-on-free-transfer",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.fHxyRcdBPS78BG1hd8QVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDI7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/1d343519cbdd0bb87f11b7f7dad80796",
-      "publishedAt": "2026-05-02T16:35:41Z",
-      "content": "In the aftermath of Bayern Munichs 3-3 draw with Heidenheim, board member board for sport Max Eberl was asked about the hot topic of the week the potential contract snafu with Konrad Laimer.\r\nThere a… [+1155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Applenovinky.cz"
-      },
-      "author": "AppleNovinky.cz | Nika Drunecká",
-      "title": "Beats oznamuje navazující partnerství s JENNIE a vydal novou limitovanou verzi sluchátek Solo 4",
-      "description": "Po spolupráci s jihokorejskou zpěvačkou JENNIE v září 2025, když se rubínovo-červená verze sluchátek Solo 4 v internetovém obchodě Apple vyprodala za méně než 24 hodin, dnes značka Beats od Applu oznamuje navazující partnerství s JENNIE a vydala novou verzi s…",
-      "url": "https://applenovinky.cz/2026/05/beats-oznamuje-navazujici-partnerstvi-s-jennie-a-vydal-novou-limitovanou-verzi-sluchatek-solo-4/",
-      "urlToImage": "https://static.applenovinky.cz/wp-content/uploads/2026/05/beats-jennie-black-solo-4.jpg",
-      "publishedAt": "2026-05-02T16:33:22Z",
-      "content": "Po spolupráci s jihokorejskou zpvakou JENNIE v záí 2025, kdy se rubínovo-ervená verze sluchátek Solo 4 v internetovém obchod Apple vyprodala za mén ne 24 hodin, dnes znaka Beats od Applu oznamuje nav… [+742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bavarian Football Works"
-      },
-      "author": "RuneKingThor",
-      "title": "Match Awards from Bayern Munich’s tense 3-3 draw against FC Heidenheim",
-      "description": "FC Bayern had to recover once again after some shaky moments.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-match-awards/197203/bayern-munich-vs-heidenheim-match-awards-player-ratings",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iuV2WQFqYtKSDCFA4_uvbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/223f6f9a00f4807ed46b14ad71fe2453",
-      "publishedAt": "2026-05-02T16:30:32Z",
-      "content": "Bayern Munich has taken a liking to late goals in the recent fixtures. With the Champions League second leg lined up next, Vincent Kompany made several rotations. Visitors Heidenheim pounced upon the… [+4181 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Shiftdelete.net"
-      },
-      "author": "Ender Öztürk",
-      "title": "Heyecan Veren 5 Yeni Samsung One UI 8.5 Özelliği",
-      "description": "Samsung'un yeni One UI 8.5 güncellemesi ile gelen Liquid Glass tasarımı, yapay zeka destekli çağrılar ve Apple cihazlarla dosya paylaşımı özelliklerini keşfedin.",
-      "url": "https://shiftdelete.net/heyecan-veren-5-yeni-samsung-one-ui-8-5-ozelligi",
-      "urlToImage": "https://ares.shiftdelete.net/2026/05/heyecan-veren-5-yeni-samsung-one-ui-8-5-ozelligi.webp",
-      "publishedAt": "2026-05-02T16:30:07Z",
-      "content": "Samsung, kullanc deneyimini kökten deitirmeye hazrlanan yeni One UI 8.5 güncellemesini dünya genelindeki birçok Galaxy cihaz için kullanma sunmaya hazrlanyor. Yaknda balayacak olan datm süreciyle bir… [+3243 chars]"
+      "author": "Mogens Nørgaard",
+      "title": "AI-lab #31: Nu kan Google Gemini endelig huske - sådan fungerer dens hukommelse",
+      "description": "Google Gemini har omsider fået hukommelse, og jeg har testet funktionen i detaljer. Se her, hvordan det fungerer.",
+      "url": "https://www.computerworld.dk/art/295482/ai-lab-31-nu-kan-google-gemini-endelig-huske-saadan-fungerer-dens-hukommelse",
+      "urlToImage": "https://www.computerworld.dk/fil/205773?width=600&height=315&focus=1",
+      "publishedAt": "2026-05-06T12:15:00Z",
+      "content": "Annonceindlæg fra Barco\r\nMåden vi mødes på har ændret sig. Så hvorfor ser vores mødelokaler stadig ens ud?\r\nVelkommen til AI-lab nummer 31.\r\nDet må betyde, at der er gået cirka otte måneder siden, at… [+14493 chars]"
     },
     {
       "source": {
@@ -203,51 +99,155 @@
         "name": "Macerkopf.de"
       },
       "author": "Admin",
-      "title": "Apple nimmt Mac mini mit 256GB komplett aus dem Programm",
-      "description": "In den letzten Wochen wurde die Verfügbarkeit des Mac mini und Mac Studio deutlich schlechter. Nun hat Apple das Einsteigermodell des Mac mini mit M4-Chip und 256GB komplett aus dem Programm genommen. Im Umkehrschluss bedeutet dies, dass der Mac mini ab sofor…",
-      "url": "https://www.macerkopf.de/2026/05/02/apple-nimmt-mac-mini-mit-256gb-komplett-aus-dem-programm/",
-      "urlToImage": "https://www.macerkopf.de/wp-content/uploads/2024/10/mac_mini_m4.jpeg",
-      "publishedAt": "2026-05-02T16:30:01Z",
-      "content": "In den letzten Wochen wurde die Verfügbarkeit des Mac mini und Mac Studio deutlich schlechter. Nun hat Apple das Einsteigermodell des Mac mini mit M4-Chip und 256GB komplett aus dem Programm genommen… [+1716 chars]"
+      "title": "AirPods Max 2: Firmware-Update 8E258 ist da",
+      "description": "Apple hat in der Nacht zu heute ein Firmware-Update für das neueste Mitglied seiner AirPods-Familie veröffentlicht. Genau genommen, steht ab sofort das Firmware-Update 8E258 für die AirPods Max 2 bereit. Dieses löst die bisherige Firmware 8E251 ab. AirPods Ma…",
+      "url": "https://www.macerkopf.de/2026/05/06/airpods-max-2-firmware-update-8e258-ist-da/",
+      "urlToImage": "https://www.macerkopf.de/wp-content/uploads/2026/03/airpods_max_2.jpeg",
+      "publishedAt": "2026-05-06T12:11:18Z",
+      "content": "Apple hat in der Nacht zu heute ein Firmware-Update für das neueste Mitglied seiner AirPods-Familie veröffentlicht. Genau genommen, steht ab sofort das Firmware-Update 8E258 für die AirPods Max 2 ber… [+1121 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Melissa Noble)",
+      "title": "I was scared to let my kids bike alone or go to sleepovers. Giving my 10-year-old more independence has helped me be more confident, too.",
+      "description": "I was scared to let my kids roam alone or have sleepovers. Now that our oldest is almost 11, I think it's time to give them more independence.",
+      "url": "https://www.businessinsider.com/giving-child-more-independence-made-mom-confident-2026-5",
+      "urlToImage": "https://i.insider.com/69f9e5bdb3045b292f636d1c?width=1200&format=jpeg",
+      "publishedAt": "2026-05-06T12:11:01Z",
+      "content": "A few years ago, when our son was 8, one of his mates asked if he could go bike riding around the neighborhood with him. This particular kid is a strong mountain bike rider and has always been mature… [+3797 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Decider"
+        "name": "Spidersweb.pl"
       },
-      "author": "mliss1578",
-      "title": "Where To Watch Celtics vs. 76ers Game 7: Channel, Start Time, Free Celtics-76ers Streaming Info",
-      "description": "It all comes down to this: Game 7.",
-      "url": "https://decider.com/2026/05/02/where-to-watch-celtics-vs-76ers-game-7-channel-start-time-free-streaming/",
-      "urlToImage": "https://decider.com/wp-content/uploads/2024/02/boston-celtics.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-05-02T16:30:00Z",
-      "content": "Here we go! The Boston Celtics host the Philadelphia 76ers in Game 7 of their first-round matchup!\r\nHow did we end up here? Many believed the Celtics would finish off the plucky 76ers in Game 6, but … [+2311 chars]"
+      "author": "Paweł Grabowski",
+      "title": "Oto mój nowy ulubiony telefon. Ma tylko jeden problem, który wyśmiejecie",
+      "description": "Miałem okazję testować Honor 600 Pro, który z miejsca stał się moim ulubionym smartfonem tego roku. Jest tylko jeden problem, który wyśmiejecie.",
+      "url": "https://spidersweb.pl/2026/05/honor-600-pro-test-recenzja-opinie-smartfon.html",
+      "urlToImage": "https://cdn-sw.spidersweb.pl/2026/05/honor-600-pro-test-11.webp",
+      "publishedAt": "2026-05-06T12:11:00Z",
+      "content": "Honor w tym roku postanowi mocno zwikszy swoj obecno w Polsce, wic czeka nas premiera najmocniejszego przedstawiciela serii numerycznej, czyli modelu 600 Pro. W zaoeniu to smartfon, który jest taszy … [+5336 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ComicBook.com"
+        "name": "Cnews.ru"
       },
-      "author": "Alex Rós",
-      "title": "Apple’s New 95%-Rated Horror Show is Already a Major Hit",
-      "description": "A new horror-comedy series set in a New England town is creeping its way up the Top 10 Most Watched chart for Apple TV, booting Monarch: Legacy of Monsters from the #3 spot to lay claim to it. It’s a brilliant mix of horror and comedy, not relying too much on…",
-      "url": "http://comicbook.com/tv-shows/news/apples-new-95-rated-horror-show-is-already-a-major-hit/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/Widows-Bay.png?resize=2000,1125",
-      "publishedAt": "2026-05-02T16:28:34Z",
-      "content": "A new horror-comedy series set in a New England town is creeping its way up the Top 10 Most Watched chart for Apple TV, booting Monarch: Legacy of Monsters from the #3 spot to lay claim to it. It’s a… [+2276 chars]"
+      "author": null,
+      "title": "Юбилейный iPhone к 20-летию получит тактильные кнопки и безрамочный изогнутый дисплей",
+      "description": "Apple готовит революционный iPhone к 20-летнему юбилею линейки в 2027 году: вместо механических кнопок — тактильные сенсоры, а дисплей будет изгибаться по всем краям, создавая эффект цельного стекла.",
+      "url": "https://zoom.cnews.ru/lenta/post/ubilejnyj_iphone_k_20-letiu_polucit_taktilnye_knopki_i_bezramocnyj_izognutyj_displej",
+      "urlToImage": "https://static.cnews.ru/ds/2026/05/06/a342343c75bbab0efb481fa780b1450702e068faf2ef8482e04b57e564d34d9d.webp",
+      "publishedAt": "2026-05-06T12:11:00Z",
+      "content": "iPhone 20- \r\n Instant Digital, Apple iPhone, 20- 2027 . , .\r\n, , , . , , . iPhone 15, .\r\n. Apple, , . .\r\n , : OLED-, Face ID , , 6000 , , , .\r\n, iPhone 2027 . \r\nGizmoChina \r\nBose Lifestyle Ultra Coll… [+208 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Bavarian Football Works"
+        "name": "Mail.ru"
       },
-      "author": "muller-era",
-      "title": "Heidenheim CEO speaks on being ‘a good partner’ to Bayern Munich",
-      "description": "FC Bayern has a few designated loan destinations for its players and Heidenheim is one of them.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/197289/heidenheim-ceo-bayern-munich-draw-loan-ibrahimovic-musiala-kane-kompany",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oaLMVMi1hryUjfCoLVo3pQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjQ5O2NmPXdlYnA-/https://media.zenfs.com/en/sb_nation_articles_115/709fc71899cff94b1cb3f31667caf4ab",
-      "publishedAt": "2026-05-02T16:24:06Z",
-      "content": "Bayern Munich faced FC Heidenheim at home in their third last Bundesliga game of the season. They may be the Champions of Germany, but they are not immune to games like this wherein they looked close… [+1623 chars]"
+      "author": "Никита Показанников",
+      "title": "Топ-5 лучших iPhone за все время: от раритетных до современных",
+      "description": "В истории Apple не так много провалов: почти каждый iPhone был по-своему удачным. Однако есть модели, которые особенно понравились фанатам и оказали огромное влияние на индустрию. В статье — пять лучших iPhone за все время по версии Hi-Tech Mail.В подборке ес…",
+      "url": "https://hi-tech.mail.ru/compilations/147295-luchshie-iphone-za-vse-vremya/",
+      "urlToImage": "https://resizer.mail.ru/p/bf566b2c-2ec9-5c72-a40c-f8ca4c5f01ce/AQAKl2B23TtXrC8r3yZy7f30ohNnpbrrHKPj5HiLn8vEuy-VDKvYx8ph2IFAZyeR8pDQRzIZgy3ZFrnLdq0aWMmGTzk.jpg",
+      "publishedAt": "2026-05-06T12:10:11Z",
+      "content": "Apple.  iPhone 5s    ,    4- ,   .   Touch ID   — ,  2022 (   iPhone SE 3- ).\r\n,   iPhone 5s    . ,   -     -       2025 .    2026- iPhone 5s   iOS 12.\r\n<table><tr><td></td><td>IPS, 4 , 1136×640, 60 … [+2185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MIT Technology Review"
+      },
+      "author": "Thomas Macaulay",
+      "title": "The Download: seafloor science and military chatbots",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles…",
+      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/05/FD3C0ADB-581A-4E96-8A81-E339F9F312B5.webp?resize=1200,600",
+      "publishedAt": "2026-05-06T12:10:00Z",
+      "content": "The new war room is one of the 10 Things That Matter in AI Right Now, our list of the big ideas, trends, and advances in the field that are driving progress todayand will shape whats possible tomorro… [+1215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dealnews.com"
+      },
+      "author": null,
+      "title": "Best Buy Mother's Day Deals: Up to 50% off + free shipping",
+      "description": "Shop Mother's Day deals including up to $100 off on Apple Watach SE3, up to $150 off Dyson hair care, up to $60 off on Amazon e-readers, up to $70 off select AirPods, and more. Sale ends May 10 2026. Shop Now at Best Buy",
+      "url": "https://www.dealnews.com/Best-Buy-Mothers-Day-Deals-Up-to-50-off-free-shipping/21826145.html",
+      "urlToImage": "https://d.dlnws.com/64599/1705420909-dn-image-6462230.jpg?h=498&w=503",
+      "publishedAt": "2026-05-06T12:09:54Z",
+      "content": "moreTurn your old devices into savings on new tech with these trade-in offers at Best Buy. Examples of eligible items include Xbox consoles, Apple iPads, MacBook Air laptops, Google Pixel 10 Series s… [+476 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Diariobitcoin.com"
+      },
+      "author": "Canuto",
+      "title": "Nvidia y Corning abrirán tres fábricas ópticas en EE. UU. para acelerar la infraestructura de IA",
+      "description": "Nvidia y Corning anunciaron una alianza plurianual para abrir tres nuevas plantas de manufactura avanzada en Carolina del Norte y Texas, un movimiento que busca expandir con fuerza la capacidad óptica en Estados Unidos y preparar la próxima generación de infr…",
+      "url": "https://www.diariobitcoin.com/estados-unidos/nvidia-y-corning-abriran-tres-fabricas-opticas-en-ee-uu-para-acelerar-la-infraestructura-de-ia/",
+      "urlToImage": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/05/canuto-imagine-1778069108.jpg",
+      "publishedAt": "2026-05-06T12:09:50Z",
+      "content": "Por Canuto   Nvidia y Corning anunciaron una alianza plurianual para abrir tres nuevas plantas de manufactura avanzada en Carolina del Norte y Texas, un movimiento que busca expandir con fuerza la ca… [+11445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kommersant.ru"
+      },
+      "author": null,
+      "title": "Скромность слила карьеру // Как соискателю презентовать себя, чтобы получить оффер",
+      "description": "Шаблонные фразы, сбивчивая речь и холодность на собеседовании — большинство россиян не умеют продавать себя потенциальному работодателю. К такому выводу по итогам исследования пришли специалисты hh.ru и Skillaz. Согласно опросу, только 11% граждан могут грамо…",
+      "url": "https://www.kommersant.ru/doc/8636678",
+      "urlToImage": "https://iv.kommersant.ru/SocialPics/8636678_49_3099368_600413852",
+      "publishedAt": "2026-05-06T12:09:47Z",
+      "content": ", . hh.ru Skillaz. , 11% .\r\n , . , , , :\r\n« . , , , , , . 90% . , , , , . , , .\r\nHR , , , , . \r\n . , , , . . : , -, , . . , ».\r\n . 73% . . 70% , , . . 33% , .\r\n , , :\r\n« , . , , . , , , , . , : \"\", \"… [+265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Everyeye.it"
+      },
+      "author": "Alessio Marino",
+      "title": "5 migliori telefoni per scattare foto straordinarie a maggio 2026",
+      "description": "Cinque top smartphone di maggio 2026 si distinguono per fotocamere avanzate: Samsung, Apple, Xiaomi, Google e OPPO puntano sull'innovazione foto.In questo mese di Maggio 2026, abbiamo scelto per voi cinque smartphone che si distinguono per i loro comparti fot…",
+      "url": "https://tech.everyeye.it/notizie/5-migliori-telefoni-scattare-foto-straordinarie-maggio-2026-876007.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/5-migliori-telefoni-scattare-foto-straordinarie-maggio-2026-v4-876007.jpg",
+      "publishedAt": "2026-05-06T12:09:00Z",
+      "content": "In questo mese di Maggio 2026, abbiamo scelto per voi cinque smartphone che si distinguono per i loro comparti fotografici e che offrono degli ottimi scatti.\r\nSamsung Galaxy S26 Ultra\r\nIn questo mese… [+1938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediafax.ro"
+      },
+      "author": "Maria Miron",
+      "title": "Nvidia pregătește o tehnologie care ar putea schimba dezvoltarea inteligenței artificiale",
+      "description": "Nvidia, compania americană care domină piața cipurilor pentru inteligență artificială, pregătește o schimbare majoră în infrastructura centrelor de date AI. Gigantul tehnologic vrea să înlocuiască conexiunile clasice din cupru cu tehnologii bazate pe fibră op…",
+      "url": "https://www.mediafax.ro/tehnologie/nvidia-pregateste-o-tehnologie-care-ar-putea-schimba-dezvoltarea-inteligentei-artificiale-23732297",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/11/8016408-hepta_mediafax_foto-abacapress_hepta-scaled-e1764854821121.jpg",
+      "publishedAt": "2026-05-06T12:08:58Z",
+      "content": "Compania colaboreaz cu productorul american de fibr optic Corning pentru construirea a trei noi fabrici în Carolina de Nord i Texas, dedicate exclusiv tehnologiilor optice utilizate de Nvidia. Potriv… [+2387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Nathan Le Gohlisse",
+      "title": "Pour ses 20 ans, l’iPhone tenterait une innovation aussi stylée que périlleuse",
+      "description": "Pour les 20 ans de son iPhone, Apple prépare un modèle spécial dans la lignée de l'iPhone X en 2017. On apprend cette semaine qu'en plus d'envelopper les bords du châssis... l'écran de ce modèle embarquerait aussi des commandes haptiques.",
+      "url": "https://www.frandroid.com/marques/apple/3090453_pour-ses-20-ans-liphone-tenterait-une-innovation-aussi-stylee-que-perilleuse",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/10/photo-01856.jpg?resize=1600,900&key=05e1ba39&watermark",
+      "publishedAt": "2026-05-06T12:08:01Z",
+      "content": "Pour les 20 ans de son iPhone, Apple prépare un modèle spécial dans la lignée de l’iPhone X en 2017. On apprend cette semaine qu’en plus d’envelopper les bords du châssis… l’écran de ce modèle embarq… [+2962 chars]"
     }
   ]
 }

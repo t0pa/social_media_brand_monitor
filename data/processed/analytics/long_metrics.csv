@@ -1,0 +1,304 @@
+_id,title,source,primary_keyword,mention_year,metric_name,metric_value
+69ce9d979d3427d3654d3276,News: Nach Rücktritt - »Mein erster großer Fehler«: Tim Cook blickt auf seine Zeit als Apple-CEO zurück,newsapi_Apple_page_2.json,tim cook,2026,rating,3.0
+69ce9d979d3427d3654d3278,Apple doesnt lawsuit,sample.csv,general_apple,2026,rating,3.0
+69ce9d979d3427d3654d3279,Apple faces lawsuit,sample.xml,general_apple,2026,rating,3.0
+69ed2b5ef527cb7a1c1159e2,Ads Are Coming to Apple Maps This Summer: Here's What to Expect,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69ed2b5ef527cb7a1c1159eb,Apple ville sätta stopp för föreningslogga i Österlen,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69ed2b5ef527cb7a1c1159ef,20th Anniversary iPhone to Feature Custom 'Micro-Curved' OLED Panel - MacRumors,newsapi_Apple_page_1.json,iphone,2026,rating,3.0
+69ed2b5ef527cb7a1c1159f0,Tim Cook admits his biggest mistake and proudest moment as Apple CEO - PhoneArena,newsapi_Apple_page_1.json,tim cook,2026,rating,3.0
+69ed2b5ef527cb7a1c1159f1,John Catsimatidis looking to go international with beloved radio station,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69ed2b5ef527cb7a1c1159f2,"MGA, aka Mrs. GREEN APPLE: A Beginner's Guide to Japan's Monster Band",newsapi_Apple_page_2.json,general_apple,2026,rating,3.0
+69ed2b5ef527cb7a1c1159f8,iPhone 18 Could Come With 12GB of RAM,newsapi_Apple_page_2.json,iphone,2026,rating,3.0
+69ed2b5ef527cb7a1c1159f9,How to watch Major League Baseball games Fridays on Apple TV,newsapi_Apple_page_2.json,apple watch,2026,rating,3.0
+69ed2b5ef527cb7a1c1159fd,Jennifer Aniston Gets to Work Filming 'The Morning Show' Season 5,newsapi_Apple_page_2.json,apple services,2026,rating,3.0
+69ed2b5ef527cb7a1c1159ff,Disgraceful driving record of New York City COP who's had 547 tickets since 2022... and the disgusting reason why NYPD won't lift a finger to punish him,newsapi_Apple_page_2.json,general_apple,2026,rating,3.0
+69ed2b5ef527cb7a1c115a03,Для iPhone 20 могут готовить безрамочный микроизогнутый OLED‑дисплей Samsung с технологией COE,newsapi_Apple_page_2.json,iphone,2026,rating,3.0
+69ed2b5ef527cb7a1c115a05,How Apple Filmed its Flashy MacBook Neo Video Using Handmade Props,newsapi_Apple_page_3.json,macbook,2026,rating,3.0
+69ed2b5ef527cb7a1c115a08,How John Ternus could finally fulfill Steve Jobs’ original vision for the iPad as a true primary computing device,newsapi_Apple_page_3.json,iphone,2026,rating,3.0
+69ed2b5ef527cb7a1c115a0b,Nicole Kidman was rushed to hospital after filming pro-wrestling TV scene,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69ed2b5ef527cb7a1c115a0c,"What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",newsapi_Apple_page_3.json,apple services,2026,rating,3.0
+69ed2b5ef527cb7a1c115a0f,Generate Apple and Google Wallet passes from Laravel,newsapi_Apple_page_3.json,iphone,2026,rating,3.0
+69ed2b5ef527cb7a1c115a10,Schmigadoon!-dalok,newsapi_Apple_page_3.json,apple services,2026,rating,3.0
+69ed2b5ef527cb7a1c115a14,"Deals: AirPods 4 for $99, $150 Off M5 MacBook Air, Save on MacBook Neo with Quick Delivery",newsapi_Apple_page_3.json,airpods,2026,rating,3.0
+69ed2b5ff527cb7a1c115a17,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,rating,5.0
+69ed2b5ff527cb7a1c115a18,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,rating,1.0
+69ed2b5ff527cb7a1c115a1b,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,rating,4.0
+69ed2b5ff527cb7a1c115a1c,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,rating,5.0
+69ed2b5ff527cb7a1c115a1f,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,rating,3.0
+69ed2b5ff527cb7a1c115a20,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,rating,4.0
+69ed2b5ff527cb7a1c115a23,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,rating,2.0
+69ed2b5ff527cb7a1c115a24,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,rating,3.0
+69ed2b5ff527cb7a1c115a27,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,rating,3.0
+69ed2b5ff527cb7a1c115a28,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,rating,4.0
+69ed2b5ff527cb7a1c115a2b,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,rating,2.0
+69ed2b5ff527cb7a1c115a2c,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,rating,3.0
+69ed2b5ff527cb7a1c115a2f,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,rating,1.0
+69ed2b5ff527cb7a1c115a30,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,rating,2.0
+69ed2b5ff527cb7a1c115a33,Apple launches new iPhone,sample.csv,general_apple,2026,rating,3.0
+69ed2b5ff527cb7a1c115a34,Apple stock rises,sample.csv,general_apple,2026,rating,3.0
+69ed2e00f527cb7a1c115a90,Will incoming CEO John Ternus help realize Apple’s smart home potential?,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69ed2e00f527cb7a1c115a93,Субботний кофе №380,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914566,Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914568,Limited-time Apple Card promo offers $100 Bonus Daily Cash when you add a co-owner,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b91456b,xAI is bringing Grok Voice mode to Apple CarPlay,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b91456e,Unikl prototyp iPhone 18 Pro! Kompletně odhaluje vzhled přední strany telefonu,newsapi_Apple_page_1.json,iphone,2026,rating,3.0
+69f79537c7d32a5f5b914572,Koniec z wadliwym ekranem. Najmniejszy tablet Apple dostanie w tym roku rewolucyjną zmianę,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914573,Moonfin für den Apple TV: Native Jellyfin-Alternative startet in den Test,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914574,AirDrop llega a más móviles Android: lista completa de modelos compatibles y cómo usarlo hoy mismo,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914577,It's the 80s All Over Again as Porsche 935 Livery Goes on 963 at IMSA Race,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914578,Ucieczka ze złotej klatki. iPhone bez konta Apple w praktyce,newsapi_Apple_page_1.json,iphone,2026,rating,3.0
+69f79537c7d32a5f5b914579,Coming Soon: What’s Next on Apple TV and Apple Arcade in May 2026,newsapi_Apple_page_1.json,apple services,2026,rating,3.0
+69f79537c7d32a5f5b91457c,Apple přestal prodávat nejlevnější Mac mini! Za základ si nyní pořádně připlatíte,newsapi_Apple_page_2.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b91457d,"African proverb of the day: “The apple does not fall far from the tree” — Life lessons on family Influence, parenting, social behavior, and identity",newsapi_Apple_page_2.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b91457e,آبل تخطط لثورة في تطبيق الصور: 3 ميزات ذكاء اصطناعي مذهلة قادمة للآي-فون,newsapi_Apple_page_2.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914588,"Comply TrueGrip MAX Premium Memory Foam Replacement Earbud Tips for Apple AirPods Pro Gen 3 (White, Medium) $8.61 + Free Shipping w/ Prime or on $35+ (2 replies)",newsapi_Apple_page_2.json,airpods,2026,rating,3.0
+69f79537c7d32a5f5b914590,Mac Pro M2 vs Mac Studio M2: Which is the one for you?,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914591,13-inch M5 MacBook Air 512GB is $149 Off,newsapi_Apple_page_3.json,macbook,2026,rating,3.0
+69f79537c7d32a5f5b914592,Two New Ultra Products to be Released by Apple,newsapi_Apple_page_3.json,iphone,2026,rating,3.0
+69f79537c7d32a5f5b914594,IAM Union Accuses Apple of Unfair Labor Practice,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b914599,Beats oznamuje navazující partnerství s JENNIE a vydal novou limitovanou verzi sluchátek Solo 4,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b91459b,Heyecan Veren 5 Yeni Samsung One UI 8.5 Özelliği,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b91459c,Apple nimmt Mac mini mit 256GB komplett aus dem Programm,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69f79537c7d32a5f5b91459e,Apple’s New 95%-Rated Horror Show is Already a Major Hit,newsapi_Apple_page_3.json,apple services,2026,rating,3.0
+69fc8502ef3b485ee4bc2b38,"Score a spare Apple MagSafe 3 Cable for your MacBook from $23 (Reg. $49, various colors)",newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b3a,Clearance TV Deals at Best Buy: Up to 87% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b3d,iPhone Air w jeszcze niższej cenie. Niedługo będą dorzucać go w chipsach,newsapi_Apple_page_1.json,iphone,2026,rating,3.0
+69fc8502ef3b485ee4bc2b3e,"iPhone 18 Pro : oubliez le Fold, ces 7 caractéristiques en feront la star de l’automne",newsapi_Apple_page_1.json,iphone,2026,rating,3.0
+69fc8502ef3b485ee4bc2b3f,refrain 0.2.0,newsapi_Apple_page_1.json,apple services,2026,rating,3.0
+69fc8502ef3b485ee4bc2b41,Tech Brand Outlet Deals at eBay: Up to 60% off + extra 20% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b43,Apple укрепила лидерство по выручке на рынке смартфонов в 2026 году,newsapi_Apple_page_1.json,iphone,2026,rating,3.0
+69fc8502ef3b485ee4bc2b44,"Mac Studio M3 Ultra : Apple supprime deux configs haut de gamme, les pros s’inquiètent",newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b45,iOS 27-Bericht: Glaude und Gemini ergänzen ChatGPT,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b46,MacBook Neo Won’t Let Chromebooks Or Windows Laptops Take A Breather This Year As Apple Eyes Ambitious 10 Million Production Goal,newsapi_Apple_page_1.json,macbook,2026,rating,3.0
+69fc8502ef3b485ee4bc2b47,Apple Mother's Day Deals at Best Buy: Up to 50% off + free shipping,newsapi_Apple_page_1.json,ipad,2026,rating,3.0
+69fc8502ef3b485ee4bc2b4a,AirPods Max 2: Firmware-Update 8E258 ist da,newsapi_Apple_page_2.json,airpods,2026,rating,3.0
+69fc8502ef3b485ee4bc2b4d,Юбилейный iPhone к 20-летию получит тактильные кнопки и безрамочный изогнутый дисплей,newsapi_Apple_page_2.json,iphone,2026,rating,3.0
+69fc8502ef3b485ee4bc2b4e,Топ-5 лучших iPhone за все время: от раритетных до современных,newsapi_Apple_page_2.json,iphone,2026,rating,3.0
+69fc8502ef3b485ee4bc2b50,Best Buy Mother's Day Deals: Up to 50% off + free shipping,newsapi_Apple_page_2.json,airpods,2026,rating,3.0
+69fc8502ef3b485ee4bc2b53,5 migliori telefoni per scattare foto straordinarie a maggio 2026,newsapi_Apple_page_2.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b55,"Pour ses 20 ans, l’iPhone tenterait une innovation aussi stylée que périlleuse",newsapi_Apple_page_2.json,iphone,2026,rating,3.0
+69fc8502ef3b485ee4bc2b5b,Apple «подрезает» крылья: почему исчезают мощные конфигурации Mac?,newsapi_Apple_page_2.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b5d,Apple урезает семейство Mac: мощные версии исчезают из-за нехватки памяти,newsapi_Apple_page_2.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b5e,Bella PRO Programmable Single-Serve Coffee Maker w/ Integrated Burr Grinder for $45 + free shipping,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b5f,KI-Boom und Speicherkrise: Apple schränkt RAM des Mac mini und Mac Studio weiter ein,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b60,Apple proponuje ci pracę? To nowe wyrafinowane cyberoszustwo,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b61,"Insta360’s Go Ultra tiny 4K camera with SD storage, Apple Find My support, more hits $315 all-time low (30% off)",newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b64,أبل تفتح الذكاء الاصطناعي للمطورين: نظام جديد لدمج نماذج خارجية في iOS 27 وما بعده,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b66,Как сделать проводной CarPlay беспроводным: пользуюсь сам и теперь советую всем,newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b6a,The Weirdest Wearables From 100 Years Ago,newsapi_Apple_page_3.json,apple watch,2026,rating,3.0
+69fc8502ef3b485ee4bc2b6b,"iOS дайджест #84. Таймер macOS на 49 днів, StoreKit із річним комітментом, Nvidia GPU на Apple Silicon, новий CEO Apple, Untold Engine",newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b6d,Apple's R&D investments top 10% of sales as AI race creates 'sense of urgency',newsapi_Apple_page_3.json,general_apple,2026,rating,3.0
+69fc8502ef3b485ee4bc2b6e,Este iPad Air con chip M4 y 12 GB de RAM ha caído a su precio más bajo de la historia,newsapi_Apple_page_3.json,ipad,2026,rating,3.0
+69fc86b4ef3b485ee4bc2b72,Honor 600 Pro - prętem po kratach Apple (recenzja),newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc86b4ef3b485ee4bc2b74,O que esperar das atualizações e lançamentos da Apple em maio de 2026,newsapi_Apple_page_1.json,apple services,2026,rating,3.0
+69fc86b4ef3b485ee4bc2b77,МегаФон обнулит трафик на миграцию файлов из iCloud,newsapi_Apple_page_1.json,apple services,2026,rating,3.0
+69fc88a3ef3b485ee4bc2b94,Раньше iPhone: в Android скоро появится подэкранная система распознавания лиц,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc88a3ef3b485ee4bc2b96,"Výjimečný iPhone bude opravdu jiný. Apple má mít řešení, aby to fungovalo",newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc88a3ef3b485ee4bc2b97,Apple подала заявку на регистрацию одноименного товарного знака в России,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc88a3ef3b485ee4bc2b99,"L’altra Apple, chiuso lo store sindacalizzato",newsapi_Apple_page_1.json,tim cook,2026,rating,3.0
+69fc88a3ef3b485ee4bc2b9a,"iPhone 18 Pro's LTPO+ Display Upgrade to Come From Samsung, LG",newsapi_Apple_page_1.json,iphone,2026,rating,3.0
+69fc88a3ef3b485ee4bc2b9f,Camera & Photo Outlet Deals at eBay: Up to 60% off + extra 20% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc88a3ef3b485ee4bc2ba1,watchOS 26.5: Apple behebt SMS-Bug bei Dual-SIM und Training-Hinweisen,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69fc88a3ef3b485ee4bc2ba2,Siri AI si dala na čas. Apple teď za její „pozdní příchod“ zaplatí miliardy,newsapi_Apple_page_1.json,general_apple,2026,rating,3.0
+69ce9d979d3427d3654d3276,News: Nach Rücktritt - »Mein erster großer Fehler«: Tim Cook blickt auf seine Zeit als Apple-CEO zurück,newsapi_Apple_page_2.json,tim cook,2026,title_length,103.0
+69ce9d979d3427d3654d3278,Apple doesnt lawsuit,sample.csv,general_apple,2026,title_length,20.0
+69ce9d979d3427d3654d3279,Apple faces lawsuit,sample.xml,general_apple,2026,title_length,19.0
+69ed2b5ef527cb7a1c1159e2,Ads Are Coming to Apple Maps This Summer: Here's What to Expect,newsapi_Apple_page_1.json,general_apple,2026,title_length,63.0
+69ed2b5ef527cb7a1c1159eb,Apple ville sätta stopp för föreningslogga i Österlen,newsapi_Apple_page_1.json,general_apple,2026,title_length,53.0
+69ed2b5ef527cb7a1c1159ef,20th Anniversary iPhone to Feature Custom 'Micro-Curved' OLED Panel - MacRumors,newsapi_Apple_page_1.json,iphone,2026,title_length,79.0
+69ed2b5ef527cb7a1c1159f0,Tim Cook admits his biggest mistake and proudest moment as Apple CEO - PhoneArena,newsapi_Apple_page_1.json,tim cook,2026,title_length,81.0
+69ed2b5ef527cb7a1c1159f1,John Catsimatidis looking to go international with beloved radio station,newsapi_Apple_page_1.json,general_apple,2026,title_length,72.0
+69ed2b5ef527cb7a1c1159f2,"MGA, aka Mrs. GREEN APPLE: A Beginner's Guide to Japan's Monster Band",newsapi_Apple_page_2.json,general_apple,2026,title_length,69.0
+69ed2b5ef527cb7a1c1159f8,iPhone 18 Could Come With 12GB of RAM,newsapi_Apple_page_2.json,iphone,2026,title_length,37.0
+69ed2b5ef527cb7a1c1159f9,How to watch Major League Baseball games Fridays on Apple TV,newsapi_Apple_page_2.json,apple watch,2026,title_length,60.0
+69ed2b5ef527cb7a1c1159fd,Jennifer Aniston Gets to Work Filming 'The Morning Show' Season 5,newsapi_Apple_page_2.json,apple services,2026,title_length,65.0
+69ed2b5ef527cb7a1c1159ff,Disgraceful driving record of New York City COP who's had 547 tickets since 2022... and the disgusting reason why NYPD won't lift a finger to punish him,newsapi_Apple_page_2.json,general_apple,2026,title_length,152.0
+69ed2b5ef527cb7a1c115a03,Для iPhone 20 могут готовить безрамочный микроизогнутый OLED‑дисплей Samsung с технологией COE,newsapi_Apple_page_2.json,iphone,2026,title_length,94.0
+69ed2b5ef527cb7a1c115a05,How Apple Filmed its Flashy MacBook Neo Video Using Handmade Props,newsapi_Apple_page_3.json,macbook,2026,title_length,66.0
+69ed2b5ef527cb7a1c115a08,How John Ternus could finally fulfill Steve Jobs’ original vision for the iPad as a true primary computing device,newsapi_Apple_page_3.json,iphone,2026,title_length,113.0
+69ed2b5ef527cb7a1c115a0b,Nicole Kidman was rushed to hospital after filming pro-wrestling TV scene,newsapi_Apple_page_3.json,general_apple,2026,title_length,73.0
+69ed2b5ef527cb7a1c115a0c,"What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",newsapi_Apple_page_3.json,apple services,2026,title_length,107.0
+69ed2b5ef527cb7a1c115a0f,Generate Apple and Google Wallet passes from Laravel,newsapi_Apple_page_3.json,iphone,2026,title_length,52.0
+69ed2b5ef527cb7a1c115a10,Schmigadoon!-dalok,newsapi_Apple_page_3.json,apple services,2026,title_length,18.0
+69ed2b5ef527cb7a1c115a14,"Deals: AirPods 4 for $99, $150 Off M5 MacBook Air, Save on MacBook Neo with Quick Delivery",newsapi_Apple_page_3.json,airpods,2026,title_length,90.0
+69ed2b5ff527cb7a1c115a17,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,title_length,19.0
+69ed2b5ff527cb7a1c115a18,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,title_length,24.0
+69ed2b5ff527cb7a1c115a1b,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,title_length,19.0
+69ed2b5ff527cb7a1c115a1c,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,title_length,24.0
+69ed2b5ff527cb7a1c115a1f,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,title_length,19.0
+69ed2b5ff527cb7a1c115a20,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,title_length,24.0
+69ed2b5ff527cb7a1c115a23,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,title_length,19.0
+69ed2b5ff527cb7a1c115a24,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,title_length,24.0
+69ed2b5ff527cb7a1c115a27,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,title_length,19.0
+69ed2b5ff527cb7a1c115a28,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,title_length,24.0
+69ed2b5ff527cb7a1c115a2b,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,title_length,19.0
+69ed2b5ff527cb7a1c115a2c,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,title_length,24.0
+69ed2b5ff527cb7a1c115a2f,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,title_length,19.0
+69ed2b5ff527cb7a1c115a30,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,title_length,24.0
+69ed2b5ff527cb7a1c115a33,Apple launches new iPhone,sample.csv,general_apple,2026,title_length,25.0
+69ed2b5ff527cb7a1c115a34,Apple stock rises,sample.csv,general_apple,2026,title_length,17.0
+69ed2e00f527cb7a1c115a90,Will incoming CEO John Ternus help realize Apple’s smart home potential?,newsapi_Apple_page_1.json,general_apple,2026,title_length,72.0
+69ed2e00f527cb7a1c115a93,Субботний кофе №380,newsapi_Apple_page_1.json,general_apple,2026,title_length,19.0
+69f79537c7d32a5f5b914566,Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes,newsapi_Apple_page_1.json,general_apple,2026,title_length,93.0
+69f79537c7d32a5f5b914568,Limited-time Apple Card promo offers $100 Bonus Daily Cash when you add a co-owner,newsapi_Apple_page_1.json,general_apple,2026,title_length,82.0
+69f79537c7d32a5f5b91456b,xAI is bringing Grok Voice mode to Apple CarPlay,newsapi_Apple_page_1.json,general_apple,2026,title_length,48.0
+69f79537c7d32a5f5b91456e,Unikl prototyp iPhone 18 Pro! Kompletně odhaluje vzhled přední strany telefonu,newsapi_Apple_page_1.json,iphone,2026,title_length,78.0
+69f79537c7d32a5f5b914572,Koniec z wadliwym ekranem. Najmniejszy tablet Apple dostanie w tym roku rewolucyjną zmianę,newsapi_Apple_page_1.json,general_apple,2026,title_length,90.0
+69f79537c7d32a5f5b914573,Moonfin für den Apple TV: Native Jellyfin-Alternative startet in den Test,newsapi_Apple_page_1.json,general_apple,2026,title_length,73.0
+69f79537c7d32a5f5b914574,AirDrop llega a más móviles Android: lista completa de modelos compatibles y cómo usarlo hoy mismo,newsapi_Apple_page_1.json,general_apple,2026,title_length,98.0
+69f79537c7d32a5f5b914577,It's the 80s All Over Again as Porsche 935 Livery Goes on 963 at IMSA Race,newsapi_Apple_page_1.json,general_apple,2026,title_length,74.0
+69f79537c7d32a5f5b914578,Ucieczka ze złotej klatki. iPhone bez konta Apple w praktyce,newsapi_Apple_page_1.json,iphone,2026,title_length,60.0
+69f79537c7d32a5f5b914579,Coming Soon: What’s Next on Apple TV and Apple Arcade in May 2026,newsapi_Apple_page_1.json,apple services,2026,title_length,65.0
+69f79537c7d32a5f5b91457c,Apple přestal prodávat nejlevnější Mac mini! Za základ si nyní pořádně připlatíte,newsapi_Apple_page_2.json,general_apple,2026,title_length,81.0
+69f79537c7d32a5f5b91457d,"African proverb of the day: “The apple does not fall far from the tree” — Life lessons on family Influence, parenting, social behavior, and identity",newsapi_Apple_page_2.json,general_apple,2026,title_length,148.0
+69f79537c7d32a5f5b91457e,آبل تخطط لثورة في تطبيق الصور: 3 ميزات ذكاء اصطناعي مذهلة قادمة للآي-فون,newsapi_Apple_page_2.json,general_apple,2026,title_length,72.0
+69f79537c7d32a5f5b914588,"Comply TrueGrip MAX Premium Memory Foam Replacement Earbud Tips for Apple AirPods Pro Gen 3 (White, Medium) $8.61 + Free Shipping w/ Prime or on $35+ (2 replies)",newsapi_Apple_page_2.json,airpods,2026,title_length,161.0
+69f79537c7d32a5f5b914590,Mac Pro M2 vs Mac Studio M2: Which is the one for you?,newsapi_Apple_page_3.json,general_apple,2026,title_length,54.0
+69f79537c7d32a5f5b914591,13-inch M5 MacBook Air 512GB is $149 Off,newsapi_Apple_page_3.json,macbook,2026,title_length,40.0
+69f79537c7d32a5f5b914592,Two New Ultra Products to be Released by Apple,newsapi_Apple_page_3.json,iphone,2026,title_length,46.0
+69f79537c7d32a5f5b914594,IAM Union Accuses Apple of Unfair Labor Practice,newsapi_Apple_page_3.json,general_apple,2026,title_length,48.0
+69f79537c7d32a5f5b914599,Beats oznamuje navazující partnerství s JENNIE a vydal novou limitovanou verzi sluchátek Solo 4,newsapi_Apple_page_3.json,general_apple,2026,title_length,95.0
+69f79537c7d32a5f5b91459b,Heyecan Veren 5 Yeni Samsung One UI 8.5 Özelliği,newsapi_Apple_page_3.json,general_apple,2026,title_length,48.0
+69f79537c7d32a5f5b91459c,Apple nimmt Mac mini mit 256GB komplett aus dem Programm,newsapi_Apple_page_3.json,general_apple,2026,title_length,56.0
+69f79537c7d32a5f5b91459e,Apple’s New 95%-Rated Horror Show is Already a Major Hit,newsapi_Apple_page_3.json,apple services,2026,title_length,56.0
+69fc8502ef3b485ee4bc2b38,"Score a spare Apple MagSafe 3 Cable for your MacBook from $23 (Reg. $49, various colors)",newsapi_Apple_page_1.json,general_apple,2026,title_length,88.0
+69fc8502ef3b485ee4bc2b3a,Clearance TV Deals at Best Buy: Up to 87% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,title_length,61.0
+69fc8502ef3b485ee4bc2b3d,iPhone Air w jeszcze niższej cenie. Niedługo będą dorzucać go w chipsach,newsapi_Apple_page_1.json,iphone,2026,title_length,72.0
+69fc8502ef3b485ee4bc2b3e,"iPhone 18 Pro : oubliez le Fold, ces 7 caractéristiques en feront la star de l’automne",newsapi_Apple_page_1.json,iphone,2026,title_length,86.0
+69fc8502ef3b485ee4bc2b3f,refrain 0.2.0,newsapi_Apple_page_1.json,apple services,2026,title_length,13.0
+69fc8502ef3b485ee4bc2b41,Tech Brand Outlet Deals at eBay: Up to 60% off + extra 20% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,title_length,78.0
+69fc8502ef3b485ee4bc2b43,Apple укрепила лидерство по выручке на рынке смартфонов в 2026 году,newsapi_Apple_page_1.json,iphone,2026,title_length,67.0
+69fc8502ef3b485ee4bc2b44,"Mac Studio M3 Ultra : Apple supprime deux configs haut de gamme, les pros s’inquiètent",newsapi_Apple_page_1.json,general_apple,2026,title_length,86.0
+69fc8502ef3b485ee4bc2b45,iOS 27-Bericht: Glaude und Gemini ergänzen ChatGPT,newsapi_Apple_page_1.json,general_apple,2026,title_length,50.0
+69fc8502ef3b485ee4bc2b46,MacBook Neo Won’t Let Chromebooks Or Windows Laptops Take A Breather This Year As Apple Eyes Ambitious 10 Million Production Goal,newsapi_Apple_page_1.json,macbook,2026,title_length,129.0
+69fc8502ef3b485ee4bc2b47,Apple Mother's Day Deals at Best Buy: Up to 50% off + free shipping,newsapi_Apple_page_1.json,ipad,2026,title_length,67.0
+69fc8502ef3b485ee4bc2b4a,AirPods Max 2: Firmware-Update 8E258 ist da,newsapi_Apple_page_2.json,airpods,2026,title_length,43.0
+69fc8502ef3b485ee4bc2b4d,Юбилейный iPhone к 20-летию получит тактильные кнопки и безрамочный изогнутый дисплей,newsapi_Apple_page_2.json,iphone,2026,title_length,85.0
+69fc8502ef3b485ee4bc2b4e,Топ-5 лучших iPhone за все время: от раритетных до современных,newsapi_Apple_page_2.json,iphone,2026,title_length,62.0
+69fc8502ef3b485ee4bc2b50,Best Buy Mother's Day Deals: Up to 50% off + free shipping,newsapi_Apple_page_2.json,airpods,2026,title_length,58.0
+69fc8502ef3b485ee4bc2b53,5 migliori telefoni per scattare foto straordinarie a maggio 2026,newsapi_Apple_page_2.json,general_apple,2026,title_length,65.0
+69fc8502ef3b485ee4bc2b55,"Pour ses 20 ans, l’iPhone tenterait une innovation aussi stylée que périlleuse",newsapi_Apple_page_2.json,iphone,2026,title_length,78.0
+69fc8502ef3b485ee4bc2b5b,Apple «подрезает» крылья: почему исчезают мощные конфигурации Mac?,newsapi_Apple_page_2.json,general_apple,2026,title_length,66.0
+69fc8502ef3b485ee4bc2b5d,Apple урезает семейство Mac: мощные версии исчезают из-за нехватки памяти,newsapi_Apple_page_2.json,general_apple,2026,title_length,73.0
+69fc8502ef3b485ee4bc2b5e,Bella PRO Programmable Single-Serve Coffee Maker w/ Integrated Burr Grinder for $45 + free shipping,newsapi_Apple_page_3.json,general_apple,2026,title_length,99.0
+69fc8502ef3b485ee4bc2b5f,KI-Boom und Speicherkrise: Apple schränkt RAM des Mac mini und Mac Studio weiter ein,newsapi_Apple_page_3.json,general_apple,2026,title_length,84.0
+69fc8502ef3b485ee4bc2b60,Apple proponuje ci pracę? To nowe wyrafinowane cyberoszustwo,newsapi_Apple_page_3.json,general_apple,2026,title_length,60.0
+69fc8502ef3b485ee4bc2b61,"Insta360’s Go Ultra tiny 4K camera with SD storage, Apple Find My support, more hits $315 all-time low (30% off)",newsapi_Apple_page_3.json,general_apple,2026,title_length,112.0
+69fc8502ef3b485ee4bc2b64,أبل تفتح الذكاء الاصطناعي للمطورين: نظام جديد لدمج نماذج خارجية في iOS 27 وما بعده,newsapi_Apple_page_3.json,general_apple,2026,title_length,82.0
+69fc8502ef3b485ee4bc2b66,Как сделать проводной CarPlay беспроводным: пользуюсь сам и теперь советую всем,newsapi_Apple_page_3.json,general_apple,2026,title_length,79.0
+69fc8502ef3b485ee4bc2b6a,The Weirdest Wearables From 100 Years Ago,newsapi_Apple_page_3.json,apple watch,2026,title_length,41.0
+69fc8502ef3b485ee4bc2b6b,"iOS дайджест #84. Таймер macOS на 49 днів, StoreKit із річним комітментом, Nvidia GPU на Apple Silicon, новий CEO Apple, Untold Engine",newsapi_Apple_page_3.json,general_apple,2026,title_length,134.0
+69fc8502ef3b485ee4bc2b6d,Apple's R&D investments top 10% of sales as AI race creates 'sense of urgency',newsapi_Apple_page_3.json,general_apple,2026,title_length,78.0
+69fc8502ef3b485ee4bc2b6e,Este iPad Air con chip M4 y 12 GB de RAM ha caído a su precio más bajo de la historia,newsapi_Apple_page_3.json,ipad,2026,title_length,85.0
+69fc86b4ef3b485ee4bc2b72,Honor 600 Pro - prętem po kratach Apple (recenzja),newsapi_Apple_page_1.json,general_apple,2026,title_length,50.0
+69fc86b4ef3b485ee4bc2b74,O que esperar das atualizações e lançamentos da Apple em maio de 2026,newsapi_Apple_page_1.json,apple services,2026,title_length,69.0
+69fc86b4ef3b485ee4bc2b77,МегаФон обнулит трафик на миграцию файлов из iCloud,newsapi_Apple_page_1.json,apple services,2026,title_length,51.0
+69fc88a3ef3b485ee4bc2b94,Раньше iPhone: в Android скоро появится подэкранная система распознавания лиц,newsapi_Apple_page_1.json,general_apple,2026,title_length,77.0
+69fc88a3ef3b485ee4bc2b96,"Výjimečný iPhone bude opravdu jiný. Apple má mít řešení, aby to fungovalo",newsapi_Apple_page_1.json,general_apple,2026,title_length,73.0
+69fc88a3ef3b485ee4bc2b97,Apple подала заявку на регистрацию одноименного товарного знака в России,newsapi_Apple_page_1.json,general_apple,2026,title_length,72.0
+69fc88a3ef3b485ee4bc2b99,"L’altra Apple, chiuso lo store sindacalizzato",newsapi_Apple_page_1.json,tim cook,2026,title_length,45.0
+69fc88a3ef3b485ee4bc2b9a,"iPhone 18 Pro's LTPO+ Display Upgrade to Come From Samsung, LG",newsapi_Apple_page_1.json,iphone,2026,title_length,62.0
+69fc88a3ef3b485ee4bc2b9f,Camera & Photo Outlet Deals at eBay: Up to 60% off + extra 20% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,title_length,82.0
+69fc88a3ef3b485ee4bc2ba1,watchOS 26.5: Apple behebt SMS-Bug bei Dual-SIM und Training-Hinweisen,newsapi_Apple_page_1.json,general_apple,2026,title_length,70.0
+69fc88a3ef3b485ee4bc2ba2,Siri AI si dala na čas. Apple teď za její „pozdní příchod“ zaplatí miliardy,newsapi_Apple_page_1.json,general_apple,2026,title_length,75.0
+69ce9d979d3427d3654d3276,News: Nach Rücktritt - »Mein erster großer Fehler«: Tim Cook blickt auf seine Zeit als Apple-CEO zurück,newsapi_Apple_page_2.json,tim cook,2026,overview_length,190.0
+69ce9d979d3427d3654d3278,Apple doesnt lawsuit,sample.csv,general_apple,2026,overview_length,7.0
+69ce9d979d3427d3654d3279,Apple faces lawsuit,sample.xml,general_apple,2026,overview_length,7.0
+69ed2b5ef527cb7a1c1159e2,Ads Are Coming to Apple Maps This Summer: Here's What to Expect,newsapi_Apple_page_1.json,general_apple,2026,overview_length,252.0
+69ed2b5ef527cb7a1c1159eb,Apple ville sätta stopp för föreningslogga i Österlen,newsapi_Apple_page_1.json,general_apple,2026,overview_length,196.0
+69ed2b5ef527cb7a1c1159ef,20th Anniversary iPhone to Feature Custom 'Micro-Curved' OLED Panel - MacRumors,newsapi_Apple_page_1.json,iphone,2026,overview_length,260.0
+69ed2b5ef527cb7a1c1159f0,Tim Cook admits his biggest mistake and proudest moment as Apple CEO - PhoneArena,newsapi_Apple_page_1.json,tim cook,2026,overview_length,260.0
+69ed2b5ef527cb7a1c1159f1,John Catsimatidis looking to go international with beloved radio station,newsapi_Apple_page_1.json,general_apple,2026,overview_length,71.0
+69ed2b5ef527cb7a1c1159f2,"MGA, aka Mrs. GREEN APPLE: A Beginner's Guide to Japan's Monster Band",newsapi_Apple_page_2.json,general_apple,2026,overview_length,148.0
+69ed2b5ef527cb7a1c1159f8,iPhone 18 Could Come With 12GB of RAM,newsapi_Apple_page_2.json,iphone,2026,overview_length,255.0
+69ed2b5ef527cb7a1c1159f9,How to watch Major League Baseball games Fridays on Apple TV,newsapi_Apple_page_2.json,apple watch,2026,overview_length,205.0
+69ed2b5ef527cb7a1c1159fd,Jennifer Aniston Gets to Work Filming 'The Morning Show' Season 5,newsapi_Apple_page_2.json,apple services,2026,overview_length,260.0
+69ed2b5ef527cb7a1c1159ff,Disgraceful driving record of New York City COP who's had 547 tickets since 2022... and the disgusting reason why NYPD won't lift a finger to punish him,newsapi_Apple_page_2.json,general_apple,2026,overview_length,181.0
+69ed2b5ef527cb7a1c115a03,Для iPhone 20 могут готовить безрамочный микроизогнутый OLED‑дисплей Samsung с технологией COE,newsapi_Apple_page_2.json,iphone,2026,overview_length,146.0
+69ed2b5ef527cb7a1c115a05,How Apple Filmed its Flashy MacBook Neo Video Using Handmade Props,newsapi_Apple_page_3.json,macbook,2026,overview_length,254.0
+69ed2b5ef527cb7a1c115a08,How John Ternus could finally fulfill Steve Jobs’ original vision for the iPad as a true primary computing device,newsapi_Apple_page_3.json,iphone,2026,overview_length,260.0
+69ed2b5ef527cb7a1c115a0b,Nicole Kidman was rushed to hospital after filming pro-wrestling TV scene,newsapi_Apple_page_3.json,general_apple,2026,overview_length,87.0
+69ed2b5ef527cb7a1c115a0c,"What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",newsapi_Apple_page_3.json,apple services,2026,overview_length,142.0
+69ed2b5ef527cb7a1c115a0f,Generate Apple and Google Wallet passes from Laravel,newsapi_Apple_page_3.json,iphone,2026,overview_length,260.0
+69ed2b5ef527cb7a1c115a10,Schmigadoon!-dalok,newsapi_Apple_page_3.json,apple services,2026,overview_length,260.0
+69ed2b5ef527cb7a1c115a14,"Deals: AirPods 4 for $99, $150 Off M5 MacBook Air, Save on MacBook Neo with Quick Delivery",newsapi_Apple_page_3.json,airpods,2026,overview_length,260.0
+69ed2b5ff527cb7a1c115a17,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a18,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a1b,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a1c,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a1f,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a20,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a23,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a24,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a27,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a28,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a2b,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a2c,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a2f,Apple iPhone review,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a30,Apple Watch battery test,apple_ratings_large.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a33,Apple launches new iPhone,sample.csv,general_apple,2026,overview_length,7.0
+69ed2b5ff527cb7a1c115a34,Apple stock rises,sample.csv,general_apple,2026,overview_length,7.0
+69ed2e00f527cb7a1c115a90,Will incoming CEO John Ternus help realize Apple’s smart home potential?,newsapi_Apple_page_1.json,general_apple,2026,overview_length,255.0
+69ed2e00f527cb7a1c115a93,Субботний кофе №380,newsapi_Apple_page_1.json,general_apple,2026,overview_length,179.0
+69f79537c7d32a5f5b914566,Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes,newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b914568,Limited-time Apple Card promo offers $100 Bonus Daily Cash when you add a co-owner,newsapi_Apple_page_1.json,general_apple,2026,overview_length,257.0
+69f79537c7d32a5f5b91456b,xAI is bringing Grok Voice mode to Apple CarPlay,newsapi_Apple_page_1.json,general_apple,2026,overview_length,115.0
+69f79537c7d32a5f5b91456e,Unikl prototyp iPhone 18 Pro! Kompletně odhaluje vzhled přední strany telefonu,newsapi_Apple_page_1.json,iphone,2026,overview_length,260.0
+69f79537c7d32a5f5b914572,Koniec z wadliwym ekranem. Najmniejszy tablet Apple dostanie w tym roku rewolucyjną zmianę,newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b914573,Moonfin für den Apple TV: Native Jellyfin-Alternative startet in den Test,newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b914574,AirDrop llega a más móviles Android: lista completa de modelos compatibles y cómo usarlo hoy mismo,newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b914577,It's the 80s All Over Again as Porsche 935 Livery Goes on 963 at IMSA Race,newsapi_Apple_page_1.json,general_apple,2026,overview_length,79.0
+69f79537c7d32a5f5b914578,Ucieczka ze złotej klatki. iPhone bez konta Apple w praktyce,newsapi_Apple_page_1.json,iphone,2026,overview_length,260.0
+69f79537c7d32a5f5b914579,Coming Soon: What’s Next on Apple TV and Apple Arcade in May 2026,newsapi_Apple_page_1.json,apple services,2026,overview_length,260.0
+69f79537c7d32a5f5b91457c,Apple přestal prodávat nejlevnější Mac mini! Za základ si nyní pořádně připlatíte,newsapi_Apple_page_2.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b91457d,"African proverb of the day: “The apple does not fall far from the tree” — Life lessons on family Influence, parenting, social behavior, and identity",newsapi_Apple_page_2.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b91457e,آبل تخطط لثورة في تطبيق الصور: 3 ميزات ذكاء اصطناعي مذهلة قادمة للآي-فون,newsapi_Apple_page_2.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b914588,"Comply TrueGrip MAX Premium Memory Foam Replacement Earbud Tips for Apple AirPods Pro Gen 3 (White, Medium) $8.61 + Free Shipping w/ Prime or on $35+ (2 replies)",newsapi_Apple_page_2.json,airpods,2026,overview_length,200.0
+69f79537c7d32a5f5b914590,Mac Pro M2 vs Mac Studio M2: Which is the one for you?,newsapi_Apple_page_3.json,general_apple,2026,overview_length,110.0
+69f79537c7d32a5f5b914591,13-inch M5 MacBook Air 512GB is $149 Off,newsapi_Apple_page_3.json,macbook,2026,overview_length,260.0
+69f79537c7d32a5f5b914592,Two New Ultra Products to be Released by Apple,newsapi_Apple_page_3.json,iphone,2026,overview_length,260.0
+69f79537c7d32a5f5b914594,IAM Union Accuses Apple of Unfair Labor Practice,newsapi_Apple_page_3.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b914599,Beats oznamuje navazující partnerství s JENNIE a vydal novou limitovanou verzi sluchátek Solo 4,newsapi_Apple_page_3.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b91459b,Heyecan Veren 5 Yeni Samsung One UI 8.5 Özelliği,newsapi_Apple_page_3.json,general_apple,2026,overview_length,161.0
+69f79537c7d32a5f5b91459c,Apple nimmt Mac mini mit 256GB komplett aus dem Programm,newsapi_Apple_page_3.json,general_apple,2026,overview_length,260.0
+69f79537c7d32a5f5b91459e,Apple’s New 95%-Rated Horror Show is Already a Major Hit,newsapi_Apple_page_3.json,apple services,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b38,"Score a spare Apple MagSafe 3 Cable for your MacBook from $23 (Reg. $49, various colors)",newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b3a,Clearance TV Deals at Best Buy: Up to 87% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,overview_length,256.0
+69fc8502ef3b485ee4bc2b3d,iPhone Air w jeszcze niższej cenie. Niedługo będą dorzucać go w chipsach,newsapi_Apple_page_1.json,iphone,2026,overview_length,248.0
+69fc8502ef3b485ee4bc2b3e,"iPhone 18 Pro : oubliez le Fold, ces 7 caractéristiques en feront la star de l’automne",newsapi_Apple_page_1.json,iphone,2026,overview_length,108.0
+69fc8502ef3b485ee4bc2b3f,refrain 0.2.0,newsapi_Apple_page_1.json,apple services,2026,overview_length,46.0
+69fc8502ef3b485ee4bc2b41,Tech Brand Outlet Deals at eBay: Up to 60% off + extra 20% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b43,Apple укрепила лидерство по выручке на рынке смартфонов в 2026 году,newsapi_Apple_page_1.json,iphone,2026,overview_length,152.0
+69fc8502ef3b485ee4bc2b44,"Mac Studio M3 Ultra : Apple supprime deux configs haut de gamme, les pros s’inquiètent",newsapi_Apple_page_1.json,general_apple,2026,overview_length,109.0
+69fc8502ef3b485ee4bc2b45,iOS 27-Bericht: Glaude und Gemini ergänzen ChatGPT,newsapi_Apple_page_1.json,general_apple,2026,overview_length,254.0
+69fc8502ef3b485ee4bc2b46,MacBook Neo Won’t Let Chromebooks Or Windows Laptops Take A Breather This Year As Apple Eyes Ambitious 10 Million Production Goal,newsapi_Apple_page_1.json,macbook,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b47,Apple Mother's Day Deals at Best Buy: Up to 50% off + free shipping,newsapi_Apple_page_1.json,ipad,2026,overview_length,202.0
+69fc8502ef3b485ee4bc2b4a,AirPods Max 2: Firmware-Update 8E258 ist da,newsapi_Apple_page_2.json,airpods,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b4d,Юбилейный iPhone к 20-летию получит тактильные кнопки и безрамочный изогнутый дисплей,newsapi_Apple_page_2.json,iphone,2026,overview_length,199.0
+69fc8502ef3b485ee4bc2b4e,Топ-5 лучших iPhone за все время: от раритетных до современных,newsapi_Apple_page_2.json,iphone,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b50,Best Buy Mother's Day Deals: Up to 50% off + free shipping,newsapi_Apple_page_2.json,airpods,2026,overview_length,220.0
+69fc8502ef3b485ee4bc2b53,5 migliori telefoni per scattare foto straordinarie a maggio 2026,newsapi_Apple_page_2.json,general_apple,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b55,"Pour ses 20 ans, l’iPhone tenterait une innovation aussi stylée que périlleuse",newsapi_Apple_page_2.json,iphone,2026,overview_length,238.0
+69fc8502ef3b485ee4bc2b5b,Apple «подрезает» крылья: почему исчезают мощные конфигурации Mac?,newsapi_Apple_page_2.json,general_apple,2026,overview_length,127.0
+69fc8502ef3b485ee4bc2b5d,Apple урезает семейство Mac: мощные версии исчезают из-за нехватки памяти,newsapi_Apple_page_2.json,general_apple,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b5e,Bella PRO Programmable Single-Serve Coffee Maker w/ Integrated Burr Grinder for $45 + free shipping,newsapi_Apple_page_3.json,general_apple,2026,overview_length,141.0
+69fc8502ef3b485ee4bc2b5f,KI-Boom und Speicherkrise: Apple schränkt RAM des Mac mini und Mac Studio weiter ein,newsapi_Apple_page_3.json,general_apple,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b60,Apple proponuje ci pracę? To nowe wyrafinowane cyberoszustwo,newsapi_Apple_page_3.json,general_apple,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b61,"Insta360’s Go Ultra tiny 4K camera with SD storage, Apple Find My support, more hits $315 all-time low (30% off)",newsapi_Apple_page_3.json,general_apple,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b64,أبل تفتح الذكاء الاصطناعي للمطورين: نظام جديد لدمج نماذج خارجية في iOS 27 وما بعده,newsapi_Apple_page_3.json,general_apple,2026,overview_length,260.0
+69fc8502ef3b485ee4bc2b66,Как сделать проводной CarPlay беспроводным: пользуюсь сам и теперь советую всем,newsapi_Apple_page_3.json,general_apple,2026,overview_length,132.0
+69fc8502ef3b485ee4bc2b6a,The Weirdest Wearables From 100 Years Ago,newsapi_Apple_page_3.json,apple watch,2026,overview_length,55.0
+69fc8502ef3b485ee4bc2b6b,"iOS дайджест #84. Таймер macOS на 49 днів, StoreKit із річним комітментом, Nvidia GPU на Apple Silicon, новий CEO Apple, Untold Engine",newsapi_Apple_page_3.json,general_apple,2026,overview_length,254.0
+69fc8502ef3b485ee4bc2b6d,Apple's R&D investments top 10% of sales as AI race creates 'sense of urgency',newsapi_Apple_page_3.json,general_apple,2026,overview_length,148.0
+69fc8502ef3b485ee4bc2b6e,Este iPad Air con chip M4 y 12 GB de RAM ha caído a su precio más bajo de la historia,newsapi_Apple_page_3.json,ipad,2026,overview_length,260.0
+69fc86b4ef3b485ee4bc2b72,Honor 600 Pro - prętem po kratach Apple (recenzja),newsapi_Apple_page_1.json,general_apple,2026,overview_length,191.0
+69fc86b4ef3b485ee4bc2b74,O que esperar das atualizações e lançamentos da Apple em maio de 2026,newsapi_Apple_page_1.json,apple services,2026,overview_length,260.0
+69fc86b4ef3b485ee4bc2b77,МегаФон обнулит трафик на миграцию файлов из iCloud,newsapi_Apple_page_1.json,apple services,2026,overview_length,260.0
+69fc88a3ef3b485ee4bc2b94,Раньше iPhone: в Android скоро появится подэкранная система распознавания лиц,newsapi_Apple_page_1.json,general_apple,2026,overview_length,129.0
+69fc88a3ef3b485ee4bc2b96,"Výjimečný iPhone bude opravdu jiný. Apple má mít řešení, aby to fungovalo",newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69fc88a3ef3b485ee4bc2b97,Apple подала заявку на регистрацию одноименного товарного знака в России,newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69fc88a3ef3b485ee4bc2b99,"L’altra Apple, chiuso lo store sindacalizzato",newsapi_Apple_page_1.json,tim cook,2026,overview_length,260.0
+69fc88a3ef3b485ee4bc2b9a,"iPhone 18 Pro's LTPO+ Display Upgrade to Come From Samsung, LG",newsapi_Apple_page_1.json,iphone,2026,overview_length,255.0
+69fc88a3ef3b485ee4bc2b9f,Camera & Photo Outlet Deals at eBay: Up to 60% off + extra 20% off + free shipping,newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0
+69fc88a3ef3b485ee4bc2ba1,watchOS 26.5: Apple behebt SMS-Bug bei Dual-SIM und Training-Hinweisen,newsapi_Apple_page_1.json,general_apple,2026,overview_length,136.0
+69fc88a3ef3b485ee4bc2ba2,Siri AI si dala na čas. Apple teď za její „pozdní příchod“ zaplatí miliardy,newsapi_Apple_page_1.json,general_apple,2026,overview_length,260.0

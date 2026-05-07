@@ -1,0 +1,22 @@
+Apple Brand Monitor Analytical Questions
+==========================================
+
+Q1. Which Apple topic appears most often in the cleaned dataset?
+Finding: general_apple leads with 64 mentions.
+Code: top_keywords_by_mention_count(combined_df)
+Chart: data/processed/analytics/question1_top_keywords.png
+
+Q2. Which source contributes the largest share of Apple coverage?
+Finding: newsapi_Apple_page_1.json contributes 39 mentions, or 38.61% of the dataset.
+Code: source_share_summary(combined_df)
+Chart: data/processed/analytics/question2_top_sources.png
+
+Q3. In which year does Apple mention volume peak?
+Finding: 2026 is the peak year with 101 mentions.
+Code: yearly_release_volume(combined_df)
+Chart: data/processed/analytics/question3_yearly_volume.png
+
+Q4. What is the dominant language in Apple coverage?
+Finding: unknown accounts for 87 mentions, or 86.14% of all rows.
+Code: language_distribution(combined_df)
+Chart: data/processed/analytics/question4_language_distribution.png
