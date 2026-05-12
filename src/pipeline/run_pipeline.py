@@ -23,6 +23,7 @@ from src.analytics.data_loader import run_data_loader_pipeline
 from src.analytics.explorer import run_explorer_pipeline
 from src.analytics.quality_report import run_quality_pipeline
 from src.analytics.regex_ops import run_regex_pipeline
+from src.analytics.analytics_pipeline import run_analytics_pipeline
 from src.cleaning.clean_pipeline import run_cleaning_pipeline
 
 import pandas as pd
@@ -233,12 +234,13 @@ def run_pipeline():
 
     try:
         logger.info("Running cleaning pipeline...")
+        cleaned_csv_path = os.path.join(project_root, "data", "processed", "cleaned", "cleaned_data.csv")
         raw_csv_path = os.path.join(project_root, "data", "raw", "csv", "raw_brand_mentions.csv")
         if not os.path.exists(raw_csv_path):
             logger.warning(f"Cleaning stage skipped because raw CSV was not found: {raw_csv_path}")
         else:
             raw_dataframe = pd.read_csv(raw_csv_path)
-            cleaned_dataframe = run_cleaning_pipeline(raw_dataframe)
+            cleaned_dataframe = run_cleaning_pipeline(raw_dataframe, output_path=cleaned_csv_path)
             logger.info(
                 "Cleaning stage complete | input_path=%s | cleaned_rows=%s | cleaned_columns=%s",
                 raw_csv_path,
@@ -247,6 +249,21 @@ def run_pipeline():
             )
     except Exception as e:
         logger.error(f"Error in cleaning stage: {e}")
+
+    try:
+        logger.info("Running Lab 10 analytics pipeline...")
+        cleaned_csv_path = os.path.join(project_root, "data", "processed", "cleaned", "cleaned_data.csv")
+        if not os.path.exists(cleaned_csv_path):
+            logger.warning(f"Analytics stage skipped because cleaned CSV was not found: {cleaned_csv_path}")
+        else:
+            analytics_results = run_analytics_pipeline(cleaned_csv_path)
+            logger.info(
+                "Analytics stage complete | combined_rows=%s | outputs_dir=%s",
+                len(analytics_results["combined_df"]),
+                os.path.join(project_root, "data", "processed", "analytics"),
+            )
+    except Exception as e:
+        logger.error(f"Error in Lab 10 analytics stage: {e}")
 
     logger.info("--- Pipeline finished successfully. ---")
 

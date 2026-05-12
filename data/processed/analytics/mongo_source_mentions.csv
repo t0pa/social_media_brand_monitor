@@ -1,0 +1,8 @@
+mention_count,avg_rating,source
+117,,raw_brand_mentions.csv
+42,,newsapi_Apple_page_3.json
+40,,newsapi_Apple_page_1.json
+36,,newsapi_Apple_page_2.json
+14,,apple_ratings_large.csv
+5,,sample.csv
+4,,sample.xml
