@@ -108,7 +108,7 @@ plux==1.15.0
 proglog==0.1.12
 prometheus_client==0.24.1
 prompt_toolkit==3.0.52
-protobuf==7.34.1
+protobuf==3.20.3
 psutil==7.2.2
 pure_eval==0.2.3
 pyasn1==0.6.3
@@ -180,3 +180,6 @@ pytest-cov>=4.1.0
 pymysql>=1.1.0
 sqlalchemy>=2.0.0
 seaborn>=0.12.0
+sentence-transformers>=2.7.0
+chromadb>=0.5.0
+torch>=2.0.0

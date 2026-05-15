@@ -25,6 +25,7 @@ from src.analytics.quality_report import run_quality_pipeline
 from src.analytics.regex_ops import run_regex_pipeline
 from src.analytics.analytics_pipeline import run_analytics_pipeline
 from src.cleaning.clean_pipeline import run_cleaning_pipeline
+from src.embeddings.embeddings_pipeline import run_embeddings_pipeline
 
 import pandas as pd
 
@@ -264,6 +265,22 @@ def run_pipeline():
             )
     except Exception as e:
         logger.error(f"Error in Lab 10 analytics stage: {e}")
+
+    try:
+        logger.info("Running Lab 11 embeddings and vector-search pipeline...")
+        cleaned_csv_path = os.path.join(project_root, "data", "processed", "cleaned", "cleaned_data.csv")
+        if not os.path.exists(cleaned_csv_path):
+            logger.warning(f"Embeddings stage skipped because cleaned CSV was not found: {cleaned_csv_path}")
+        else:
+            embeddings_results = run_embeddings_pipeline(cleaned_csv_path)
+            logger.info(
+                "Embeddings stage complete | inserted=%s | collection_count=%s | comparison_output=%s",
+                embeddings_results["inserted_count"],
+                embeddings_results["collection_count"],
+                embeddings_results["comparison_path"],
+            )
+    except Exception as e:
+        logger.error(f"Error in Lab 11 embeddings stage: {e}")
 
     logger.info("--- Pipeline finished successfully. ---")
 
