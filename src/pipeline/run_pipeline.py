@@ -26,10 +26,27 @@ from src.analytics.regex_ops import run_regex_pipeline
 from src.analytics.analytics_pipeline import run_analytics_pipeline
 from src.cleaning.clean_pipeline import run_cleaning_pipeline
 from src.embeddings.embeddings_pipeline import run_embeddings_pipeline
+from src.visualization.chart_generator import generate_all_visualizations
 
 import pandas as pd
 
 logger = get_logger(__name__)
+
+
+def run_visualizations_pipeline(cleaned_csv_path: str | None = None) -> dict[str, object]:
+    """Generate all static and interactive charts from the cleaned dataset."""
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    data_path = cleaned_csv_path or os.path.join(project_root, "data", "processed", "cleaned", "cleaned_data.csv")
+    output_root = os.path.join(project_root, "outputs", "visualizations")
+
+    logger.info("Running visualization pipeline | data_path=%s | output_root=%s", data_path, output_root)
+    results = generate_all_visualizations(data_path=data_path, output_root=output_root)
+    logger.info(
+        "Visualization pipeline complete | static=%s | interactive=%s",
+        len(results["static_results"]),
+        len(results["interactive_results"]),
+    )
+    return results
 
 def run_pipeline():
     brand = "Apple"  # You can change this to your target brand
@@ -281,6 +298,22 @@ def run_pipeline():
             )
     except Exception as e:
         logger.error(f"Error in Lab 11 embeddings stage: {e}")
+
+    try:
+        logger.info("Running Lab 12 visualization pipeline...")
+        cleaned_csv_path = os.path.join(project_root, "data", "processed", "cleaned", "cleaned_data.csv")
+        if not os.path.exists(cleaned_csv_path):
+            logger.warning(f"Visualization stage skipped because cleaned CSV was not found: {cleaned_csv_path}")
+        else:
+            visualization_results = run_visualizations_pipeline(cleaned_csv_path=cleaned_csv_path)
+            logger.info(
+                "Visualization stage complete | static=%s | interactive=%s | output_dir=%s",
+                len(visualization_results["static_results"]),
+                len(visualization_results["interactive_results"]),
+                visualization_results["output_root"],
+            )
+    except Exception as e:
+        logger.error(f"Error in Lab 12 visualization stage: {e}")
 
     logger.info("--- Pipeline finished successfully. ---")
 
