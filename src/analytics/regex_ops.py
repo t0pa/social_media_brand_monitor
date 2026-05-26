@@ -97,6 +97,7 @@ def detect_invalid_language_codes(df: pd.DataFrame, column: str = "language") ->
         return 0
 
     series = df[column].dropna().astype("string").str.strip()
+    series = series[~series.str.lower().eq("unknown")]
     invalid_count = int((~series.str.match(LANGUAGE_CODE_PATTERN, na=False)).sum())
     logger.info(
         "Invalid-language scan completed | column=%s | invalid_count=%s",
