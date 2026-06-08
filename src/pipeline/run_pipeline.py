@@ -316,6 +316,10 @@ def run_pipeline():
         logger.error(f"Error in Lab 12 visualization stage: {e}")
 
     logger.info("--- Pipeline finished successfully. ---")
+    logger.info(
+        "Dashboard ready. Run locally with `python app.py`, or run the full stack with "
+        "`docker compose up --build` and seed MongoDB with `python scripts/seed_mongo.py`."
+    )
 
 if __name__ == "__main__":
     run_pipeline()

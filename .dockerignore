@@ -1,0 +1,15 @@
+.git
+.cursor
+.pytest_cache
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.log
+.env
+notebooks
+outputs
+tests
+data/embeddings
+data/raw
+notebooks/data
